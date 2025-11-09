@@ -35,4 +35,4 @@ jobs:
           git add anidb_titles.json
           git diff --cached --quiet && exit 0
           git commit -m "Automated update"
-          git push origin HEAD:main
+          git push origin HEAD:master
