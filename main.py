@@ -3,12 +3,15 @@ import json
 
 import requests
 
-DUMP_FILE = "https://anime-titles.dat.gz"
+DUMP_FILE = "https://anidb.net/api/anime-titles.dat.gz"
 OUTPUT_JSON = "anidb_titles.json"
 
 
 def download_and_extract_data(url):
-    response = requests.get(url)
+    headers = {
+        "User-Agent": "anidb-title-dump/1.0 (https://github.com/ValDesign22/anidb-title-dump)"
+    }
+    response = requests.get(url, headers=headers)
     response.raise_for_status()
     compressed_data = response.content
     return gzip.decompress(compressed_data).decode("utf-8")
