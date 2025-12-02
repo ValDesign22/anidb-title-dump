@@ -186339,6 +186339,11 @@
       },
       {
         "type": 4,
+        "language": "hi",
+        "title": "Shin-chan: The Spicy Kasukabe Dancers in India"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "映画クレヨンしんちゃん 超華麗! 灼熱のカスカベダンサーズ"
       }
@@ -216891,6 +216896,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Digimon Adventure"
+      },
+      {
+        "type": 3,
+        "language": "x-unk",
+        "title": "digimon s1"
       },
       {
         "type": 4,
@@ -413261,6 +413271,36 @@
         "type": 4,
         "language": "ja",
         "title": "ロリータアニメ (にっかつビデオ)"
+      }
+    ]
+  },
+  {
+    "id": 19750,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Long Hun"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Long Shen Wan Xiang: Long Hun"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Dragon Spirit"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "龙神万相之龙魂"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "龙魂"
       }
     ]
   },
