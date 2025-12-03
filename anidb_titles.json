@@ -73655,6 +73655,31 @@
     ]
   },
   {
+    "id": 19753,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Aoshi Dan Shen"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Alchemist`s Rise"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "World Defying Dan God"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "傲世丹神"
+      }
+    ]
+  },
+  {
     "id": 18370,
     "titles": [
       {
@@ -208485,6 +208510,21 @@
     ]
   },
   {
+    "id": 19751,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Demons` Crest"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "デモンズ・クレスト"
+      }
+    ]
+  },
+  {
     "id": 6284,
     "titles": [
       {
@@ -211525,26 +211565,6 @@
     ]
   },
   {
-    "id": 19551,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Detective Conan (2026)"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Meitantei Conan (2026)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "名探偵コナン (2026)"
-      }
-    ]
-  },
-  {
     "id": 9181,
     "titles": [
       {
@@ -212326,6 +212346,26 @@
         "type": 4,
         "language": "ja",
         "title": "名探偵コナン エピソードONE 小さくなった名探偵"
+      }
+    ]
+  },
+  {
+    "id": 19551,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Fallen Angel of the Highway"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Meitantei Conan: Highway no Datenshi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "名探偵コナン ハイウェイの堕天使"
       }
     ]
   },
@@ -225278,7 +225318,7 @@
     "id": 18102,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Doraemon: Nobita`s Earth Symphony"
       },
@@ -275555,7 +275595,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Gakken ka Nani ka no Mukashi no Video: Nakayoku Dekiru yo"
+        "title": "Gakken ka Nanika no Mukashi no Video: Nakayoku Dekiru yo"
       },
       {
         "type": 4,
@@ -319985,7 +320025,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Happy Birthday Inochi Kagayaku Toki"
+        "title": "Happy Birthday: Inochi Kagayaku Toki"
       },
       {
         "type": 4,
@@ -559381,6 +559421,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "境界触发者 第三季"
+      }
+    ]
+  },
+  {
+    "id": 19752,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "World Trigger Reboot"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ワールドトリガー REBOOT"
       }
     ]
   },
