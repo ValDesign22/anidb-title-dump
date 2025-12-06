@@ -338450,6 +338450,26 @@
     ]
   },
   {
+    "id": 19754,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Horror Collector"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kyoufu Collector"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "恐怖コレクター"
+      }
+    ]
+  },
+  {
     "id": 11031,
     "titles": [
       {
@@ -373411,6 +373431,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kamisama no Inai Nichiyoubi"
+      },
+      {
+        "type": 2,
+        "language": "pl",
+        "title": "Niedziela bez Boga"
       },
       {
         "type": 4,
