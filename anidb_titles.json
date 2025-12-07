@@ -86310,7 +86310,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Ashita Genki ni Naare!: Hanbun no Satsumaimo"
+        "title": "Ashita Genki ni Naare! Hanbun no Satsumaimo"
       },
       {
         "type": 2,
@@ -315668,6 +315668,11 @@
         "title": "Haiyore! Nyaruko-san"
       },
       {
+        "type": 4,
+        "language": "es-419",
+        "title": "La reptante Nyarko"
+      },
+      {
         "type": 3,
         "language": "en",
         "title": "nyaruko"
@@ -346649,6 +346654,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "无责任舰长"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "無責任艦長タイラー"
       }
@@ -360721,6 +360731,41 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "通职者"
+      }
+    ]
+  },
+  {
+    "id": 19190,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Jack-of-All-Trades, Party of None"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "kiyoubinbou"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yuusha Party o Oidasareta Kiyoubinbou"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Yuusya Party wo Oidasareta Kiyou Bimbou"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "勇者パーティを追い出された器用貧乏"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "器用貧乏"
       }
     ]
   },
@@ -388830,31 +388875,6 @@
     ]
   },
   {
-    "id": 19190,
-    "titles": [
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "kiyoubinbou"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Yuusha Party o Oidasareta Kiyoubinbou"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "勇者パーティを追い出された器用貧乏"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "器用貧乏"
-      }
-    ]
-  },
-  {
     "id": 19143,
     "titles": [
       {
@@ -416465,12 +416485,12 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Luo Xiao Hei Zhanji (2025)"
+        "title": "Luo Xiao Hei Zhanji 2"
       },
       {
         "type": 4,
         "language": "zh-Hans",
-        "title": "罗小黑战记 (2025)"
+        "title": "罗小黑战记2"
       }
     ]
   },
@@ -446786,6 +446806,21 @@
         "type": 4,
         "language": "ja",
         "title": "もうひとつのどうぶつえん ~絶滅動物ものがたり~"
+      }
+    ]
+  },
+  {
+    "id": 19756,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mou Ichido, Shite Mitai."
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "もう一度, してみたい."
       }
     ]
   },
@@ -523131,6 +523166,11 @@
         "type": 4,
         "language": "ja",
         "title": "スターシップ・オペレーターズ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "星舰驾驶员"
       }
     ]
   },
@@ -525121,6 +525161,26 @@
         "type": 4,
         "language": "ja",
         "title": "それって♡だからね!"
+      }
+    ]
+  },
+  {
+    "id": 19755,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Sorry About My Younger Brothers"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Uchi no Otouto-domo ga Sumimasen"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "うちの弟どもがすみません"
       }
     ]
   },
@@ -539436,6 +539496,11 @@
         "type": 2,
         "language": "ja",
         "title": "トゥハート"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "心之彼端"
       }
     ]
   },
