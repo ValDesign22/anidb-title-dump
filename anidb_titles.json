@@ -142258,7 +142258,7 @@
         "title": "Bungou Stray Dogs Wan! 2"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Bungou Stray Dogs Wan! 2"
       },
@@ -177480,6 +177480,26 @@
     ]
   },
   {
+    "id": 19757,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Code Geass: Aspar the Star Chaser"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Code Geass: Hoshi Oi no Aspar"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "コードギアス 星追いのアスパル"
+      }
+    ]
+  },
+  {
     "id": 11516,
     "titles": [
       {
@@ -209975,6 +209995,36 @@
     ]
   },
   {
+    "id": 8928,
+    "titles": [
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Des lucioles aux couleurs de l`arc-en-ciel : Les vacances d`été éternelles"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Niji-iro Hotaru: Eien no Natsuyasumi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Rainbow-Coloured Fireflies: The Eternal Summer Vacation"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "虹色ほたる ~永遠の夏休み~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "虹色萤火虫～永远的暑假～"
+      }
+    ]
+  },
+  {
     "id": 17325,
     "titles": [
       {
@@ -231660,26 +231710,6 @@
     ]
   },
   {
-    "id": 19728,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Drops of God"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kami no Shizuku"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "神の雫"
-      }
-    ]
-  },
-  {
     "id": 16843,
     "titles": [
       {
@@ -245956,6 +245986,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "代纹TAKE2"
+      }
+    ]
+  },
+  {
+    "id": 19758,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Embrace in the Dark Night"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Women Zai Heiye Zhong Xiang Yong"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "我们在黑夜中相拥"
       }
     ]
   },
@@ -366263,6 +366313,11 @@
         "title": "Jujutsu Kaisen: Shimetsu Kaiyuu"
       },
       {
+        "type": 2,
+        "language": "bg",
+        "title": "Джуджуцу Кайсен: Игра на подбор"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "呪術廻戦 死滅回游"
@@ -372836,6 +372891,26 @@
         "type": 4,
         "language": "ja",
         "title": "神の庭付き楠木邸"
+      }
+    ]
+  },
+  {
+    "id": 19728,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kami no Shizuku"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Drops of God"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "神の雫"
       }
     ]
   },
@@ -397436,6 +397511,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kujima Utaeba Ie Hororo"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Kujima: Why Sing, When You Can Warble?"
       },
       {
         "type": 4,
@@ -430760,26 +430840,6 @@
     ]
   },
   {
-    "id": 19627,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Marika Kanri Den"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Tale of the Scholar-Official Matsurika"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "茉莉花官吏伝"
-      }
-    ]
-  },
-  {
     "id": 19730,
     "titles": [
       {
@@ -432861,6 +432921,26 @@
         "type": 4,
         "language": "ja",
         "title": "まついぬ"
+      }
+    ]
+  },
+  {
+    "id": 19627,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Matsurika Kanri Den"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Tale of the Scholar-Official Matsurika"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "茉莉花官吏伝"
       }
     ]
   },
@@ -460571,31 +460651,6 @@
         "type": 4,
         "language": "ja",
         "title": "虹色デイズ 虹色日和"
-      }
-    ]
-  },
-  {
-    "id": 8928,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Niji-iro Hotaru: Eien no Natsuyasumi"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Rainbow-Coloured Fireflies: The Eternal Summer Vacation"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "虹色ほたる ~永遠の夏休み~"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "虹色萤火虫～永远的暑假～"
       }
     ]
   },
@@ -535448,7 +535503,7 @@
         "title": "Tamon-kun Ima Docchi!?"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Tamon`s B-Side"
       },
