@@ -43591,6 +43591,11 @@
         "type": 4,
         "language": "ja",
         "title": "メスのちトラレ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "先破处后NTR"
       }
     ]
   },
@@ -80431,6 +80436,11 @@
         "type": 4,
         "language": "ja",
         "title": "装甲騎女イリス"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "装甲骑女伊莉丝"
       }
     ]
   },
@@ -196956,6 +196966,11 @@
         "type": 4,
         "language": "ja",
         "title": "ヤバい! -復讐・闇サイト-"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "危机！-复仇·暗黑网站"
       }
     ]
   },
@@ -199461,6 +199476,11 @@
         "type": 5,
         "language": "ja",
         "title": "きじょく プリンセスダブルかり"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "姫辱"
       },
       {
         "type": 2,
@@ -214428,6 +214448,11 @@
         "title": "Diabolus 鬼哭"
       },
       {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "Diabolus 鬼哭"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Diabolus: Kikoku"
@@ -220041,6 +220066,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Do S na Pet"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "도S한 펫"
       },
       {
         "type": 4,
@@ -253466,6 +253496,11 @@
         "type": 4,
         "language": "ja",
         "title": "めじょく"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "复仇学园"
       }
     ]
   },
@@ -275949,6 +275984,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "学园中暂停时间"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "学園で時間よ止まれ"
       }
@@ -280001,6 +280041,11 @@
         "type": 4,
         "language": "ja",
         "title": "喰ヒ人"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "喰客"
       }
     ]
   },
@@ -313816,6 +313861,11 @@
         "type": 4,
         "language": "ja",
         "title": "OVA おしかけ! 爆乳ギャルハーレム性活"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "우르르르! 폭유 갸루 하렘 성생활"
       }
     ]
   },
@@ -333761,6 +333811,11 @@
         "type": 2,
         "language": "ja",
         "title": "ヒナギクヴァージンロストクラブへようこそ♡"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "欢迎来到雏菊处女迷失俱乐部"
       }
     ]
   },
@@ -353946,6 +354001,11 @@
         "type": 4,
         "language": "ja",
         "title": "淫堕の姫騎士ジャンヌ THE ANIMATION"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "淫堕的姫骑士贞德"
       }
     ]
   },
@@ -358636,6 +358696,11 @@
         "type": 2,
         "language": "ko",
         "title": "이세계 따먹기 서클"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "异世界性爱社团"
       },
       {
         "type": 4,
@@ -386743,6 +386808,11 @@
         "title": "キニナルキモチ"
       },
       {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "好奇的心情"
+      },
+      {
         "type": 2,
         "language": "zh-Hans",
         "title": "电梯小姐"
@@ -394661,6 +394731,11 @@
         "type": 2,
         "language": "ko",
         "title": "징벌"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "惩戒"
       },
       {
         "type": 4,
@@ -481971,6 +482046,11 @@
         "type": 4,
         "language": "ja",
         "title": "宇宙海賊サラ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "宇宙海贼萨拉"
       }
     ]
   },
@@ -505086,6 +505166,11 @@
         "type": 4,
         "language": "ja",
         "title": "彷徨う淫らなルナティクス"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "彷徨淫乱的疯狂症状"
       }
     ]
   },
@@ -505661,6 +505746,46 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "三体"
+      }
+    ]
+  },
+  {
+    "id": 19759,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "San Xian Lun Hui"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Sanxian Lun Hui"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Sanxian Lunhui"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Secrets of the Rivers"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Three-Line Reincarnation"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Under the Three Rivers"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "三线轮洄"
       }
     ]
   },
@@ -508956,6 +509081,11 @@
         "type": 2,
         "language": "ko",
         "title": "상간연쇄"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "相奸连锁"
       },
       {
         "type": 2,
