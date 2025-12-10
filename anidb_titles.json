@@ -74996,6 +74996,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "百炼成神 第二季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "百炼成神2"
       }
     ]
   },
@@ -98311,6 +98316,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "百家诀之江湖诡事录"
+      }
+    ]
+  },
+  {
+    "id": 19761,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Bai Lian Cheng Shen 3"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "百炼成神3"
       }
     ]
   },
@@ -503121,6 +503141,21 @@
         "type": 4,
         "language": "ja",
         "title": "最後の空襲くまがや"
+      }
+    ]
+  },
+  {
+    "id": 19760,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Saijaku na Boku wa \"Kabenuke Bug\" de Nariagaru: Kabe o Surinuketara, Shokai Clear Houshuu o Mugen Kaishuu Dekimashita!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "最弱な僕は＜壁抜けバグ＞で成り上がる 〜壁をすり抜けたら, 初回クリア報酬を無限回収できました!~"
       }
     ]
   },
