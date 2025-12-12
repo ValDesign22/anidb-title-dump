@@ -198080,6 +198080,26 @@
     ]
   },
   {
+    "id": 19764,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Dara-san of Reiwa"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Reiwa no Dara-san"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "令和のダラさん"
+      }
+    ]
+  },
+  {
     "id": 883,
     "titles": [
       {
@@ -236203,7 +236223,7 @@
     "id": 19446,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Eclipse of Illusion"
       },
@@ -293395,6 +293415,66 @@
     ]
   },
   {
+    "id": 17146,
+    "titles": [
+      {
+        "type": 3,
+        "language": "en",
+        "title": "GGWP"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "God Is Hungry for Games."
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Gods` Games We Play"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kami wa Game ni Uete Iru."
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Kami wa Game ni Ueteiru."
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "kamiue"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Богиня жаждет игр"
+      },
+      {
+        "type": 5,
+        "language": "ja",
+        "title": "かみはゲームにうえている."
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "神は遊戯に飢えている."
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "神明渴求著遊戲。"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "神渴望着游戏。"
+      }
+    ]
+  },
+  {
     "id": 4564,
     "titles": [
       {
@@ -300556,61 +300636,6 @@
         "type": 4,
         "language": "ja",
         "title": "神様家族"
-      }
-    ]
-  },
-  {
-    "id": 17146,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "God Is Hungry for Games."
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Gods` Games We Play"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kami wa Game ni Uete Iru."
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Kami wa Game ni Ueteiru."
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "kamiue"
-      },
-      {
-        "type": 4,
-        "language": "ru",
-        "title": "Богиня жаждет игр"
-      },
-      {
-        "type": 5,
-        "language": "ja",
-        "title": "かみはゲームにうえている."
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "神は遊戯に飢えている."
-      },
-      {
-        "type": 2,
-        "language": "zh-Hant",
-        "title": "神明渴求著遊戲。"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "神渴望着游戏。"
       }
     ]
   },
@@ -489215,6 +489240,26 @@
     ]
   },
   {
+    "id": 19765,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Psyren"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "PSYЯEN"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "サイレン"
+      }
+    ]
+  },
+  {
     "id": 5257,
     "titles": [
       {
@@ -543991,6 +544036,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Watashi wo Tabetai, Hitodenashi"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "わたたべ"
       },
       {
         "type": 4,
