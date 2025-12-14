@@ -238785,6 +238785,21 @@
     ]
   },
   {
+    "id": 19766,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Eiga Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "映画クレヨンしんちゃん 奇々怪々! オラの妖怪バケ~ション"
+      }
+    ]
+  },
+  {
     "id": 13405,
     "titles": [
       {
@@ -288976,6 +288991,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Gekijouban Sylvanian Families: Freya kara no Okurimono"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Sylvanian Families: The Movie - A Gift from Freya"
       },
       {
         "type": 4,
@@ -357652,6 +357672,11 @@
   {
     "id": 9468,
     "titles": [
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Iron Man: A Ascenção de Technovore"
+      },
       {
         "type": 1,
         "language": "x-jat",
@@ -548831,6 +548856,21 @@
         "type": 4,
         "language": "ja",
         "title": "トランスフォーマー・ザ・ヘッドマスターズ"
+      }
+    ]
+  },
+  {
+    "id": 19767,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Transformers: Wild King"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "トランスフォーマー ワイルドキング"
       }
     ]
   },
