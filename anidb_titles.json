@@ -159659,6 +159659,11 @@
     "titles": [
       {
         "type": 4,
+        "language": "es",
+        "title": "Chainsaw Man - La Película: El Arco de Reze"
+      },
+      {
+        "type": 4,
         "language": "de",
         "title": "Chainsaw Man - The Movie: Reze Arc"
       },
@@ -357836,6 +357841,26 @@
         "type": 4,
         "language": "ja",
         "title": "鉄の処女 JUN"
+      }
+    ]
+  },
+  {
+    "id": 19768,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Iron Wok Jan!"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tetsunabe no Jan!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "鉄鍋のジャン!"
       }
     ]
   },
