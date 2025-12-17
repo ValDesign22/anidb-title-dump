@@ -12695,7 +12695,7 @@
       {
         "type": 4,
         "language": "en",
-        "title": "The Daily Life of a Single 29-Year-Old Adventurer"
+        "title": "An Adventurer`s Daily Grind at Age 29"
       }
     ]
   },
@@ -28648,7 +28648,7 @@
     "id": 19564,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "A Misanthrope Teaches a Class for Demi-Humans"
       },
@@ -54723,7 +54723,7 @@
         "title": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Villainess Is Adored by the Prince of the Neighbor Kingdom"
       },
@@ -71538,7 +71538,7 @@
     "id": 19250,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Anyway, I`m Falling in Love with You. (2026)"
       },
@@ -72403,7 +72403,7 @@
         "title": "Ao no Miburo: Serizawa Ansatsu Hen"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Blue Miburo: Serizawa Assassination"
       },
@@ -181454,6 +181454,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "支配の教坛"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "支配の教壇"
       }
@@ -198653,7 +198658,7 @@
         "title": "DARK MOON: Dal-ui Jedan"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Dark Moon: The Blood Altar"
       },
@@ -203233,13 +203238,13 @@
     "id": 19209,
     "titles": [
       {
-        "type": 1,
-        "language": "x-jat",
+        "type": 4,
+        "language": "en",
         "title": "Dead Account"
       },
       {
-        "type": 2,
-        "language": "en",
+        "type": 1,
+        "language": "x-jat",
         "title": "Dead Account"
       },
       {
@@ -235943,7 +235948,7 @@
     "id": 19298,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City"
       },
@@ -247130,7 +247135,7 @@
       {
         "type": 4,
         "language": "en",
-        "title": "Fire Force (2026)"
+        "title": "Fire Force Season 3 (2026)"
       },
       {
         "type": 2,
@@ -249238,7 +249243,7 @@
         "title": "Eris no Seihai"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Holy Grail of Eris"
       },
@@ -302633,9 +302638,9 @@
     "id": 18081,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
-        "title": "Golden Kamuy Final Chapter"
+        "title": "Golden Kamuy Final Season"
       },
       {
         "type": 1,
@@ -304371,6 +304376,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Goumon Baito-kun no Nichijou"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Daily Life of a Part-time Torturer"
       },
       {
         "type": 4,
@@ -351229,6 +351239,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Journal with Witch"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "違国日記"
       }
@@ -351366,6 +351381,11 @@
         "type": 2,
         "language": "ko",
         "title": "전투처녀 스뷔아"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "战乙女苏菲亚"
       },
       {
         "type": 4,
@@ -353398,7 +353418,7 @@
     "id": 19325,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "In the Clear Moonlit Dusk"
       },
@@ -366708,14 +366728,14 @@
     "id": 18363,
     "titles": [
       {
-        "type": 2,
-        "language": "en",
-        "title": "Jujutsu Kaisen: Culling Game"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Jujutsu Kaisen: Shimetsu Kaiyuu"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Jujutsu Kaisen: The Culling Game"
       },
       {
         "type": 2,
@@ -377978,7 +377998,7 @@
     "id": 18956,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Kaya-chan Isn`t Scary"
       },
@@ -381651,21 +381671,6 @@
         "type": 4,
         "language": "ja",
         "title": "けろけろけろっぴ はすのうえタウン危機一髪!"
-      }
-    ]
-  },
-  {
-    "id": 19432,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Keroro Gunsou (2026)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ケロロ軍曹 (2026)"
       }
     ]
   },
@@ -388253,7 +388258,7 @@
         "title": "Kirei ni Shite Moraemasu ka."
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Wash It All Away"
       },
@@ -389473,7 +389478,7 @@
         "title": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara o Eru"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Noble Reincarnation: Born Blessed, So I`ll Obtain Ultimate Power"
       },
@@ -430683,7 +430688,7 @@
         "title": "Maou no Musume wa Yasashi Sugiru!!"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Demon King`s Daughter Is Too Kind!!"
       },
@@ -433738,7 +433743,7 @@
         "title": "Mayonaka Heart Tune"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Tune In to the Midnight Heart"
       },
@@ -438818,13 +438823,13 @@
     "id": 19071,
     "titles": [
       {
-        "type": 1,
-        "language": "x-jat",
+        "type": 4,
+        "language": "en",
         "title": "MF Ghost 3rd Season"
       },
       {
-        "type": 2,
-        "language": "en",
+        "type": 1,
+        "language": "x-jat",
         "title": "MF Ghost 3rd Season"
       },
       {
@@ -450983,7 +450988,7 @@
     "id": 19423,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "My Hero Academia: Vigilantes (2026)"
       },
@@ -483555,31 +483560,6 @@
     ]
   },
   {
-    "id": 18845,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Playing Death Games to Put Food on the Table"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shibou Yuugi de Meshi o Kuu."
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Shibou Yuugi de Meshi wo Kuu."
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "死亡遊戯で飯を食う."
-      }
-    ]
-  },
-  {
     "id": 13826,
     "titles": [
       {
@@ -488781,6 +488761,11 @@
         "type": 4,
         "language": "ja",
         "title": "特別授業2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "特别授业2"
       }
     ]
   },
@@ -514070,6 +514055,26 @@
     ]
   },
   {
+    "id": 19432,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Sgt. Frog the Movie: The Earth is in Mortal Peril as Soon as We Come Back!"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shin Gekijouban Keroro Gunsou: Fukkatsu Shite Sokkou Chikyuu Metsubou no Kiki de Arimasu!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります!"
+      }
+    ]
+  },
+  {
     "id": 5269,
     "titles": [
       {
@@ -516411,6 +516416,31 @@
         "type": 4,
         "language": "ja",
         "title": "しばわんこの和のこころ"
+      }
+    ]
+  },
+  {
+    "id": 18845,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shibou Yuugi de Meshi o Kuu."
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Shibou Yuugi de Meshi wo Kuu."
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Shiboyugi: Playing Death Games to Put Food on the Table"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "死亡遊戯で飯を食う."
       }
     ]
   },
@@ -519241,6 +519271,11 @@
         "type": 4,
         "language": "ja",
         "title": "シオン"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "紫音"
       }
     ]
   },
