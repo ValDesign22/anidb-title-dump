@@ -225554,6 +225554,11 @@
       },
       {
         "type": 4,
+        "language": "vi",
+        "title": "Doraemon: Nobita Và Cuốn Nhật Kí Tương Lai"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "ドラえもん のび太と未来ノート"
       }
@@ -229818,7 +229823,7 @@
         "title": "Long Shen Wan Xiang: Long Hun"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Soul of the Dragon"
       },
@@ -268780,17 +268785,17 @@
       {
         "type": 2,
         "language": "en",
-        "title": "From Old Country Bumpkin to Master Swordsman (2026)"
+        "title": "From Old Country Bumpkin to Master Swordsman II"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Katainaka no Ossan, Kensei ni Naru (2026)"
+        "title": "Katainaka no Ossan, Kensei ni Naru II"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "片田舎のおっさん, 剣聖になる (2026)"
+        "title": "片田舎のおっさん, 剣聖になるII"
       }
     ]
   },
@@ -325171,6 +325176,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "重装武器"
+      }
+    ]
+  },
+  {
+    "id": 19769,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hebi to Kumo"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "蛇と蜘蛛"
       }
     ]
   },
@@ -491040,21 +491060,6 @@
     ]
   },
   {
-    "id": 15823,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Qiang Shen Ji 3: Xuezu Mishi Pian"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "枪神记 血族秘史篇"
-      }
-    ]
-  },
-  {
     "id": 15824,
     "titles": [
       {
@@ -491989,7 +491994,7 @@
       },
       {
         "type": 4,
-        "language": "zh",
+        "language": "zh-Hans",
         "title": "诡水疑云"
       }
     ]
