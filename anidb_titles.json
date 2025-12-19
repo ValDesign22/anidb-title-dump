@@ -32005,6 +32005,26 @@
     ]
   },
   {
+    "id": 19770,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "A Star Brighter Than the Sun 2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Taiyou yori mo Mabushii Hoshi 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "太陽よりも眩しい星 2"
+      }
+    ]
+  },
+  {
     "id": 10082,
     "titles": [
       {
@@ -52081,6 +52101,26 @@
         "type": 4,
         "language": "ja",
         "title": "暁のヨナ (2015)"
+      }
+    ]
+  },
+  {
+    "id": 19771,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Akatsuki no Yona (Zokuhen)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Yona of the Dawn (Sequel)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "暁のヨナ (続編)"
       }
     ]
   },
@@ -154346,6 +154386,11 @@
         "type": 4,
         "language": "zh",
         "title": "天空之城"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "天空之城"
       }
     ]
   },
@@ -215360,6 +215405,11 @@
       {
         "type": 4,
         "language": "zh",
+        "title": "魔女宅急便"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
         "title": "魔女宅急便"
       }
     ]
@@ -282256,6 +282306,11 @@
         "type": 4,
         "language": "ja",
         "title": "銀河英雄伝説: わが征くは星の大海"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "银河英雄传说:我的征途是星辰大海"
       }
     ]
   },
