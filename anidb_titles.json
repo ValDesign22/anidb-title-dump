@@ -342990,6 +342990,26 @@
     ]
   },
   {
+    "id": 19772,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hyakushou Kizoku 4th Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Noble Farmer 4th Season"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "百姓貴族 4th Season"
+      }
+    ]
+  },
+  {
     "id": 10049,
     "titles": [
       {
@@ -436501,21 +436521,6 @@
         "type": 4,
         "language": "ja",
         "title": "迷走! アンダーワールド"
-      }
-    ]
-  },
-  {
-    "id": 19712,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Meitantei Conan Episode \"ZERO\": Kudou Shinichi Suizokukan Jiken"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "名探偵コナン エピソード\"ZERO\": 工藤新一水族館事件"
       }
     ]
   },
@@ -539275,17 +539280,17 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Tensei Shitara Slime Datta Ken Dai 4 Ki"
+        "title": "Tensei Shitara Slime Datta Ken (2026)"
       },
       {
         "type": 2,
         "language": "en",
-        "title": "That Time I Got Reincarnated as a Slime 4"
+        "title": "That Time I Got Reincarnated as a Slime (2026)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "転生したらスライムだった件 第4期"
+        "title": "転生したらスライムだった件 (2026)"
       }
     ]
   },
@@ -562796,6 +562801,11 @@
         "type": 4,
         "language": "en",
         "title": "Yano-kun`s Ordinary Days"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Yanos ganz normaler Alltag"
       },
       {
         "type": 4,
