@@ -34515,6 +34515,26 @@
     ]
   },
   {
+    "id": 19777,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "A Wild Last Boss Appeared! 2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yasei no Last Boss ga Arawareta! 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "野生のラスボスが現れた! 2"
+      }
+    ]
+  },
+  {
     "id": 15693,
     "titles": [
       {
@@ -72437,6 +72457,11 @@
   {
     "id": 19258,
     "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Ao no Miburo S2"
+      },
       {
         "type": 1,
         "language": "x-jat",
@@ -136850,17 +136875,17 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Boukyaku Battery 2"
+        "title": "Boukyaku Battery (2027)"
       },
       {
         "type": 2,
         "language": "en",
-        "title": "Oblivion Battery 2"
+        "title": "Oblivion Battery (2027)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "忘却バッテリー2"
+        "title": "忘却バッテリー (2027)"
       }
     ]
   },
@@ -371365,6 +371390,21 @@
     ]
   },
   {
+    "id": 19776,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kaijuu 8 Gou Kanketsuhen"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "怪獣8号 完結編"
+      }
+    ]
+  },
+  {
     "id": 17369,
     "titles": [
       {
@@ -432675,11 +432715,6 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "マッシュル (続編)"
-      },
-      {
-        "type": 2,
-        "language": "ja",
         "title": "マッシュル 三魔対争神覚者最終試験編"
       }
     ]
@@ -447765,6 +447800,21 @@
     ]
   },
   {
+    "id": 19773,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mr. Clice"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Mr.Clice"
+      }
+    ]
+  },
+  {
     "id": 8462,
     "titles": [
       {
@@ -458956,6 +459006,26 @@
         "type": 4,
         "language": "ja",
         "title": "新劇場版 頭文字[イニシャル]D BATTLE DIGEST"
+      }
+    ]
+  },
+  {
+    "id": 19774,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "New Kochikame: Tokyo Beat Cops"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shin Kochira Katsushikaku Kameari Kouenmae Hashutsujo"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "新こちら葛飾区亀有公園前派出所"
       }
     ]
   },
@@ -504716,6 +504786,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "坂本日常 (2025)"
+      }
+    ]
+  },
+  {
+    "id": 19775,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sakamoto Days 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "SAKAMOTO DAYS 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Sakamoto Days 2"
       }
     ]
   },
