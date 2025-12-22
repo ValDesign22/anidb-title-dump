@@ -20938,6 +20938,11 @@
         "title": "A Court Magician, Who Was Focused on Supportive Magic Because His Allies Were too Weak, Aims to Become the Strongest After Being Banished, Story of Lasting Period"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "Der ehemalige Hofmagier will der Stärkste werden"
+      },
+      {
         "type": 3,
         "language": "x-jat",
         "title": "hojo mahou"
@@ -58396,6 +58401,11 @@
         "type": 2,
         "language": "ja",
         "title": "少女型兵器は家族になりたい"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "阿尔玛酱想成为家人"
       }
     ]
   },
@@ -72370,12 +72380,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Ao no Hako 2"
+        "title": "Ao no Hako (2026)"
       },
       {
         "type": 2,
         "language": "en",
-        "title": "Blue Box 2"
+        "title": "Blue Box (2026)"
       },
       {
         "type": 2,
@@ -72385,7 +72395,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "アオのハコ 2"
+        "title": "アオのハコ (2026)"
       }
     ]
   },
@@ -151610,6 +151620,21 @@
     ]
   },
   {
+    "id": 19780,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Cardfight!! Vanguard: Divinez Illusory Star Battle Arc"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "カードファイト!! ヴァンガード Divinez 幻真星戦編"
+      }
+    ]
+  },
+  {
     "id": 18591,
     "titles": [
       {
@@ -159781,6 +159806,26 @@
         "type": 4,
         "language": "ja",
         "title": "チェンソーマン 総集篇"
+      }
+    ]
+  },
+  {
+    "id": 19778,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Chainsaw Man: Assassins Arc"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Chainsaw Man: Shikaku Hen"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "チェンソーマン 刺客篇"
       }
     ]
   },
@@ -195890,17 +195935,17 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Dan Da Dan 3"
+        "title": "Dan Da Dan (2027)"
       },
       {
         "type": 2,
         "language": "en",
-        "title": "Dan Da Dan 3"
+        "title": "Dan Da Dan (2027)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "ダンダダン 3"
+        "title": "ダンダダン (2027)"
       }
     ]
   },
@@ -275171,6 +275216,26 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "废渊战鬼"
+      }
+    ]
+  },
+  {
+    "id": 19779,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gachiakuta 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Gachiakuta 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ガチアクタ 2"
       }
     ]
   },
@@ -460600,12 +460665,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Nige Jouzu no Wakagimi 2"
+        "title": "Nige Jouzu no Wakagimi (2026)"
       },
       {
         "type": 2,
         "language": "en",
-        "title": "The Elusive Samurai 2"
+        "title": "The Elusive Samurai (2026)"
       },
       {
         "type": 4,
@@ -460615,7 +460680,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "逃げ上手の若君 2"
+        "title": "逃げ上手の若君 (2026)"
       }
     ]
   },
