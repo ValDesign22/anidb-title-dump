@@ -151625,7 +151625,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Cardfight!! Vanguard: Divinez Illusory Star Battle Arc"
+        "title": "Cardfight!! Vanguard: Divinez Genma Seisen Hen"
       },
       {
         "type": 4,
@@ -352944,6 +352944,11 @@
       },
       {
         "type": 2,
+        "language": "en",
+        "title": "Immortality 4th Season"
+      },
+      {
+        "type": 2,
         "language": "x-zht",
         "title": "Yong Sheng 4"
       },
@@ -352966,6 +352971,46 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "永生之海噬仙灵"
+      }
+    ]
+  },
+  {
+    "id": 19781,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Immortality 5"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Immortality 5th Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Yong Sheng 5"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Yong Sheng 5th Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yong Sheng: Tai Yuan Xian Fu"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "永生 第五季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "永生之太元仙府"
       }
     ]
   },
@@ -414103,6 +414148,11 @@
         "title": "The Long March Toward the Universe"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "The Long March Towards the Stars"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Xiangzhe Xingchen De Changzheng"
@@ -444805,6 +444855,21 @@
     ]
   },
   {
+    "id": 19783,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "mofusand"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mofusand"
+      }
+    ]
+  },
+  {
     "id": 9297,
     "titles": [
       {
@@ -475001,6 +475066,21 @@
         "type": 4,
         "language": "ja",
         "title": "乙女蹂躙遊戯~Maiden Infringement Play~"
+      }
+    ]
+  },
+  {
+    "id": 19782,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Otome Kaijuu Caramelise"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "乙女怪獣キャラメリゼ"
       }
     ]
   },
