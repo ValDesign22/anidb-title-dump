@@ -3883,6 +3883,11 @@
         "title": "Ippon Again!"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "Ippon again!"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Mou Ippon!"
@@ -41660,6 +41665,36 @@
     ]
   },
   {
+    "id": 19784,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Advanced Evolution"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Chaofan Jinhua"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Extraordinary Evolution"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Transcend Evolution"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "超凡进化"
+      }
+    ]
+  },
+  {
     "id": 1397,
     "titles": [
       {
@@ -73763,7 +73798,7 @@
         "title": "Aoshi Dan Shen"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Alchemist`s Rise"
       },
@@ -338612,6 +338647,11 @@
   {
     "id": 19725,
     "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Hoppe-chan: Mystery of the Sun Kingdom and the Black-Cheek Team"
+      },
       {
         "type": 1,
         "language": "x-jat",
