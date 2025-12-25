@@ -43713,6 +43713,11 @@
         "title": "After the Rain"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "After the Rain"
+      },
+      {
         "type": 3,
         "language": "x-jat",
         "title": "ameagari"
@@ -187240,6 +187245,51 @@
     ]
   },
   {
+    "id": 19415,
+    "titles": [
+      {
+        "type": 4,
+        "language": "pt-BR",
+        "title": "Crepúsculo Além do Fim do Mundo"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Crepúsculo Para Além do Fim do Mundo"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Dusk Beyond the End of the World"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Towa no Yugure"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Towa no Yuugure"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "永久のユウグレ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "永远的黄昏"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "永遠的黃昏"
+      }
+    ]
+  },
+  {
     "id": 15380,
     "titles": [
       {
@@ -234306,41 +234356,6 @@
         "type": 4,
         "language": "sk",
         "title": "DušaN"
-      }
-    ]
-  },
-  {
-    "id": 19415,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Dusk Beyond the End of the World"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Towa no Yugure"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Towa no Yuugure"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "永久のユウグレ"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "永远的黄昏"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "永遠的黃昏"
       }
     ]
   },
@@ -299279,6 +299294,16 @@
       },
       {
         "type": 4,
+        "language": "pt",
+        "title": "Glória: A Casa do Fruto Proibido"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Glória: A Casa do Fruto Proibido"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Gloria: House of the Forbidden Fruit"
       },
@@ -309066,6 +309091,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Guilty Hole"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Guilty Hole ~ Room of Guilty Pleasure"
       },
       {
         "type": 2,
@@ -345155,6 +345185,21 @@
     ]
   },
   {
+    "id": 19785,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "I Made Friends with the Second Prettiest Girl in My Class"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "I Made Friends with the Second Prettiest Girl in My Class"
+      }
+    ]
+  },
+  {
     "id": 19487,
     "titles": [
       {
@@ -363903,6 +363948,11 @@
         "title": "Makai Tenshi Jiburiru 2"
       },
       {
+        "type": 4,
+        "language": "pt",
+        "title": "O Demónio do Sexo 2"
+      },
+      {
         "type": 2,
         "language": "ko",
         "title": "마계천사 지브릴 2"
@@ -363936,6 +363986,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Makai Tenshi Djibril 3"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "O Demónio do Sexo 3"
       },
       {
         "type": 2,
