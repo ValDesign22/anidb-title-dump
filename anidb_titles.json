@@ -33345,6 +33345,11 @@
       {
         "type": 2,
         "language": "fr",
+        "title": "Rêves d`Androïde"
+      },
+      {
+        "type": 2,
+        "language": "fr",
         "title": "Un arbre de Palme"
       },
       {
@@ -94670,6 +94675,116 @@
     ]
   },
   {
+    "id": 18867,
+    "titles": [
+      {
+        "type": 4,
+        "language": "hu",
+        "title": "Az illatos virág méltósággal virágzik"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Bloom"
+      },
+      {
+        "type": 4,
+        "language": "tr",
+        "title": "Güzel Kokulu Çiçekler Zarafetle Açar"
+      },
+      {
+        "type": 4,
+        "language": "vi",
+        "title": "Hoa thơm kiêu hãnh"
+      },
+      {
+        "type": 4,
+        "language": "id",
+        "title": "Kaoru & Rin"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kaoru Hana wa Rin to Saku"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Kaoru i Rin: Rozkwitając z tobą"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Kaoru und Rin"
+      },
+      {
+        "type": 4,
+        "language": "es",
+        "title": "La nobleza de las flores"
+      },
+      {
+        "type": 4,
+        "language": "es-419",
+        "title": "La nobleza de las flores"
+      },
+      {
+        "type": 4,
+        "language": "hr",
+        "title": "Mirisni cvijet dostojanstveno cvate"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Fragrant Flower Blooms with Dignity"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Благоухающий цветок расцветает с достоинством"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Запашна квітка цвіте з гідністю"
+      },
+      {
+        "type": 4,
+        "language": "he",
+        "title": "הפרח הריחני זוקף את קומתו"
+      },
+      {
+        "type": 4,
+        "language": "ar",
+        "title": "‎الزهرة العطرة تزهر بكرامة"
+      },
+      {
+        "type": 4,
+        "language": "th",
+        "title": "ดอกรักผลิบานที่กลางใจ"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "향기로운 꽃은 늠름하게 핀다"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "薫る花は凛と咲く"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "薰香花朵凛然绽放"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "薰香花朵凜然綻放"
+      }
+    ]
+  },
+  {
     "id": 12986,
     "titles": [
       {
@@ -127316,56 +127431,6 @@
         "type": 4,
         "language": "ja",
         "title": "BLOODY NIGHT"
-      }
-    ]
-  },
-  {
-    "id": 18867,
-    "titles": [
-      {
-        "type": 4,
-        "language": "fr",
-        "title": "Bloom"
-      },
-      {
-        "type": 4,
-        "language": "tr",
-        "title": "Güzel Kokulu Çiçekler Zarafetle Açar"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kaoru Hana wa Rin to Saku"
-      },
-      {
-        "type": 4,
-        "language": "pl",
-        "title": "Kaoru i Rin: Rozkwitając z tobą"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "Kaoru und Rin"
-      },
-      {
-        "type": 4,
-        "language": "es",
-        "title": "La nobleza de las flores"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "The Fragrant Flower Blooms with Dignity"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "薫る花は凛と咲く"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "薰香花朵凛然绽放"
       }
     ]
   },
@@ -175513,6 +175578,11 @@
         "title": "Class de 2 Banme ni Kawaii Onnanoko to Tomodachi ni Natta"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "I Made Friends with the Second Prettiest Girl in My Class"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "クラスで2番目に可愛い女の子と友だちになった"
@@ -197321,6 +197391,31 @@
         "type": 4,
         "language": "ja",
         "title": "団子兵衛捕物帖 開けーごまの巻"
+      }
+    ]
+  },
+  {
+    "id": 19107,
+    "titles": [
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Dank dir überwindet unsere Liebe alle Hindernisse"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kimi to Koete Koi ni Naru"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "With You, Our Love Will Make It Through"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "キミと越えて恋になる"
       }
     ]
   },
@@ -263745,6 +263840,26 @@
     ]
   },
   {
+    "id": 19188,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Fist of the North Star: Elegy of Ken-Oh`s Army Grunts"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hokuto no Ken: Ken`ou-gun Zako-tachi no Banka"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "北斗の拳 拳王軍ザコたちの挽歌"
+      }
+    ]
+  },
+  {
     "id": 4409,
     "titles": [
       {
@@ -283880,6 +283995,26 @@
     ]
   },
   {
+    "id": 19792,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Gochuumon wa Usagi Desuka?"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Is the Order a Rabbit? The Movie"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版 ご注文はうさぎですか?"
+      }
+    ]
+  },
+  {
     "id": 10621,
     "titles": [
       {
@@ -290326,6 +290461,21 @@
         "type": 3,
         "language": "ja",
         "title": "銀バラ"
+      }
+    ]
+  },
+  {
+    "id": 19788,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gelpiyo"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ゲルぴよ"
       }
     ]
   },
@@ -300856,26 +301006,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "请问您今天要来点兔子吗？BLOOM"
-      }
-    ]
-  },
-  {
-    "id": 19188,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Gochuumon wa Usagi Desuka? (Shinsaku Anime)"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Is the Order a Rabbit? (New Anime)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ご注文はうさぎですか? (新作アニメ)"
       }
     ]
   },
@@ -345185,21 +345315,6 @@
     ]
   },
   {
-    "id": 19785,
-    "titles": [
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "I Made Friends with the Second Prettiest Girl in My Class"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "I Made Friends with the Second Prettiest Girl in My Class"
-      }
-    ]
-  },
-  {
     "id": 19487,
     "titles": [
       {
@@ -365106,6 +365221,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "极品全能高手"
+      }
+    ]
+  },
+  {
+    "id": 19791,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Jirai Nandesuka? Chihara-san"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "地雷なんですか? 地原さん"
       }
     ]
   },
@@ -385981,26 +386111,6 @@
         "type": 4,
         "language": "ja",
         "title": "キミとフィットボクシング"
-      }
-    ]
-  },
-  {
-    "id": 19107,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kimi to Koete Koi ni Naru"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "With You, Our Love Will Make It Through"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "キミと越えて恋になる"
       }
     ]
   },
@@ -413290,6 +413400,31 @@
     ]
   },
   {
+    "id": 19787,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Little Twin Stars はじまりの物語"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Little Twin Stars: Hajimari no Monogatari"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Little Twin Stars: The Beginning Story"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "リトルツインスターズはじまりの物語"
+      }
+    ]
+  },
+  {
     "id": 5063,
     "titles": [
       {
@@ -423816,6 +423951,26 @@
         "type": 4,
         "language": "ja",
         "title": "魔法遊戯: 飛び出す!!ハナマル大冒険"
+      }
+    ]
+  },
+  {
+    "id": 19786,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Magical Princess Minky Momo (OVA)"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mahou no Princess Minky Momo (OVA)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔法のプリンセス ミンキーモモ (OVA)"
       }
     ]
   },
@@ -477715,6 +477870,21 @@
     ]
   },
   {
+    "id": 19789,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Pan Dorobou"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "パンどろぼう"
+      }
+    ]
+  },
+  {
     "id": 17375,
     "titles": [
       {
@@ -481221,6 +481391,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "梦幻之星 神谕篇"
+      }
+    ]
+  },
+  {
+    "id": 19790,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Phantom Alchemia: Silvia no Dokidoki Sakusei Toshi Keikaku"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ファントム・アルケミア ~シルヴィアのドキドキ搾精都市計画~"
       }
     ]
   },
@@ -553736,6 +553921,26 @@
         "type": 4,
         "language": "ja",
         "title": "アンデッドアンラック (2025)"
+      }
+    ]
+  },
+  {
+    "id": 19793,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Undead Unluck 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Undead Unluck 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "アンデッドアンラック 2"
       }
     ]
   },
