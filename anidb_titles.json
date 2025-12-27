@@ -77535,6 +77535,26 @@
     ]
   },
   {
+    "id": 19791,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Are You a Jirai Girl, Chihara-san?"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Jirai Nandesuka? Chihara-san"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "地雷なんですか? 地原さん"
+      }
+    ]
+  },
+  {
     "id": 14710,
     "titles": [
       {
@@ -363363,14 +363383,74 @@
         "title": "Jian Lai"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "en",
         "title": "Sword of Coming"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Sword Comes"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Swords"
       },
       {
         "type": 4,
         "language": "zh-Hans",
         "title": "剑来"
+      }
+    ]
+  },
+  {
+    "id": 19794,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jian Lai 2"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Jian Lai 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Jian Lai Di Er Ji"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Sword of Coming 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Sword Comes 2nd Season"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Swords 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Swords 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Swords S2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "剑来 第二季"
       }
     ]
   },
@@ -365221,21 +365301,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "极品全能高手"
-      }
-    ]
-  },
-  {
-    "id": 19791,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Jirai Nandesuka? Chihara-san"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "地雷なんですか? 地原さん"
       }
     ]
   },
@@ -502640,6 +502705,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Special A"
+      },
+      {
+        "type": 4,
+        "language": "es-419",
         "title": "Special A"
       },
       {
