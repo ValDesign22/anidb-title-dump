@@ -141545,6 +141545,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Buddha Sutras"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Buddhist Sutra Stories"
       },
       {
@@ -175841,6 +175846,36 @@
         "type": 4,
         "language": "ja",
         "title": "同窓会again"
+      }
+    ]
+  },
+  {
+    "id": 19797,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Classic of Mountains and Sea`s Secret"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shanhai Jing Mima"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Password of Shanhaiching"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Threads of Fate: A War Untold"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "山海经密码"
       }
     ]
   },
@@ -387570,6 +387605,21 @@
     ]
   },
   {
+    "id": 19796,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kingdom (TV)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "キングダム (TV)"
+      }
+    ]
+  },
+  {
     "id": 19334,
     "titles": [
       {
@@ -549120,6 +549170,26 @@
     ]
   },
   {
+    "id": 19795,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Tougen Anki: Nikko Kegon Falls Arc"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tougen Anki: Nikkou Kegon no Taki Hen"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "桃源暗鬼~日光・華厳の滝編~"
+      }
+    ]
+  },
+  {
     "id": 11096,
     "titles": [
       {
@@ -565776,16 +565846,6 @@
         "type": 2,
         "language": "ja",
         "title": "遊戯王 アーク・ファイブ"
-      }
-    ]
-  },
-  {
-    "id": 18861,
-    "titles": [
-      {
-        "type": 1,
-        "language": "en",
-        "title": "Yu-Gi-Oh! Capsule Monsters"
       }
     ]
   },
