@@ -387613,6 +387613,11 @@
         "title": "Kingdom (TV)"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Kingdom S6 Part II"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "キングダム (TV)"
@@ -437070,21 +437075,6 @@
     ]
   },
   {
-    "id": 19746,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Meitantei Conan: Highway no Tenshi"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "名探偵コナン ハイウェイの堕"
-      }
-    ]
-  },
-  {
     "id": 13842,
     "titles": [
       {
@@ -471135,6 +471125,31 @@
     ]
   },
   {
+    "id": 19799,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "One Punch Man (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ONE PUNCH MAN (2027)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "One Punch Man (2027)"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "ワンパンマン (2027)"
+      }
+    ]
+  },
+  {
     "id": 11637,
     "titles": [
       {
@@ -501860,6 +501875,21 @@
     ]
   },
   {
+    "id": 19798,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ruri Dragon"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ルリドラゴン"
+      }
+    ]
+  },
+  {
     "id": 7676,
     "titles": [
       {
@@ -512165,7 +512195,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Sekai Monoshiri Ryoko"
+        "title": "Sekai Monoshiri Ryokou"
       },
       {
         "type": 4,
