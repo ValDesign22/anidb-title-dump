@@ -301914,6 +301914,11 @@
       },
       {
         "type": 4,
+        "language": "fr",
+        "title": "Godzilla"
+      },
+      {
+        "type": 4,
         "language": "pl",
         "title": "Godzilla"
       },
@@ -301947,6 +301952,11 @@
   {
     "id": 15770,
     "titles": [
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Godzilla : L`origine de l`invasion"
+      },
       {
         "type": 1,
         "language": "x-jat",
