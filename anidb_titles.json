@@ -361735,6 +361735,11 @@
       {
         "type": 2,
         "language": "x-jat",
+        "title": "Yuusha Party wo Oidasareta Kiyoubinbou"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
         "title": "Yuusya Party wo Oidasareta Kiyou Bimbou"
       },
       {
@@ -368336,6 +368341,21 @@
         "type": 2,
         "language": "x-jat",
         "title": "Tetsukuzu Monogatari"
+      }
+    ]
+  },
+  {
+    "id": 19800,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Junk World"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "JUNK WORLD"
       }
     ]
   },
