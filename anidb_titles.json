@@ -335035,6 +335035,21 @@
     ]
   },
   {
+    "id": 19802,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Historie the Animation"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ヒストリエ THE ANIMATION"
+      }
+    ]
+  },
+  {
     "id": 4596,
     "titles": [
       {
@@ -371125,12 +371140,37 @@
     ]
   },
   {
+    "id": 19801,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kaguya-sama wa Kokurasetai Kanketsuhen"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Kaguya-sama: Love Is War Final Chapter"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "かぐや様は告らせたい 完結編"
+      }
+    ]
+  },
+  {
     "id": 19402,
     "titles": [
       {
         "type": 1,
         "language": "x-jat",
         "title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Kaguya-sama: Love Is War - Stairway to Adulthood"
       },
       {
         "type": 4,
@@ -439463,6 +439503,11 @@
         "title": "MF Ghost 3rd Season"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "MF Ghost Season 3"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "MFゴースト3rd Season"
@@ -487055,6 +487100,36 @@
     ]
   },
   {
+    "id": 12449,
+    "titles": [
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Pororo : la course des champions"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Pororo Geugjangpan Super Sseolmae Daemoheom"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Pororo, The Racing Adventure"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Little Penguin Pororo`s Racing Adventure"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "뽀로로 극장판 슈퍼썰매 대모험"
+      }
+    ]
+  },
+  {
     "id": 13929,
     "titles": [
       {
@@ -487070,23 +487145,13 @@
     ]
   },
   {
-    "id": 12449,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Pororo Geugjangpan Super Sseolmae Daemoheom"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "뽀로로 극장판 슈퍼썰매 대모험"
-      }
-    ]
-  },
-  {
     "id": 13928,
     "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Pororo goes to Korea"
+      },
       {
         "type": 1,
         "language": "x-kot",
@@ -568736,6 +568801,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "中国惊奇先生"
+      }
+    ]
+  },
+  {
+    "id": 19804,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhongguo Qi Tan 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "中国奇谭2"
       }
     ]
   },
