@@ -7325,6 +7325,31 @@
     ]
   },
   {
+    "id": 19565,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "#Kanagawa ni Sunderu Elf"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "#かなエル"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "#神奈川に住んでるエルフ"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "kanael"
+      }
+    ]
+  },
+  {
     "id": 19586,
     "titles": [
       {
@@ -10861,6 +10886,11 @@
         "type": 2,
         "language": "en",
         "title": "Detective Conan: Movie 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 2 - The Fourteenth Target"
       },
       {
         "type": 2,
@@ -152928,6 +152958,11 @@
         "title": "Detective Conan: Movie 4"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 4 - Captured in Her Eyes"
+      },
+      {
         "type": 4,
         "language": "de",
         "title": "Detektiv Conan - 4. Film: Der Killer in ihren Augen"
@@ -153001,6 +153036,11 @@
         "type": 2,
         "language": "en",
         "title": "Detective Conan: Movie 5"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 5 - Countdown to Heaven"
       },
       {
         "type": 4,
@@ -153093,6 +153133,11 @@
         "title": "Detective Conan: Movie 3"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 3 - The Last Wizard of the Century"
+      },
+      {
         "type": 4,
         "language": "de",
         "title": "Detektiv Conan - 3. Film: Der Magier des letzten Jahrhunderts"
@@ -153171,6 +153216,11 @@
         "type": 2,
         "language": "en",
         "title": "Detective Conan: Movie 6"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 6 - The Phantom of Baker Street"
       },
       {
         "type": 2,
@@ -153343,6 +153393,11 @@
         "title": "Detective Conan: Dimensional Sniper"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 18"
+      },
+      {
         "type": 4,
         "language": "de",
         "title": "Detektiv Conan - 18. Film: Der Scharfschütze aus einer anderen Dimension"
@@ -153401,6 +153456,11 @@
         "type": 3,
         "language": "en",
         "title": "Detective Conan: Movie 10"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 10 - The Private Eyes` Requiem"
       },
       {
         "type": 2,
@@ -153600,6 +153660,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Detective Conan: Movie 20"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Detective Conan: The Darkest Nightmare"
       },
       {
@@ -153651,6 +153716,11 @@
         "type": 2,
         "language": "en",
         "title": "Detective Conan Movie 23: The Fist of Blue Sapphire"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 23"
       },
       {
         "type": 4,
@@ -153750,6 +153820,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Detective Conan: Movie 13 - The Raven Chaser"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Detective Conan: The Raven Chaser"
       },
       {
@@ -153801,6 +153876,16 @@
         "type": 2,
         "language": "en",
         "title": "Detective Conan Movie 22: Zero`s Executioner"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 22"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 22 - Zero the Enforcer"
       },
       {
         "type": 2,
@@ -211533,6 +211618,11 @@
         "title": "Detective Conan: Movie 11"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 11 - Jolly Roger in the Deep Azure"
+      },
+      {
         "type": 4,
         "language": "de",
         "title": "Detektiv Conan - 11. Film: Die azurblaue Piratenflagge"
@@ -211601,6 +211691,11 @@
         "type": 3,
         "language": "en",
         "title": "Detective Conan: Movie 7"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 7 - Crossroad in the Ancient Capital"
       },
       {
         "type": 4,
@@ -211683,6 +211778,11 @@
         "title": "Detective Conan: Movie 8"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 8 - Magician of the Silver Sky"
+      },
+      {
         "type": 4,
         "language": "de",
         "title": "Detektiv Conan - 8. Film: Der Magier mit den Silberschwingen"
@@ -211741,6 +211841,11 @@
         "type": 3,
         "language": "en",
         "title": "Detective Conan: Movie 9"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 9 - Strategy Above the Depths"
       },
       {
         "type": 2,
@@ -211805,6 +211910,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Detective Conan: Movie 15 - Quarter of Silence"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Detective Conan: Quarter of Silence"
       },
       {
@@ -211841,6 +211951,11 @@
         "type": 2,
         "language": "en",
         "title": "Detective Conan: Movie 14"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 14 - The Lost Ship in the Sky"
       },
       {
         "type": 2,
@@ -211884,8 +211999,18 @@
       },
       {
         "type": 2,
+        "language": "x-unk",
+        "title": "Detective Conan Movie 24"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "Detective Conan Movie 24: The Scarlet Bullet"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 24"
       },
       {
         "type": 2,
@@ -211978,6 +212103,11 @@
         "title": "Detective Conan: Movie 12"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 12 - Full Score of Fear"
+      },
+      {
         "type": 4,
         "language": "de",
         "title": "Detektiv Conan - 12. Film: Die Partitur des Grauens"
@@ -212036,6 +212166,11 @@
         "type": 2,
         "language": "en",
         "title": "Detective Conan: Movie 16"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 16 - The Eleventh Striker"
       },
       {
         "type": 2,
@@ -212126,6 +212261,11 @@
         "type": 2,
         "language": "en",
         "title": "Detective Conan Movie 17"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 17 - Private Eye in the Distant Sea"
       },
       {
         "type": 2,
@@ -212336,6 +212476,11 @@
         "type": 2,
         "language": "en",
         "title": "Detective Conan Movie 28"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Detective Conan: Movie 28 - One-Eyed Flashback"
       },
       {
         "type": 2,
@@ -218941,6 +219086,21 @@
         "type": 2,
         "language": "ja",
         "title": "ディメンションW"
+      }
+    ]
+  },
+  {
+    "id": 19806,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Ding Ding Zhan Hou Wang"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "丁丁战猴王"
       }
     ]
   },
@@ -297265,6 +297425,21 @@
     ]
   },
   {
+    "id": 19807,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ginga Tokkyuu: Milky Subway Kakuekiteisha Gekijou Yuki"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き"
+      }
+    ]
+  },
+  {
     "id": 9836,
     "titles": [
       {
@@ -375406,16 +375581,6 @@
         "type": 4,
         "language": "ja",
         "title": "かながたり. かなばかり. 「かな~でぃあんファミリーズ」"
-      }
-    ]
-  },
-  {
-    "id": 19565,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kanagawa ni Sunderu Erufu"
       }
     ]
   },
@@ -501993,6 +502158,11 @@
         "title": "Ruri Dragon"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "RuriDragon"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ルリドラゴン"
@@ -563660,6 +563830,36 @@
     ]
   },
   {
+    "id": 19804,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Yao-Chinese Folktales 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Yao-Chinese Folktales II"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhongguo Qi Tan 2"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "中国奇谭 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "中国奇谭2"
+      }
+    ]
+  },
+  {
     "id": 18571,
     "titles": [
       {
@@ -564171,6 +564371,21 @@
         "type": 4,
         "language": "zh",
         "title": "一人之下2番外篇天师下山"
+      }
+    ]
+  },
+  {
+    "id": 19805,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yi Ren Zhixia Season 6"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "一人之下 第6季"
       }
     ]
   },
@@ -568801,21 +569016,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "中国惊奇先生"
-      }
-    ]
-  },
-  {
-    "id": 19804,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Zhongguo Qi Tan 2"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "中国奇谭2"
       }
     ]
   },
