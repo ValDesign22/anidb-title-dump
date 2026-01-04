@@ -323163,12 +323163,12 @@
         "title": "Kui Cheng Shoufu Cong Youxi Kaishi"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "en",
         "title": "Losing Money to Be a Tycoon"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Richest Man In Game"
       },
@@ -371351,6 +371351,11 @@
         "type": 4,
         "language": "ja",
         "title": "かぐや様は告らせたい 大人への階段"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "辉夜大小姐想让我告白 迈向大人的阶梯"
       }
     ]
   },
@@ -543475,6 +543480,21 @@
     ]
   },
   {
+    "id": 19808,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Outcast Season 6"
+      },
+      {
+        "type": 1,
+        "language": "zh",
+        "title": "Yi Ren Zhi Xia 6"
+      }
+    ]
+  },
+  {
     "id": 18340,
     "titles": [
       {
@@ -545451,6 +545471,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Watashi wo Tabetai, Hitodenashi"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "watatabe"
       },
       {
         "type": 3,
