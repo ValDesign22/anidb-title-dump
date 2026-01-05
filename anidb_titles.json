@@ -27835,7 +27835,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Buchigire Reijou wa Houfuku o Chikaimashita. Madousho no Chikara de Sokoku o Tataki Tsubushimasu"
+        "title": "Buchigire Reijou wa Houfuku o Chikaimashita. Madousho no Chikara de Sokoku o Tatakitsubushimasu"
       },
       {
         "type": 4,
@@ -136970,6 +136970,26 @@
     ]
   },
   {
+    "id": 19810,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Boukensha License o Hakudatsu Sareta Ossan Dakedo, Manamusume ga Dekita node Nonbiri Jinsei o Ouka Suru"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "I Lost My Adventurer`s License, but It`s Fine Because I Have an Adorable Daughter Now"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "冒険者ライセンスを剥奪されたおっさんだけど, 愛娘ができたのでのんびり人生を謳歌する"
+      }
+    ]
+  },
+  {
     "id": 17695,
     "titles": [
       {
@@ -151783,6 +151803,11 @@
     "id": 19352,
     "titles": [
       {
+        "type": 4,
+        "language": "en",
+        "title": "Cardfight!! Vanguard: Divinez Deluxe Finals"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Cardfight!! Vanguard: Divinez Deluxe Kesshou Hen"
@@ -151801,6 +151826,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Cardfight!! Vanguard: Divinez Genma Seisen Hen"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Cardfight!! Vanguard: Divinez Parallactic Clash Arc"
       },
       {
         "type": 4,
@@ -168046,6 +168076,21 @@
         "type": 4,
         "language": "zh",
         "title": "宠物联盟"
+      }
+    ]
+  },
+  {
+    "id": 19813,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "CHOPPER`S"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Chopper`s"
       }
     ]
   },
@@ -193350,17 +193395,37 @@
     ]
   },
   {
-    "id": 4087,
+    "id": 16865,
     "titles": [
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Da Nao Tian Gong"
+        "title": "Da Nao Xiyou"
       },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "大闹西游"
+      }
+    ]
+  },
+  {
+    "id": 4087,
+    "titles": [
       {
         "type": 2,
         "language": "x-zht",
         "title": "Da no tien gu"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Danao Tiangong"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Dao Nao Tiangong"
       },
       {
         "type": 4,
@@ -193441,21 +193506,6 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "大鬧天宮"
-      }
-    ]
-  },
-  {
-    "id": 16865,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Da Nao Xiyou"
-      },
-      {
-        "type": 4,
-        "language": "zh",
-        "title": "大闹西游"
       }
     ]
   },
@@ -196426,6 +196476,46 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "弹珠传说"
+      }
+    ]
+  },
+  {
+    "id": 19727,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Danao Tiangong 3D"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Dao Nao Tiangong 3D"
+      },
+      {
+        "type": 2,
+        "language": "zh",
+        "title": "The Monkey King 3D"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Monkey King: Uproar in Heaven (2012)"
+      },
+      {
+        "type": 6,
+        "language": "en",
+        "title": "The Monkey King: Uproar in Heaven 3D"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "大闹天宫3D"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "大鬧天宮3D"
       }
     ]
   },
@@ -285765,6 +285855,26 @@
     ]
   },
   {
+    "id": 19812,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Majo no Tabitabi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Wandering Witch: The Journey of Elaina the Movie"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版 魔女の旅々"
+      }
+    ]
+  },
+  {
     "id": 5839,
     "titles": [
       {
@@ -332464,6 +332574,11 @@
       },
       {
         "type": 4,
+        "language": "es",
+        "title": "Kimengumi: Escuela de locos"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "ハイスクール! 奇面組 (2026)"
       }
@@ -333496,6 +333611,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Hikuidori: Ushuu Boro Tobi-gumi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Oedo Fire Slayer -The Legend of Phoenix-"
       },
       {
         "type": 4,
@@ -360145,6 +360265,26 @@
     ]
   },
   {
+    "id": 19811,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer to Shite Tanoshiku Ikiru 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Brilliant Healer`s New Life in the Shadows 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "一瞬で治療していたのに役立たずと追放された天才治癒師, 闇ヒーラーとして楽しく生きる 2"
+      }
+    ]
+  },
+  {
     "id": 10273,
     "titles": [
       {
@@ -371845,21 +371985,6 @@
     ]
   },
   {
-    "id": 19659,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Kaiju Ditan Maidali"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "开局地摊卖大力"
-      }
-    ]
-  },
-  {
     "id": 12021,
     "titles": [
       {
@@ -373016,6 +373141,36 @@
         "type": 4,
         "language": "ja",
         "title": "賭ケグルイXX"
+      }
+    ]
+  },
+  {
+    "id": 19720,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Kakekoi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Love Unseen Beneath the Clear Night Sky"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Toumei na Yoru ni Kakeru-kun to, Me ni Mienai Koi o Shita."
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "かけ恋"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "透明な夜に駆ける君と, 目に見えない恋をした."
       }
     ]
   },
@@ -399683,6 +399838,11 @@
         "title": "Majutsushi Kunon wa Miete Iru"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Majutsushi Kunon wa Mieteiru"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "魔術師クノンは見えている"
@@ -416826,26 +416986,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "恋爱暴君"
-      }
-    ]
-  },
-  {
-    "id": 19720,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Love Unseen Beneath the Clear Night Sky"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Toumei na Yoru ni Kakeru-kun to, Me ni Mienai Koi o Shita."
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "透明な夜に駆ける君と, 目に見えない恋をした."
       }
     ]
   },
@@ -475845,7 +475985,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "お隣の天使様にいつの間にか駄目人間にされていた件 2"
+        "title": "お隣の天使様にいつの間にか駄目人間にされていた件2"
       }
     ]
   },
@@ -505276,6 +505416,21 @@
         "type": 4,
         "language": "ja",
         "title": "聖ヤリマンシスターズ パコパコ日記 THE ANIMATION"
+      }
+    ]
+  },
+  {
+    "id": 19809,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Saioshi no Gikei o Mederu Tame, Nagaikishimasu!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "最推しの義兄を愛でるため, 長生きします!"
       }
     ]
   },
@@ -543225,21 +543380,6 @@
     ]
   },
   {
-    "id": 19727,
-    "titles": [
-      {
-        "type": 1,
-        "language": "en",
-        "title": "The Monkey King 3D: Uproar in Heaven"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "大闹天宫3D"
-      }
-    ]
-  },
-  {
     "id": 16736,
     "titles": [
       {
@@ -564400,6 +564540,21 @@
     ]
   },
   {
+    "id": 19814,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yi Ren Zhixia 6"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "一人之下 第六季"
+      }
+    ]
+  },
+  {
     "id": 19805,
     "titles": [
       {
@@ -568896,21 +569051,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "枕刀歌 第二季"
-      }
-    ]
-  },
-  {
-    "id": 19658,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Zhen Dao Ge 3rd Season"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "枕刀歌 第三季 孤城闭雪"
       }
     ]
   },
