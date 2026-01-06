@@ -1019,6 +1019,11 @@
       },
       {
         "type": 2,
+        "language": "fr",
+        "title": "McDo"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "Satan"
       },
@@ -9384,13 +9389,93 @@
     "titles": [
       {
         "type": 4,
+        "language": "vi",
+        "title": "100 mét"
+      },
+      {
+        "type": 4,
+        "language": "hr",
+        "title": "100 metara"
+      },
+      {
+        "type": 4,
+        "language": "hu",
+        "title": "100 méter"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "100 Meters"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "100 Metres"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "100 MÈTRES"
+      },
+      {
+        "type": 4,
+        "language": "it",
+        "title": "100 metri - Hyakuemu"
+      },
+      {
+        "type": 4,
+        "language": "es-419",
+        "title": "100 metros"
+      },
+      {
+        "type": 4,
+        "language": "es",
+        "title": "100 metros"
+      },
+      {
+        "type": 4,
+        "language": "pt-BR",
+        "title": "100 Metros"
+      },
+      {
+        "type": 4,
+        "language": "el",
+        "title": "100 Μέτρα"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "100 метрів"
+      },
+      {
+        "type": 4,
+        "language": "he",
+        "title": "100 מטר"
+      },
+      {
+        "type": 4,
+        "language": "ar",
+        "title": "‎100 متر"
+      },
+      {
+        "type": 4,
+        "language": "th",
+        "title": "100 เมตร"
       },
       {
         "type": 2,
         "language": "en",
         "title": "100m."
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "100미터"
+      },
+      {
+        "type": 4,
+        "language": "cs",
+        "title": "Běh do sebe"
       },
       {
         "type": 1,
@@ -9401,6 +9486,16 @@
         "type": 4,
         "language": "ja",
         "title": "ひゃくえむ."
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "一百公尺"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "百米。"
       }
     ]
   },
@@ -31249,6 +31344,16 @@
       },
       {
         "type": 4,
+        "language": "he",
+        "title": "הוורד מוורסאי (2025)"
+      },
+      {
+        "type": 4,
+        "language": "ar",
+        "title": "زهرة فيرساي (2025)"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "ベルサイユのばら (2025)"
       },
@@ -31256,6 +31361,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "凡尔赛玫瑰（2025）"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "凡爾賽玫瑰 (2025)"
       }
     ]
   },
@@ -198969,7 +199079,17 @@
       },
       {
         "type": 4,
+        "language": "ko",
+        "title": "도원암귀"
+      },
+      {
+        "type": 4,
         "language": "ja",
+        "title": "桃源暗鬼"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "桃源暗鬼"
       }
     ]
@@ -215446,6 +215566,11 @@
         "type": 4,
         "language": "th",
         "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "약사의 혼잣말"
       },
       {
         "type": 4,
@@ -245975,6 +246100,31 @@
     ]
   },
   {
+    "id": 19188,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Elegy for the Henchmen: Fist of the North Star"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Fist of the North Star: Elegy of Ken-Oh`s Army Grunts"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hokuto no Ken: Ken`ou-gun Zako-tachi no Banka"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "北斗の拳 拳王軍ザコたちの挽歌"
+      }
+    ]
+  },
+  {
     "id": 6335,
     "titles": [
       {
@@ -264156,26 +264306,6 @@
         "type": 4,
         "language": "ja",
         "title": "真救世主伝説 北斗の拳 ZERO ケンシロウ伝"
-      }
-    ]
-  },
-  {
-    "id": 19188,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Fist of the North Star: Elegy of Ken-Oh`s Army Grunts"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Hokuto no Ken: Ken`ou-gun Zako-tachi no Banka"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "北斗の拳 拳王軍ザコたちの挽歌"
       }
     ]
   },
@@ -303351,6 +303481,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Golden Kamuy Saishuushou"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Golden Kamuy Season 5"
       },
       {
         "type": 4,
@@ -390453,6 +390588,11 @@
     "id": 19087,
     "titles": [
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Kizoku Tensei - Megumareta Umare kara Saikyou no Chikara wo Eru"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara o Eru"
@@ -445363,9 +445503,14 @@
         "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs 2"
       },
       {
+        "type": 3,
+        "language": "ja",
+        "title": "モブせか2"
+      },
+      {
         "type": 4,
         "language": "ja",
-        "title": "乙女ゲー世界はモブに厳しい世界です 2"
+        "title": "乙女ゲー世界はモブに厳しい世界です2"
       }
     ]
   },
@@ -452006,6 +452151,16 @@
         "type": 4,
         "language": "en",
         "title": "My Hero Academia: Vigilantes (2026)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "My Hero Academia: Vigilantes Season 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Vigilante - Boku no Hero Academia Illegals S2"
       },
       {
         "type": 1,
@@ -473158,6 +473313,11 @@
         "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf"
       },
       {
+        "type": 4,
+        "language": "vi",
+        "title": "Sói và gia vị: Thương nhân gặp sói thông thái"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "Spice and Wolf (2024)"
@@ -473178,6 +473338,11 @@
         "title": "Волчица и пряности: Торговец встречает мудрую волчицу"
       },
       {
+        "type": 4,
+        "language": "th",
+        "title": "สาวหมาป่ากับนายเครื่องเทศ"
+      },
+      {
         "type": 2,
         "language": "ko",
         "title": "늑대와 향신료 MERCHANT MEETS THE WISE WOLF"
@@ -473196,6 +473361,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "狼与香辛料 行商邂逅贤狼"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "狼與辛香料 (2024)"
       }
     ]
   },
@@ -493353,6 +493523,11 @@
         "title": "Robotics;Notes"
       },
       {
+        "type": 4,
+        "language": "es-419",
+        "title": "Robotics;Notes"
+      },
+      {
         "type": 2,
         "language": "ru",
         "title": "Записки о робототехнике"
@@ -505425,7 +505600,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Saioshi no Gikei o Mederu Tame, Nagaikishimasu!"
+        "title": "Saioshi no Gikei o Mederu Tame, Nagaiki Shimasu!"
       },
       {
         "type": 4,
@@ -543629,8 +543804,13 @@
       },
       {
         "type": 1,
-        "language": "zh",
-        "title": "Yi Ren Zhi Xia 6"
+        "language": "x-zht",
+        "title": "Yi Ren Zhixia 6"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "一人之下 第六季"
       }
     ]
   },
@@ -560913,6 +561093,21 @@
         "title": "Ведьмнадзор"
       },
       {
+        "type": 4,
+        "language": "ar",
+        "title": "الساحرة والغول"
+      },
+      {
+        "type": 4,
+        "language": "th",
+        "title": "วิทช์วอทช์"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "위치 워치"
+      },
+      {
         "type": 2,
         "language": "ja",
         "title": "ウィッチウォッチ"
@@ -564536,36 +564731,6 @@
         "type": 4,
         "language": "zh",
         "title": "一人之下2番外篇天师下山"
-      }
-    ]
-  },
-  {
-    "id": 19814,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Yi Ren Zhixia 6"
-      },
-      {
-        "type": 4,
-        "language": "zh",
-        "title": "一人之下 第六季"
-      }
-    ]
-  },
-  {
-    "id": 19805,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Yi Ren Zhixia Season 6"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "一人之下 第6季"
       }
     ]
   },
