@@ -21115,6 +21115,141 @@
     ]
   },
   {
+    "id": 19337,
+    "titles": [
+      {
+        "type": 4,
+        "language": "hu",
+        "title": "A csillagokon túl"
+      },
+      {
+        "type": 4,
+        "language": "x-jat",
+        "title": "Ano Hoshi ni Kimi ga Iru"
+      },
+      {
+        "type": 4,
+        "language": "tr",
+        "title": "Bir Yıldız Kadar Uzak"
+      },
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "I Byeol-e Pil-yohan"
+      },
+      {
+        "type": 4,
+        "language": "hr",
+        "title": "Izgubljeni u zvjezdanom sjaju"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Juste l`espace entre nous"
+      },
+      {
+        "type": 4,
+        "language": "vi",
+        "title": "Lạc trong ánh sao"
+      },
+      {
+        "type": 4,
+        "language": "es",
+        "title": "Lo que le falta a esta estrella"
+      },
+      {
+        "type": 4,
+        "language": "es-419",
+        "title": "Lo que le falta a esta estrella"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Lost in Starlight"
+      },
+      {
+        "type": 4,
+        "language": "hi",
+        "title": "Lost in Starlight: सितारों में गुम"
+      },
+      {
+        "type": 4,
+        "language": "ro",
+        "title": "Pierduți printre stele"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Separados Pelas Estrelas"
+      },
+      {
+        "type": 4,
+        "language": "pt-BR",
+        "title": "Separados pelas Estrelas"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Zagubieni w świetle gwiazd"
+      },
+      {
+        "type": 4,
+        "language": "cs",
+        "title": "Ztracená v svitu hvězd"
+      },
+      {
+        "type": 4,
+        "language": "el",
+        "title": "Χαμένη στο Φως των Αστεριών"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Загублені в зоряному сяйві"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Затерянная в свете звезд"
+      },
+      {
+        "type": 4,
+        "language": "he",
+        "title": "החלל שביניהם"
+      },
+      {
+        "type": 4,
+        "language": "ar",
+        "title": "تائهان في فضاء الحب"
+      },
+      {
+        "type": 4,
+        "language": "th",
+        "title": "เลือนหายในแสงดาว"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "이 별에 필요한"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "あの星に君がいる"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "再見星上人"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "再见星上人"
+      }
+    ]
+  },
+  {
     "id": 2630,
     "titles": [
       {
@@ -31329,6 +31464,46 @@
       },
       {
         "type": 4,
+        "language": "vi",
+        "title": "Hoa hồng Versailles (2025)"
+      },
+      {
+        "type": 4,
+        "language": "es",
+        "title": "La rosa de Versalles (2025)"
+      },
+      {
+        "type": 4,
+        "language": "es-419",
+        "title": "La rosa de Versalles (2025)"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "La Rose de Versailles (2025)"
+      },
+      {
+        "type": 4,
+        "language": "it",
+        "title": "Le rose di Versailles - Lady Oscar (2025)"
+      },
+      {
+        "type": 4,
+        "language": "pt-BR",
+        "title": "Rosa de Versalhes (2025)"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Róża Wersalu (2025)"
+      },
+      {
+        "type": 4,
+        "language": "cs",
+        "title": "Růže z Versailles (2025)"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "The Rose of Versailles (2025)"
       },
@@ -31344,6 +31519,26 @@
       },
       {
         "type": 4,
+        "language": "hu",
+        "title": "Versailles rózsája (2025)"
+      },
+      {
+        "type": 4,
+        "language": "tr",
+        "title": "Versay`ın Gülü (2025)"
+      },
+      {
+        "type": 4,
+        "language": "el",
+        "title": "Το Ρόδο των Βερσαλλιών (2025)"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Троянда Версаля (2025)"
+      },
+      {
+        "type": 4,
         "language": "he",
         "title": "הוורד מוורסאי (2025)"
       },
@@ -31351,6 +31546,16 @@
         "type": 4,
         "language": "ar",
         "title": "زهرة فيرساي (2025)"
+      },
+      {
+        "type": 4,
+        "language": "th",
+        "title": "กุหลาบแวร์ซายส์ (2025)"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "베르사유의 장미 (2025)"
       },
       {
         "type": 4,
@@ -70310,46 +70515,6 @@
     ]
   },
   {
-    "id": 19337,
-    "titles": [
-      {
-        "type": 4,
-        "language": "x-jat",
-        "title": "Ano Hoshi ni Kimi ga Iru"
-      },
-      {
-        "type": 1,
-        "language": "x-kot",
-        "title": "I Byeol-e Pil-yohan"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Lost in Starlight"
-      },
-      {
-        "type": 4,
-        "language": "pt",
-        "title": "Separados Pelas Estrelas"
-      },
-      {
-        "type": 4,
-        "language": "pl",
-        "title": "Zagubieni w świetle gwiazd"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "이 별에 필요한"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "あの星に君がいる"
-      }
-    ]
-  },
-  {
     "id": 15792,
     "titles": [
       {
@@ -81451,6 +81616,11 @@
         "type": 2,
         "language": "en",
         "title": "The Case Book of Arne"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Casebook of Arne"
       },
       {
         "type": 4,
@@ -199808,7 +199978,12 @@
         "title": "Darwin`s Incident"
       },
       {
-        "type": 2,
+        "type": 4,
+        "language": "es",
+        "title": "El incidente Darwin"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "The Darwin Incident"
       },
@@ -362216,6 +362391,16 @@
         "type": 3,
         "language": "ja",
         "title": "器用貧乏"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "泛而不精的我被逐出了勇者队伍"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "泛而不精的我被逐出了勇者隊伍"
       }
     ]
   },
@@ -411483,14 +411668,84 @@
     "id": 18676,
     "titles": [
       {
+        "type": 4,
+        "language": "pt-BR",
+        "title": "Leviatã"
+      },
+      {
+        "type": 4,
+        "language": "cs",
+        "title": "Leviatan"
+      },
+      {
+        "type": 4,
+        "language": "hu",
+        "title": "Leviatán"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Leviathan"
       },
       {
         "type": 4,
+        "language": "fr",
+        "title": "Léviathan"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Lewiatan"
+      },
+      {
+        "type": 4,
+        "language": "el",
+        "title": "Λεβιάθαν"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Левіафан"
+      },
+      {
+        "type": 4,
+        "language": "he",
+        "title": "לווייתן"
+      },
+      {
+        "type": 4,
+        "language": "ar",
+        "title": "سفينة ليفايثان"
+      },
+      {
+        "type": 4,
+        "language": "hi",
+        "title": "लेवायथन"
+      },
+      {
+        "type": 4,
+        "language": "th",
+        "title": "เลวีอาธาน ปฐมบทมหาสงคราม"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "리바이어던"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "リヴァイアサン"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "利維坦號戰記"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "利维坦号战记"
       }
     ]
   },
@@ -416145,6 +416400,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Love Flops"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "Love Flops"
       },
       {
@@ -457073,6 +457333,11 @@
         "title": "Natsu to Hako"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "여름과 상자"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "夏と箱"
@@ -476571,6 +476836,11 @@
         "type": 4,
         "language": "ja",
         "title": "OVA ケガレボシ"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "더럽혀진 별"
       }
     ]
   },
@@ -514644,6 +514914,16 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "判处勇者刑 惩罚勇者9004队刑务纪录"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "判處勇者刑"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "勇者刑に処す 懲罰勇者9004隊刑務記録"
       }
@@ -537496,6 +537776,16 @@
         "type": 4,
         "language": "ja",
         "title": "多聞くん今どっち!?"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "现在多闻君是哪一面！？"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "現在的是哪一個多聞！？"
       }
     ]
   },
@@ -545656,6 +545946,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shite Mita."
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita."
       },
       {
         "type": 3,
@@ -565381,6 +565676,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Yoroi Shin Den Samurai Troopers"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Yoroi-Shinden Samurai Troopers"
       },
       {
         "type": 4,
