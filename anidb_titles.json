@@ -26545,6 +26545,121 @@
     ]
   },
   {
+    "id": 19701,
+    "titles": [
+      {
+        "type": 4,
+        "language": "hu",
+        "title": "A kozmikus Kaguya hercegnő"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Chou Kaguya-hime!"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Cosmic Princess Kaguya!"
+      },
+      {
+        "type": 4,
+        "language": "ro",
+        "title": "Cosmica prințesă Kaguya!"
+      },
+      {
+        "type": 4,
+        "language": "vi",
+        "title": "Kaguya – Công chúa vũ trụ!"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Kaguya, princesse cosmique"
+      },
+      {
+        "type": 4,
+        "language": "pt-BR",
+        "title": "Kaguya: A Princesa Espacial"
+      },
+      {
+        "type": 4,
+        "language": "cs",
+        "title": "Kosmická princezna Kaguja!"
+      },
+      {
+        "type": 4,
+        "language": "hr",
+        "title": "Kozmička princeza Kaguya!"
+      },
+      {
+        "type": 4,
+        "language": "es-419",
+        "title": "La princesa Kaguya del cosmos"
+      },
+      {
+        "type": 4,
+        "language": "es",
+        "title": "La princesa Kaguya del cosmos"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Princesa Cósmica Kaguya!"
+      },
+      {
+        "type": 4,
+        "language": "el",
+        "title": "Κοσμική Πριγκίπισσα Καγκούγια!"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Космическая принцесса Кагуя!"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Космічна принцеса Каґуя!"
+      },
+      {
+        "type": 4,
+        "language": "he",
+        "title": "הנסיכה הקוסמית קאגויה"
+      },
+      {
+        "type": 4,
+        "language": "ar",
+        "title": "‫كاغويا أميرة الفضاء!"
+      },
+      {
+        "type": 4,
+        "language": "th",
+        "title": "เจ้าหญิงกระบอกไม้ไผ่ ในโลกเมตาเวิร์ส"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "초(超) 가구야 공주!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "超かぐや姫!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "超时空辉耀姬！"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "超時空輝耀姬！"
+      }
+    ]
+  },
+  {
     "id": 15326,
     "titles": [
       {
@@ -71973,6 +72088,11 @@
         "title": "Anyway, I`m Falling in Love with You. (2026)"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Douse, Koishite Shimaunda S2"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Douse, Koishite Shimaunda. (2026)"
@@ -101031,6 +101151,16 @@
         "type": 1,
         "language": "x-jat",
         "title": "Baki-dou"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "BAKI-DOU: The Invincible Samurai"
+      },
+      {
+        "type": 4,
+        "language": "he",
+        "title": "‫‏המסע של באקי: הסמוראי הבלתי מנוצח"
       },
       {
         "type": 4,
@@ -160093,9 +160223,19 @@
         "title": "Chained Soldier 2"
       },
       {
+        "type": 4,
+        "language": "en",
+        "title": "Chained Soldier Season 2"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Mato Seihei no Slave 2"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Mato Seihei no Slave S2"
       },
       {
         "type": 4,
@@ -160428,7 +160568,7 @@
         "title": "Champignon no Majo"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Champignon Witch"
       },
@@ -168931,26 +169071,6 @@
         "type": 4,
         "language": "ja",
         "title": "超巡! 超条先輩"
-      }
-    ]
-  },
-  {
-    "id": 19701,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Chou Kaguya-hime!"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Cosmic Princess Kaguya!"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "超かぐや姫!"
       }
     ]
   },
@@ -199981,6 +200101,11 @@
         "type": 4,
         "language": "es",
         "title": "El incidente Darwin"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Incydent Darwina"
       },
       {
         "type": 4,
@@ -333929,6 +334054,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Oedo Fire Slayer: The Legend of Phoenix"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "火喰鳥 羽州ぼろ鳶組"
       }
@@ -336001,6 +336131,41 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "一人之下2"
+      }
+    ]
+  },
+  {
+    "id": 19808,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Hitori no Shita - The Outcast S6"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Hitori no Shita: The Outcast 6"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Outcast 6"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Outcast Season 6"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yi Ren Zhixia 6"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "一人之下 第六季"
       }
     ]
   },
@@ -393478,6 +393643,11 @@
     "id": 19815,
     "titles": [
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "koi shita hito wa"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Koi Shita Hito wa, Imouto no Kawari ni Shindekure to Itta."
@@ -393486,6 +393656,11 @@
         "type": 2,
         "language": "en",
         "title": "The Person I Loved Asked Me to Die in My Sister`s Stead"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "恋した人は"
       },
       {
         "type": 4,
@@ -417306,6 +417481,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Prism Rondo"
+      },
+      {
+        "type": 4,
+        "language": "he",
+        "title": "פריזמה של אהבה"
       },
       {
         "type": 4,
@@ -510883,7 +511063,7 @@
     "id": 19219,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Scum of the Brave"
       },
@@ -511591,6 +511771,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Seihou Shouka Saint Lime"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "성보정화 세인트라임"
       },
       {
         "type": 4,
@@ -518079,13 +518264,58 @@
       },
       {
         "type": 4,
+        "language": "fr",
+        "title": "SHIBOYUGI : Survivre est mon métier"
+      },
+      {
+        "type": 4,
+        "language": "pt-BR",
+        "title": "SHIBOYUGI: Jogos Mortais para Colocar Comida na Mesa"
+      },
+      {
+        "type": 4,
+        "language": "es",
+        "title": "SHIBOYUGI: Juegos mortales para ganarse el pan"
+      },
+      {
+        "type": 4,
+        "language": "vi",
+        "title": "SHIBOYUGI: Kiếm sống bằng trò chơi sinh tử"
+      },
+      {
+        "type": 4,
+        "language": "es-419",
+        "title": "SHIBOYUGI: Me gano el pan participando de juegos mortales"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Shiboyugi: Playing Death Games to Put Food on the Table"
       },
       {
         "type": 4,
+        "language": "ar",
+        "title": "‎لعبة الموت من أجل لقمة العيش"
+      },
+      {
+        "type": 4,
+        "language": "th",
+        "title": "ลิขิตชะตาเกมท้าตาย"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "사망 유희로 밥을 먹는다."
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "死亡遊戯で飯を食う."
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "靠死亡遊戲混飯吃。"
       }
     ]
   },
@@ -531439,6 +531669,11 @@
       },
       {
         "type": 4,
+        "language": "he",
+        "title": "מרוץ סטיל בול: ההרפתקה המוזרה של ג`וג`ו"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "スティール・ボール・ラン ジョジョの奇妙な冒険"
       }
@@ -544101,26 +544336,6 @@
         "type": 4,
         "language": "en",
         "title": "The One Piece"
-      }
-    ]
-  },
-  {
-    "id": 19808,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "The Outcast Season 6"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Yi Ren Zhixia 6"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "一人之下 第六季"
       }
     ]
   },
@@ -565704,8 +565919,33 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Yoroi-Shinden Samurai Troopers"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "鎧真伝サムライトルーパー"
+      }
+    ]
+  },
+  {
+    "id": 19816,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yoroi Shin Den Samurai Troopers 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Yoroi-Shinden Samurai Troopers 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "鎧真伝サムライトルーパー 2"
       }
     ]
   },
