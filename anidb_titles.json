@@ -4066,6 +4066,11 @@
         "type": 4,
         "language": "fr",
         "title": "Oshi no Ko"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Oshi no Ko: Mein Star"
       }
     ]
   },
@@ -64465,6 +64470,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Does It Count If You Lose Your Innocence to an Android?"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Does It Count if You Lose Your Virginity to an Android?"
       },
       {
@@ -72086,6 +72096,11 @@
         "type": 4,
         "language": "en",
         "title": "Anyway, I`m Falling in Love with You. (2026)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Anyway, I`m Falling in Love with You. Season 2"
       },
       {
         "type": 2,
@@ -199598,6 +199613,11 @@
     "id": 18869,
     "titles": [
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Dark Moon - Tsuki no Saidan"
+      },
+      {
         "type": 6,
         "language": "ja",
         "title": "DARK MOON -黒の月:月の祭壇-"
@@ -285480,6 +285500,26 @@
     ]
   },
   {
+    "id": 19819,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Jujutsu Kaisen \"Shibuya Jihen Tokubetsu Henshuuban\" x \"Shimetsu Kaiyuu Senkou Jouei\""
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Jujutsu Kaisen: Execution - Shibuya Incident x The Culling Game Begins"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」"
+      }
+    ]
+  },
+  {
     "id": 16169,
     "titles": [
       {
@@ -368128,14 +368168,19 @@
     "id": 18363,
     "titles": [
       {
+        "type": 2,
+        "language": "en",
+        "title": "Jujutsu Kaisen Season 3"
+      },
+      {
         "type": 1,
         "language": "x-jat",
-        "title": "Jujutsu Kaisen: Shimetsu Kaiyuu"
+        "title": "Jujutsu Kaisen: Shimetsu Kaiyuu Zenpen"
       },
       {
         "type": 4,
         "language": "en",
-        "title": "Jujutsu Kaisen: The Culling Game"
+        "title": "Jujutsu Kaisen: The Culling Game Part 1"
       },
       {
         "type": 2,
@@ -368145,7 +368190,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "呪術廻戦 死滅回游"
+        "title": "呪術廻戦 死滅回游 前編"
       }
     ]
   },
@@ -372466,6 +372511,21 @@
         "type": 4,
         "language": "ja",
         "title": "怪獣デコード アイダラの指輪"
+      }
+    ]
+  },
+  {
+    "id": 19820,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Kaiju Ditan Mai Dali"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "开局地摊卖大力"
       }
     ]
   },
@@ -560381,6 +560441,11 @@
         "type": 4,
         "language": "ja",
         "title": "わたしが恋人になれるわけないじゃん, ムリムリ! (※ムリじゃなかった!?) ~ネクストシャイン!~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "我们不可能成为恋人！绝对不行。 （※似乎可行？）～Next Shine～"
       }
     ]
   },
