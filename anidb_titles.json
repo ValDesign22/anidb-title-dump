@@ -372523,6 +372523,16 @@
         "title": "Kaiju Ditan Mai Dali"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Open a Street Stall and Sell Vigorously"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Most Powerful Vendor"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "开局地摊卖大力"
@@ -470316,6 +470326,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "你还是不懂群马"
+      }
+    ]
+  },
+  {
+    "id": 19821,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Omae wa Mada Gunma o Shiranai: Reiwa Ban"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "You Don`t Know Gunma Yet: Reiwa Version"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "お前はまだグンマを知らない~令和版~"
       }
     ]
   },
