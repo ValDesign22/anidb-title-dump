@@ -14255,21 +14255,6 @@
     ]
   },
   {
-    "id": 19603,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "4 Week Lovers"
-      },
-      {
-        "type": 1,
-        "language": "x-kot",
-        "title": "4-ju Aein"
-      }
-    ]
-  },
-  {
     "id": 7243,
     "titles": [
       {
@@ -105065,6 +105050,21 @@
     ]
   },
   {
+    "id": 19829,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "BanG Dream! Ave Mujica prima aurora"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Bang Dream! Ave Mujica: Prima Aurora"
+      }
+    ]
+  },
+  {
     "id": 15516,
     "titles": [
       {
@@ -192584,6 +192584,11 @@
       },
       {
         "type": 4,
+        "language": "pt",
+        "title": "D`Artacão e os Três Moscãoteiros"
+      },
+      {
+        "type": 4,
         "language": "pt-BR",
         "title": "D`Artagnan e os Três Mosqueteiros"
       },
@@ -192601,11 +192606,6 @@
         "type": 4,
         "language": "de",
         "title": "D`Artagnan und die 3 MuskeTiere"
-      },
-      {
-        "type": 4,
-        "language": "pt",
-        "title": "Dartacão e os Três Moscãoteiros"
       },
       {
         "type": 3,
@@ -194191,6 +194191,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "大主宰年番"
+      }
+    ]
+  },
+  {
+    "id": 19826,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Da Zhu Zai Nian Fan 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "大主宰年番2"
       }
     ]
   },
@@ -214041,6 +214056,21 @@
         "type": 4,
         "language": "ja",
         "title": "名探偵ホームズ"
+      }
+    ]
+  },
+  {
+    "id": 19830,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Detective Jia an"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Tantei Kaan"
       }
     ]
   },
@@ -315498,24 +315528,19 @@
         "title": "Gyaru Harem Invasion"
       },
       {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Oshikake! Bakunyuu Gal Harem Seikatsu"
-      },
-      {
         "type": 1,
         "language": "x-jat",
-        "title": "OVA Oshikake! Bakunyuu Gyaru Harem Seikatsu"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "OVA おしかけ! 爆乳ギャルハーレム性活"
+        "title": "Oshikake! Bakunyuu Gal Harem Seikatsu"
       },
       {
         "type": 2,
         "language": "ko",
         "title": "우르르르! 폭유 갸루 하렘 성생활"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "おしかけ! 爆乳ギャルハーレム性活"
       }
     ]
   },
@@ -399021,6 +399046,11 @@
         "type": 4,
         "language": "th",
         "title": "ตำนานวิญญาณแฟนซี"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "정령환상기"
       },
       {
         "type": 4,
@@ -512094,6 +512124,11 @@
       },
       {
         "type": 4,
+        "language": "ko",
+        "title": "정령환상기 2"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "精灵幻想记 2"
       },
@@ -531416,6 +531451,26 @@
         "type": 2,
         "language": "ko",
         "title": "별난 21세기 음란증"
+      }
+    ]
+  },
+  {
+    "id": 19827,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Starlight Project"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "スタァライトプロジェクト"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "少女☆歌劇 レヴュースタァライト 完全新作"
       }
     ]
   },
@@ -569946,6 +570001,21 @@
         "type": 4,
         "language": "ja",
         "title": "ゼロ デュエル・マスターズ"
+      }
+    ]
+  },
+  {
+    "id": 19828,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Zero Rise"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ZERO RISE"
       }
     ]
   },
