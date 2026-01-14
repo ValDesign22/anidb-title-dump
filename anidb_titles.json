@@ -160229,6 +160229,16 @@
       },
       {
         "type": 2,
+        "language": "pt-BR",
+        "title": "Soldado Acorrentado"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Soldado Acorrentado"
+      },
+      {
+        "type": 2,
         "language": "ru",
         "title": "Раб спецотряда демонического города"
       },
@@ -160281,6 +160291,16 @@
         "type": 2,
         "language": "x-jat",
         "title": "Mato Seihei no Slave S2"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Soldado Acorrentado 2"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Soldado Acorrentado 2"
       },
       {
         "type": 4,
@@ -167894,6 +167914,11 @@
       },
       {
         "type": 4,
+        "language": "ko",
+        "title": "치유마법의 잘못된 사용법"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "治愈魔法的错误使用方法"
       },
@@ -167926,6 +167951,11 @@
         "type": 2,
         "language": "en",
         "title": "The Wrong Way to Use Healing Magic Season 2"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "치유마법의 잘못된 사용법 2"
       },
       {
         "type": 4,
@@ -396395,21 +396425,6 @@
     ]
   },
   {
-    "id": 19213,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kono Subarashii Sekai ni Shukufuku o! (Zokuhen)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "この素晴らしい世界に祝福を! (続編)"
-      }
-    ]
-  },
-  {
     "id": 11992,
     "titles": [
       {
@@ -396606,6 +396621,26 @@
         "type": 4,
         "language": "ja",
         "title": "この素晴らしい世界に祝福を! 3 -BONUS STAGE-"
+      }
+    ]
+  },
+  {
+    "id": 19213,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kono Subarashii Sekai ni Shukufuku o! 4"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Konosuba: God`s Blessing on This Wonderful World! 4"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "この素晴らしい世界に祝福を! 4"
       }
     ]
   },
@@ -431436,6 +431471,26 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "恋之魔法波波糖"
+      }
+    ]
+  },
+  {
+    "id": 19831,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mamonogurai no Boukensha: Ore dake Mamono o Kuratte Tsuyoku Naru"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Monster Eater"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔物喰らいの冒険者 ~俺だけ魔物を喰らって強くなる~"
       }
     ]
   },
