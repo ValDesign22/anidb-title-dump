@@ -4161,6 +4161,11 @@
         "type": 2,
         "language": "en",
         "title": "Oshi no Ko 3"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Oshi no Ko S3"
       }
     ]
   },
@@ -52991,6 +52996,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Aki no Kanade"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2015 1"
       },
       {
         "type": 4,
@@ -200224,6 +200234,11 @@
       },
       {
         "type": 4,
+        "language": "es-419",
+        "title": "El incidente Darwin"
+      },
+      {
+        "type": 4,
         "language": "es",
         "title": "El incidente Darwin"
       },
@@ -200239,8 +200254,28 @@
       },
       {
         "type": 4,
+        "language": "th",
+        "title": "ดาร์วิน พันธุ์อุบัติใหม่‬"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "다윈 사변‬"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "ダーウィン事変"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "达尔文事变"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "達爾文事變‬"
       }
     ]
   },
@@ -259591,6 +259626,11 @@
         "type": 4,
         "language": "en",
         "title": "Fate/Strange Fake"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "FSF"
       }
     ]
   },
@@ -321863,6 +321903,11 @@
         "title": "Happy ComeCome"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2015 2"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ハッピーカムカム"
@@ -357916,6 +357961,16 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "间奏曲"
+      }
+    ]
+  },
+  {
+    "id": 19833,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "Into a Landscape"
       }
     ]
   },
@@ -400331,6 +400386,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kumi to Tulip"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2015 4"
       },
       {
         "type": 4,
@@ -452156,6 +452216,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Ongaku Shoujo"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2015 3"
       },
       {
         "type": 4,
@@ -507130,12 +507195,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Tensui no Sakuna-hime (2026)"
+        "title": "Tensui no Sakuna-hime: Kokoro wa Inasaku Nisshi"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "天穂のサクナヒメ (2026)"
+        "title": "天穂のサクナヒメ ココロワ稲作日誌"
       }
     ]
   },
@@ -553531,6 +553596,21 @@
         "type": 4,
         "language": "ja",
         "title": "Tug-Tug"
+      }
+    ]
+  },
+  {
+    "id": 19832,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tulip-chan"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "チューリップちゃん"
       }
     ]
   },
