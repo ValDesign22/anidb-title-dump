@@ -42513,6 +42513,11 @@
         "title": "Charanpo Land no Bouken"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2017 1"
+      },
+      {
         "type": 5,
         "language": "ja",
         "title": "ちゃらんぽランドのぼうけん"
@@ -64506,6 +64511,16 @@
         "type": 3,
         "language": "ja",
         "title": "はにすか"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "和机器人啪啪啪能算在经验次数里吗？"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "機器人啪啪啪能算在經驗人數裡嗎？？"
       }
     ]
   },
@@ -81446,6 +81461,31 @@
         "type": 4,
         "language": "ja",
         "title": "装甲騎兵ボトムズ 赫奕たる異端"
+      }
+    ]
+  },
+  {
+    "id": 19834,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Armored Trooper Votoms: Die Garue Hexe"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Armored Trooper Votoms: The Grey Witch"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Soukou Kihei Votoms: Haiiro no Hexe"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "装甲騎兵ボトムズ 灰色の魔女"
       }
     ]
   },
@@ -140156,6 +140196,16 @@
         "type": 1,
         "language": "x-jat",
         "title": "Bridge: My Little Friends"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "S-CAT"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2024 2"
       }
     ]
   },
@@ -150761,6 +150811,11 @@
         "type": 2,
         "language": "en",
         "title": "Captain Bal: The Bal Pirates! / The Too Busy Ship"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2019 4"
       },
       {
         "type": 4,
@@ -172790,6 +172845,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Young Animator Training Project 2019 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Zip Shimezo"
       },
       {
@@ -179361,6 +179421,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Colorful Ninja Iromaki"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2016 1"
       },
       {
         "type": 4,
@@ -204416,6 +204481,16 @@
         "type": 4,
         "language": "ja",
         "title": "デッドアカウント"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "死亡帳號"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "死亡账号"
       }
     ]
   },
@@ -207121,6 +207196,11 @@
         "type": 4,
         "language": "ja",
         "title": "DELIVER POLICE/西東京市デリバー警察隊"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2021 1"
       }
     ]
   },
@@ -220821,6 +220901,11 @@
         "type": 2,
         "language": "en",
         "title": "Dive In!"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2025 4"
       },
       {
         "type": 4,
@@ -248426,6 +248511,16 @@
         "type": 4,
         "language": "ja",
         "title": "炎炎ノ消防隊 参ノ章 (2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "炎炎消防队 叁之章 第2部分"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "炎炎消防隊 參之章 2026"
       }
     ]
   },
@@ -249323,6 +249418,11 @@
         "title": "Engimon"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2018 2"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "えんぎもん"
@@ -250046,6 +250146,16 @@
         "type": 1,
         "language": "x-jat",
         "title": "Ephemere"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Salteel"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2024 4"
       },
       {
         "type": 4,
@@ -278658,6 +278768,11 @@
         "title": "Galaxy Apartment Cosmo Hills!"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2025 1"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ギャラクシーアパート☆コスモヒルズ!"
@@ -291591,6 +291706,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Genbanojou"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2017 3"
       },
       {
         "type": 2,
@@ -316198,6 +316318,11 @@
         "title": "Honey Suicide Machine"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2021 2"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ハチミツスーサイドマシーン"
@@ -327291,6 +327416,16 @@
         "type": 4,
         "language": "ja",
         "title": "ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "地狱模式 ～喜欢速通游戏的玩家在废设定异世界无双～"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～"
       }
     ]
   },
@@ -329351,6 +329486,11 @@
         "type": 4,
         "language": "ja",
         "title": "Hello WeGo!"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2019 1"
       },
       {
         "type": 2,
@@ -333356,6 +333496,16 @@
         "type": 4,
         "language": "ja",
         "title": "ハイスクール! 奇面組 (2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "高校！奇面組"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "高校奇面组 2026"
       }
     ]
   },
@@ -334404,8 +334554,18 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "大江戶烈火殺手"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "火喰鳥 羽州ぼろ鳶組"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "火喰鸟 羽州褴褛鸢组"
       }
     ]
   },
@@ -338376,6 +338536,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Home!"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2021 3"
       }
     ]
   },
@@ -340836,6 +341001,11 @@
         "type": 2,
         "language": "en",
         "title": "Sora and the Big Tree"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2025 2"
       },
       {
         "type": 4,
@@ -370903,6 +371073,11 @@
         "title": "Kacchikenee!"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2016 3"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "かっちけねぇ!"
@@ -379896,6 +380071,11 @@
         "type": 4,
         "language": "ja",
         "title": "カヤちゃんはコワくない"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "神八小妹不可怕"
       }
     ]
   },
@@ -380081,6 +380261,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kaze no Matasaburou (2016)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2016 4"
       },
       {
         "type": 4,
@@ -384381,6 +384566,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kicks and Punk"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2024 3"
       }
     ]
   },
@@ -389971,6 +390161,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kirakira Kirari"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2022 4"
       },
       {
         "type": 4,
@@ -441588,6 +441783,11 @@
         "title": "Michiru Rescue!"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2020 3"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "みちるレスキュー!"
@@ -441711,6 +441911,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Midnight Crazy Trail"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2018 4"
       }
     ]
   },
@@ -442946,6 +443151,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Milky Panic: Twelve"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2018 3"
       },
       {
         "type": 4,
@@ -449231,6 +449441,16 @@
         "type": 1,
         "language": "x-jat",
         "title": "Moshi Meta: Moshi Joshikousei ga Metaverse de Miko ni Nattara"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "What If a High School Girl Became a Shrine Maiden in the Metaverse"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2023 3"
       },
       {
         "type": 4,
@@ -462381,6 +462601,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Nico/Agony"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2023 1"
       }
     ]
   },
@@ -470876,6 +471101,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Ometeotl Hero"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2020 1"
       },
       {
         "type": 4,
@@ -488171,6 +488401,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Pop Pop City"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2024 1"
       }
     ]
   },
@@ -497758,6 +497993,11 @@
         "title": "The Chronicles of Rebecca"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2020 2"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "レベッカ"
@@ -498181,6 +498421,11 @@
         "type": 4,
         "language": "ja",
         "title": "RedAsh -GEARWORLD-"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2017 2"
       }
     ]
   },
@@ -498646,6 +498891,16 @@
         "type": 4,
         "language": "ja",
         "title": "転生したらドラゴンの卵だった~最強以外目指さねぇ~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "轉生之後的我變成了龍蛋～目標是世界最強～"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "转生之后的我变成了龙蛋"
       }
     ]
   },
@@ -502248,6 +502503,11 @@
         "title": "Rock`n Oyone"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2022 2"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ロックンおヨネ"
@@ -504291,6 +504551,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Ryuusatsu no Kyoukotsu"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2021 4"
       },
       {
         "type": 4,
@@ -511596,6 +511861,16 @@
         "type": 4,
         "language": "ja",
         "title": "勇者のクズ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "勇者之屑"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "勇者之渣"
       }
     ]
   },
@@ -512286,6 +512561,11 @@
         "type": 4,
         "language": "ja",
         "title": "正反対な君と僕"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "相反的你和我"
       }
     ]
   },
@@ -529348,6 +529628,11 @@
         "title": "Uchuu Camper Chicchi"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2022 3"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "宇宙キャンパー・チッチ"
@@ -539453,6 +539738,11 @@
         "title": "Toe! Space Attendant Aoi"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2019 3"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "斗え! スペースアテンダントアオイ"
@@ -541101,6 +541391,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Tenjin"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2022 1"
       },
       {
         "type": 4,
@@ -547616,6 +547911,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Time Driver: Bokura ga Kaita Mirai"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2018 1"
       }
     ]
   },
@@ -552346,6 +552646,11 @@
         "type": 2,
         "language": "en",
         "title": "Trust"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2025 3"
       }
     ]
   },
@@ -553211,6 +553516,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Tsuru ga Mau Yoru ni"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2023 4"
       },
       {
         "type": 4,
@@ -557106,6 +557416,11 @@
         "type": 4,
         "language": "ja",
         "title": "UTOPA"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2016 2"
       }
     ]
   },
@@ -560291,6 +560606,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Wander Burabura Bakkamu"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2023 2"
       }
     ]
   },
@@ -566880,6 +567200,26 @@
     ]
   },
   {
+    "id": 12156,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Young Animator Training Project 2017 4"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Zunda Horizon"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ずんだホライずん"
+      }
+    ]
+  },
+  {
     "id": 17696,
     "titles": [
       {
@@ -571216,21 +571556,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "自摸摸和努呸呸"
-      }
-    ]
-  },
-  {
-    "id": 12156,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Zunda Horizon"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ずんだホライずん"
       }
     ]
   },
