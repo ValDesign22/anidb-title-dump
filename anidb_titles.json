@@ -64485,7 +64485,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Android wa Keiken Ninzuu ni Hairimasu ka??"
+        "title": "Android wa Keiken Ninzuu ni Hairimasuka??"
       },
       {
         "type": 2,
@@ -208105,12 +208105,12 @@
       {
         "type": 4,
         "language": "en",
-        "title": "Demon Father 2: Harvest"
+        "title": "Demon Father 2: Harvest - The Happy Sex Days of the Innocent Busty"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Oni Chichi 2: Harvest"
+        "title": "Oni Chichi 2: Harvest - Tennen Kyonyuu no Hame Utsu Hiyori"
       },
       {
         "type": 2,
@@ -208125,7 +208125,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "鬼父2 -harvest-"
+        "title": "鬼父2 -harvest- 天然巨乳のハメ鬱日和"
       },
       {
         "type": 2,
@@ -222730,6 +222730,36 @@
     ]
   },
   {
+    "id": 19838,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-kot",
+        "title": "Dogul Wang"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Tomb Raider King"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Toukutsu Ou"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "도굴왕"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "盗掘王"
+      }
+    ]
+  },
+  {
     "id": 17680,
     "titles": [
       {
@@ -228551,6 +228581,21 @@
         "type": 4,
         "language": "ja",
         "title": "慟哭のナイトメア WAILING NIGHTMARE"
+      }
+    ]
+  },
+  {
+    "id": 19839,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Doukyo Shite Iru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase Desu"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "同居している剣聖の女師匠が可愛すぎて毎日幸せです"
       }
     ]
   },
@@ -270018,6 +270063,11 @@
         "title": "Frieren: Beyond Journey`s End (2026)"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "Frieren: Nach dem Ende der Reise Staffel 2"
+      },
+      {
         "type": 2,
         "language": "de",
         "title": "gefroren"
@@ -270026,6 +270076,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Sousou no Frieren (2026)"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Sousou no Frieren S2"
       },
       {
         "type": 4,
@@ -309860,6 +309915,21 @@
     ]
   },
   {
+    "id": 19835,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Guangyin Zhi Wai"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "光阴之外"
+      }
+    ]
+  },
+  {
     "id": 5511,
     "titles": [
       {
@@ -336590,6 +336660,26 @@
     ]
   },
   {
+    "id": 19840,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Hitori no Shita - The Outcast - Rust Iron Returns"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yi Ren Zhixia: Xiu Tie Chong Xian"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "一人之下 锈铁重现"
+      }
+    ]
+  },
+  {
     "id": 13068,
     "titles": [
       {
@@ -362301,6 +362391,26 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "攀岩少女！"
+      }
+    ]
+  },
+  {
+    "id": 19837,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Iwamoto-senpai no Suisen"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Recommendation from Mr. Iwamoto"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "岩元先輩ノ推薦"
       }
     ]
   },
@@ -452614,6 +452724,11 @@
       },
       {
         "type": 2,
+        "language": "en",
+        "title": "Mutant Turtles: The Legend Of Super Mutants"
+      },
+      {
+        "type": 2,
         "language": "tr",
         "title": "Ninja Kaplumbağalar: Süpermen Efsanesi"
       },
@@ -518600,6 +518715,26 @@
     ]
   },
   {
+    "id": 19841,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shenkong Bi An"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Other Side of Deep Space"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "深空彼岸"
+      }
+    ]
+  },
+  {
     "id": 16866,
     "titles": [
       {
@@ -547065,7 +547200,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shite Mita."
+        "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku Shite Mita."
       },
       {
         "type": 2,
@@ -564286,6 +564421,21 @@
         "type": 4,
         "language": "zh",
         "title": "峡谷重案组 第三季"
+      }
+    ]
+  },
+  {
+    "id": 19836,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xianjian Qixiazhuan San"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "仙剑奇侠传三"
       }
     ]
   },
