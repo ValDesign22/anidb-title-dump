@@ -4154,6 +4154,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "【我推的孩子】"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Oshi no Ko (2026)"
       },
@@ -270024,6 +270029,26 @@
       },
       {
         "type": 4,
+        "language": "uk",
+        "title": "Фрірен кінця шляху"
+      },
+      {
+        "type": 2,
+        "language": "uk",
+        "title": "Фрірен, що проводжає в останню путь"
+      },
+      {
+        "type": 2,
+        "language": "uk",
+        "title": "Фрірен: після кінця пригоди"
+      },
+      {
+        "type": 2,
+        "language": "uk",
+        "title": "Фрірен: продовження подорожі"
+      },
+      {
+        "type": 4,
         "language": "he",
         "title": "פרירן: מעבר לסוף המסע"
       },
@@ -272091,6 +272116,11 @@
         "type": 4,
         "language": "en",
         "title": "To Your Eternity Season 3"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "To Your Eternity Staffel 3"
       },
       {
         "type": 4,
@@ -286916,6 +286946,21 @@
         "type": 4,
         "language": "ja",
         "title": "劇場版マジンガーZ / INFINITY"
+      }
+    ]
+  },
+  {
+    "id": 19843,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Medalist"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版メダリスト"
       }
     ]
   },
@@ -449570,6 +449615,16 @@
     ]
   },
   {
+    "id": 19842,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mother"
+      }
+    ]
+  },
+  {
     "id": 8636,
     "titles": [
       {
@@ -519316,6 +519371,26 @@
         "type": 4,
         "language": "ja",
         "title": "SHIBUYA♡HACHI (2025)"
+      }
+    ]
+  },
+  {
+    "id": 19844,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shibuya Hachi (2025) TV"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Shibuya Hachi 4"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "SHIBUYA♡HACHI (2025) TV"
       }
     ]
   },
