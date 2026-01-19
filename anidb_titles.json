@@ -167335,6 +167335,21 @@
     ]
   },
   {
+    "id": 19845,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Chimimonryou"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "痴魅悶凌"
+      }
+    ]
+  },
+  {
     "id": 6933,
     "titles": [
       {
@@ -209201,6 +209216,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Gekijouban Kimetsu no Yaiba: Mugen-jou Hen"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Вбивця Демонів: Замок Нескінченності"
       },
       {
         "type": 4,
@@ -368866,6 +368886,11 @@
         "type": 4,
         "language": "ja",
         "title": "呪術廻戦 死滅回游 前編"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "咒术回战 死灭回游 前篇"
       }
     ]
   },
@@ -418391,6 +418416,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "恋爱暴君"
+      }
+    ]
+  },
+  {
+    "id": 19846,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Love wa Gal kara Hajimaru Unmei"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ラブはギャルから始まる運命"
       }
     ]
   },
@@ -507630,7 +507670,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Tensui no Sakuna-hime: Kokoro wa Inasaku Nisshi"
+        "title": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi"
       },
       {
         "type": 4,
