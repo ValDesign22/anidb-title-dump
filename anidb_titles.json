@@ -117295,6 +117295,26 @@
     ]
   },
   {
+    "id": 19835,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Beyond Time`s Gaze"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Guangyin Zhi Wai"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "光阴之外"
+      }
+    ]
+  },
+  {
     "id": 15032,
     "titles": [
       {
@@ -168934,8 +168954,8 @@
       },
       {
         "type": 4,
-        "language": "en",
-        "title": "The Legend of Super Normal Pref. Chiba"
+        "language": "ja",
+        "title": "超普通県チバ伝説"
       }
     ]
   },
@@ -275420,6 +275440,26 @@
     ]
   },
   {
+    "id": 19847,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "FX Fighter Kurumi-chan"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "FX Senshi Kurumi-chan"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "FX戦士くるみちゃん"
+      }
+    ]
+  },
+  {
     "id": 915,
     "titles": [
       {
@@ -304355,6 +304395,21 @@
     ]
   },
   {
+    "id": 19848,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Golden Kamuy: Inazuma Goutou to Mamushi no Ogin / Shimaenaga"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ゴールデンカムイ 稲妻強盗と蝮のお銀 / シマエナガ"
+      }
+    ]
+  },
+  {
     "id": 19475,
     "titles": [
       {
@@ -309976,21 +310031,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "关喵什么事"
-      }
-    ]
-  },
-  {
-    "id": 19835,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Guangyin Zhi Wai"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "光阴之外"
       }
     ]
   },
@@ -318616,6 +318656,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Hakumei to Mikochi"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Minuscule"
       },
       {
         "type": 2,
@@ -453536,6 +453581,11 @@
         "type": 2,
         "language": "en",
         "title": "My Hero Academia: Vigilantes Season 2"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "My Hero Academia: Vigilantes Staffel 2"
       },
       {
         "type": 2,
