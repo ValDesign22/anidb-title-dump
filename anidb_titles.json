@@ -208828,6 +208828,11 @@
         "title": "Mawangnim-eun Juggo Sip-eo"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "The Demon Queen Has a Death Wish"
+      },
+      {
         "type": 4,
         "language": "ko",
         "title": "마왕님은 죽고 싶어"
@@ -319878,6 +319883,11 @@
         "title": "Hamtaro – Piccoli criceti, grandi avventure"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "It`s Hamtaro!"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Tottoko Hamtarou"
@@ -319888,9 +319898,24 @@
         "title": "Tottoko Hamutaro"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Trotting Hamtaro"
+      },
+      {
         "type": 4,
         "language": "el",
         "title": "Χαμτάρο: Μικρά Χάμστερ, Μεγάλες Περιπέτειες"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Хамтаро"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Это Хамтаро!"
       },
       {
         "type": 4,
@@ -493180,6 +493205,11 @@
       {
         "type": 1,
         "language": "x-kot",
+        "title": "Pyramid Game"
+      },
+      {
+        "type": 4,
+        "language": "en",
         "title": "Pyramid Game"
       },
       {
