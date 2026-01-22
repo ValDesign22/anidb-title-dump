@@ -7376,6 +7376,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "kanael"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Kanagawa Elves"
       }
     ]
   },
@@ -59908,9 +59913,19 @@
         "title": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Nigetsuri"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "逃がした魚は大きかったが釣りあげた魚が大きすぎた件"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "逃げ釣り"
       }
     ]
   },
@@ -155841,6 +155856,36 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "猫物语(黑)"
+      }
+    ]
+  },
+  {
+    "id": 19588,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Cat Tales"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ugoku! Neko Mukashibanashi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "うごく! ねこむかしばなし"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "会动的！从前从前有只猫 世界喵童话"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "從前從前有隻貓！世界喵童話"
       }
     ]
   },
@@ -473595,6 +473640,21 @@
     ]
   },
   {
+    "id": 19850,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Onegai AiPri"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "おねがいアイプリ"
+      }
+    ]
+  },
+  {
     "id": 5852,
     "titles": [
       {
@@ -546635,6 +546695,26 @@
     ]
   },
   {
+    "id": 19849,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The World Is Dancing"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "World Is Dancing"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ワールド イズ ダンシング"
+      }
+    ]
+  },
+  {
     "id": 9964,
     "titles": [
       {
@@ -555401,31 +555481,6 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "不死少女的謀殺鬧劇"
-      }
-    ]
-  },
-  {
-    "id": 19588,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Ugoku! Neko Mukashibanashi"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "うごく! ねこむかしばなし"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "会动的！从前从前有只猫 世界喵童话"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "從前從前有隻貓！世界喵童話"
       }
     ]
   },
