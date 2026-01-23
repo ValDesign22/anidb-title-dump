@@ -14270,6 +14270,21 @@
     ]
   },
   {
+    "id": 19852,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "4 Week Lovers"
+      },
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "4-ju Aein"
+      }
+    ]
+  },
+  {
     "id": 7243,
     "titles": [
       {
@@ -260588,9 +260603,29 @@
         "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Fate/Grand Order: You`ve Lost Ritsuka Fujimaru (2024)"
+      }
+    ]
+  },
+  {
+    "id": 19851,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Fate/Grand Order 藤丸立香はわからない (2025)"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai (2025)"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Fate/Grand Order: You`ve Lost Ritsuka Fujimaru (2025)"
       }
     ]
   },
@@ -274230,6 +274265,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Immoral Guild"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "Immoral Guild"
       },
       {
@@ -410418,6 +410458,11 @@
         "title": "Legend of Exorcism (2021)"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Legend of Exorcism S2"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Tian Bao Fuyao Lu (2021)"
@@ -473020,21 +473065,6 @@
     ]
   },
   {
-    "id": 19735,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "One Piece: Heart of Gold"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ワンピース ～ハートオブ ゴールド～"
-      }
-    ]
-  },
-  {
     "id": 12430,
     "titles": [
       {
@@ -511775,7 +511805,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "サイエンスSARU×MBS オリジナルショートアニメ大作戦！"
+        "title": "サイエンスSARU×MBS オリジナルショートアニメ大作戦!"
       }
     ]
   },
@@ -545956,6 +545986,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "旋转少女"
+      }
+    ]
+  },
+  {
+    "id": 19853,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "The Run"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "The Run"
       }
     ]
   },
