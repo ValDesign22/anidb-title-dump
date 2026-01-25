@@ -54680,6 +54680,31 @@
     ]
   },
   {
+    "id": 19512,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Akudeki"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Villainess Is Adored by the Prince of the Neighbor Kingdom"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "悪役令嬢は隣国の王太子に溺愛される"
+      }
+    ]
+  },
+  {
     "id": 2688,
     "titles": [
       {
@@ -55351,26 +55376,6 @@
         "type": 4,
         "language": "ja",
         "title": "悪役令嬢転生おじさん"
-      }
-    ]
-  },
-  {
-    "id": 19512,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "The Villainess Is Adored by the Prince of the Neighbor Kingdom"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "悪役令嬢は隣国の王太子に溺愛される"
       }
     ]
   },
@@ -73121,6 +73126,11 @@
         "type": 2,
         "language": "en",
         "title": "The Blue Orchestra Season 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "蓝色管弦乐 第二季"
       },
       {
         "type": 4,
@@ -367425,6 +367435,36 @@
     ]
   },
   {
+    "id": 19854,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Jochum"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ジェオチャム"
+      }
+    ]
+  },
+  {
+    "id": 19855,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Jochum Season 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ジェオチャム SEASON2"
+      }
+    ]
+  },
+  {
     "id": 5077,
     "titles": [
       {
@@ -461888,6 +461928,11 @@
     "id": 17493,
     "titles": [
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "New PanSto"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "New Panty & Stocking with Garterbelt"
@@ -498746,6 +498791,11 @@
         "type": 4,
         "language": "ja",
         "title": "終末のワルキューレII"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "終末的女武神 第二季"
       }
     ]
   },
@@ -498766,6 +498816,11 @@
         "type": 4,
         "language": "ja",
         "title": "終末のワルキューレIII"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "終末的女武神 第三季"
       }
     ]
   },
@@ -553057,6 +553112,11 @@
   {
     "id": 17953,
     "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Trigun Stampede Season 2"
+      },
       {
         "type": 4,
         "language": "ja",
