@@ -169088,9 +169088,19 @@
         "title": "Chou Futsuu Ken Chiba Densetsu"
       },
       {
+        "type": 6,
+        "language": "x-jat",
+        "title": "Chou Futsuu Ken Chiba Densetsu The Legend of Super Normal Pref. Chiba"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "超普通県チバ伝説"
+      },
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "超普通県チバ伝説 The Legend of Super Normal Pref. Chiba"
       }
     ]
   },
@@ -169118,9 +169128,19 @@
         "title": "Chou Futsuu Toshi Kashiwa Densetsu"
       },
       {
+        "type": 6,
+        "language": "x-jat",
+        "title": "Chou Futsuu Toshi Kashiwa Densetsu The Legend of Super Normal City Kashiwa"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "超普通都市カシワ伝説"
+      },
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "超普通都市カシワ伝説 The Legend of Super Normal City Kashiwa"
       }
     ]
   },
@@ -169133,9 +169153,9 @@
         "title": "Chou Futsuu Toshi Kashiwa Densetsu R"
       },
       {
-        "type": 2,
-        "language": "en",
-        "title": "The Legend of Super Normal City Kashiwa R"
+        "type": 6,
+        "language": "x-jat",
+        "title": "Chou Futsuu Toshi Kashiwa Densetsu R The Legend of Super Normal City Kashiwa R"
       },
       {
         "type": 2,
@@ -169146,6 +169166,11 @@
         "type": 4,
         "language": "ja",
         "title": "超普通都市カシワ伝説R"
+      },
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "超普通都市カシワ伝説R The Legend of Super Normal City Kashiwa R"
       }
     ]
   },
@@ -169158,9 +169183,19 @@
         "title": "Chou Futsuu Toshi Kashiwa Densetsu Z"
       },
       {
+        "type": 6,
+        "language": "x-jat",
+        "title": "Chou Futsuu Toshi Kashiwa Densetsu Z The Legend of Super Normal City Kashiwa Z"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "超普通都市カシワ伝説Z"
+      },
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "超普通都市カシワ伝説Z The Legend of Super Normal City Kashiwa Z"
       }
     ]
   },
@@ -177755,6 +177790,26 @@
     ]
   },
   {
+    "id": 19858,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Click Me All Over"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mouse Cursor de Genjitsu o Sousa Dekiru You ni Natta no de, Onnanoko o Ippai Click Shima~su"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "マウスカーソルで現実を操作できるようになったので, 女の子をいっぱいクリックしまーす"
+      }
+    ]
+  },
+  {
     "id": 16388,
     "titles": [
       {
@@ -183371,6 +183426,11 @@
         "type": 2,
         "language": "en",
         "title": "Tales of Qin Mu"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Сказание о пастухе богов"
       },
       {
         "type": 4,
@@ -224345,7 +224405,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Kusoge-tte Iuna!"
+        "title": "Kusoge tte Iuna!"
       },
       {
         "type": 4,
@@ -231215,6 +231275,21 @@
     ]
   },
   {
+    "id": 19859,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Dragon Ball Super: Beerus"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ドラゴンボール超 ビルス"
+      }
+    ]
+  },
+  {
     "id": 16484,
     "titles": [
       {
@@ -231226,6 +231301,26 @@
         "type": 4,
         "language": "ja",
         "title": "ドラゴンボール超 ブロリー 超天空塔"
+      }
+    ]
+  },
+  {
+    "id": 19856,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Dragon Ball Super: Ginga Patrol"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Dragon Ball Super: The Galactic Patrol"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ドラゴンボール超 銀河パトロール"
       }
     ]
   },
@@ -343153,7 +343248,7 @@
         "title": "Hu He Yao Shi Lu"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Tiger Crane"
       },
@@ -348036,6 +348131,26 @@
         "type": 2,
         "language": "ja",
         "title": "いただきっ！セーエキ"
+      }
+    ]
+  },
+  {
+    "id": 19809,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "I`ll Live a Long Life to Dote on My Favorite Stepbrother!"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Saioshi no Gikei o Mederu Tame, Nagaiki Shimasu!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "最推しの義兄を愛でるため, 長生きします!"
       }
     ]
   },
@@ -388201,6 +388316,36 @@
         "type": 4,
         "language": "ja",
         "title": "キミとフィットボクシング"
+      }
+    ]
+  },
+  {
+    "id": 19857,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kimi to Hanabi to Yakusoku to"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "kimihana"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "You, Fireworks, and Our Promise"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "きみはな"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "君と花火と約束と"
       }
     ]
   },
@@ -507455,21 +507600,6 @@
     ]
   },
   {
-    "id": 19809,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Saioshi no Gikei o Mederu Tame, Nagaiki Shimasu!"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "最推しの義兄を愛でるため, 長生きします!"
-      }
-    ]
-  },
-  {
     "id": 19221,
     "titles": [
       {
@@ -516531,6 +516661,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004 Tai Keimu Kiroku"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "용사형에 처함"
       },
       {
         "type": 4,
@@ -547776,6 +547911,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita."
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "용사 파티에 귀여운 애가 있어서, 고백해봤다."
       },
       {
         "type": 3,
