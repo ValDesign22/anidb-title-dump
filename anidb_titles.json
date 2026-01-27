@@ -74805,6 +74805,21 @@
     ]
   },
   {
+    "id": 19860,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "AOTU Shijie 4"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "凹凸世界 第四季"
+      }
+    ]
+  },
+  {
     "id": 13471,
     "titles": [
       {
@@ -328125,12 +328140,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Jigokuraku Dai Ni Ki"
+        "title": "Jigokuraku (2026)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "地獄楽 第二期"
+        "title": "地獄楽 (2026)"
       }
     ]
   },
@@ -352733,6 +352748,11 @@
         "title": "Ikari no Daichi"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "The Land of Anger"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "怒りの大地"
@@ -372298,6 +372318,11 @@
         "title": "Kagawa Toyohiko no Shougai Ware Hibi ni Shisu"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "The Life of Kagawa Toyohiko: I Die Daily"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "賀川豊彦の生涯—われ日日に死す—"
@@ -381972,6 +381997,11 @@
   {
     "id": 18349,
     "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Keio Flying Squadron"
+      },
       {
         "type": 1,
         "language": "x-jat",
@@ -445908,9 +445938,14 @@
         "title": "Mister Giants Eikou no Sebangou San"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Mister Giants Glorious Number 3"
+      },
+      {
         "type": 4,
         "language": "ja",
-        "title": "ミスター・ジャイアンツ 栄光の背番号３"
+        "title": "ミスター・ジャイアンツ 栄光の背番号3"
       }
     ]
   },
