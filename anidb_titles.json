@@ -106606,6 +106606,11 @@
         "type": 4,
         "language": "ja",
         "title": "はだしのゲン"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "赤脚阿元"
       }
     ]
   },
@@ -106676,6 +106681,11 @@
         "type": 4,
         "language": "ja",
         "title": "はだしのゲン 2"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "赤脚阿元 2"
       }
     ]
   },
@@ -157276,6 +157286,11 @@
         "type": 4,
         "language": "ja",
         "title": "はたらく細胞!!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "工作细胞2"
       }
     ]
   },
@@ -212590,6 +212605,51 @@
     ]
   },
   {
+    "id": 17219,
+    "titles": [
+      {
+        "type": 4,
+        "language": "sv",
+        "title": "Det ensamma slottet i spegeln"
+      },
+      {
+        "type": 4,
+        "language": "es",
+        "title": "El Castillo a través del Espejo"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kagami no Kojou"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Le château solitaire dans le miroir"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Lonely Castle in the Mirror"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Solitary Castle in the Mirror"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "かがみの孤城"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "镜之孤城"
+      }
+    ]
+  },
+  {
     "id": 17901,
     "titles": [
       {
@@ -241744,6 +241804,21 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "小林家的龍女僕：害怕寂寞的龍"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "小林家的龙丫头：怕寂寞的龙"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "小林家的龙女仆：怕寂寞的龙"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "映画 小林さんちのメイドラゴン さみしがりやの竜"
       }
@@ -244411,46 +244486,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "钢琴之森"
-      }
-    ]
-  },
-  {
-    "id": 17219,
-    "titles": [
-      {
-        "type": 4,
-        "language": "es",
-        "title": "El Castillo a través del Espejo"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kagami no Kojou"
-      },
-      {
-        "type": 4,
-        "language": "fr",
-        "title": "Le château solitaire dans le miroir"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Lonely Castle in the Mirror"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Solitary Castle in the Mirror"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "かがみの孤城"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "镜之孤城"
       }
     ]
   },
@@ -326855,6 +326890,11 @@
       {
         "type": 2,
         "language": "zh-Hans",
+        "title": "天地创造设计部"
+      },
+      {
+        "type": 4,
+        "language": "zh",
         "title": "天地创造设计部"
       },
       {
@@ -438590,6 +438630,21 @@
     ]
   },
   {
+    "id": 19862,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Megami \"Isekai Tensei Nani ni Naritai Desuka\" Ore \"Yuusha no Rokkotsu de\""
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "女神『異世界転生何になりたいですか』俺『勇者の肋骨で』"
+      }
+    ]
+  },
+  {
     "id": 18806,
     "titles": [
       {
@@ -463431,6 +463486,11 @@
         "type": 4,
         "language": "ja",
         "title": "ニア アンダーセブン"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "我家也有外星人"
       }
     ]
   },
@@ -465521,6 +465581,21 @@
         "type": 4,
         "language": "ja",
         "title": "日本一の男の魂"
+      }
+    ]
+  },
+  {
+    "id": 19861,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Nippon Sangoku"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "日本三國"
       }
     ]
   },
@@ -488856,6 +488931,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "ponsuka"
       },
       {
         "type": 4,
