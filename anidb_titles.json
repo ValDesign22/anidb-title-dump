@@ -56700,21 +56700,6 @@
     ]
   },
   {
-    "id": 19085,
-    "titles": [
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "Aldnoah Zero EP 24.5 Ame no Danshō -The Penultimate Truth-"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Aldnoah.Zero (Re+)"
-      }
-    ]
-  },
-  {
     "id": 16378,
     "titles": [
       {
@@ -169950,6 +169935,21 @@
     ]
   },
   {
+    "id": 19864,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Chouetsu Jin Shinriki"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "欲六界"
+      }
+    ]
+  },
+  {
     "id": 14510,
     "titles": [
       {
@@ -191721,6 +191721,26 @@
         "type": 4,
         "language": "ja",
         "title": "カスタム隷奴"
+      }
+    ]
+  },
+  {
+    "id": 19866,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Custom Robo"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Custom Robo the Animation"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "カスタムロボ"
       }
     ]
   },
@@ -403475,6 +403495,26 @@
     ]
   },
   {
+    "id": 19865,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei Shita Kami-goroshi no Bujin no Karei Naru Musouroku"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Nia Liston: The Merciless Maiden"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録"
+      }
+    ]
+  },
+  {
     "id": 6908,
     "titles": [
       {
@@ -523190,6 +523230,21 @@
     ]
   },
   {
+    "id": 19863,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shishang Zui Qiang Lian Ti Lao Zu"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "史上最强炼体老祖"
+      }
+    ]
+  },
+  {
     "id": 17447,
     "titles": [
       {
@@ -528251,21 +528306,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "漂流少年"
-      }
-    ]
-  },
-  {
-    "id": 19247,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Sono Keisatsukan, Tokidoki Yajuu!"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "その警察官, ときどき野獣!"
       }
     ]
   },
