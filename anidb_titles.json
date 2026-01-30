@@ -335514,11 +335514,6 @@
       },
       {
         "type": 2,
-        "language": "ru",
-        "title": "Himesama Love Life!"
-      },
-      {
-        "type": 2,
         "language": "en",
         "title": "Princess Love Life!"
       },
@@ -367585,6 +367580,46 @@
     ]
   },
   {
+    "id": 18363,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-unk",
+        "title": "jjk3"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Jujutsu Kaisen Season 3"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Jujutsu Kaisen: Shimetsu Kaiyuu Zenpen"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Jujutsu Kaisen: The Culling Game Part 1"
+      },
+      {
+        "type": 2,
+        "language": "bg",
+        "title": "Джуджуцу Кайсен: Игра на подбор"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "呪術廻戦 死滅回游 前編"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "咒术回战 死灭回游 前篇"
+      }
+    ]
+  },
+  {
     "id": 9868,
     "titles": [
       {
@@ -369346,41 +369381,6 @@
         "type": 1,
         "language": "x-jat",
         "title": "Juicy Jungle"
-      }
-    ]
-  },
-  {
-    "id": 18363,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Jujutsu Kaisen Season 3"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Jujutsu Kaisen: Shimetsu Kaiyuu Zenpen"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Jujutsu Kaisen: The Culling Game Part 1"
-      },
-      {
-        "type": 2,
-        "language": "bg",
-        "title": "Джуджуцу Кайсен: Игра на подбор"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "呪術廻戦 死滅回游 前編"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "咒术回战 死灭回游 前篇"
       }
     ]
   },
@@ -391066,6 +391066,11 @@
         "type": 4,
         "language": "ja",
         "title": "綺麗にしてもらえますか."
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "能帮我弄干净吗？"
       }
     ]
   },
@@ -400878,7 +400883,7 @@
         "title": "Kujiratori"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Whale Hunt"
       },
@@ -416816,46 +416821,6 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "記錄的地平線 圓桌崩壞"
-      }
-    ]
-  },
-  {
-    "id": 18030,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Loli on Ice"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Medalist"
-      },
-      {
-        "type": 4,
-        "language": "pl",
-        "title": "Medalist"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Medalist"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "メダリスト"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "舞冰的祈愿"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "金牌得主"
       }
     ]
   },
@@ -438335,6 +438300,41 @@
     ]
   },
   {
+    "id": 18030,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Medalist"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Medalist"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Medalist"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "メダリスト"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "舞冰的祈愿"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "金牌得主"
+      }
+    ]
+  },
+  {
     "id": 19260,
     "titles": [
       {
@@ -438870,12 +438870,17 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Megaton-kyuu Musashi (2022)"
+        "title": "Megaton-kyuu Musashi Cross"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Megaton-kyuu Musashi X"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "メガトン級ムサシ (2022)"
+        "title": "メガトン級ムサシX"
       },
       {
         "type": 4,
@@ -523239,6 +523244,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "The Supreme Body Refining Master"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "史上最强炼体老祖"
       }
@@ -542000,7 +542010,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Tenchi Muyou! Ryououki: Omatsuri Zen`ya no Yoru!"
+        "title": "Tenchi Muyou! Ryououki: Omatsuri Zenjitsu no Yoru!"
       },
       {
         "type": 3,
@@ -542020,7 +542030,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "天地無用! 魎皇鬼 お祭り前夜の夜!"
+        "title": "天地無用! 魎皇鬼 お祭り前日の夜!"
       }
     ]
   },
