@@ -69313,7 +69313,7 @@
     "id": 5484,
     "titles": [
       {
-        "type": 1,
+        "type": 2,
         "language": "x-jat",
         "title": "Animentary Ketsudan"
       },
@@ -69323,12 +69323,17 @@
         "title": "Decision"
       },
       {
-        "type": 4,
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ketsudan"
+      },
+      {
+        "type": 2,
         "language": "ja",
         "title": "アニメンタリー・決断"
       },
       {
-        "type": 3,
+        "type": 4,
         "language": "ja",
         "title": "決断"
       }
@@ -182755,6 +182760,31 @@
     ]
   },
   {
+    "id": 12075,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Contemplation Sutra & Story of Prince Ajatashatru"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shinran Shounin to Ousha-jou no Higeki"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Venerable GrandMaster Shinran and Amitayurdhyana Sutra: The Anime"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "親鸞聖人と王舎城の悲劇"
+      }
+    ]
+  },
+  {
     "id": 13388,
     "titles": [
       {
@@ -270461,6 +270491,11 @@
         "type": 4,
         "language": "en",
         "title": "Frieren: Beyond Journey`s End (2026)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Frieren: Beyond Journey`s End Season 2"
       },
       {
         "type": 4,
@@ -522660,26 +522695,6 @@
     ]
   },
   {
-    "id": 12075,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shinran Shounin to Ousha-jou no Higeki"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Venerable GrandMaster Shinran and Amitayurdhyana Sutra: The Anime"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "親鸞聖人と王舎城の悲劇"
-      }
-    ]
-  },
-  {
     "id": 4236,
     "titles": [
       {
@@ -550051,6 +550066,21 @@
         "type": 4,
         "language": "en",
         "title": "Tobot: Galaxy Detectives"
+      }
+    ]
+  },
+  {
+    "id": 19867,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Todo no Tsumari"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "とどの妻り"
       }
     ]
   },
