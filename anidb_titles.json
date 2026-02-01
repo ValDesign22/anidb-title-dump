@@ -163140,6 +163140,21 @@
     ]
   },
   {
+    "id": 19869,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Cheng He Titong 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "成何体统 第二季"
+      }
+    ]
+  },
+  {
     "id": 11060,
     "titles": [
       {
@@ -262695,6 +262710,41 @@
     ]
   },
   {
+    "id": 19868,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Fighter of the Destiny 3D"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Way of Choices (2026)"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Way of Choices 3D"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Ze Tian Ji (2026)"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Ze Tian Ji 3D"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "择天记3D"
+      }
+    ]
+  },
+  {
     "id": 3953,
     "titles": [
       {
@@ -292161,6 +292211,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "月刊少女野崎君"
+      }
+    ]
+  },
+  {
+    "id": 19870,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekkan! Nanmono Anime"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "げっかん!なんものアニメ"
       }
     ]
   },
@@ -474205,6 +474270,26 @@
     ]
   },
   {
+    "id": 19871,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Onee-chan Gokko"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Playing Sister"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "お姉ちゃんごっこ"
+      }
+    ]
+  },
+  {
     "id": 19850,
     "titles": [
       {
@@ -498126,6 +498211,21 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "怪医美女零"
+      }
+    ]
+  },
+  {
+    "id": 19872,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ray (Chou Kaguya-hime! Version)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ray 超かぐや姫！Version"
       }
     ]
   },
