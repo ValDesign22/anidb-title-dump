@@ -29096,6 +29096,16 @@
         "type": 4,
         "language": "ja",
         "title": "人外教室の人間嫌い教師"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "非人学生与厌世教师"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "非人學生與厭世教師"
       }
     ]
   },
@@ -155590,26 +155600,6 @@
     ]
   },
   {
-    "id": 4710,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Cat Eyed Boy"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Youkaiden Nekome Kozou"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "妖怪伝 猫目小僧"
-      }
-    ]
-  },
-  {
     "id": 19132,
     "titles": [
       {
@@ -156026,6 +156016,26 @@
         "type": 4,
         "language": "ja",
         "title": "ヨーヨーの猫つまみ"
+      }
+    ]
+  },
+  {
+    "id": 4710,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Cat-Eyed Boy"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Youkaiden Nekome Kozou"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "妖怪伝 猫目小僧"
       }
     ]
   },
@@ -160826,6 +160836,26 @@
         "type": 4,
         "language": "ja",
         "title": "チェンソーマン 刺客篇"
+      }
+    ]
+  },
+  {
+    "id": 19873,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Chainsmoker Cat"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yani Neko"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ヤニねこ"
       }
     ]
   },
@@ -263835,6 +263865,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "It Rained Fire"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Rain of Fire"
       },
       {
@@ -272471,6 +272506,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "全职法师VI"
+      }
+    ]
+  },
+  {
+    "id": 19874,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Fullmoon Densetsu Indra"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Fullmoon Tradition: Indra - Pilot"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "フルムーン伝説 インドラ"
       }
     ]
   },
@@ -396468,6 +396523,11 @@
         "title": "Sakyo Komatsu`s Animation Theater"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Sakyou Komatsu`s Animation Theater"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "小松左京 アニメ劇場"
@@ -411113,7 +411173,7 @@
         "title": "Ling Wu Dalu"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Lingwu Continent"
       },
@@ -433851,6 +433911,16 @@
         "type": 4,
         "language": "ja",
         "title": "魔王の娘は優しすぎる!!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "魔王的女儿太温柔了！！"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "魔王的女兒太溫柔了!!"
       }
     ]
   },
@@ -439758,7 +439828,7 @@
         "title": "Meitantei Precure!"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Star Detective Precure!"
       },
@@ -498225,7 +498295,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "ray 超かぐや姫！Version"
+        "title": "ray 超かぐや姫! Version"
       }
     ]
   },
@@ -558261,6 +558331,21 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "潮与虎 第二季"
+      }
+    ]
+  },
+  {
+    "id": 19875,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Uso Tantei Tomanto"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "うそ探偵トマント"
       }
     ]
   },
