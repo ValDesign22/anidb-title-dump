@@ -7578,6 +7578,11 @@
         "title": "`Tis Time for \"Torture,\" Princess (2026)"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "`Tis Time for \"Torture,\" Princess Season 2"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Hime-sama \"Goumon\" no Jikan Desu (2026)"
@@ -184523,6 +184528,11 @@
         "title": "Cool de M"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "쿨하지만 M"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "クール de M"
@@ -229831,6 +229841,31 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "斗罗大陆 山雨欲来"
+      }
+    ]
+  },
+  {
+    "id": 19876,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Doumo, Suki na Hito ni Horegusuri o Irai Sareta Majo Desu."
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "I`m a Witch Who`s Crush Requested a Love Potion"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "どうも, 好きな人に惚れ薬を依頼された魔女です."
       }
     ]
   },
@@ -285971,6 +286006,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Gekijouban Haikyuu!! Final"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "HAIKYU!! A Batalha na Lixeira"
       },
       {
         "type": 2,
