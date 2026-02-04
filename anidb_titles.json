@@ -30434,6 +30434,11 @@
       },
       {
         "type": 4,
+        "language": "zh",
+        "title": "鈴芽之旅"
+      },
+      {
+        "type": 2,
         "language": "zh-Hans",
         "title": "铃芽户缔"
       }
@@ -369558,6 +369563,11 @@
         "title": "Super Heroic"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Super Heroic Spirit"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "绝世战魂"
@@ -397248,7 +397258,7 @@
         "title": "Kono Hon o Nusumu Mono wa"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Whoever Steals This Book"
       },
