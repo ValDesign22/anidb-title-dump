@@ -336983,6 +336983,11 @@
         "title": "Hiroshima ni Ichiban Densha ga Hashitta"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "The First Tram Runs to Hiroshima"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ヒロシマに一番電車が走った"
@@ -357701,6 +357706,21 @@
         "type": 4,
         "language": "ja",
         "title": "淫獄病棟"
+      }
+    ]
+  },
+  {
+    "id": 19879,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ingoku Danchi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "インゴクダンチ"
       }
     ]
   },
@@ -430336,6 +430356,26 @@
         "type": 4,
         "language": "ja",
         "title": "魔入りました! 入間くん (2026)"
+      }
+    ]
+  },
+  {
+    "id": 19878,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mairimashita! Iruma-kun: If Episode of Mafia"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Welcome to Demon School! Iruma-kun: IruMafia Edition"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔入りました! 入間くん if Episode of 魔フィア"
       }
     ]
   },
@@ -548541,6 +548581,26 @@
         "type": 4,
         "language": "ja",
         "title": "THUNDER"
+      }
+    ]
+  },
+  {
+    "id": 19877,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Thunder 3"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Thunder 3"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "サンダー3"
       }
     ]
   },
