@@ -54721,6 +54721,16 @@
         "type": 4,
         "language": "ja",
         "title": "悪役令嬢は隣国の王太子に溺愛される"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "被邻国王子溺爱的反派女主"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "被鄰國王太子溺愛的反派千金"
       }
     ]
   },
@@ -147249,6 +147259,16 @@
       },
       {
         "type": 2,
+        "language": "pt",
+        "title": "O Canário Está Numa Gaiola"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "O Canário Numa Gaiola"
+      },
+      {
+        "type": 2,
         "language": "ko",
         "title": "카나리아는 새장속에"
       },
@@ -165586,6 +165606,31 @@
         "type": 4,
         "language": "zh",
         "title": "吃货宇宙"
+      }
+    ]
+  },
+  {
+    "id": 19881,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Chii Fuyo"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life o Ouka Suru. Ore wa Buki dake Janaku,  Arayuru Mono ni \"Kyouka Point\" o Fuyo Dekirushi, Ore no Ishi de Itsu demo Kouka o Kaijo Dekiru Kedo, Nokotta Hitotachi Daijoubu?"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "チー付与"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する. ~俺は武器だけじゃなく, あらゆるものに『強化ポイント』を付与できるし, 俺の意思でいつでも効果を解除できるけど, 残った人たち大丈夫?~"
       }
     ]
   },
@@ -229863,6 +229908,11 @@
         "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "horemajo"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "I`m a Witch Who`s Crush Requested a Love Potion"
@@ -229871,6 +229921,11 @@
         "type": 4,
         "language": "ja",
         "title": "どうも, 好きな人に惚れ薬を依頼された魔女です."
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "惚れ魔女"
       }
     ]
   },
@@ -520801,6 +520856,16 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "死后文"
+      }
+    ]
+  },
+  {
+    "id": 19882,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shiguang Dailiren III"
       }
     ]
   },
