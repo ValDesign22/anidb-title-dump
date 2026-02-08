@@ -64574,6 +64574,11 @@
       },
       {
         "type": 4,
+        "language": "es",
+        "title": "Nadeshiko. Programada para amar"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "アンドロイドは経験人数に入りますか??"
       },
@@ -199275,6 +199280,36 @@
     ]
   },
   {
+    "id": 19883,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "DanMachi VI"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth VI"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? VI"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH VI"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "ダンまちVI"
+      }
+    ]
+  },
+  {
     "id": 10676,
     "titles": [
       {
@@ -235376,6 +235411,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "决斗大师 KING！"
+      }
+    ]
+  },
+  {
+    "id": 19884,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Duel Masters LOST ～忘却の太陽～"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Duel Masters Lost: Boukyaku no Taiyou"
       }
     ]
   },
@@ -437656,6 +437706,21 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "真魔神Z"
+      }
+    ]
+  },
+  {
+    "id": 19885,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mazinger Z Tai Doctor Hell"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "マジンガーZ対ドクターヘル"
       }
     ]
   },
