@@ -111135,6 +111135,41 @@
     ]
   },
   {
+    "id": 4157,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Beast God Liger"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Beast-God Riger"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Jushin Liger"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Juushin Liger"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Jyushin Ryger"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "獣神ライガー"
+      }
+    ]
+  },
+  {
     "id": 3507,
     "titles": [
       {
@@ -111506,36 +111541,6 @@
         "type": 4,
         "language": "ja",
         "title": "超生命体トランスフォーマー ビーストウォーズネオ"
-      }
-    ]
-  },
-  {
-    "id": 4157,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Beast-God Riger"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Jushin Liger"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Juushin Liger"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Jyushin Ryger"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "獣神ライガー"
       }
     ]
   },
@@ -510116,6 +510121,11 @@
         "type": 2,
         "language": "en",
         "title": "The Three Body Problem"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Three-Body"
       },
       {
         "type": 4,
