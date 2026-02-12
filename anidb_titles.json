@@ -164383,7 +164383,7 @@
         "title": "Chibi Godzilla no Gyakushuu (2025)"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Chibi Godzilla Raids Again (2025)"
       },
@@ -300605,6 +300605,26 @@
     ]
   },
   {
+    "id": 19220,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-unk",
+        "title": "Girls und Panzer - MLLSD"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Girls und Panzer: Motto Love Love Sakusen Desu!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ガールズ&パンツァー もっとらぶらぶ作戦です!"
+      }
+    ]
+  },
+  {
     "id": 12361,
     "titles": [
       {
@@ -300716,21 +300736,6 @@
         "type": 4,
         "language": "ja",
         "title": "ガールズ&パンツァー これが本当のアンツィオ戦です!"
-      }
-    ]
-  },
-  {
-    "id": 19220,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Girls und Panzer: Motto Love Love Sakusen Desu!"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ガールズ&パンツァー もっとらぶらぶ作戦です!"
       }
     ]
   },
@@ -308356,6 +308361,11 @@
         "type": 2,
         "language": "en",
         "title": "Great Conquest: Romance of Three Kingdoms"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Records of the Three Kingdoms Part 2 - The Yangtze River Burns!"
       },
       {
         "type": 1,
@@ -499725,6 +499735,101 @@
     ]
   },
   {
+    "id": 7713,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Records of the Three Kingdoms I"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sangokushi (1985)"
+      },
+      {
+        "type": 4,
+        "language": "ar",
+        "title": "صراع الجبابرة"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "三国志"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "三国志 (1985)"
+      }
+    ]
+  },
+  {
+    "id": 7715,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Records of the Three Kingdoms II - Men Who Race Across the Heavens"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sangokushi 2: Amakakeru Otoko-tachi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "三国志II 天翔ける英雄たち"
+      }
+    ]
+  },
+  {
+    "id": 5407,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Records of the Three Kingdoms Part 1 - The Dawn of the Heroes"
+      },
+      {
+        "type": 2,
+        "language": "x-unk",
+        "title": "Sangokushi"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sangokushi Dai Ichi Bu Eiyuu-tachi no Yoake"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "三国志 第一部 英雄たちの夜明け"
+      }
+    ]
+  },
+  {
+    "id": 5408,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Records of the Three Kingdoms Part 3 - The Distant Lands"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sangokushi Dai San Bu: Haruka Naru Daichi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "三国志 第三部 遥かなる大地"
+      }
+    ]
+  },
+  {
     "id": 14714,
     "titles": [
       {
@@ -510370,81 +510475,6 @@
     ]
   },
   {
-    "id": 5407,
-    "titles": [
-      {
-        "type": 2,
-        "language": "x-unk",
-        "title": "Sangokushi"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Sangokushi Dai Ichi Bu Eiyuu-tachi no Yoake"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "三国志 第一部 英雄たちの夜明け"
-      }
-    ]
-  },
-  {
-    "id": 7713,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Sangokushi (1985)"
-      },
-      {
-        "type": 4,
-        "language": "ar",
-        "title": "صراع الجبابرة"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "三国志"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "三国志 (1985)"
-      }
-    ]
-  },
-  {
-    "id": 7715,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Sangokushi 2: Amakakeru Otoko-tachi"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "三国志II 天翔ける英雄たち"
-      }
-    ]
-  },
-  {
-    "id": 5408,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Sangokushi Dai San Bu: Haruka Naru Daichi"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "三国志 第三部 遥かなる大地"
-      }
-    ]
-  },
-  {
     "id": 9924,
     "titles": [
       {
@@ -513896,6 +513926,11 @@
         "type": 4,
         "language": "ja",
         "title": "正反対な君と僕"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "正相反的你与我"
       },
       {
         "type": 4,
