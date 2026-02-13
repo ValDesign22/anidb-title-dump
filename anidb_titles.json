@@ -98390,21 +98390,6 @@
     ]
   },
   {
-    "id": 19474,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-kot",
-        "title": "Backkom2"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "빼꼼2"
-      }
-    ]
-  },
-  {
     "id": 18989,
     "titles": [
       {
@@ -223785,6 +223770,36 @@
     ]
   },
   {
+    "id": 19890,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Doko yori mo Tooi Basho ni Iru Kimi e"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "dokokimi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "To You in the Beyond"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "どこきみ"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "どこよりも遠い場所にいる君へ"
+      }
+    ]
+  },
+  {
     "id": 6264,
     "titles": [
       {
@@ -232466,6 +232481,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "龙之天堂"
+      }
+    ]
+  },
+  {
+    "id": 19888,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Dragon`s Triumph in the Celestial Realm"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Long Po Jiutian"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "龙破九天"
       }
     ]
   },
@@ -245165,7 +245200,7 @@
       {
         "type": 4,
         "language": "pt",
-        "title": "Os Peregrinos de El Hazard"
+        "title": "Os Peregrinos de El-Hazard"
       },
       {
         "type": 1,
@@ -281731,6 +281766,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Ganso! Bang Dream-chan"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Ganzo! Bandori-chan"
       },
       {
         "type": 4,
@@ -558655,6 +558695,21 @@
     ]
   },
   {
+    "id": 19889,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ushiro no Shoumen Kamui-san"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "うしろの正面カムイさん"
+      }
+    ]
+  },
+  {
     "id": 19875,
     "titles": [
       {
@@ -565811,21 +565866,6 @@
         "type": 4,
         "language": "zh",
         "title": "峡谷重案组 第三季"
-      }
-    ]
-  },
-  {
-    "id": 19836,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Xian Jian Qi Xia Chuan San"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "仙剑奇侠传三"
       }
     ]
   },
