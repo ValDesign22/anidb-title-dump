@@ -194715,21 +194715,6 @@
     ]
   },
   {
-    "id": 19826,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Da Zhuzai Nian Fan 2"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "大主宰年番2"
-      }
-    ]
-  },
-  {
     "id": 16703,
     "titles": [
       {
@@ -457346,6 +457331,26 @@
         "type": 4,
         "language": "ja",
         "title": "涙の蕾"
+      }
+    ]
+  },
+  {
+    "id": 19891,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Namidaame to Serenade"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Rainy Day Serenade"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "涙雨とセレナーデ"
       }
     ]
   },
