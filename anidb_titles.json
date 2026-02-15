@@ -124493,6 +124493,11 @@
         "title": "Black Butler -Public School Arc-"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Black Butler Season 4"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Black Butler: Public School Arc"
@@ -194711,6 +194716,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "大主宰年番"
+      }
+    ]
+  },
+  {
+    "id": 19893,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Da Zhu Zai Nian Fan 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "大主宰年番2"
       }
     ]
   },
@@ -419916,6 +419936,21 @@
         "type": 2,
         "language": "zh",
         "title": "撸时代第2季"
+      }
+    ]
+  },
+  {
+    "id": 19892,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Luca"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "LUCA"
       }
     ]
   },
