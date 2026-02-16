@@ -499965,6 +499965,26 @@
     ]
   },
   {
+    "id": 19894,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Red River"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sora wa Akai Kawa no Hotori"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "天は赤い河のほとり"
+      }
+    ]
+  },
+  {
     "id": 9870,
     "titles": [
       {
@@ -572376,21 +572396,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "枕刀歌 第二季"
-      }
-    ]
-  },
-  {
-    "id": 19887,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Zhen Dao Ge 3rd Season"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "枕刀歌 第三季"
       }
     ]
   },
