@@ -89865,6 +89865,21 @@
     ]
   },
   {
+    "id": 19895,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Atashinchi Next (2025)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "あたしンちNEXT (2025)"
+      }
+    ]
+  },
+  {
     "id": 18554,
     "titles": [
       {
@@ -216239,6 +216254,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "The First Order 2"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "第一序列 第二季"
       }
@@ -254333,6 +254353,11 @@
         "title": "Everyday Host"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Everyday Host Club"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "えぶりでいホスト"
@@ -265136,6 +265161,11 @@
         "type": 4,
         "language": "ar",
         "title": "رامي الصياد الصغير"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "天才小钓手"
       },
       {
         "type": 4,
@@ -360279,6 +360309,11 @@
       },
       {
         "type": 2,
+        "language": "en",
+        "title": "Isekai Quartet Season 2"
+      },
+      {
+        "type": 2,
         "language": "ru",
         "title": "Квартет из альтернативного мира 2"
       },
@@ -361651,6 +361686,11 @@
         "type": 2,
         "language": "en",
         "title": "Isekai Quartet S3"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Isekai Quartet Season 3"
       },
       {
         "type": 4,
@@ -508988,9 +509028,9 @@
     "id": 18986,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
-        "title": "Sakuna: Of Rice and Ruin (2026)"
+        "title": "Sakuna: Of Rice and Ruin - Kokorowa`s Rice-Farming Diary"
       },
       {
         "type": 1,
