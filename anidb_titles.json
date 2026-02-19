@@ -194724,8 +194724,28 @@
       },
       {
         "type": 2,
+        "language": "x-zht",
+        "title": "Da Zhuzai 3D"
+      },
+      {
+        "type": 3,
+        "language": "en",
+        "title": "TGR"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "The Great Ruler (2023)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Great Ruler 3D"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "大主宰 年番1"
       },
       {
         "type": 4,
@@ -194741,6 +194761,36 @@
         "type": 1,
         "language": "x-zht",
         "title": "Da Zhu Zai Nian Fan 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Da Zhuzai (2023) 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Da Zhuzai 3D 2nd Season"
+      },
+      {
+        "type": 3,
+        "language": "en",
+        "title": "TGR 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Great Ruler 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Great Ruler 3D 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "大主宰 第二季"
       },
       {
         "type": 4,
@@ -435390,6 +435440,41 @@
     ]
   },
   {
+    "id": 19623,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Martial Soul Continent"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Legend of Wuhun Continent"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wu Hun Dalu"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Wuhun Continent"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Wuhun Dalu"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "武魂大陆"
+      }
+    ]
+  },
+  {
     "id": 14649,
     "titles": [
       {
@@ -546326,31 +546411,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "天书奇谭"
-      }
-    ]
-  },
-  {
-    "id": 19623,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Legend of Wuhun Continent"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Wuhun Continent"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Wuhun Dalu"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "武魂大陆"
       }
     ]
   },
