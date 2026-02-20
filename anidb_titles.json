@@ -160834,6 +160834,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "剧场版 电锯人 蕾塞篇"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "劇場版チェンソーマン レゼ篇"
       }
@@ -227596,6 +227601,36 @@
         "type": 4,
         "language": "ja",
         "title": "映画ドラえもん のび太の地球交響楽"
+      }
+    ]
+  },
+  {
+    "id": 4765,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Doraemon: Nobita`s Wedding Eve"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Nobita no Kekkon Zen`ya: The Night Before a Wedding"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Nobita`s Wedding Eve"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "のび太の結婚前夜 The night before a wedding"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "大雄的结婚前夜"
       }
     ]
   },
@@ -366813,6 +366848,11 @@
         "title": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season"
       },
       {
+        "type": 3,
+        "language": "ja",
+        "title": "俺自販機3"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "自動販売機に生まれ変わった俺は迷宮を彷徨う3rd season"
@@ -387065,7 +387105,7 @@
       {
         "type": 4,
         "language": "zh-Hans",
-        "title": "鬼人幻灯抄 葛野篇&江户篇"
+        "title": "鬼人幻灯抄￴"
       },
       {
         "type": 4,
@@ -467111,31 +467151,6 @@
         "type": 4,
         "language": "ja",
         "title": "びろのびろだいすきな木"
-      }
-    ]
-  },
-  {
-    "id": 4765,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Nobita no Kekkon Zen`ya: The Night Before a Wedding"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Nobita`s Wedding Eve"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "のび太の結婚前夜 The night before a wedding"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "大雄的结婚前夜"
       }
     ]
   },
