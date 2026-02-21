@@ -51508,6 +51508,11 @@
         "title": "heroaca3"
       },
       {
+        "type": 3,
+        "language": "en",
+        "title": "mha s3"
+      },
+      {
         "type": 4,
         "language": "pt",
         "title": "My Hero Academia - Temporada 3"
@@ -74510,6 +74515,191 @@
     ]
   },
   {
+    "id": 15582,
+    "titles": [
+      {
+        "type": 3,
+        "language": "en",
+        "title": "aot c"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Attack on Titan: Chronicle"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shingeki no Kyojin: Chronicle"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "snk c"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "snkc"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "进击的巨人 剧场版：CHRONICLE"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "進撃の巨人 ~CHRONICLE~"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "進撃の巨人 ~クロニクル~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "進擊的巨人 劇場版 CHRONICLE"
+      }
+    ]
+  },
+  {
+    "id": 10583,
+    "titles": [
+      {
+        "type": 3,
+        "language": "en",
+        "title": "aot movie"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Attack on Titan - The Movie"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Attack on Titan Movie"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Shingeki no Kyojin"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "snk movie"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版 進撃の巨人"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "进击的巨人 剧场版"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "進擊的巨人 劇場版"
+      }
+    ]
+  },
+  {
+    "id": 13546,
+    "titles": [
+      {
+        "type": 3,
+        "language": "en",
+        "title": "aot movie 2"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Attack on Titan - Anime Movie Teil 3: Gebrüll des Erwachens"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Attack on Titan: The Movie 3 - Roar of Awakening"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Shingeki no Kyojin Season 2: Kakusei no Houkou"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "snk movie 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版 進撃の巨人 Season 2 覚醒の咆哮"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "进击的巨人 剧场版 觉醒的咆哮"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "進擊的巨人 劇場版 覺醒的咆哮"
+      }
+    ]
+  },
+  {
+    "id": 9826,
+    "titles": [
+      {
+        "type": 3,
+        "language": "en",
+        "title": "aot ova"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Attack on Titan OAD"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Attack on Titan OAD"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shingeki no Kyojin OAD"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Shingeki no Kyojin: Lost Girls"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "SnK OVA"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "进击的巨人 OAD"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "進撃の巨人 OAD"
+      }
+    ]
+  },
+  {
     "id": 13241,
     "titles": [
       {
@@ -74826,6 +75016,151 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "進擊的巨人 The Final Season"
+      }
+    ]
+  },
+  {
+    "id": 16177,
+    "titles": [
+      {
+        "type": 3,
+        "language": "en",
+        "title": "aot5"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Attack on Titan The Final Season (2022)"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Attack on Titan: The Final Season - Part 2"
+      },
+      {
+        "type": 4,
+        "language": "it",
+        "title": "L`Attacco dei Giganti - La Stagione Finale (2022)"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "L`Attaque des Titans - Saison Finale Partie 2"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Shingeki no Kyojin Season 4 Part 2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shingeki no Kyojin: The Final Season (2022)"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "snk5"
+      },
+      {
+        "type": 2,
+        "language": "ar",
+        "title": "الهجوم على العمالقة: الجزء الاخير (2022)"
+      },
+      {
+        "type": 4,
+        "language": "th",
+        "title": "ผ่าพิภพไททัน ภาคอวสาน พาร์ท 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "进击的巨人 最终季 第二部分"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "進撃の巨人 attack on titan The Final Season (2022)"
+      }
+    ]
+  },
+  {
+    "id": 17303,
+    "titles": [
+      {
+        "type": 3,
+        "language": "en",
+        "title": "aot6"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Attack on Titan The Final Season (2023)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Attack on Titan The Final Season Part 3"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Attack on Titan: Final Season - The Final Chapters"
+      },
+      {
+        "type": 4,
+        "language": "it",
+        "title": "L`Attacco dei Giganti - La Stagione Finale (2023)"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "L`Attaque des Titans - Saison Finale Dernière Partie"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Shingeki no Kyojin Season 4 Part 3"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Shingeki no Kyojin: The Final Season - Kanketsuhen"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shingeki no Kyojin: The Final Season (2023)"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "snk6"
+      },
+      {
+        "type": 4,
+        "language": "th",
+        "title": "ผ่าพิภพไททัน ภาคอวสาน พาร์ท 3"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "进击的巨人 完结篇"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "進撃の巨人 attack on titan The Final Season (2023)"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "進撃の巨人 The Final Season 完結編"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "進擊的巨人 完結篇"
       }
     ]
   },
@@ -91105,306 +91440,6 @@
     ]
   },
   {
-    "id": 13546,
-    "titles": [
-      {
-        "type": 4,
-        "language": "de",
-        "title": "Attack on Titan - Anime Movie Teil 3: Gebrüll des Erwachens"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Attack on Titan: The Movie 3 - Roar of Awakening"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Gekijouban Shingeki no Kyojin Season 2: Kakusei no Houkou"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "snk movie 2"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "劇場版 進撃の巨人 Season 2 覚醒の咆哮"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "进击的巨人 剧场版 觉醒的咆哮"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "進擊的巨人 劇場版 覺醒的咆哮"
-      }
-    ]
-  },
-  {
-    "id": 10583,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Attack on Titan - The Movie"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "Attack on Titan Movie"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Gekijouban Shingeki no Kyojin"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "snk movie"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "劇場版 進撃の巨人"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "进击的巨人 剧场版"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "進擊的巨人 劇場版"
-      }
-    ]
-  },
-  {
-    "id": 9826,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Attack on Titan OAD"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "Attack on Titan OAD"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shingeki no Kyojin OAD"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Shingeki no Kyojin: Lost Girls"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "SnK OVA"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "进击的巨人 OAD"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "進撃の巨人 OAD"
-      }
-    ]
-  },
-  {
-    "id": 16177,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Attack on Titan The Final Season (2022)"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "Attack on Titan: The Final Season - Part 2"
-      },
-      {
-        "type": 4,
-        "language": "it",
-        "title": "L`Attacco dei Giganti - La Stagione Finale (2022)"
-      },
-      {
-        "type": 4,
-        "language": "fr",
-        "title": "L`Attaque des Titans - Saison Finale Partie 2"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Shingeki no Kyojin Season 4 Part 2"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shingeki no Kyojin: The Final Season (2022)"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "snk5"
-      },
-      {
-        "type": 2,
-        "language": "ar",
-        "title": "الهجوم على العمالقة: الجزء الاخير (2022)"
-      },
-      {
-        "type": 4,
-        "language": "th",
-        "title": "ผ่าพิภพไททัน ภาคอวสาน พาร์ท 2"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "进击的巨人 最终季 第二部分"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "進撃の巨人 attack on titan The Final Season (2022)"
-      }
-    ]
-  },
-  {
-    "id": 17303,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Attack on Titan The Final Season (2023)"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Attack on Titan The Final Season Part 3"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "Attack on Titan: Final Season - The Final Chapters"
-      },
-      {
-        "type": 4,
-        "language": "it",
-        "title": "L`Attacco dei Giganti - La Stagione Finale (2023)"
-      },
-      {
-        "type": 4,
-        "language": "fr",
-        "title": "L`Attaque des Titans - Saison Finale Dernière Partie"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Shingeki no Kyojin Season 4 Part 3"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Shingeki no Kyojin: The Final Season - Kanketsuhen"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shingeki no Kyojin: The Final Season (2023)"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "snk6"
-      },
-      {
-        "type": 4,
-        "language": "th",
-        "title": "ผ่าพิภพไททัน ภาคอวสาน พาร์ท 3"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "进击的巨人 完结篇"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "進撃の巨人 attack on titan The Final Season (2023)"
-      },
-      {
-        "type": 2,
-        "language": "ja",
-        "title": "進撃の巨人 The Final Season 完結編"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "進擊的巨人 完結篇"
-      }
-    ]
-  },
-  {
-    "id": 15582,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Attack on Titan: Chronicle"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shingeki no Kyojin: Chronicle"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "snk c"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "snkc"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "进击的巨人 剧场版：CHRONICLE"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "進撃の巨人 ~CHRONICLE~"
-      },
-      {
-        "type": 2,
-        "language": "ja",
-        "title": "進撃の巨人 ~クロニクル~"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "進擊的巨人 劇場版 CHRONICLE"
-      }
-    ]
-  },
-  {
     "id": 18820,
     "titles": [
       {
@@ -100384,6 +100419,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "轉生成女性向遊戲只有毀滅END的壞人大小姐"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "转生成为了只有乙女游戏破灭Flag的邪恶大小姐"
       }
@@ -100456,6 +100496,11 @@
         "type": 4,
         "language": "ja",
         "title": "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった...X"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "轉生成女性向遊戲只有毀滅END的壞人大小姐 X"
       },
       {
         "type": 4,
@@ -129673,6 +129718,11 @@
         "title": "Boku no Hero Academia OVA (2016)"
       },
       {
+        "type": 3,
+        "language": "en",
+        "title": "mha ova"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "My Hero Academia OVA"
@@ -129741,6 +129791,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "heroaca4"
+      },
+      {
+        "type": 3,
+        "language": "en",
+        "title": "mha s4"
       },
       {
         "type": 4,
@@ -129843,6 +129898,11 @@
         "title": "heroaca5"
       },
       {
+        "type": 3,
+        "language": "en",
+        "title": "mha s5"
+      },
+      {
         "type": 4,
         "language": "pt",
         "title": "My Hero Academia - Temporada 5"
@@ -129916,6 +129976,11 @@
         "type": 3,
         "language": "en",
         "title": "heroaca6"
+      },
+      {
+        "type": 3,
+        "language": "en",
+        "title": "mha s6"
       },
       {
         "type": 4,
@@ -130013,6 +130078,11 @@
         "title": "heroaca7"
       },
       {
+        "type": 3,
+        "language": "en",
+        "title": "mha s7"
+      },
+      {
         "type": 4,
         "language": "fr",
         "title": "My Hero Academia Saison 7"
@@ -130076,6 +130146,11 @@
         "type": 3,
         "language": "en",
         "title": "heroaca8"
+      },
+      {
+        "type": 3,
+        "language": "en",
+        "title": "mha s8"
       },
       {
         "type": 2,
@@ -257275,6 +257350,26 @@
     ]
   },
   {
+    "id": 19897,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Fabulous Beasts 5"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "You Shou Yan 5"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "有兽焉 第五季"
+      }
+    ]
+  },
+  {
     "id": 17349,
     "titles": [
       {
@@ -271101,6 +271196,26 @@
         "type": 4,
         "language": "ja",
         "title": "片田舎のおっさん, 剣聖になるII"
+      }
+    ]
+  },
+  {
+    "id": 19896,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S Rank Cheat Majutsushi Bouken Roku"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "落第賢者の学院無双 ~二度目の転生, Sランクチート魔術師冒険録~"
       }
     ]
   },
@@ -367930,6 +368045,46 @@
     ]
   },
   {
+    "id": 19898,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jiu Cang Miao Wo Miao Wangguo Pian"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "九藏喵窩 喵王國篇"
+      }
+    ]
+  },
+  {
+    "id": 19900,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jiu Cang Miao Wo Richang Pian"
+      }
+    ]
+  },
+  {
+    "id": 19899,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jiu Cang Miao Wo Yinghua Cun Pian"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "九藏喵窩 櫻花村篇"
+      }
+    ]
+  },
+  {
     "id": 18377,
     "titles": [
       {
@@ -400133,6 +400288,11 @@
     "id": 18917,
     "titles": [
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "kowloon"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Kowloon Generic Romance"
@@ -428109,6 +428269,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "轉生公主與天才千金的魔法革命"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "转生王女与天才千金的魔法革命"
       }
@@ -454763,6 +454928,11 @@
         "title": "Vigilante: My Hero Academia Illegals"
       },
       {
+        "type": 3,
+        "language": "en",
+        "title": "Vigilantes"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-"
@@ -454806,6 +454976,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Vigilante: Boku no Hero Academia Illegals (2026)"
+      },
+      {
+        "type": 3,
+        "language": "en",
+        "title": "Vigilantes S2"
       },
       {
         "type": 4,
@@ -502269,6 +502444,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "理科生墜入情網，故嘗試證明。"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "理系が恋に落ちたので証明してみた."
       }
@@ -502316,6 +502496,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "理科生坠入情网，故尝试证明。第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "理科生墜入情網，故嘗試證明。r=1-sinθ"
       },
       {
         "type": 4,
