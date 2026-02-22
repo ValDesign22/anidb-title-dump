@@ -76204,6 +76204,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "不相信人類的冒險者們好像要去拯救世界"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "人間不信の冒険者たちが世界を救うようです"
       }
@@ -222290,6 +222295,26 @@
     ]
   },
   {
+    "id": 19901,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Do You Like Big Girls?"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ookii Onnanoko wa Suki Desuka?"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "大きい女の子は好きですか?"
+      }
+    ]
+  },
+  {
     "id": 14454,
     "titles": [
       {
@@ -244426,6 +244451,21 @@
         "type": 2,
         "language": "en",
         "title": "The Heroic Elegy of Confucius"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Heroic Legend of Confucius"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Legend of Confucius"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Life of Confucius"
       },
       {
         "type": 4,
@@ -294101,6 +294141,21 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "不公正抽签 (2006)"
+      }
+    ]
+  },
+  {
+    "id": 19902,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Genshin"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "原神"
       }
     ]
   },
