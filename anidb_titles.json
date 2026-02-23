@@ -214658,6 +214658,11 @@
         "title": "El misterio se resuelve después de la cena"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "nazod"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Nazotoki wa Dinner no Ato de"
@@ -361906,6 +361911,11 @@
         "type": 2,
         "language": "en",
         "title": "Pioneer Log of the Storied Hot Springs \"Alternate World`s Springs\": The Reincarnation Destination of an Onsen Fan (Who`s Around 40) Was a Relaxing Hot Spring Paradise"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "명탕 『이세계 온천』 개척기 ~아라포 온천 매니아의 전생처는 느긋한 온천천국이었습니다~"
       },
       {
         "type": 4,
@@ -511513,6 +511523,11 @@
         "title": "Sword Art Online III"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Sword Art Online Season 3"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Sword Art Online: Alicization"
@@ -514323,6 +514338,11 @@
         "title": "Seifuku wa Kita mama de"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "교복은 입은 채로"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "制服は着たままで"
@@ -514596,6 +514616,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Seikou Senki Pony Celes"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "성광섬희 포니 세레스"
       },
       {
         "type": 4,
