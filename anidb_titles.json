@@ -56228,6 +56228,11 @@
         "title": "Đôrêmon"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Ooyama Doraemon"
+      },
+      {
         "type": 4,
         "language": "he",
         "title": "דורימון"
@@ -186453,14 +186458,29 @@
     "id": 17798,
     "titles": [
       {
+        "type": 4,
+        "language": "pt",
+        "title": "Covil dos Duendes"
+      },
+      {
         "type": 2,
         "language": "pt",
         "title": "Covil dos Goblins"
       },
       {
         "type": 2,
+        "language": "pt-BR",
+        "title": "Covil dos Goblins"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "Goblin Den"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Goblin Lair"
       },
       {
         "type": 1,
@@ -200506,6 +200526,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "黑暗之壳 笼中的艳"
+      }
+    ]
+  },
+  {
+    "id": 19908,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Dark Summoner to Dekite Iru"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ダークサモナーとデキている"
       }
     ]
   },
@@ -249358,9 +249393,14 @@
         "title": "Fire Force Staffel 3"
       },
       {
+        "type": 2,
+        "language": "uk",
+        "title": "Полум’яні вогнеборці (2025)"
+      },
+      {
         "type": 4,
         "language": "uk",
-        "title": "Полум’яні вогнеборці Розділ 3"
+        "title": "Полум’яні вогнеборці 3 розділ 1 частина"
       },
       {
         "type": 4,
@@ -249401,6 +249441,16 @@
         "type": 4,
         "language": "de",
         "title": "Fire Force Staffel 3 Cour 2"
+      },
+      {
+        "type": 2,
+        "language": "uk",
+        "title": "Полум’яні вогнеборці (2026)"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Полум’яні вогнеборці 3 розділ 2 частина"
       },
       {
         "type": 4,
@@ -254071,6 +254121,21 @@
         "type": 4,
         "language": "ja",
         "title": "桜流し"
+      }
+    ]
+  },
+  {
+    "id": 19905,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Evangelion (Kanzen shinsaku series)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "エヴァンゲリオン (完全新作シリーズ)"
       }
     ]
   },
@@ -271253,9 +271318,19 @@
         "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "rakudai kenja"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S Rank Cheat Majutsushi Bouken Roku"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "落第賢者"
       },
       {
         "type": 4,
@@ -429785,6 +429860,26 @@
     ]
   },
   {
+    "id": 19907,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mahou Tsukai Roze no Sado Life"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Sado Life of Rosé the Witch"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔法使いロゼの佐渡ライフ"
+      }
+    ]
+  },
+  {
     "id": 1891,
     "titles": [
       {
@@ -572946,6 +573041,21 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "猪猪侠番外篇之拼装特工队"
+      }
+    ]
+  },
+  {
+    "id": 19906,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhu Zhu Xia: Bukesiyi De Shijie"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "猪猪侠·不可思议的世界"
       }
     ]
   },
