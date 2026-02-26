@@ -41974,6 +41974,11 @@
       },
       {
         "type": 4,
+        "language": "ja",
+        "title": "シンデレラ・シェフ ～萌妻食神～ シーズン2"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "萌妻食神之再结良缘"
       }
@@ -163678,6 +163683,11 @@
         "title": "Chez Imaizumi, point de chute pour filles faciles"
       },
       {
+        "type": 4,
+        "language": "pt",
+        "title": "Imaizumi Leva Todas as Gyarus Para a Sua Casa"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "Imaizumi`s Place Became a Gal Hang-Out Spot for Some Reason"
@@ -254156,6 +254166,21 @@
         "type": 4,
         "language": "ja",
         "title": "エヴァンゲリオン (完全新作シリーズ)"
+      }
+    ]
+  },
+  {
+    "id": 19910,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Evangelion Housou 30 Shuunen Kinen Tokubetsu Kougyou"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "エヴァンゲリオン放送30周年記念特別興行"
       }
     ]
   },
