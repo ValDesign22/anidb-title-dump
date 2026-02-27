@@ -3978,9 +3978,19 @@
         "title": "「きみを愛する気はない」と言った 次期公爵様がなぜか溺愛してきます"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "kimi ai"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "The Duke`s Son Claims He Won`t Love Me Yet Showers Me with Adoration"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "きみ愛"
       }
     ]
   },
@@ -242359,6 +242369,11 @@
       },
       {
         "type": 2,
+        "language": "x-jat",
+        "title": "Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "Miss Kobayashi`s Dragon Maid: A Lonely Dragon Wants to Be Loved"
       },
@@ -286044,6 +286059,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Me & Roboco: The Movie"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "剧场版 我与机器妹"
       },
@@ -292064,6 +292084,11 @@
       },
       {
         "type": 4,
+        "language": "es",
+        "title": "That Time I Got Reincarnated as a Slime La Película: Lágrimas del mar celeste"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea"
       },
@@ -295941,6 +295966,31 @@
         "type": 4,
         "language": "zh",
         "title": "豬豬俠之終極決戰前夜篇"
+      }
+    ]
+  },
+  {
+    "id": 19906,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "GG Bond: Lollipop in Fantasy"
+      },
+      {
+        "type": 4,
+        "language": "es",
+        "title": "Jana y la piruleta mágica"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhu Zhu Xia: Bukesiyi De Shijie"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "猪猪侠·不可思议的世界"
       }
     ]
   },
@@ -461496,6 +461546,11 @@
         "type": 4,
         "language": "ja",
         "title": "姉SUMMER!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "姐姐大人！"
       }
     ]
   },
@@ -544215,6 +544270,21 @@
     ]
   },
   {
+    "id": 19911,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Tereomaen"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Terror Man"
+      }
+    ]
+  },
+  {
     "id": 10439,
     "titles": [
       {
@@ -573106,21 +573176,6 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "猪猪侠番外篇之拼装特工队"
-      }
-    ]
-  },
-  {
-    "id": 19906,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Zhu Zhu Xia: Bukesiyi De Shijie"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "猪猪侠·不可思议的世界"
       }
     ]
   },
