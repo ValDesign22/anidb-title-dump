@@ -133010,6 +133010,46 @@
     ]
   },
   {
+    "id": 18068,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Boku to Roboco Movie"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Boku to Roboco"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Me & Roboco the Movie"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Me & Roboco: The Movie"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "剧场版 我与机器妹"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版 僕とロボコ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "劇場版 我與機器子"
+      }
+    ]
+  },
+  {
     "id": 14913,
     "titles": [
       {
@@ -198270,6 +198310,21 @@
     ]
   },
   {
+    "id": 19912,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Dandelion"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "だんでらいおん"
+      }
+    ]
+  },
+  {
     "id": 919,
     "titles": [
       {
@@ -235756,6 +235811,21 @@
         "type": 1,
         "language": "x-jat",
         "title": "Duel Masters Lost: Boukyaku no Taiyou"
+      }
+    ]
+  },
+  {
+    "id": 19913,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Duel Masters LOST ~断罪の少年~"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Duel Masters Lost: Danzai no Shounen"
       }
     ]
   },
@@ -286041,41 +286111,6 @@
         "type": 4,
         "language": "ja",
         "title": "劇場版アルゴナビス 流星のオブリガート"
-      }
-    ]
-  },
-  {
-    "id": 18068,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Gekijouban Boku to Roboco"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Me & Roboco the Movie"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Me & Roboco: The Movie"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "剧场版 我与机器妹"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "劇場版 僕とロボコ"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "劇場版 我與機器子"
       }
     ]
   },
