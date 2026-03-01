@@ -77236,6 +77236,11 @@
         "type": 4,
         "language": "ja",
         "title": "劇場版 転生したらスライムだった件 紅蓮の絆編"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "劇場版 關於我轉生變成史萊姆這檔事 紅蓮之絆篇"
       }
     ]
   },
@@ -97071,6 +97076,26 @@
         "type": 2,
         "language": "ru",
         "title": "Голубая рыба-бабочка"
+      }
+    ]
+  },
+  {
+    "id": 19914,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-unk",
+        "title": "B.King"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yu Ling Shi"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "驭灵师"
       }
     ]
   },
@@ -199636,6 +199661,11 @@
         "type": 2,
         "language": "fr",
         "title": "Dans les fondations d’une vertueuse nation"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "How to Build a Magnificent Nation"
       },
       {
         "type": 2,
@@ -440551,6 +440581,11 @@
         "type": 4,
         "language": "ja",
         "title": "転生したらスライムだった件 (2021)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "關於我轉生變成史萊姆這檔事 第二季"
       }
     ]
   },
@@ -544051,6 +544086,11 @@
         "type": 4,
         "language": "ja",
         "title": "転生したらスライムだった件 (2021 第2部)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "關於我轉生變成史萊姆這檔事 第二季 第2部分"
       }
     ]
   },
@@ -566575,6 +566615,21 @@
     ]
   },
   {
+    "id": 19916,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xian Jian Qi Xia Zhuan San (2025)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "仙剑奇侠传三 (2025)"
+      }
+    ]
+  },
+  {
     "id": 14896,
     "titles": [
       {
@@ -573041,6 +573096,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "枕刀歌 第二季"
+      }
+    ]
+  },
+  {
+    "id": 19915,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhen Dao Ge 3"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "枕刀歌 第三季"
       }
     ]
   },
