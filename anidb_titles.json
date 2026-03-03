@@ -235855,7 +235855,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "Duel Masters LOST ～忘却の太陽～"
+        "title": "Duel Masters LOST ~忘却の太陽~"
       },
       {
         "type": 1,
@@ -248069,6 +248069,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "Plus-Sized Elf"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "エルフさんは痩せられない."
       },
@@ -259565,17 +259570,17 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Fang Kai Nage Nuwu (Web)"
+        "title": "Fang Kai Nage Nuwu (2026)"
       },
       {
         "type": 4,
         "language": "en",
-        "title": "Release That Witch (Web)"
+        "title": "Release That Witch (2026)"
       },
       {
         "type": 4,
         "language": "zh",
-        "title": "放开那个女巫 (Web)"
+        "title": "放开那个女巫 (2026)"
       }
     ]
   },
@@ -305646,21 +305651,6 @@
         "type": 4,
         "language": "ja",
         "title": "ゴールデンカムイ 最終章"
-      }
-    ]
-  },
-  {
-    "id": 19848,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Golden Kamuy: Inazuma Goutou to Mamushi no Ogin / Shimaenaga"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ゴールデンカムイ 稲妻強盗と蝮のお銀 / シマエナガ"
       }
     ]
   },
@@ -374046,6 +374036,11 @@
         "type": 4,
         "language": "ja",
         "title": "かぐや様は告らせたい-ウルトラロマンティック-"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "輝夜姬想讓人告白ー超級浪漫ー"
       },
       {
         "type": 4,
