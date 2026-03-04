@@ -188256,11 +188256,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "剑豪生死斗"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "剑豪生死门"
       }
     ]
   },
@@ -199935,6 +199930,21 @@
     ]
   },
   {
+    "id": 19921,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Dao Yao Xing"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "盗妖行"
+      }
+    ]
+  },
+  {
     "id": 16192,
     "titles": [
       {
@@ -207789,6 +207799,11 @@
       },
       {
         "type": 4,
+        "language": "es-419",
+        "title": "Moomin"
+      },
+      {
+        "type": 4,
         "language": "nl",
         "title": "Moomin (1990)"
       },
@@ -207836,6 +207851,11 @@
         "type": 2,
         "language": "fi",
         "title": "Muumit"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Tales from Moominvalley"
       },
       {
         "type": 1,
@@ -215546,16 +215566,6 @@
         "type": 4,
         "language": "ja",
         "title": "デビルマンレディー"
-      }
-    ]
-  },
-  {
-    "id": 19278,
-    "titles": [
-      {
-        "type": 1,
-        "language": "ko",
-        "title": "Devil May Cry (2025)"
       }
     ]
   },
@@ -273039,7 +273049,7 @@
       },
       {
         "type": 4,
-        "language": "zh-Hant",
+        "language": "zh-Hans",
         "title": "全职法师"
       }
     ]
@@ -273099,7 +273109,7 @@
       },
       {
         "type": 4,
-        "language": "zh-Hant",
+        "language": "zh-Hans",
         "title": "全职法师IV"
       }
     ]
@@ -273129,11 +273139,6 @@
       },
       {
         "type": 2,
-        "language": "zh",
-        "title": "全职法师 II"
-      },
-      {
-        "type": 4,
         "language": "zh-Hans",
         "title": "全职法师 第2季"
       },
@@ -273141,6 +273146,11 @@
         "type": 2,
         "language": "zh",
         "title": "全职法师 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "全职法师II"
       }
     ]
   },
@@ -273160,7 +273170,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Quanzhi Fashi 3"
+        "title": "Quanzhi Fashi III"
       },
       {
         "type": 3,
@@ -273170,12 +273180,12 @@
       {
         "type": 2,
         "language": "zh",
-        "title": "全职法师 III"
+        "title": "全职法师 第3季"
       },
       {
         "type": 4,
-        "language": "zh",
-        "title": "全职法师 第3季"
+        "language": "zh-Hans",
+        "title": "全职法师III"
       },
       {
         "type": 2,
@@ -332343,7 +332353,7 @@
         "title": "التحدي الكبير"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "兽神演武"
       },
@@ -435928,9 +435938,64 @@
         "title": "Xiuluo Wu Shen"
       },
       {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xiuluo Wushen"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "修罗武神"
+      }
+    ]
+  },
+  {
+    "id": 19923,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Martial God Asura 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Martial God Asura 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Martial God Asura S2"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xiuluo Wushen 2"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xiuluo Wushen 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xiuluo Wushen Di Er Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "修罗武神 第2季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "修罗武神 第二季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "修罗武神2"
       }
     ]
   },
@@ -451285,7 +451350,7 @@
       {
         "type": 4,
         "language": "zh-Hans",
-        "title": "忧国的莫里亚蒂"
+        "title": "忧国的莫里亚蒂 后半"
       },
       {
         "type": 4,
@@ -464601,6 +464666,31 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "逆天剑神"
+      }
+    ]
+  },
+  {
+    "id": 19922,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Ni Zai Xing Guang Shen Chu"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Ni Zai Xingguang Shenchu"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Stars Fall"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "你在星光深处"
       }
     ]
   },
@@ -496434,8 +496524,23 @@
       },
       {
         "type": 4,
-        "language": "zh-Hant",
+        "language": "zh-Hans",
         "title": "全职法师 特别篇 神秘委托"
+      }
+    ]
+  },
+  {
+    "id": 19920,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Quanzhi Fashi VII"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "全职法师VII"
       }
     ]
   },
