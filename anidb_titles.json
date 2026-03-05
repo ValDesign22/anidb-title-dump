@@ -57975,6 +57975,26 @@
     ]
   },
   {
+    "id": 19921,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Aliens Among Immortals"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Dao Yao Xing"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "盗妖行"
+      }
+    ]
+  },
+  {
     "id": 5602,
     "titles": [
       {
@@ -199930,21 +199950,6 @@
     ]
   },
   {
-    "id": 19921,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Dao Yao Xing"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "盗妖行"
-      }
-    ]
-  },
-  {
     "id": 16192,
     "titles": [
       {
@@ -227260,6 +227265,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Doraemon: Nobita`s Three Fantasketeers"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Doraemon: Nobita`s Three Visionary Swordsmen"
       },
       {
@@ -250563,12 +250573,12 @@
         "title": "Engineer Reincarnated Into Medieval World With Magic And Witches"
       },
       {
-        "type": 1,
+        "type": 2,
         "language": "x-zht",
         "title": "Fang Kai Nage Nuwu"
       },
       {
-        "type": 2,
+        "type": 1,
         "language": "x-zht",
         "title": "Fangkai Nage Nuwu"
       },
@@ -273471,6 +273481,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "船梨精摇摇摇日和"
+      }
+    ]
+  },
+  {
+    "id": 19924,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Fungus and Iron"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kin to Tetsu"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "菌と鉄"
       }
     ]
   },
@@ -301216,6 +301246,11 @@
         "type": 2,
         "language": "x-unk",
         "title": "Girls und Panzer - MLLSD"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Girls und Panzer das Finale: Part 5"
       },
       {
         "type": 1,
@@ -340196,6 +340231,26 @@
         "type": 4,
         "language": "ja",
         "title": "おす"
+      }
+    ]
+  },
+  {
+    "id": 19925,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hone Dragon no Mana Musume"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Skull Dragon`s Precious Daughter"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "骨ドラゴンのマナ娘"
       }
     ]
   },
@@ -515131,6 +515186,21 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "聲優廣播的幕前幕後"
+      }
+    ]
+  },
+  {
+    "id": 19926,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Seishidouin no Oshigoto The Animation"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "性指導員のお仕事 The Animation"
       }
     ]
   },
