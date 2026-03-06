@@ -259588,9 +259588,14 @@
     "id": 19716,
     "titles": [
       {
-        "type": 1,
+        "type": 2,
         "language": "x-zht",
         "title": "Fang Kai Nage Nuwu (2026)"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Fangkai Nage Nuwu (2026)"
       },
       {
         "type": 4,
@@ -270118,6 +270123,11 @@
         "title": "狐妖小红娘 (2024)"
       },
       {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "狐妖小红娘·镜花缘篇"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "狐妖小红娘12 镜花缘篇"
@@ -270231,6 +270241,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "狐妖小红娘 第十一季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "狐妖小红娘·无暮篇"
       },
       {
         "type": 4,
@@ -286535,17 +286550,17 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Gekijouban Gochuumon wa Usagi Desuka?"
+        "title": "Gekijouban Gochuumon wa Usagi Desuka? We Are Family!"
       },
       {
         "type": 2,
         "language": "en",
-        "title": "Is the Order a Rabbit? The Movie"
+        "title": "Is the Order a Rabbit? The Movie: We Are Family!"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "劇場版 ご注文はうさぎですか?"
+        "title": "劇場版 ご注文はうさぎですか? ~We Are Family!~"
       }
     ]
   },
@@ -340243,9 +340258,19 @@
         "title": "Hone Dragon no Mana Musume"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "honedora"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "The Skull Dragon`s Precious Daughter"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "骨ドラ"
       },
       {
         "type": 4,
@@ -439613,6 +439638,11 @@
         "title": "Medalist (2026)"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Medalist 2nd Season"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "メダリスト (2026)"
@@ -473621,6 +473651,21 @@
         "type": 4,
         "language": "ja",
         "title": "オナホ教室 ~女子全員妊娠計画~ THE ANIMATION"
+      }
+    ]
+  },
+  {
+    "id": 19927,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Onaji Zemi no Someya-san ga Sexy Joyuu Datta Hanashi."
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "同じゼミの染谷さんがセクシー女優だった話。"
       }
     ]
   },
