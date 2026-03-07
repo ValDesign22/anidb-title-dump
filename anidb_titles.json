@@ -127190,6 +127190,21 @@
     ]
   },
   {
+    "id": 19928,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Bless"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ブレス"
+      }
+    ]
+  },
+  {
     "id": 7280,
     "titles": [
       {
@@ -343373,19 +343388,19 @@
     "id": 19621,
     "titles": [
       {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Hotel Inhumans 2"
-      },
-      {
         "type": 2,
         "language": "en",
-        "title": "Hotel Inhumans 2"
+        "title": "Hotel Inhumans (2026)"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hotel Inhumans (2026)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "ホテル・インヒューマンズ 2"
+        "title": "ホテル・インヒューマンズ (2026)"
       }
     ]
   },
@@ -386291,6 +386306,16 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kick Off 2002"
+      },
+      {
+        "type": 4,
+        "language": "x-kot",
+        "title": "Ujeong-i Ground"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "우정의 그라운드"
       },
       {
         "type": 4,
