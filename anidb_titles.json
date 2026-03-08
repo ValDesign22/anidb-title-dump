@@ -28518,6 +28518,11 @@
         "title": "Egao no Taenai Shokuba Desu."
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "egatae"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "笑顔のたえない職場です."
@@ -96363,9 +96368,14 @@
         "title": "The Demon Hunter 2nd Season"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "zh-Hans",
         "title": "沧元图 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "沧元图2"
       }
     ]
   },
@@ -471270,6 +471280,21 @@
     ]
   },
   {
+    "id": 19929,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Odekake Kozame (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "おでかけ子ザメ (2026)"
+      }
+    ]
+  },
+  {
     "id": 3054,
     "titles": [
       {
@@ -510008,6 +510033,11 @@
         "title": "Sakura Mail"
       },
       {
+        "type": 4,
+        "language": "es-419",
+        "title": "Sakura Mail"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Sakura Tsuushin"
@@ -525496,6 +525526,21 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "小市民系列 第二季"
+      }
+    ]
+  },
+  {
+    "id": 19930,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shou 3 Ashibe QQ Goma-chan"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "小3アシベ QQゴマちゃん"
       }
     ]
   },
