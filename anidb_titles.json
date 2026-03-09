@@ -56218,7 +56218,7 @@
         "title": "Albert and Sydney"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "hi",
         "title": "Classic Doraemon"
       },
@@ -96665,6 +96665,31 @@
     ]
   },
   {
+    "id": 19914,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "B King"
+      },
+      {
+        "type": 2,
+        "language": "x-unk",
+        "title": "B.King"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yu Ling Shi"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "驭灵师"
+      }
+    ]
+  },
+  {
     "id": 14619,
     "titles": [
       {
@@ -97106,26 +97131,6 @@
         "type": 2,
         "language": "ru",
         "title": "Голубая рыба-бабочка"
-      }
-    ]
-  },
-  {
-    "id": 19914,
-    "titles": [
-      {
-        "type": 2,
-        "language": "x-unk",
-        "title": "B.King"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Yu Ling Shi"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "驭灵师"
       }
     ]
   },
@@ -163478,9 +163483,34 @@
         "title": "Cheng He Titong 2"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "How Dare You!? 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "How Dare You!? 2nd Season"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "How dare you!? Season 2"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "成何体统 第2季"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "成何体统 第二季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "成何体统2"
       }
     ]
   },
@@ -282340,6 +282370,71 @@
     ]
   },
   {
+    "id": 13235,
+    "titles": [
+      {
+        "type": 4,
+        "language": "x-jat",
+        "title": "Ganjin Dai Oshou"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Ganjin Monogatari"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jianzhen Da he shang"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Master Ganjin"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Master Jian Zhen"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Ven. Jian Zhen"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Venerable Ganjin"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "鑑真大和上"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "鑑真大和尚"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "鑑真大和尚"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "鑑真尊師"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "鑑真物語"
+      }
+    ]
+  },
+  {
     "id": 1935,
     "titles": [
       {
@@ -367026,31 +367121,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "姜子牙"
-      }
-    ]
-  },
-  {
-    "id": 13235,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Jianzhen Da he shang"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Ven. Jian Zhen"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "鑑真大和尚"
-      },
-      {
-        "type": 2,
-        "language": "ja",
-        "title": "鑑真物語"
       }
     ]
   },
