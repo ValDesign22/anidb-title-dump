@@ -397585,6 +397585,21 @@
     ]
   },
   {
+    "id": 19932,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Komekami! Girls"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "こめかみっ！ガールズ"
+      }
+    ]
+  },
+  {
     "id": 16300,
     "titles": [
       {
@@ -567030,7 +567045,7 @@
     ]
   },
   {
-    "id": 19916,
+    "id": 19931,
     "titles": [
       {
         "type": 1,
