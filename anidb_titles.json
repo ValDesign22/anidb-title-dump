@@ -78430,6 +78430,26 @@
     ]
   },
   {
+    "id": 19935,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "Arcane Afterglow"
+      }
+    ]
+  },
+  {
+    "id": 19934,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "Arcane: League of Legends"
+      }
+    ]
+  },
+  {
     "id": 9287,
     "titles": [
       {
@@ -155771,6 +155791,16 @@
         "type": 2,
         "language": "ja",
         "title": "ジブリ実験劇場 On Your Mark"
+      }
+    ]
+  },
+  {
+    "id": 19937,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "Castlevania"
       }
     ]
   },
@@ -364535,6 +364565,21 @@
     ]
   },
   {
+    "id": 19933,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "J&lt;-&gt;M"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "J⇔Ｍ ジェイエム"
+      }
+    ]
+  },
+  {
     "id": 17523,
     "titles": [
       {
@@ -562341,6 +562386,16 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "白色相簿"
+      }
+    ]
+  },
+  {
+    "id": 19936,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "W.I.T.C.H."
       }
     ]
   },
