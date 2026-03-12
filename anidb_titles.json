@@ -75960,6 +75960,26 @@
     ]
   },
   {
+    "id": 19941,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Apocalypse: I Dominate with My S-Rank Mech"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Moshi: S Ji Ji Jia Kaiju, Wo Wudile"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "末世：S级机甲开局，我无敌了"
+      }
+    ]
+  },
+  {
     "id": 8870,
     "titles": [
       {
@@ -113546,6 +113566,26 @@
         "type": 3,
         "language": "ja",
         "title": "ヤニすう"
+      }
+    ]
+  },
+  {
+    "id": 19940,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Bei Jiazu Paoqi, Wo Juexing Jiu Yi Shuxing Dian"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Cast Out by My Family, I Awakened 900 Million Stat Points"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "被家族抛弃，我觉醒九亿属性点"
       }
     ]
   },
@@ -199095,6 +199135,36 @@
     ]
   },
   {
+    "id": 19943,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "dankatsu"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" o \"Hajime kara\" Play Suru"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Reincarnation in the Game World Dan-Katsu: Game Addict Plays \"Encouragement for Job Hunting in Dungeons\" From a \"New Game\""
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ゲーム世界転生〈ダン活〉~ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする~"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "ダン活"
+      }
+    ]
+  },
+  {
     "id": 6711,
     "titles": [
       {
@@ -199834,13 +199904,13 @@
       },
       {
         "type": 4,
-        "language": "pl",
-        "title": "In This Corner of the World (2019)"
+        "language": "en",
+        "title": "In This Corner (and Other Corners) of the World"
       },
       {
         "type": 4,
-        "language": "en",
-        "title": "In This Corners of the World"
+        "language": "pl",
+        "title": "In This Corner of the World (2019)"
       },
       {
         "type": 1,
@@ -199896,11 +199966,6 @@
         "type": 4,
         "language": "it",
         "title": "In questo angolo di mondo"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "In This Corner (and Other Corners) of the World"
       },
       {
         "type": 4,
@@ -269316,6 +269381,36 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "花樣少年少女"
+      }
+    ]
+  },
+  {
+    "id": 19938,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Forbidden City: Cat Imperial Study"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Paw & Palaces"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Paws & Palaces"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zi Jin: Yu Miao Fang"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "紫禁·御喵房"
       }
     ]
   },
@@ -344460,6 +344555,31 @@
     ]
   },
   {
+    "id": 18772,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-unk",
+        "title": "https://www.allcinema.net/cinema/404433"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Niwatori Fighter"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Rooster Fighter"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ニワトリ・ファイター"
+      }
+    ]
+  },
+  {
     "id": 18905,
     "titles": [
       {
@@ -371661,6 +371781,21 @@
         "type": 4,
         "language": "ja",
         "title": "ユンカース・カム・ヒア ~メモリーズ・オブ・ユー~"
+      }
+    ]
+  },
+  {
+    "id": 19944,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Junket Bank"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ジャンケットバンク"
       }
     ]
   },
@@ -444170,7 +444305,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Wonder Beat Scrumble"
+        "title": "Wonder Beat Scramble"
       },
       {
         "type": 4,
@@ -444186,6 +444321,11 @@
         "type": 5,
         "language": "ja",
         "title": "ワンダービートスクランブル"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "ワンダービート大作戦"
       }
     ]
   },
@@ -451961,6 +452101,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Mou Ichido, Shite Mitai."
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "한 번 더, 해보고 싶어"
       },
       {
         "type": 4,
@@ -467456,26 +467601,6 @@
         "type": 3,
         "language": "uk",
         "title": "Нітабо"
-      }
-    ]
-  },
-  {
-    "id": 18772,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Niwatori Fighter"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Rooster Fighter"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ニワトリ・ファイター"
       }
     ]
   },
@@ -529275,6 +529400,36 @@
     ]
   },
   {
+    "id": 19942,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "So What`s Wrong with Getting Reborn as a Goblin?"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "tengobu"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tensei Goblin Dakedo Shitsumon Aru?"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "転ゴブ"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "転生ゴブリンだけど質問ある?"
+      }
+    ]
+  },
+  {
     "id": 2762,
     "titles": [
       {
@@ -568001,6 +568156,26 @@
         "type": 4,
         "language": "ja",
         "title": "山に輝く ガイド犬平治号"
+      }
+    ]
+  },
+  {
+    "id": 19939,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Yama Reborn: Master of Fate"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhuan Zhi Yanwang, Wo Zhizhangle Shengsi Bu"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "转职阎王，我执掌了生死簿"
       }
     ]
   },
