@@ -17823,6 +17823,11 @@
         "title": "86-エイティシックス- (2021)"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "86－不存在的戰區－(2021)"
+      },
+      {
         "type": 5,
         "language": "ja",
         "title": "エイティシックス (2021)"
@@ -72440,17 +72445,17 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Ao Ashi (2026)"
+        "title": "Ao Ashi Season 2"
       },
       {
         "type": 2,
         "language": "en",
-        "title": "Aoashi (2026)"
+        "title": "Aoashi Season 2"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "アオアシ (2026)"
+        "title": "アオアシ Season2"
       }
     ]
   },
@@ -96398,7 +96403,7 @@
         "title": "Cang Yuan Tu Di Er Ji"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Demon Hunter 2"
       },
@@ -96416,6 +96421,51 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "沧元图2"
+      }
+    ]
+  },
+  {
+    "id": 19946,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Azure Legacy 3rd Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Cang Yuan Tu 3"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Cang Yuan Tu 3rd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Cang Yuan Tu Di San Ji"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Demon Hunter 3"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Demon Hunter 3rd Season"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "沧元图 第三季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "沧元图3"
       }
     ]
   },
@@ -150081,6 +150131,26 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "苍兰诀2 影三界篇"
+      }
+    ]
+  },
+  {
+    "id": 19947,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Cang Yuan Tu Qianzhuan: Dongning Fu de Xiatian"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Prelude of The Demon Hunter: Dongning Prefecture in Summer"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "沧元图前传 东宁府的夏天"
       }
     ]
   },
@@ -286343,6 +286413,11 @@
         "title": "Gekijou Henshuuban Summer Pockets"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Summer Pockets Movie"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "劇場編集版 Summer Pockets"
@@ -332681,6 +332756,11 @@
         "type": 4,
         "language": "ja",
         "title": "無職の英雄 別にスキルなんか要らなかったんだが"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "無職英雄：技能什麼的毫無用處"
       }
     ]
   },
@@ -384591,6 +384671,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kenki Virgo"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "검귀 바르고"
       },
       {
         "type": 4,
@@ -442736,6 +442821,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Mesu o Karu Mura"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "암컷을 사냥 하는 마을"
       },
       {
         "type": 4,
@@ -550396,6 +550486,21 @@
         "type": 4,
         "language": "ja",
         "title": "サンダーキャッツ"
+      }
+    ]
+  },
+  {
+    "id": 19945,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Tian Zhen Yu Kung Fu Wa"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "天真与功夫袜"
       }
     ]
   },
