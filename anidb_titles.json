@@ -150148,6 +150148,11 @@
         "title": "Prelude of The Demon Hunter: Dongning Prefecture in Summer"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "The Demon Hunter Prequel: Summer in Dongning"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "沧元图前传 东宁府的夏天"
@@ -230988,6 +230993,11 @@
         "title": "Dr. Slump and Arale-chan: N-cha! Penguin Villiage is Swelling Then Fair"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Dr. Slump Movie 6"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Dr. Slump: Arale-chan Ncha! Penguin Mura wa Hare Nochi Hare"
@@ -231593,6 +231603,11 @@
         "title": "Dr. Slump & Arale-chan Ncha! Trembling Hot Summer Holiday"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Dr. Slump Movie 9"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Dr. Slump: Arale-chan Ncha!! Wakuwaku Heart no Natsuyasumi"
@@ -231730,23 +231745,13 @@
     ]
   },
   {
-    "id": 6626,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Dr. Slump: Arale-chan Hoyoyo!! Tasuketa Same ni Tsurerarete..."
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "Dr.スランプ アラレちゃん ほよよ!! 助けたサメに連れられて..."
-      }
-    ]
-  },
-  {
     "id": 6624,
     "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Dr. Slump Movie 7"
+      },
       {
         "type": 1,
         "language": "x-jat",
@@ -231756,6 +231761,26 @@
         "type": 4,
         "language": "ja",
         "title": "Dr.スランプ アラレちゃん んちゃ! ペンギン村より愛をこめて"
+      }
+    ]
+  },
+  {
+    "id": 6626,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Dr. Slump Movie 8"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Dr. Slump: Arale-chan Hoyoyo!! Tasuketa Same ni Tsurerarete..."
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Dr.スランプ アラレちゃん ほよよ!! 助けたサメに連れられて..."
       }
     ]
   },
@@ -362880,6 +362905,36 @@
     ]
   },
   {
+    "id": 19948,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Isekai Tensei Soudouki"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Multi-mind Mayhem"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "soudouki"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "異世界転生騒動記"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "騒動記"
+      }
+    ]
+  },
+  {
     "id": 17242,
     "titles": [
       {
@@ -435914,6 +435969,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Marika`s Love Meter Malfunction"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "茉莉花ちゃんの好感度はぶっ壊れている"
       }
@@ -477821,6 +477881,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "喜欢本大爷的竟然就你一个？～我们的比赛结束～"
+      }
+    ]
+  },
+  {
+    "id": 19949,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ore to Yuu-nii!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "俺と悠兄!"
       }
     ]
   },
