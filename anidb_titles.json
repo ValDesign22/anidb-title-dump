@@ -550565,21 +550565,6 @@
     ]
   },
   {
-    "id": 19945,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Tian Zhen Yu Kung Fu Wa"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "天真与功夫袜"
-      }
-    ]
-  },
-  {
     "id": 19421,
     "titles": [
       {
@@ -550606,6 +550591,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "甜心格格 第四季"
+      }
+    ]
+  },
+  {
+    "id": 19945,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Tianzhen Yu Gongfu Wa"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "天真与功夫袜"
       }
     ]
   },
@@ -553608,6 +553608,11 @@
         "title": "Tsue to Tsurugi no Wistoria"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Wisteria of the Wand and Sword"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Wistoria: Wand and Sword"
@@ -555996,6 +556001,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Tsue to Tsurugi no Wistoria Season 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Wisteria of the Wand and Sword Season 2"
       },
       {
         "type": 2,
