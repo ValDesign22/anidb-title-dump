@@ -50799,6 +50799,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "想结束这场“我爱你”的游戏"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "愛してるゲームを終わらせたい"
       }
@@ -89316,6 +89321,11 @@
         "type": 4,
         "language": "ja",
         "title": "鉄腕アトム (1980)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "铁臂阿童木"
       }
     ]
   },
@@ -108986,6 +108996,21 @@
         "type": 4,
         "language": "ja",
         "title": "美少女遊撃隊バトルスキッパー"
+      }
+    ]
+  },
+  {
+    "id": 19951,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Battle Spirits [Re] Zekkai no Kuu"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Battle Spirits [Re] 絶界の空"
       }
     ]
   },
@@ -132741,6 +132766,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "我心里危险的东西 第二季"
+      }
+    ]
+  },
+  {
+    "id": 19950,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Boku no Kokoro no Yabai Yatsu (2027)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Dangers in My Heart (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "僕の心のヤバイやつ (2027)"
       }
     ]
   },
@@ -260893,7 +260938,7 @@
     "id": 19506,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Farming Life in Another World 2"
       },
@@ -280941,6 +280986,11 @@
         "type": 4,
         "language": "ja",
         "title": "漫喫ハプニング"
+      },
+      {
+        "type": 2,
+        "language": "zh",
+        "title": "漫契咖啡厅"
       }
     ]
   },
@@ -303041,6 +303091,11 @@
         "type": 4,
         "language": "ja",
         "title": "まっすぐにいこう."
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "狗狗向前冲"
       }
     ]
   },
@@ -310141,6 +310196,11 @@
         "type": 4,
         "language": "ja",
         "title": "グレネーダー ~ほほえみの閃士~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "微笑的闪士"
       }
     ]
   },
@@ -312686,6 +312746,11 @@
         "type": 4,
         "language": "ja",
         "title": "ガン×ソード"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "枪心剑刃"
       },
       {
         "type": 4,
@@ -334648,7 +334713,7 @@
         "title": "lastame 2"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2"
       },
@@ -382126,6 +382191,11 @@
         "type": 4,
         "language": "ja",
         "title": "宇宙の戦士"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "星河战队"
       }
     ]
   },
@@ -404785,6 +404855,11 @@
       {
         "type": 4,
         "language": "zh-Hant",
+        "title": "天然萌少女明日香"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
         "title": "天然萌少女明日香"
       }
     ]
@@ -437691,6 +437766,11 @@
         "type": 4,
         "language": "ja",
         "title": "まっすぐにいこう. (2004)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "狗狗向前冲2"
       }
     ]
   },
@@ -567445,21 +567525,6 @@
     ]
   },
   {
-    "id": 19931,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Xian Jian Qi Xia Zhuan San (2025)"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "仙剑奇侠传三 (2025)"
-      }
-    ]
-  },
-  {
     "id": 14896,
     "titles": [
       {
@@ -570790,6 +570855,11 @@
       {
         "type": 1,
         "language": "x-jat",
+        "title": "Yowayowa Sensei"
+      },
+      {
+        "type": 4,
+        "language": "en",
         "title": "Yowayowa Sensei"
       },
       {
