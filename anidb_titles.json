@@ -174069,6 +174069,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Immortals of the Godless age"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "春秋封神"
       }
@@ -337172,6 +337177,11 @@
   {
     "id": 19205,
     "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Himitsu no AiPri Season 2"
+      },
       {
         "type": 1,
         "language": "x-jat",
