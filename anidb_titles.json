@@ -344754,6 +344754,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "Rooster Fighter"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "ニワトリ・ファイター"
       }
@@ -490608,6 +490613,16 @@
         "title": "Pokémon Concierge"
       },
       {
+        "type": 2,
+        "language": "cs",
+        "title": "Pokémoní delegátka"
+      },
+      {
+        "type": 4,
+        "language": "cs",
+        "title": "Pokémonní delegátka"
+      },
+      {
         "type": 4,
         "language": "pt",
         "title": "Rececionista Pokémon"
@@ -490631,6 +490646,16 @@
         "type": 2,
         "language": "en",
         "title": "Pokémon Concierge (2025)"
+      },
+      {
+        "type": 2,
+        "language": "cs",
+        "title": "Pokémoní delegátka (2025)"
+      },
+      {
+        "type": 2,
+        "language": "cs",
+        "title": "Pokémonní delegátka (2025)"
       },
       {
         "type": 4,
