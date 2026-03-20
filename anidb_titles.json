@@ -94893,6 +94893,11 @@
         "title": "Mononoke"
       },
       {
+        "type": 4,
+        "language": "es-419",
+        "title": "Mononoke"
+      },
+      {
         "type": 3,
         "language": "ja",
         "title": "mononoke tv"
@@ -281398,6 +281403,11 @@
         "title": "Gals Can`t Be Kind to Otaku!?"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "otagal"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Otaku ni Yasashii Gal wa Inai!?"
@@ -363066,6 +363076,36 @@
         "type": 2,
         "language": "ja",
         "title": "異世界ヤリサー"
+      }
+    ]
+  },
+  {
+    "id": 19954,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Isekaigohantabi"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car o Shoukan Shimashita"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Forsaken Saintess and Her Foodie Roadtrip in Another World"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "異世界ごはん旅"
       }
     ]
   },
@@ -470090,6 +470130,21 @@
     ]
   },
   {
+    "id": 19956,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Nuki Nuki Zupposism"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ヌきヌき ずっぽしイズム"
+      }
+    ]
+  },
+  {
     "id": 18459,
     "titles": [
       {
@@ -520725,17 +520780,17 @@
       {
         "type": 2,
         "language": "en",
-        "title": "Shangri-La Frontier 3"
+        "title": "Shangri-La Frontier (2027)"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su 3"
+        "title": "Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su (2027)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "シャングリラ・フロンティア ~クソゲーハンター, 神ゲーに挑まんとす~ 3"
+        "title": "シャングリラ・フロンティア ~クソゲーハンター, 神ゲーに挑まんとす~ (2027)"
       }
     ]
   },
@@ -524995,6 +525050,36 @@
     ]
   },
   {
+    "id": 19955,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "shioama"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shiotaiou no Sato-san ga Ore ni dake Amai"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Salt-God Satou-san Is Only Sweet To Me!"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "しおあま"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "塩対応の佐藤さんが俺にだけ甘い"
+      }
+    ]
+  },
+  {
     "id": 8746,
     "titles": [
       {
@@ -525116,26 +525201,6 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "紫音之王"
-      }
-    ]
-  },
-  {
-    "id": 19955,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shiotaiou no Sato-san ga Ore ni dake Amai"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Salt-God Satou-san Is Only Sweet To Me!"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "塩対応の佐藤さんが俺にだけ甘い"
       }
     ]
   },
@@ -538236,26 +538301,6 @@
         "type": 4,
         "language": "ja",
         "title": "すてきなおくりもの"
-      }
-    ]
-  },
-  {
-    "id": 19954,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car o Shoukan Shimashita"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Forsaken Saintess and Her Foodie Roadtrip in Another World"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました"
       }
     ]
   },
