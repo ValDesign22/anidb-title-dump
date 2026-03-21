@@ -10478,6 +10478,11 @@
         "title": "Juuni Senshi Bakuretsu Eto Ranger"
       },
       {
+        "type": 2,
+        "language": "es-419",
+        "title": "Los 12 Guerreros de Klinda"
+      },
+      {
         "type": 4,
         "language": "ko",
         "title": "꾸러기수비대"
@@ -200875,6 +200880,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Dark Moon: The Blood Altar"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "Dark Moon: The Blood Altar"
       },
       {
@@ -562090,6 +562100,21 @@
     ]
   },
   {
+    "id": 19957,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Vertex Force"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "バーテックスフォース"
+      }
+    ]
+  },
+  {
     "id": 1026,
     "titles": [
       {
@@ -573521,6 +573546,31 @@
         "type": 4,
         "language": "ja",
         "title": "ざんねんないきもの事典 (2022)"
+      }
+    ]
+  },
+  {
+    "id": 19958,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "zatsufuyo"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Zatsuyou Fuyojutsu-shi ga Jibun no Saikyou ni Kizuku made"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "雑付与"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "雑用付与術師が自分の最強に気付くまで"
       }
     ]
   },
