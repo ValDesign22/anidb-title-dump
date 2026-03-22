@@ -72643,6 +72643,11 @@
         "title": "aoha ova"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Blue Spring Ride OAD"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "アオハライド OAD"
@@ -173021,6 +173026,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Chu-Bra!"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Chu-Bra! Panty Appreciation Society"
       },
       {
         "type": 1,
@@ -466276,6 +466286,21 @@
         "type": 4,
         "language": "ja",
         "title": "日本むかしばなし さるかに"
+      }
+    ]
+  },
+  {
+    "id": 19959,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Nihyaku-nen no Yume wo Mita."
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "二百年の夢を見た。"
       }
     ]
   },
