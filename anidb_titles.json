@@ -49290,6 +49290,31 @@
     ]
   },
   {
+    "id": 19561,
+    "titles": [
+      {
+        "type": 4,
+        "language": "es",
+        "title": "Aika: Capricho prohibidos -Mi hermanastra me la pone dura-"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Ichigo Aika: Strawberry Elegy"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "イチゴ哀歌 ~雑で生イキな妹と割り切れない兄~"
+      }
+    ]
+  },
+  {
     "id": 14632,
     "titles": [
       {
@@ -253850,6 +253875,21 @@
     ]
   },
   {
+    "id": 19962,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "ETERNITY"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ETERNITY"
+      }
+    ]
+  },
+  {
     "id": 15630,
     "titles": [
       {
@@ -322250,6 +322290,26 @@
     ]
   },
   {
+    "id": 19961,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Hana-Kimi 2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hanazakari no Kimitachi e 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "花ざかりの君たちへ 2"
+      }
+    ]
+  },
+  {
     "id": 7874,
     "titles": [
       {
@@ -350695,26 +350755,6 @@
     ]
   },
   {
-    "id": 19561,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Ichigo Aika: Strawberry Elegy"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "イチゴ哀歌 ~雑で生イキな妹と割り切れない兄~"
-      }
-    ]
-  },
-  {
     "id": 7951,
     "titles": [
       {
@@ -365366,6 +365406,26 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "泛而不精的我被逐出了勇者隊伍"
+      }
+    ]
+  },
+  {
+    "id": 19960,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Jack-of-All-Trades, Party of None 2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yuusha Party o Oidasareta Kiyoubinbou 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "勇者パーティを追い出された器用貧乏 2"
       }
     ]
   },
@@ -418718,9 +418778,9 @@
         "title": "להסתכל לאחור"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "ar",
-        "title": "ظرة إلى الوراء"
+        "title": "نظرة إلى الوراء"
       },
       {
         "type": 4,
@@ -553301,6 +553361,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Tokyo Revengers: Tenjiku Hen"
+      },
+      {
+        "type": 3,
+        "language": "en",
+        "title": "tr s3"
       },
       {
         "type": 4,
