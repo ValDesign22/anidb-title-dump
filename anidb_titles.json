@@ -78495,26 +78495,6 @@
     ]
   },
   {
-    "id": 19935,
-    "titles": [
-      {
-        "type": 1,
-        "language": "en",
-        "title": "Arcane Afterglow"
-      }
-    ]
-  },
-  {
-    "id": 19934,
-    "titles": [
-      {
-        "type": 1,
-        "language": "en",
-        "title": "Arcane: League of Legends"
-      }
-    ]
-  },
-  {
     "id": 9287,
     "titles": [
       {
@@ -199419,6 +199399,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "在地下城尋求邂逅是否搞錯了什麼 Ⅳ 深章 災厄篇"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "期待在地下城邂逅有错吗 Ⅳ 深章 灾厄篇"
       }
@@ -261245,21 +261230,6 @@
     ]
   },
   {
-    "id": 19964,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Fate Grand Order THE STAGE -Shinsei Entaku Ryouiki Camelot-"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "Fate Grand Order THE STAGE -神聖円卓領域キャメロット-"
-      }
-    ]
-  },
-  {
     "id": 19457,
     "titles": [
       {
@@ -261976,36 +261946,6 @@
         "type": 4,
         "language": "en",
         "title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia Summary"
-      }
-    ]
-  },
-  {
-    "id": 19966,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Fate/Grand Order THE STAGE -Absolute Demonic Front: Babylonia-"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "Fate/Grand Order THE STAGE –絶対魔獣戦線バビロニア-"
-      }
-    ]
-  },
-  {
-    "id": 19965,
-    "titles": [
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "Fate/Grand Order THE STAGE –冠位時間神殿ソロモン-"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Fate/Grand Order: Final Singularity-Grand Temple of Time: Solomon"
       }
     ]
   },
@@ -398200,7 +398140,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "こめかみっ！ガールズ"
+        "title": "こめかみっ! ガールズ"
       }
     ]
   },
@@ -438935,6 +438875,26 @@
     ]
   },
   {
+    "id": 19967,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mayonaka Heart Tune 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Tune In to the Midnight Heart 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "真夜中ハートチューン 2"
+      }
+    ]
+  },
+  {
     "id": 14172,
     "titles": [
       {
@@ -449510,6 +449470,11 @@
       {
         "type": 2,
         "language": "zh-Hans",
+        "title": "女性向遊戲世界對路人角色很不友好"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "女性向遊戲世界對路人角色很不友好"
       },
       {
