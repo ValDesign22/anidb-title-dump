@@ -24950,6 +24950,26 @@
     ]
   },
   {
+    "id": 18618,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "A Hundred Scenes of Awajima"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Awajima Hyakkei"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "淡島百景"
+      }
+    ]
+  },
+  {
     "id": 16033,
     "titles": [
       {
@@ -45615,6 +45635,26 @@
     ]
   },
   {
+    "id": 19283,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Agents of the Four Seasons: Dance of Spring"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shunkashuutou Daikousha: Haru no Mai"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "春夏秋冬代行者 春の舞"
+      }
+    ]
+  },
+  {
     "id": 315,
     "titles": [
       {
@@ -50823,7 +50863,7 @@
         "title": "Aishiteru Game o Owarasetai"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "I Want to End This Love Game"
       },
@@ -63348,7 +63388,7 @@
     "id": 19328,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "An Observation Log of My Fiancee Who Calls Herself a Villainess"
       },
@@ -87158,7 +87198,7 @@
         "title": "Ascendance of a Bookworm S4"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke"
       },
@@ -93951,21 +93991,6 @@
         "type": 4,
         "language": "ja",
         "title": "アビニョンの橋で"
-      }
-    ]
-  },
-  {
-    "id": 18618,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Awajima Hyakkei"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "淡島百景"
       }
     ]
   },
@@ -137085,6 +137110,36 @@
     ]
   },
   {
+    "id": 19206,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Botan Kamiina Fully Blossoms When Drunk"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "kamiina botan"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "上伊那ぼたん"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "上伊那ぼたん, 酔へる姿は百合の花"
+      }
+    ]
+  },
+  {
     "id": 888,
     "titles": [
       {
@@ -177188,7 +177243,7 @@
         "title": "Class de 2 Banme ni Kawaii Onnanoko to Tomodachi ni Natta"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "I Made Friends with the Second Prettiest Girl in My Class"
       },
@@ -177965,36 +178020,6 @@
     ]
   },
   {
-    "id": 18844,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Classroom of the Elite 2nd Year"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Classroom of the Elite IV"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Classroom of the Elite Season 4"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ようこそ実力至上主義の教室へ 4th Season"
-      }
-    ]
-  },
-  {
     "id": 17237,
     "titles": [
       {
@@ -178046,6 +178071,36 @@
         "type": 2,
         "language": "zh-Hant",
         "title": "歡迎來到實力至上主義的教室 第三季"
+      }
+    ]
+  },
+  {
+    "id": 18844,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Classroom of the Elite 4th Season: Second Year, First Semester"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Classroom of the Elite IV"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Classroom of the Elite Season 4"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ようこそ実力至上主義の教室へ 4th Season"
       }
     ]
   },
@@ -228634,6 +228689,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Dorohedoro (2026)"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "ドロヘドロ (2026)"
       }
@@ -231943,7 +232003,7 @@
     "id": 19614,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Dr. Stone: Science Future (2026)"
       },
@@ -237528,7 +237588,7 @@
         "title": "Kanojo, Okarishimasu (2026)"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Rent-a-Girlfriend (2026)"
       },
@@ -251973,7 +252033,7 @@
     "id": 17751,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Eren the Southpaw"
       },
@@ -254793,7 +254853,7 @@
     "id": 19158,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Even a Replica Can Fall in Love"
       },
@@ -281443,7 +281503,7 @@
     "id": 19628,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Gals Can`t Be Kind to Otaku!?"
       },
@@ -297290,6 +297350,11 @@
       {
         "type": 1,
         "language": "x-jat",
+        "title": "Ghost Concert: Missing Songs"
+      },
+      {
+        "type": 4,
+        "language": "en",
         "title": "Ghost Concert: Missing Songs"
       },
       {
@@ -357305,6 +357370,26 @@
     ]
   },
   {
+    "id": 19968,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "In Search of Gods"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Sou Shen Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "搜神记"
+      }
+    ]
+  },
+  {
     "id": 7656,
     "titles": [
       {
@@ -367978,7 +368063,7 @@
         "title": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 3rd Season"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season"
       },
@@ -377768,7 +377853,7 @@
         "title": "Kami no Niwatsuki Kusunoki-tei"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Kusunoki`s Garden of Gods"
       },
@@ -378725,31 +378810,6 @@
     ]
   },
   {
-    "id": 19206,
-    "titles": [
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "kamiina botan"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "上伊那ぼたん"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "上伊那ぼたん, 酔へる姿は百合の花"
-      }
-    ]
-  },
-  {
     "id": 17337,
     "titles": [
       {
@@ -379258,7 +379318,7 @@
         "title": "Kanan-sama wa Akumade Choroi"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Mistress Kanan Is Devilishly Easy"
       },
@@ -380228,7 +380288,7 @@
         "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii Desu yo?"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!"
       },
@@ -405351,6 +405411,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kyuubi no Kitsune to Tobimaru (Sesshouseki)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Nine-Tailed Fox and Tobimaru (Killing Stone)"
       },
       {
         "type": 4,
@@ -431778,7 +431843,7 @@
         "title": "meitabe"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Food Diary of Miss Maid"
       },
@@ -431943,7 +432008,7 @@
         "title": "Mairimashita! Iruma-kun (2026)"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Welcome to Demon School! Iruma-kun (2026)"
       },
@@ -436558,7 +436623,7 @@
         "title": "Marriage Toxin"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Marriage Toxin"
       },
@@ -462608,6 +462673,11 @@
         "title": "Needy Girl Overdose"
       },
       {
+        "type": 4,
+        "language": "en",
+        "title": "Needy Girl Overdose"
+      },
+      {
         "type": 2,
         "language": "ja",
         "title": "ニーディーガールオーバードーズ"
@@ -480418,7 +480488,7 @@
         "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Angel Next Door Spoils Me Rotten 2"
       },
@@ -527270,21 +527340,6 @@
     ]
   },
   {
-    "id": 19283,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shunkashuutou Daikousha: Haru no Mai"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "春夏秋冬代行者 春の舞"
-      }
-    ]
-  },
-  {
     "id": 6562,
     "titles": [
       {
@@ -529858,7 +529913,7 @@
         "title": "Snowball Earth"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Snowball Earth"
       },
@@ -538193,6 +538248,11 @@
         "title": "Supreme God Emperor"
       },
       {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Wu Shang Shen Di"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Wushang Shen Di"
@@ -538211,6 +538271,21 @@
         "type": 2,
         "language": "en",
         "title": "Supreme God Emperor 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Supreme God Emperor Season 2"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Wu Shang Shen Di 2"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Wu Shang Shen Di 2nd Season"
       },
       {
         "type": 1,
@@ -545343,7 +545418,7 @@
         "title": "Tensei Shitara Slime Datta Ken (2026)"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "That Time I Got Reincarnated as a Slime (2026)"
       },
@@ -556388,7 +556463,7 @@
         "title": "Wisteria of the Wand and Sword Season 2"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Wistoria: Wand and Sword Season 2"
       },
