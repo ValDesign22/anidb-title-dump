@@ -4205,6 +4205,26 @@
     ]
   },
   {
+    "id": 19969,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "\"Oshi no Ko\" Final Season"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "[推しの子] Final Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Oshi no Ko Final Season"
+      }
+    ]
+  },
+  {
     "id": 14586,
     "titles": [
       {
@@ -51260,6 +51280,21 @@
     ]
   },
   {
+    "id": 19973,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Aka no Kioku"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "赤のキヲク"
+      }
+    ]
+  },
+  {
     "id": 12600,
     "titles": [
       {
@@ -90530,6 +90565,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Witch Hat Atelier"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "Witch Hat Atelier"
       },
       {
@@ -321435,6 +321475,21 @@
     ]
   },
   {
+    "id": 19970,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hamehara: Sore Sekuhara Desu!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ハメハラ ~それセクハラですっ~"
+      }
+    ]
+  },
+  {
     "id": 775,
     "titles": [
       {
@@ -428350,17 +428405,17 @@
       {
         "type": 2,
         "language": "en",
-        "title": "Magical Princess Minky Momo (OVA)"
+        "title": "Magical Princess Minky Momo: A Duo of Sincerity Toward a Dream of Longing"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Mahou no Princess Minky Momo (OVA)"
+        "title": "Mahou no Princess Minky Momo: Akogare no Yume e Magokoro no Duo"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "魔法のプリンセス ミンキーモモ (OVA)"
+        "title": "魔法のプリンセス ミンキーモモ 憧れの夢へ まごころの二重奏"
       }
     ]
   },
@@ -439960,6 +440015,21 @@
     ]
   },
   {
+    "id": 14730,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mebius Dust"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "メビウス・ダスト"
+      }
+    ]
+  },
+  {
     "id": 18448,
     "titles": [
       {
@@ -443996,6 +444066,21 @@
         "type": 4,
         "language": "ja",
         "title": "MFゴースト3rd Season"
+      }
+    ]
+  },
+  {
+    "id": 19974,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "MF Ghost Final Season"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "MFゴースト Final Season"
       }
     ]
   },
@@ -449471,21 +449556,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "路人超能100 REIGEN～不为人知的奇迹灵能者～"
-      }
-    ]
-  },
-  {
-    "id": 14730,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Mobius Dust"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "メビウス・ダスト"
       }
     ]
   },
@@ -480940,6 +481010,21 @@
     ]
   },
   {
+    "id": 19971,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "OVA Paihame Kazoku"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "OVA パイハメ家族"
+      }
+    ]
+  },
+  {
     "id": 19414,
     "titles": [
       {
@@ -500046,6 +500131,36 @@
         "type": 4,
         "language": "ja",
         "title": "らんま1/2 (2025)"
+      }
+    ]
+  },
+  {
+    "id": 19972,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ranma 1/2 (2026)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Ranma ½ (2024) 3rd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Ranma ½ (2024) Season 3"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Ranma1/2 (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "らんま1/2 (2026)"
       }
     ]
   },
