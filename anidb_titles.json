@@ -75113,7 +75113,7 @@
     "id": 14977,
     "titles": [
       {
-        "type": 2,
+        "type": 3,
         "language": "en",
         "title": "aot4"
       },
@@ -271815,6 +271815,26 @@
     ]
   },
   {
+    "id": 19977,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Frieren: Beyond Journey`s End (2027)"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sousou no Frieren (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "葬送のフリーレン (2027)"
+      }
+    ]
+  },
+  {
     "id": 13189,
     "titles": [
       {
@@ -329595,6 +329615,26 @@
     ]
   },
   {
+    "id": 19978,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing (2026)"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~ (2026)"
+      }
+    ]
+  },
+  {
     "id": 17231,
     "titles": [
       {
@@ -371216,6 +371256,26 @@
         "type": 1,
         "language": "x-jat",
         "title": "Juicy Jungle"
+      }
+    ]
+  },
+  {
+    "id": 19975,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Jujutsu Kaisen: Shimetsu Kaiyuu Kouhen"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Jujutsu Kaisen: The Culling Game Part 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "呪術廻戦 死滅回游 後編"
       }
     ]
   },
@@ -480945,6 +481005,21 @@
     ]
   },
   {
+    "id": 19976,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "OVA Heart Mark Oome."
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "OVA はーとまーく多め."
+      }
+    ]
+  },
+  {
     "id": 18756,
     "titles": [
       {
@@ -499111,6 +499186,11 @@
         "type": 4,
         "language": "ja",
         "title": "ライヤンツーリーのうた"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "莱阳茌梨之歌"
       }
     ]
   },
@@ -525365,7 +525445,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Shiotaiou no Sato-san ga Ore ni dake Amai"
+        "title": "Shiotaiou no Satou-san ga Ore ni dake Amai"
       },
       {
         "type": 2,
@@ -559850,12 +559930,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Undead Unluck (2025)"
+        "title": "Undead Unluck: Winter Hen"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "アンデッドアンラック (2025)"
+        "title": "アンデッドアンラック Winter編"
       }
     ]
   },
