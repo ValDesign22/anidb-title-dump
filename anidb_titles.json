@@ -45663,6 +45663,11 @@
         "title": "Agents of the Four Seasons: Dance of Spring"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Shunkashuutou Daikousha - Haru no Mai"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Shunkashuutou Daikousha: Haru no Mai"
@@ -172591,6 +172596,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "翼·年代记"
+      }
+    ]
+  },
+  {
+    "id": 17186,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Chronicle of Zoids Wild War"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Zoids Wild Senki"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ゾイドワイルド戦記"
       }
     ]
   },
@@ -348820,6 +348845,26 @@
     ]
   },
   {
+    "id": 19980,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too 2nd Season"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta 2nd Season"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "異世界でチート能力を手にした俺は, 現実世界をも無双する~レベルアップは人生を変えた~ 2nd Season"
+      }
+    ]
+  },
+  {
     "id": 10594,
     "titles": [
       {
@@ -398035,6 +398080,21 @@
     ]
   },
   {
+    "id": 19982,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Koko"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "KOKO"
+      }
+    ]
+  },
+  {
     "id": 16199,
     "titles": [
       {
@@ -426915,12 +426975,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Magic Knight Rayearth (Shin Anime-ka Project)"
+        "title": "Magic Knight Rayearth (2026)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "魔法騎士レイアース (新アニメ化プロジェクト)"
+        "title": "魔法騎士レイアース (2026)"
       }
     ]
   },
@@ -472176,6 +472236,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "奇巧计程车"
+      }
+    ]
+  },
+  {
+    "id": 19981,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Odebu Akujo ni Tensei Shitara, Nazeka Last Boss Ouji-sama ni Shuuchaku Sarete Imasu"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "おデブ悪女に転生したら, なぜかラスボス王子様に執着されています"
       }
     ]
   },
@@ -519434,6 +519514,11 @@
     "titles": [
       {
         "type": 4,
+        "language": "de",
+        "title": "Sentenced to Be a Hero"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Sentenced to Be a Hero"
       },
@@ -519461,6 +519546,31 @@
         "type": 4,
         "language": "ja",
         "title": "勇者刑に処す 懲罰勇者9004隊刑務記録"
+      }
+    ]
+  },
+  {
+    "id": 19979,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Sentenced to Be a Hero 2"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Sentenced to Be a Hero Staffel 2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004 Tai Keimu Kiroku 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "勇者刑に処す 懲罰勇者9004隊刑務記録 2"
       }
     ]
   },
@@ -521426,6 +521536,11 @@
         "type": 4,
         "language": "en",
         "title": "Shelter"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Shelter the Animation"
       },
       {
         "type": 4,
@@ -575176,21 +575291,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "索斯机械兽WILD ZERO"
-      }
-    ]
-  },
-  {
-    "id": 17186,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Zoids Wild Senki"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ゾイドワイルド戦記"
       }
     ]
   },
