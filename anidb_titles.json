@@ -261410,6 +261410,21 @@
     ]
   },
   {
+    "id": 19984,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Fate Strange Fake 2nd Season"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Fate strange Fake 2nd Season"
+      }
+    ]
+  },
+  {
     "id": 17636,
     "titles": [
       {
@@ -271816,11 +271831,6 @@
         "type": 4,
         "language": "de",
         "title": "Frieren: Nach dem Ende der Reise Staffel 2"
-      },
-      {
-        "type": 2,
-        "language": "de",
-        "title": "gefroren"
       },
       {
         "type": 1,
@@ -348838,6 +348848,11 @@
         "title": "Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta (2026)"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Iseleve - OVA"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "異世界でチート能力を手にした俺は, 現実世界をも無双する~レベルアップは人生を変えた~ (2026)"
@@ -403566,6 +403581,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "鲲吞天下之掌门归来"
+      }
+    ]
+  },
+  {
+    "id": 19945,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Kung Fu Wa!"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Tianzhen Yu Gongfu Wa"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "天真与功夫袜"
       }
     ]
   },
@@ -472243,6 +472278,11 @@
     "id": 19981,
     "titles": [
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "odebu akujo"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Odebu Akujo ni Tensei Shitara, Nazeka Last Boss Ouji-sama ni Shuuchaku Sarete Imasu"
@@ -472251,6 +472291,11 @@
         "type": 2,
         "language": "en",
         "title": "The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "おデブ悪女"
       },
       {
         "type": 4,
@@ -516115,6 +516160,26 @@
     ]
   },
   {
+    "id": 19983,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Seihantai na Kimi to Boku (2026)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "You and I Are Polar Opposites (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "正反対な君と僕 (2026)"
+      }
+    ]
+  },
+  {
     "id": 19612,
     "titles": [
       {
@@ -551351,21 +551416,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "甜心格格 第四季"
-      }
-    ]
-  },
-  {
-    "id": 19945,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Tianzhen Yu Gongfu Wa"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "天真与功夫袜"
       }
     ]
   },
