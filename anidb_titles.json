@@ -90515,6 +90515,46 @@
     ]
   },
   {
+    "id": 17305,
+    "titles": [
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Atelier of Witch Hat"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Atelier spiczastych kapeluszy"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tongari Boushi no Atelier"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Witch Hat Atelier"
+      },
+      {
+        "type": 4,
+        "language": "bg",
+        "title": "Ателие за островърхи шапки"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "고깔모자의 아틀리에"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "とんがり帽子のアトリエ"
+      }
+    ]
+  },
+  {
     "id": 17920,
     "titles": [
       {
@@ -90551,46 +90591,6 @@
         "type": 2,
         "language": "zh-Hant",
         "title": "萊莎的鍊金工房 ～常闇女王與秘密藏身處～"
-      }
-    ]
-  },
-  {
-    "id": 17305,
-    "titles": [
-      {
-        "type": 4,
-        "language": "pl",
-        "title": "Atelier spiczastych kapeluszy"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Tongari Boushi no Atelier"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Witch Hat Atelier"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "Witch Hat Atelier"
-      },
-      {
-        "type": 4,
-        "language": "bg",
-        "title": "Ателие за островърхи шапки"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "고깔모자의 아틀리에"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "とんがり帽子のアトリエ"
       }
     ]
   },
@@ -174036,6 +174036,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "超级飞侠"
+      }
+    ]
+  },
+  {
+    "id": 19985,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Chuldong! Super Wings 10"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "출동! 슈퍼윙스10"
       }
     ]
   },
@@ -306370,6 +306385,26 @@
     ]
   },
   {
+    "id": 19986,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Golden Kamuy: Bousou Ressha Hen"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Golden Kamuy: Runaway Train Arc"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ゴールデンカムイ 暴走列車編"
+      }
+    ]
+  },
+  {
     "id": 19475,
     "titles": [
       {
@@ -392591,6 +392626,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "奇诺之旅 -the Beautiful World- the Animated Series"
+      }
+    ]
+  },
+  {
+    "id": 19987,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "Kino`s Journey: The Tower Country -Freelance-"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "キノの旅 the Beautiful World 塔の国 -Free Lance-"
       }
     ]
   },
