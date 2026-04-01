@@ -14610,6 +14610,36 @@
     ]
   },
   {
+    "id": 19283,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "4seasons"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Agents of the Four Seasons: Dance of Spring"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Shunkashuutou Daikousha - Haru no Mai"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shunkashuutou Daikousha: Haru no Mai"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "春夏秋冬代行者 春の舞"
+      }
+    ]
+  },
+  {
     "id": 17285,
     "titles": [
       {
@@ -45651,31 +45681,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "暗界神使"
-      }
-    ]
-  },
-  {
-    "id": 19283,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Agents of the Four Seasons: Dance of Spring"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Shunkashuutou Daikousha - Haru no Mai"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shunkashuutou Daikousha: Haru no Mai"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "春夏秋冬代行者 春の舞"
       }
     ]
   },
@@ -163316,6 +163321,11 @@
         "type": 4,
         "language": "id",
         "title": "Cheat Kematian Instanku Terlalu Kuat"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Moja zdolność natychmiastowej śmierci jest tak przepotężna, że nikt w tym innym świecie nie ma ze mną szans!"
       },
       {
         "type": 4,
@@ -381416,6 +381426,21 @@
         "type": 4,
         "language": "ja",
         "title": "烏は主を選ばない"
+      }
+    ]
+  },
+  {
+    "id": 19988,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kare no Shiranai Himitsu o Irete. The Animation"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "彼の知らない秘密を入れて。 THE ANIMATION"
       }
     ]
   },
