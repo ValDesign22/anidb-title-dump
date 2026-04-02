@@ -60148,7 +60148,7 @@
     "id": 19699,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Always a Catch!"
       },
@@ -178170,7 +178170,7 @@
       {
         "type": 4,
         "language": "en",
-        "title": "Classroom of the Elite 4th Season: Second Year, First Semester"
+        "title": "Classroom of the Elite 4th Season: 2nd Year, 1st Term"
       },
       {
         "type": 2,
@@ -178185,12 +178185,17 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season"
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2 Nensei Hen 1 Gakki"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "ようこそ実力至上主義の教室へ 4th Season"
+        "title": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期"
       }
     ]
   },
@@ -228773,19 +228778,24 @@
     "id": 18397,
     "titles": [
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Dorohedoro S2"
+      },
+      {
         "type": 1,
         "language": "x-jat",
-        "title": "Dorohedoro (2026)"
+        "title": "Dorohedoro Season 2"
       },
       {
         "type": 4,
         "language": "en",
-        "title": "Dorohedoro (2026)"
+        "title": "Dorohedoro Season 2"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "ドロヘドロ (2026)"
+        "title": "ドロヘドロ Season2"
       }
     ]
   },
@@ -232020,6 +232030,31 @@
     ]
   },
   {
+    "id": 19614,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Dr. Stone S4"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Dr. Stone: Science Future (2026)"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Dr. Stone: Science Future (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Dr.STONE SCIENCE FUTURE (2026)"
+      }
+    ]
+  },
+  {
     "id": 18336,
     "titles": [
       {
@@ -232086,26 +232121,6 @@
         "type": 4,
         "language": "ja",
         "title": "Dr.STONE SCIENCE FUTURE (2025)"
-      }
-    ]
-  },
-  {
-    "id": 19614,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Dr. Stone: Science Future (2026)"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Dr. Stone: Science Future (2026)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "Dr.STONE SCIENCE FUTURE (2026)"
       }
     ]
   },
@@ -275926,6 +275941,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Futarigurashi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Living Together"
       },
       {
         "type": 4,
@@ -333393,9 +333413,9 @@
     "id": 19327,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
-        "title": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!"
+        "title": "Heroine? Saint? No, I`m an All-Works Maid (And Proud of It)!"
       },
       {
         "type": 1,
@@ -368220,6 +368240,41 @@
     ]
   },
   {
+    "id": 19580,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou S3"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 3rd Season"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "俺自販機3"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "自動販売機に生まれ変わった俺は迷宮を彷徨う3rd season"
+      }
+    ]
+  },
+  {
     "id": 18204,
     "titles": [
       {
@@ -368251,31 +368306,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "转生成自动贩卖机的我今天也在迷宫徘徊 第二季"
-      }
-    ]
-  },
-  {
-    "id": 19580,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 3rd Season"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "俺自販機3"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "自動販売機に生まれ変わった俺は迷宮を彷徨う3rd season"
       }
     ]
   },
@@ -393211,6 +393241,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kirio Fan Club"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Kirio Fanclub"
       },
       {
         "type": 4,
@@ -420495,7 +420530,7 @@
     ]
   },
   {
-    "id": 19376,
+    "id": 19989,
     "titles": [
       {
         "type": 1,
@@ -420506,6 +420541,21 @@
         "type": 4,
         "language": "ja",
         "title": "ラブライブ! 蓮ノ空女学院スクールアイドルクラブ"
+      }
+    ]
+  },
+  {
+    "id": 19376,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Love Live! Hasu no Sora Jogakuin School Idol Club: Bloom Garden Party"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ラブライブ! 蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party"
       }
     ]
   },
@@ -510268,6 +510318,11 @@
         "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru? (2026)"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "The Beginning After the End S2"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "The Beginning After the End Season 2"
@@ -547891,6 +547946,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "杀手寓言"
+      }
+    ]
+  },
+  {
+    "id": 19990,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "The Fable 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Fable 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ザ・ファブル 2"
       }
     ]
   },
