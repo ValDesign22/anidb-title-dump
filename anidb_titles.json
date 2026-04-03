@@ -40038,7 +40038,7 @@
     "id": 18638,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Ace of the Diamond: Act II Second Season"
       },
@@ -52500,6 +52500,36 @@
     ]
   },
   {
+    "id": 19513,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Akane Banashi"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Akane-banashi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Akane-banashi"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Akanebanashi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "あかね噺"
+      }
+    ]
+  },
+  {
     "id": 6025,
     "titles": [
       {
@@ -52626,26 +52656,6 @@
         "type": 4,
         "language": "ja",
         "title": "茜ハ摘マレ染メラレル"
-      }
-    ]
-  },
-  {
-    "id": 19513,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Akane-banashi"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Akane-banashi"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "あかね噺"
       }
     ]
   },
@@ -318953,7 +318963,7 @@
         "title": "Haibara-kun no Tsuyokute Seishun New Game"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Haibara`s Teenage New Game+"
       },
@@ -389288,7 +389298,7 @@
     "id": 19722,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Killed Again, Mr. Detective?"
       },
@@ -399988,7 +399998,7 @@
         "title": "Koori no Jouheki"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Ramparts of Ice"
       },
@@ -404233,7 +404243,7 @@
         "title": "Kuro Neko to Majo no Kyoushitsu"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Classroom of a Black Cat and a Witch"
       },
@@ -434753,7 +434763,7 @@
         "title": "Mamonogurai no Boukensha: Ore dake Mamono o Kuratte Tsuyoku Naru"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Monster Eater"
       },
@@ -441086,6 +441096,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Megami \"Isekai Tensei Nani ni Naritai Desuka\" Ore \"Yuusha no Rokkotsu de\""
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "My Ribdiculous Reincarnation"
       },
       {
         "type": 4,
@@ -504499,6 +504514,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Rilakkuma"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "リラックマ"
       }
@@ -566836,6 +566856,21 @@
         "type": 4,
         "language": "ja",
         "title": "ウィザードリィ"
+      }
+    ]
+  },
+  {
+    "id": 19991,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wo Qi Ku Le Baiwan Xiulian Zhe 2nd Season"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "我气哭了百万修炼者 第二季"
       }
     ]
   },
