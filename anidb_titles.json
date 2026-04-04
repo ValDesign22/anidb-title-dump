@@ -63448,9 +63448,19 @@
         "title": "An Observation Log of My Fiancee Who Calls Herself a Villainess"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "An Observation Log of My Fiancée Who Calls Herself a Villainess"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Jishou Akuyaku Reijou na Kon`yakusha no Kansatsu Kiroku."
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku."
       },
       {
         "type": 2,
@@ -196436,6 +196446,21 @@
         "type": 4,
         "language": "ja",
         "title": "め組の大吾 火事場のバカヤロー"
+      }
+    ]
+  },
+  {
+    "id": 19994,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Daikenja Riddle no Jikan Gyakkou"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "大賢者リドルの時間逆行"
       }
     ]
   },
@@ -345115,36 +345140,6 @@
     ]
   },
   {
-    "id": 18772,
-    "titles": [
-      {
-        "type": 2,
-        "language": "x-unk",
-        "title": "https://www.allcinema.net/cinema/404433"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Niwatori Fighter"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Rooster Fighter"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "Rooster Fighter"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ニワトリ・ファイター"
-      }
-    ]
-  },
-  {
     "id": 18905,
     "titles": [
       {
@@ -441905,6 +441900,46 @@
     ]
   },
   {
+    "id": 18884,
+    "titles": [
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Meine Wiedergeburt als Schleim in einer anderen Welt Staffel 4"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tensei Shitara Slime Datta Ken (2026)"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tensei Shitara Slime Datta Ken 4th Season"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tensei Shitara Slime Datta Ken S4"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "That Time I Got Reincarnated as a Slime (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "전생했더니 슬라임이었던 건에 대하여 4기"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "転生したらスライムだった件 (2026)"
+      }
+    ]
+  },
+  {
     "id": 16402,
     "titles": [
       {
@@ -444471,6 +444506,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Shikanoko Nokonoko Koshitantan"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Моя подруга-олениха Нокотан"
       },
       {
         "type": 4,
@@ -468470,6 +468510,31 @@
     ]
   },
   {
+    "id": 18772,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Niwatori Fighter"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Rooster Fighter"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Rooster Fighter"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ニワトリ・ファイター"
+      }
+    ]
+  },
+  {
     "id": 15360,
     "titles": [
       {
@@ -480881,6 +480946,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken S2"
       },
       {
         "type": 4,
@@ -523005,6 +523075,41 @@
     ]
   },
   {
+    "id": 19992,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shibou Yuugi de Meshi o Kuu. - 44: CLOUDY BEACH"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Shiboyugi: Playing Death Games to Put Food on the Table - 44: CLOUDY BEACH"
+      }
+    ]
+  },
+  {
+    "id": 19993,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shibou Yuugi de Meshi o Kuu. 44:Cloudy Beach"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Shiboyugi: Playing Death Games to Put Food on the Table - 44:Cloudy Beach"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "死亡遊戯で飯を食う. 44:CLOUDY BEACH"
+      }
+    ]
+  },
+  {
     "id": 18492,
     "titles": [
       {
@@ -545931,31 +546036,6 @@
         "type": 2,
         "language": "zh-Hant",
         "title": "關於我轉生變成史萊姆這檔事 第三季"
-      }
-    ]
-  },
-  {
-    "id": 18884,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Tensei Shitara Slime Datta Ken (2026)"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "That Time I Got Reincarnated as a Slime (2026)"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "전생했더니 슬라임이었던 건에 대하여 4기"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "転生したらスライムだった件 (2026)"
       }
     ]
   },
