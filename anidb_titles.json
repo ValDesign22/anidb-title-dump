@@ -52508,6 +52508,16 @@
         "title": "Akane Banashi"
       },
       {
+        "type": 4,
+        "language": "es-419",
+        "title": "Akane-banashi"
+      },
+      {
+        "type": 4,
+        "language": "pt-BR",
+        "title": "Akane-banashi"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Akane-banashi"
@@ -80696,6 +80706,11 @@
         "type": 4,
         "language": "ja",
         "title": "アークナイツ 焔燼曙明"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "明日方舟：焰烬曙明"
       }
     ]
   },
@@ -87264,8 +87279,18 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Ascendance of a Bookworm: Adopted Daughter of an Archduke"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Honzuki no Gekokujou S4"
       },
       {
         "type": 1,
@@ -121209,8 +121234,18 @@
       },
       {
         "type": 2,
+        "language": "x-zht",
+        "title": "Binghuo Mochu"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "The Magic Chef of Ice and Fire"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Magical Chef of Ice and Fire"
       },
       {
         "type": 4,
@@ -142866,6 +142901,11 @@
         "type": 2,
         "language": "en",
         "title": "Buddha Sutras"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Buddhacharita"
       },
       {
         "type": 2,
@@ -195704,6 +195744,11 @@
     "titles": [
       {
         "type": 4,
+        "language": "de",
+        "title": "Daemons of the Shadow Realm"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Daemons of the Shadow Realm"
       },
@@ -196456,6 +196501,16 @@
         "type": 1,
         "language": "x-jat",
         "title": "Daikenja Riddle no Jikan Gyakkou"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Great Sage Riddle`s Time Reversal"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Great Sage Ryddel and the Hands of Time"
       },
       {
         "type": 4,
@@ -372880,6 +372935,21 @@
     ]
   },
   {
+    "id": 19995,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Juurin Oukoku"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "蹂躙王国"
+      }
+    ]
+  },
+  {
     "id": 9022,
     "titles": [
       {
@@ -378109,6 +378179,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "Kusunoki`s Garden of Gods"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Kusunoki`s Garden of Gods"
       },
@@ -380541,6 +380616,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii Desu yo?"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!"
       },
       {
         "type": 4,
@@ -432348,9 +432428,19 @@
         "title": "Mairimashita! Iruma-kun (2026)"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Mairimashita! Iruma-kun S4"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Welcome to Demon School! Iruma-kun (2026)"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Welcome to Demon School! Iruma-kun Staffel 4"
       },
       {
         "type": 4,
