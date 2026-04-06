@@ -12909,6 +12909,16 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "29岁单身中坚冒险家的日常"
+      },
+      {
+        "type": 3,
+        "language": "zh-Hans",
+        "title": "29岁单身冒险家的日常"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "29歳独身中堅冒険者の日常"
       },
@@ -39925,6 +39935,36 @@
     ]
   },
   {
+    "id": 18638,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Ace of Diamond Act II S2"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Ace of the Diamond act II Second Season"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Ace of the Diamond: Act II Second Season"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Dia no Ace: Act II Second Season"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ダイヤのA actII Second Season"
+      }
+    ]
+  },
+  {
     "id": 11115,
     "titles": [
       {
@@ -40031,26 +40071,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "钻石王牌 act2"
-      }
-    ]
-  },
-  {
-    "id": 18638,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Ace of the Diamond: Act II Second Season"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Dia no Ace: Act II Second Season"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ダイヤのA actII Second Season"
       }
     ]
   },
@@ -142903,7 +142923,7 @@
         "title": "Buddha Sutras"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Buddhacharita"
       },
@@ -142918,7 +142938,7 @@
         "title": "Butten Monogatari"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "en",
         "title": "Sutra Stories"
       },
@@ -271973,6 +271993,11 @@
         "title": "Sousou no Frieren S2"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Фрирен, провожающая в последний путь (2026)"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "葬送のフリーレン (2026)"
@@ -273976,11 +274001,6 @@
         "type": 3,
         "language": "x-jat",
         "title": "Fumeta"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "fumetsu"
       },
       {
         "type": 1,
@@ -297577,6 +297597,11 @@
   {
     "id": 19674,
     "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Ghost Concert - missing Songs"
+      },
       {
         "type": 1,
         "language": "x-jat",
@@ -359421,6 +359446,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Ingoku Danchi"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Ingoku Danchi: Deviant`s Apartment Complex"
       },
       {
         "type": 4,
@@ -435608,6 +435638,11 @@
         "title": "Manga Nihonshi"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "The History of Japan"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "まんが日本史"
@@ -442011,6 +442046,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Tensei Shitara Slime Datta Ken S4"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "TenSura S4"
       },
       {
         "type": 4,
@@ -468344,6 +468384,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Nippon Sangoku: The Three Nations of the Crimson Sun"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "日本三國"
       }
@@ -471446,6 +471491,11 @@
         "type": 4,
         "language": "en",
         "title": "The Healer Who Was Banished From His Party, Is, in Fact, the Strongest"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Целитель, которого исключили из группы, оказался сильнейшим!"
       },
       {
         "type": 4,
@@ -546000,6 +546050,21 @@
     ]
   },
   {
+    "id": 19996,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tensei Akujo no Kurorekishi: Bangai Hen - Yomi to Shitto to Tanjoubi / Iana to Sol: Netsuppoi Ichinichi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "転生悪女の黒歴史 番外編 ヨミと嫉妬と誕生日 / イアナとソル 熱っぽい一日"
+      }
+    ]
+  },
+  {
     "id": 15456,
     "titles": [
       {
@@ -557153,6 +557218,11 @@
     "id": 18889,
     "titles": [
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tsue to Tsurugi no Wistoria S2"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Tsue to Tsurugi no Wistoria Season 2"
@@ -557166,6 +557236,11 @@
         "type": 4,
         "language": "en",
         "title": "Wistoria: Wand and Sword Season 2"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Wistoria: Wand and Sword Staffel 2"
       },
       {
         "type": 4,
