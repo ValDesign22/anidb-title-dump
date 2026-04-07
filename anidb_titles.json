@@ -87319,6 +87319,11 @@
       },
       {
         "type": 4,
+        "language": "ar",
+        "title": "هيمنة عثة كتب: ابنة أرشيدوق بالتبني"
+      },
+      {
+        "type": 4,
         "language": "ko",
         "title": "책벌레의 하극상: 사서가 되기 위해서라면 뭐든지 할 수 있어 영주의 양녀"
       },
@@ -195760,6 +195765,21 @@
     ]
   },
   {
+    "id": 19997,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Dadao Duxing: Die Long Bian"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "大道独行之蝶龙变"
+      }
+    ]
+  },
+  {
     "id": 19451,
     "titles": [
       {
@@ -228904,6 +228924,11 @@
       },
       {
         "type": 4,
+        "language": "uk",
+        "title": "Дорохедоро 2 сезон"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "ドロヘドロ Season2"
       }
@@ -254953,6 +254978,11 @@
     "id": 19910,
     "titles": [
       {
+        "type": 2,
+        "language": "en",
+        "title": "Evangelion 30th Anniversary Special"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Evangelion Housou 30 Shuunen Kinen Tokubetsu Kougyou"
@@ -261276,6 +261306,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Isekai Nonbiri Nouka 2"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Isekai Nonbiri Nouka S2"
       },
       {
         "type": 4,
@@ -442059,6 +442094,11 @@
       },
       {
         "type": 4,
+        "language": "uk",
+        "title": "Коли я переродився слизом (2026)"
+      },
+      {
+        "type": 4,
         "language": "ko",
         "title": "전생했더니 슬라임이었던 건에 대하여 4기"
       },
@@ -443791,6 +443831,21 @@
         "type": 4,
         "language": "ko",
         "title": "메타제트"
+      }
+    ]
+  },
+  {
+    "id": 19998,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "Metal Cardbot"
+      },
+      {
+        "type": 4,
+        "language": "x-kot",
+        "title": "Metal Cardbot"
       }
     ]
   },
@@ -491889,6 +491944,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "The Klutzy Class Monitor and the Girl with the Short Skirt"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "ポンコツ風紀委員とスカート丈が不適切なJKの話"
       }
@@ -523215,21 +523275,6 @@
     ]
   },
   {
-    "id": 19992,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shibou Yuugi de Meshi o Kuu. - 44: CLOUDY BEACH"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Shiboyugi: Playing Death Games to Put Food on the Table - 44: CLOUDY BEACH"
-      }
-    ]
-  },
-  {
     "id": 19993,
     "titles": [
       {
@@ -546055,7 +546100,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Tensei Akujo no Kurorekishi: Bangai Hen - Yomi to Shitto to Tanjoubi / Iana to Sol: Netsuppoi Ichinichi"
+        "title": "Tensei Akujo no Kurorekishi: Bangai Hen - Yomi to Shitto to Tanjoubi / Iana to Sol Netsuppoi Ichinichi"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Dark History of the Reincarnated Villainess: Side Story - Yomi, Jealousy, and a Birthday / Iana and Sol`s Feverish Day"
       },
       {
         "type": 4,
