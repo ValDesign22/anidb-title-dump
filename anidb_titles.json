@@ -54538,6 +54538,11 @@
         "title": "狼と香辛料II"
       },
       {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "狼与香辛料 第二季"
+      },
+      {
         "type": 2,
         "language": "zh-Hans",
         "title": "狼与香辛料II"
@@ -84190,17 +84195,17 @@
       {
         "type": 2,
         "language": "en",
-        "title": "As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World 3"
+        "title": "As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World (2026)"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Tensei Kizoku, Kantei Skill de Nariagaru 3"
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru (2026)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "転生貴族, 鑑定スキルで成り上がる 3"
+        "title": "転生貴族, 鑑定スキルで成り上がる (2026)"
       }
     ]
   },
@@ -117940,6 +117945,31 @@
     ]
   },
   {
+    "id": 20000,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Beyond Twilight"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Hyakki Yagshosho"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hyakki Yakoushou"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "百鬼夜行抄"
+      }
+    ]
+  },
+  {
     "id": 15032,
     "titles": [
       {
@@ -140628,6 +140658,11 @@
         "title": "ブレイクブレイド BROKEN BLADE"
       },
       {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "破刃之剑 剧场版"
+      },
+      {
         "type": 2,
         "language": "zh-Hans",
         "title": "破剑之刃"
@@ -152381,6 +152416,11 @@
         "type": 4,
         "language": "ja",
         "title": "カードキャプターさくら"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "百变小樱"
       },
       {
         "type": 2,
@@ -186318,6 +186358,11 @@
         "title": "宇宙のステルヴィア"
       },
       {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "宇宙星路"
+      },
+      {
         "type": 2,
         "language": "zh-Hans",
         "title": "宇宙的星路"
@@ -200481,6 +200526,11 @@
         "type": 4,
         "language": "ja",
         "title": "ダンタリアンの書架 荊姫"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "丹特丽安的书架 荆姬"
       }
     ]
   },
@@ -216933,6 +216983,11 @@
         "title": "ウィンターガーデン"
       },
       {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "冬季花园"
+      },
+      {
         "type": 2,
         "language": "zh-Hans",
         "title": "冬日花园"
@@ -225761,6 +225816,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "这个医师超麻烦"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "这个治疗有点烦"
       },
       {
         "type": 4,
@@ -335238,6 +335298,11 @@
         "title": "lastame 2"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "LasTame S2"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2"
@@ -345011,6 +345076,26 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "笨拙之極的上野"
+      }
+    ]
+  },
+  {
+    "id": 19999,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "How Not to Summon a Demon Lord ULT"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu ULT"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "異世界魔王と召喚少女の奴隷魔術ULT"
       }
     ]
   },
@@ -484673,7 +484758,7 @@
     "id": 19736,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Pardon the Intrusion, I`m Home!"
       },
@@ -484681,6 +484766,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Tadaima, Ojama Saremasu!"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tadaima, Ojamasaremasu!"
       },
       {
         "type": 4,
@@ -508071,6 +508161,11 @@
         "type": 2,
         "language": "ru",
         "title": "Красный, белый, чёрный, жёлтый: Ледяная империя"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "四色战记 冰雪帝国"
       }
     ]
   },
