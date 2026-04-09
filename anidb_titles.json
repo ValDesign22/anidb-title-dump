@@ -117948,7 +117948,7 @@
     "id": 20000,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Beyond Twilight"
       },
@@ -195819,6 +195819,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Walking the Way All Alone"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "大道独行之蝶龙变"
       }
@@ -237886,6 +237891,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kanojo, Okarishimasu (2026)"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Kanojo, Okarishimasu S5"
       },
       {
         "type": 4,
@@ -429068,9 +429078,19 @@
         "title": "Magical Sisters Lulutto Lilly"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Magical Sisters LuluttoLilly"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Mahou no Shimai Lulutto Lily"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Mahou no Shimai LuluttoLilly"
       },
       {
         "type": 4,
@@ -441341,6 +441361,11 @@
         "type": 4,
         "language": "en",
         "title": "My Ribdiculous Reincarnation"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Yuusha no Rokkotsu de"
       },
       {
         "type": 4,
@@ -501931,6 +501956,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Re:Zero kara Hajimeru Isekai Seikatsu (2026)"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season"
       },
       {
         "type": 4,
