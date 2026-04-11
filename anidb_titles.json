@@ -14646,6 +14646,11 @@
         "type": 4,
         "language": "ja",
         "title": "春夏秋冬代行者 春の舞"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "春夏秋冬代行者 春之舞"
       }
     ]
   },
@@ -62891,36 +62896,6 @@
         "type": 2,
         "language": "zh-Hant",
         "title": "回憶三部曲"
-      }
-    ]
-  },
-  {
-    "id": 12075,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Amitayurdhyana Sutra: The Rajagriha Treachery"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Contemplation Sutra & Story of Prince Ajatashatru"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shinran Shounin to Ousha-jou no Higeki"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Venerable GrandMaster Shinran and Amitayurdhyana Sutra: The Anime"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "親鸞聖人と王舎城の悲劇"
       }
     ]
   },
@@ -183690,6 +183665,36 @@
     ]
   },
   {
+    "id": 12075,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Contemplation Sutra & Story of Prince Ajatashatru"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Master Shinran And The Amitayurdhyana Sutra: The Tragedy At Rajagriha"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shinran Shounin to Ousha-jou no Higeki"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Venerable GrandMaster Shinran and Amitayurdhyana Sutra: The Anime"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "親鸞聖人と王舎城の悲劇"
+      }
+    ]
+  },
+  {
     "id": 13388,
     "titles": [
       {
@@ -202450,12 +202455,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Date a Live (Shin Project)"
+        "title": "Date a Live F Last Date"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "デート・ア・ライブ (新プロジェクト)"
+        "title": "デート・ア・ライブF Last Date"
       }
     ]
   },
@@ -345115,12 +345120,12 @@
       {
         "type": 2,
         "language": "en",
-        "title": "How Not to Summon a Demon Lord ULT"
+        "title": "How Not to Summon a Demon Lord Ult"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu ULT"
+        "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ult"
       },
       {
         "type": 4,
