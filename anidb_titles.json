@@ -15355,6 +15355,21 @@
     ]
   },
   {
+    "id": 20004,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "500000000 years button"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "5億年ボタン"
+      }
+    ]
+  },
+  {
     "id": 1153,
     "titles": [
       {
@@ -32646,6 +32661,11 @@
         "type": 4,
         "language": "en",
         "title": "A Star Brighter Than the Sun"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Gwiazda jaśniejsza od słońca"
       },
       {
         "type": 1,
@@ -152910,6 +152930,21 @@
     ]
   },
   {
+    "id": 20003,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Cardfight!! Vanguard (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "カードファイト!! ヴァンガード (2027)"
+      }
+    ]
+  },
+  {
     "id": 8974,
     "titles": [
       {
@@ -153281,6 +153316,21 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "卡片戰鬥!! 先導者 Divinez 第二季"
+      }
+    ]
+  },
+  {
+    "id": 20002,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Cardfight!! Vanguard: Divinez Unmei Seisen Hen"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "カードファイト!! ヴァンガード Divinez 運命星戦編"
       }
     ]
   },
@@ -266888,6 +266938,11 @@
         "title": "Fist of the North Star (2026)"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "Fist of the North Star: HOKUTO NO KEN"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Hokuto no Ken (2026)"
@@ -351368,9 +351423,19 @@
     "id": 19455,
     "titles": [
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Ichijouma Mankitsu Gurashi!"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Ichijouma Mankitsu Kurashi!"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Ichijyoma Mankitsu Gurashi!"
       },
       {
         "type": 4,
@@ -356356,6 +356421,11 @@
         "type": 2,
         "language": "cs",
         "title": "Parazit: Mravní zásady života"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Pasożyt"
       },
       {
         "type": 2,
@@ -468210,6 +468280,36 @@
     ]
   },
   {
+    "id": 19177,
+    "titles": [
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Ninja kontra Yakuza"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ninja to Gokudou"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Ninja Vs. Gokudo"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "忍者と極道"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "忍者与极道"
+      }
+    ]
+  },
+  {
     "id": 13086,
     "titles": [
       {
@@ -468306,31 +468406,6 @@
         "type": 4,
         "language": "ja",
         "title": "ニンジャスレイヤー フロムアニメイシヨン"
-      }
-    ]
-  },
-  {
-    "id": 19177,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Ninja to Gokudou"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Ninja Vs. Gokudo"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "忍者と極道"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "忍者与极道"
       }
     ]
   },
@@ -468656,6 +468731,11 @@
         "type": 4,
         "language": "en",
         "title": "Nippon Sangoku: The Three Nations of the Crimson Sun"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Nippon Sangoku: Trzy Narody Wschodzącego Słońca"
       },
       {
         "type": 4,
