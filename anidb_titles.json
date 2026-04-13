@@ -156983,7 +156983,7 @@
     "id": 16775,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Cat`s Tea"
       },
@@ -156996,6 +156996,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "猫之茗"
+      }
+    ]
+  },
+  {
+    "id": 18701,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Cat`s Tea 2"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Mao Zhi Ming Season 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "猫之茗 第二季"
       }
     ]
   },
@@ -168506,6 +168526,46 @@
         "type": 4,
         "language": "ja",
         "title": "珍遊記 ~太郎とゆかいな仲間たち~"
+      }
+    ]
+  },
+  {
+    "id": 20006,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Chinese Paladin 3"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Sword and Fairy 3"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xian Jian Qi Xia Chuan San"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xian Jian Qi Xia Zhuan 3"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xian Jian Qi Xia Zhuan San"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "仙剑奇侠传三"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "仙剑奇侠传叁"
       }
     ]
   },
@@ -224141,6 +224201,26 @@
         "type": 4,
         "language": "ja",
         "title": "ドッグソルジャー"
+      }
+    ]
+  },
+  {
+    "id": 20007,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Dog`s Tea"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Quan Zhi Ming"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "犬之茗"
       }
     ]
   },
@@ -302181,6 +302261,46 @@
         "type": 4,
         "language": "ja",
         "title": "少女たちは荒野を目指す アニメEdition"
+      }
+    ]
+  },
+  {
+    "id": 13723,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Girls Dorm"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Nu Sheng Su She Ri Chang"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "女生宿舍日常"
+      }
+    ]
+  },
+  {
+    "id": 13818,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Girls Dorm 2nd Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Nusheng Sushe Richang Di 2 Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "女生宿舍日常 第2季"
       }
     ]
   },
@@ -404578,6 +404698,11 @@
         "title": "Kuro Neko to Majo no Kyoushitsu"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Kuroneko to Majo no Kyoushitsu"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "The Classroom of a Black Cat and a Witch"
@@ -418386,6 +418511,26 @@
         "type": 4,
         "language": "ja",
         "title": "おでかけ子ザメ"
+      }
+    ]
+  },
+  {
+    "id": 19929,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Little Shark`s Outings (2026)"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Odekake Kozame (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "おでかけ子ザメ (2026)"
       }
     ]
   },
@@ -436166,16 +436311,6 @@
         "type": 2,
         "language": "en",
         "title": "Mao"
-      }
-    ]
-  },
-  {
-    "id": 18701,
-    "titles": [
-      {
-        "type": 1,
-        "language": "zh",
-        "title": "Mao Zhi Ming 2"
       }
     ]
   },
@@ -471010,21 +471145,6 @@
     ]
   },
   {
-    "id": 13723,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Nu Sheng Su She Ri Chang"
-      },
-      {
-        "type": 4,
-        "language": "zh",
-        "title": "女生宿舍日常"
-      }
-    ]
-  },
-  {
     "id": 16106,
     "titles": [
       {
@@ -471546,21 +471666,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "女神有点灵"
-      }
-    ]
-  },
-  {
-    "id": 13818,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Nusheng Sushe Richang Di 2 Ji"
-      },
-      {
-        "type": 4,
-        "language": "zh",
-        "title": "女生宿舍日常 第2季"
       }
     ]
   },
@@ -472996,21 +473101,6 @@
         "type": 4,
         "language": "ja",
         "title": "おデブ悪女に転生したら, なぜかラスボス王子様に執着されています"
-      }
-    ]
-  },
-  {
-    "id": 19929,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Odekake Kozame (2026)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "おでかけ子ザメ (2026)"
       }
     ]
   },
@@ -528188,6 +528278,11 @@
         "title": "Shrouding the Heavens"
       },
       {
+        "type": 3,
+        "language": "en",
+        "title": "STH"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Zhe Tian"
@@ -528196,6 +528291,41 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "遮天"
+      }
+    ]
+  },
+  {
+    "id": 20005,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Shrouding the Heavens: The Imperial Path"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Shrounding the Heavens Movie: Fighting Against Wang Teng with Copper Coffin"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "Zhe Tian Juchang Ban: Bei Guan Zhan Wang Teng"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhe Tian Movie: Bei Guan Zhan Wang Teng"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "遮天剧场版 背棺战王腾"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "遮天剧场版：背棺战王腾"
       }
     ]
   },
