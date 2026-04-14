@@ -90623,7 +90623,7 @@
     "id": 17305,
     "titles": [
       {
-        "type": 4,
+        "type": 2,
         "language": "de",
         "title": "Atelier of Witch Hat"
       },
@@ -90633,6 +90633,11 @@
         "title": "Atelier spiczastych kapeluszy"
       },
       {
+        "type": 4,
+        "language": "fr",
+        "title": "L`Atelier des Sorciers"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Tongari Boushi no Atelier"
@@ -90640,6 +90645,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Witch Hat Atelier"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "Witch Hat Atelier"
       },
       {
@@ -351543,19 +351553,19 @@
     "id": 19455,
     "titles": [
       {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Ichijouma Mankitsu Gurashi!"
-      },
-      {
         "type": 1,
         "language": "x-jat",
-        "title": "Ichijouma Mankitsu Kurashi!"
+        "title": "Ichijouma Mankitsu Gurashi!"
       },
       {
         "type": 2,
         "language": "x-jat",
         "title": "Ichijyoma Mankitsu Gurashi!"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Living in a One-Tatami Room!"
       },
       {
         "type": 4,
@@ -437468,6 +437478,11 @@
         "title": "Marriage Toxin"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "MARRIAGETOXIN"
+      },
+      {
         "type": 2,
         "language": "x-jat",
         "title": "Marriagetoxin"
@@ -449108,7 +449123,7 @@
     "id": 18900,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Mission: Yozakura Family (2026)"
       },
