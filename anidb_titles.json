@@ -39986,6 +39986,16 @@
         "type": 4,
         "language": "ja",
         "title": "ダイヤのA actII Second Season"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "鑽石王牌 act2 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "钻石王牌 act2 第二季"
       }
     ]
   },
@@ -50938,6 +50948,11 @@
         "title": "Aishiteru Game o Owarasetai"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Aishiteru Game wo Owarasetai"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "I Want to End This Love Game"
@@ -52581,6 +52596,16 @@
         "type": 4,
         "language": "ja",
         "title": "あかね噺"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "朱音落語"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "落语朱音"
       }
     ]
   },
@@ -60231,6 +60256,16 @@
         "type": 3,
         "language": "x-jat",
         "title": "Nigetsuri"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "关于虽然逃走的鱼很大、但钓上来的鱼却太大了这件事"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "溜掉的大魚比不上自己釣到的魚"
       },
       {
         "type": 4,
@@ -125296,6 +125331,21 @@
         "type": 4,
         "language": "zh",
         "title": "黑貓警長"
+      }
+    ]
+  },
+  {
+    "id": 20009,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Black Channel"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ブラックチャンネル"
       }
     ]
   },
@@ -195984,8 +196034,18 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "黃泉使者"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "黄泉のツガイ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "黄泉使者"
       }
     ]
   },
@@ -196736,6 +196796,11 @@
         "type": 4,
         "language": "ja",
         "title": "大賢者リドルの時間逆行"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "大賢者里德爾的時間逆行"
       }
     ]
   },
@@ -229146,6 +229211,16 @@
         "type": 4,
         "language": "ja",
         "title": "ドロヘドロ Season2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "异兽魔都 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "異獸魔都 第二季"
       }
     ]
   },
@@ -233620,7 +233695,7 @@
       {
         "type": 4,
         "language": "zh-Hans",
-        "title": "龙族Ⅱ：悼亡者之瞳"
+        "title": "龙族Ⅱ: 悼亡者之瞳"
       },
       {
         "type": 2,
@@ -234071,6 +234146,31 @@
         "type": 4,
         "language": "ja",
         "title": "Dream"
+      }
+    ]
+  },
+  {
+    "id": 19048,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Dream Animals"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tabekko Doubutsu"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "たべっ子どうぶつ THE MOVIE"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "愉快动物饼干 电影版"
       }
     ]
   },
@@ -282996,6 +283096,16 @@
         "type": 4,
         "language": "ja",
         "title": "ガンバレ! 中村くん!!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "加油！中村同學！！"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "加油吧！中村君！！"
       }
     ]
   },
@@ -359811,6 +359921,16 @@
         "type": 4,
         "language": "ja",
         "title": "インゴクダンチ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "淫狱团地"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "淫獄團地"
       }
     ]
   },
@@ -378574,6 +378694,16 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "楠木邸的神明庭院"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "楠木邸的神明庭院"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "神の庭付き楠木邸"
       }
@@ -380046,6 +380176,16 @@
         "type": 4,
         "language": "ja",
         "title": "カナン様はあくまでチョロい"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "容易對付的惡魔大人"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "迦楠大人的白给是恶魔级"
       }
     ]
   },
@@ -389623,7 +389763,7 @@
         "title": "Kill Ao"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Kill Blue"
       },
@@ -389771,6 +389911,16 @@
         "type": 4,
         "language": "ja",
         "title": "また殺されてしまったのですね, 探偵様"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "你又被殺了呢，偵探大人"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "又被杀掉了呢，侦探大人"
       }
     ]
   },
@@ -393719,8 +393869,18 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "雾尾粉丝后援会"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "霧尾ファンクラブ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "霧尾粉絲後援會"
       }
     ]
   },
@@ -429340,7 +429500,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Mahou no Shimai Lulutto Lily"
+        "title": "Mahou no Shimai Lulutto Lilly"
       },
       {
         "type": 2,
@@ -429351,6 +429511,16 @@
         "type": 4,
         "language": "ja",
         "title": "魔法の姉妹ルルットリリィ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "魔法姊妹露露特莉莉"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "魔法姐妹露露特莉莉"
       }
     ]
   },
@@ -435279,6 +435449,16 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "吞噬魔物的冒险者"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "吞噬魔物的冒險者"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "魔物喰らいの冒険者 ~俺だけ魔物を喰らって強くなる~"
       }
@@ -437121,6 +437301,16 @@
         "type": 4,
         "language": "ja",
         "title": "茉莉花ちゃんの好感度はぶっ壊れている"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "茉莉花同學的好感度壞得很徹底"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "茉莉花酱的好感度正在崩坏"
       }
     ]
   },
@@ -463706,6 +463896,16 @@
         "type": 2,
         "language": "ja",
         "title": "ニーディーガールオーバードーズ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "主播女孩重度依賴"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "主播女孩重度依赖"
       }
     ]
   },
@@ -487196,6 +487396,16 @@
         "type": 4,
         "language": "ja",
         "title": "リィンカーネーションの花弁"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "輪迴的花瓣"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "轮回的花瓣"
       }
     ]
   },
@@ -492356,6 +492566,16 @@
         "type": 4,
         "language": "ja",
         "title": "ポンコツ風紀委員とスカート丈が不適切なJKの話"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "木头风纪委员和迷你裙JK的故事"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "木頭風紀委員和迷你裙 JK 的故事"
       }
     ]
   },
@@ -505201,6 +505421,16 @@
         "type": 4,
         "language": "ja",
         "title": "リラックマ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "拉拉熊"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "轻松熊"
       }
     ]
   },
@@ -531191,6 +531421,16 @@
         "type": 4,
         "language": "ja",
         "title": "スノウボールアース"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "冻结地球"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "凍結地球"
       }
     ]
   },
@@ -540750,26 +540990,6 @@
     ]
   },
   {
-    "id": 19048,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Tabekko Doubutsu"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "たべっ子どうぶつ THE MOVIE"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "愉快动物饼干 电影版"
-      }
-    ]
-  },
-  {
     "id": 11835,
     "titles": [
       {
@@ -549001,6 +549221,26 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "百万现场！"
+      }
+    ]
+  },
+  {
+    "id": 20008,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "THE IDOLM@STER Million Live! ~Itsuka, Mannaka de~"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Idolmaster Million Live! Someday, In the Middle"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "アイドルマスター ミリオンライブ！ 〜いつか、真ん中で〜"
       }
     ]
   },
