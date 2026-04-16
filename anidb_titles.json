@@ -408675,6 +408675,61 @@
     ]
   },
   {
+    "id": 17159,
+    "titles": [
+      {
+        "type": 4,
+        "language": "es-419",
+        "title": "La reencarnación del exorcista más fuerte de otro mundo"
+      },
+      {
+        "type": 2,
+        "language": "pl",
+        "title": "Najpotężniejszy egzorcysta odrodzony w innym świecie"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Saikyou Onmyouji no Isekai Tenseiki"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Reincarnation of the Strongest Exorcist in Another World"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Reincarnation of the Strongest Onmyoji"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Переродження найсильнішого екзорциста в іншому світі"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Перерождение сильнейшего экзорциста в другом мире"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "최강 음양사의 이세계 전생기"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "最強陰陽師の異世界転生記"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "最强阴阳师的异世界转生记"
+      }
+    ]
+  },
+  {
     "id": 965,
     "titles": [
       {
@@ -418341,6 +418396,11 @@
         "type": 4,
         "language": "de",
         "title": "Link Click II"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Link Click Season 2"
       },
       {
         "type": 2,
@@ -433451,6 +433511,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "魔女与野兽"
+      }
+    ]
+  },
+  {
+    "id": 20010,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Majo to Youhei"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Witch and Mercenary"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔女と傭兵"
       }
     ]
   },
@@ -511266,46 +511346,6 @@
         "type": 4,
         "language": "ja",
         "title": "最強の王様, 二度目の人生は何をする? (2026)"
-      }
-    ]
-  },
-  {
-    "id": 17159,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Saikyou Onmyouji no Isekai Tenseiki"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "The Reincarnation of the Strongest Exorcist in Another World"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Reincarnation of the Strongest Onmyoji"
-      },
-      {
-        "type": 4,
-        "language": "uk",
-        "title": "Переродження найсильнішого екзорциста в іншому світі"
-      },
-      {
-        "type": 4,
-        "language": "ru",
-        "title": "Перерождение сильнейшего экзорциста в другом мире"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "最強陰陽師の異世界転生記"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "最强阴阳师的异世界转生记"
       }
     ]
   },
