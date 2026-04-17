@@ -45000,6 +45000,56 @@
     ]
   },
   {
+    "id": 20011,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Against the Gods 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Against the Gods 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Against the Gods II"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Against the Gods Season 2"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Nitian Xie Shen 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Nitian Xie Shen S2"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Nitian Xie Shen: Nian Fan"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "逆天邪神 年番"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "逆天邪神 第二季"
+      }
+    ]
+  },
+  {
     "id": 16583,
     "titles": [
       {
@@ -118036,6 +118086,16 @@
         "type": 4,
         "language": "ja",
         "title": "百鬼夜行抄"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "百鬼夜行抄"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "百鬼夜行抄"
       }
     ]
   },
@@ -137381,6 +137441,11 @@
         "type": 4,
         "language": "ja",
         "title": "上伊那ぼたん, 酔へる姿は百合の花"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "上伊那牡丹，酒醉身姿似百合花般"
       }
     ]
   },
@@ -150421,6 +150486,31 @@
         "type": 2,
         "language": "uk",
         "title": "Солодка☆парочка"
+      }
+    ]
+  },
+  {
+    "id": 20012,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Candy Caries"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "CANDY CARIES"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Candy Caries"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "キャンディーカリエス"
       }
     ]
   },
@@ -177646,6 +177736,16 @@
         "type": 3,
         "language": "ja",
         "title": "クラにか"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "和班上第二可爱的女孩成为朋友"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我和班上第二可愛的女生成為朋友"
       }
     ]
   },
@@ -252606,6 +252706,16 @@
         "type": 4,
         "language": "ja",
         "title": "左ききのエレン"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "左撇子艾伦"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "左撇子艾倫"
       }
     ]
   },
@@ -255436,6 +255546,16 @@
         "type": 4,
         "language": "ja",
         "title": "レプリカだって, 恋をする."
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "复制品的我也会谈恋爱"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "複製品的我也會談戀愛"
       }
     ]
   },
@@ -335646,6 +335766,16 @@
         "type": 4,
         "language": "ja",
         "title": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします. Season2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "成為悲劇元兇的最強異端，最後頭目女王為了人民犧牲奉獻 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "身为悲剧始作俑者的最强邪恶BOSS女王为民竭心尽力。 第二季"
       }
     ]
   },
@@ -337711,6 +337841,16 @@
         "type": 4,
         "language": "ko",
         "title": "공주 기사는 야만족의 신부"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "女騎士成為蠻族新娘"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "女骑士成为蛮族新娘"
       },
       {
         "type": 4,
@@ -378726,6 +378866,16 @@
         "type": 4,
         "language": "ja",
         "title": "神の雫"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "神之水滴"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "神之雫"
       }
     ]
   },
@@ -389771,6 +389921,16 @@
         "type": 4,
         "language": "ja",
         "title": "キルアオ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "杀手青春"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "殺手青春"
       }
     ]
   },
@@ -403581,6 +403741,16 @@
         "type": 4,
         "language": "ja",
         "title": "クジマ歌えば家ほろろ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "库兹马唱歌的话家里哆啰啰"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "庫吉馬唱歌的家"
       }
     ]
   },
@@ -437761,6 +437931,16 @@
         "type": 4,
         "language": "ja",
         "title": "マリッジトキシン"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "婚姻剧毒"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "婚姻劇毒"
       }
     ]
   },
@@ -441886,6 +442066,16 @@
         "type": 3,
         "language": "x-jat",
         "title": "Yuusha no Rokkotsu de"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "女神“异世界转生想成为什么”我“勇者的肋骨”"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "女神「異世界轉生想成為什麼」我「勇者的肋骨」"
       },
       {
         "type": 4,
@@ -485371,6 +485561,16 @@
         "type": 4,
         "language": "ja",
         "title": "ただいま, おじゃまされます!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "当前、正被打扰中！"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我回來了，他又來打擾了！"
       }
     ]
   },
@@ -529158,6 +529358,11 @@
         "title": "Гарем конца света"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Тотальный гарем"
+      },
+      {
         "type": 4,
         "language": "ko",
         "title": "종말의 하렘"
@@ -536796,6 +537001,16 @@
         "type": 1,
         "language": "x-jat",
         "title": "Star Wars: Visions Presents - The Ninth Jedi"
+      }
+    ]
+  },
+  {
+    "id": 20014,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "Star Wars: Visions Volume 2 (2023)"
       }
     ]
   },
@@ -571445,6 +571660,21 @@
     ]
   },
   {
+    "id": 20013,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yinyue Gongzhu Ai Meili"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "音乐公主艾美丽"
+      }
+    ]
+  },
+  {
     "id": 5307,
     "titles": [
       {
@@ -572766,6 +572996,16 @@
         "type": 4,
         "language": "ja",
         "title": "よわよわ先生"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "弱弱老师"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "弱弱老師"
       }
     ]
   },
