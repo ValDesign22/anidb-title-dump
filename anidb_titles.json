@@ -30190,6 +30190,26 @@
     ]
   },
   {
+    "id": 20018,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "A Pen, Handcuffs, and a Common-Law Marriage"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Pen to Wappa to Jijitsukon"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ペンと手錠と事実婚"
+      }
+    ]
+  },
+  {
     "id": 7331,
     "titles": [
       {
@@ -79036,6 +79056,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Area no Kishi"
+      },
+      {
+        "type": 4,
+        "language": "es-419",
+        "title": "El caballero del área"
       },
       {
         "type": 3,
@@ -457700,21 +457725,6 @@
     ]
   },
   {
-    "id": 17989,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "My Hashtag Does Not Shine"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Watashi no Hashtag ga Haenakute."
-      }
-    ]
-  },
-  {
     "id": 19069,
     "titles": [
       {
@@ -537005,16 +537015,6 @@
     ]
   },
   {
-    "id": 20014,
-    "titles": [
-      {
-        "type": 1,
-        "language": "en",
-        "title": "Star Wars: Visions Volume 2 (2023)"
-      }
-    ]
-  },
-  {
     "id": 17044,
     "titles": [
       {
@@ -571671,6 +571671,51 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "音乐公主艾美丽"
+      }
+    ]
+  },
+  {
+    "id": 20015,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yinyue Gongzhu Ai Meili 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "音乐公主爱美莉 第2季"
+      }
+    ]
+  },
+  {
+    "id": 20016,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yinyue Gongzhu Ai Meili 3"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "音乐公主爱美莉 第三季"
+      }
+    ]
+  },
+  {
+    "id": 20017,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yinyue Gongzhu Ai Meili 4"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "音乐公主爱美莉 第四季"
       }
     ]
   },
