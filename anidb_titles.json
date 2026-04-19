@@ -80574,6 +80574,11 @@
       },
       {
         "type": 4,
+        "language": "es",
+        "title": "El secreto de Ren: Solo yo sé que ella es sexy"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Ren Arisugawa Is Actually a Girl"
       },
@@ -199301,6 +199306,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Dandelion"
+      },
+      {
+        "type": 4,
+        "language": "es",
+        "title": "Diente de león"
       },
       {
         "type": 4,
@@ -423050,6 +423060,36 @@
     ]
   },
   {
+    "id": 19721,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Luo Xiao Hei Zhan Ji 2"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Luo Xiao Hei Zhanji 2"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Legend of Hei 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Legend of Hei II"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "罗小黑战记2"
+      }
+    ]
+  },
+  {
     "id": 14829,
     "titles": [
       {
@@ -423081,21 +423121,6 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "罗小黑战记 众生之门篇"
-      }
-    ]
-  },
-  {
-    "id": 19721,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Luo Xiao Hei Zhanji 2"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "罗小黑战记2"
       }
     ]
   },
@@ -429743,7 +429768,7 @@
     "id": 19214,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Magical Sisters Lulutto Lilly"
       },
@@ -561416,6 +561441,11 @@
         "type": 4,
         "language": "ja",
         "title": "アンデッドアンラック"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "不死不幸"
       },
       {
         "type": 4,
