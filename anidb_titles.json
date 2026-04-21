@@ -163713,6 +163713,11 @@
         "title": "Cheat Kematian Instanku Terlalu Kuat"
       },
       {
+        "type": 2,
+        "language": "pl",
+        "title": "Moja natychmiastowa zdolność śmierci jest tak potężna, że nikt w tym innym świecie nie ma ze mną szans!"
+      },
+      {
         "type": 4,
         "language": "pl",
         "title": "Moja zdolność natychmiastowej śmierci jest tak przepotężna, że nikt w tym innym świecie nie ma ze mną szans!"
@@ -272488,6 +272493,11 @@
     "id": 18886,
     "titles": [
       {
+        "type": 4,
+        "language": "it",
+        "title": "Frieren - Oltre la fine del viaggio (2026)"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "Frieren 2"
@@ -306001,6 +306011,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Godzilla S.P"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Godzilla Singular Point"
       },
       {
         "type": 2,
@@ -495475,6 +495490,26 @@
     ]
   },
   {
+    "id": 20013,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Princess Doremi"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yinyue Gongzhu Ai Meili"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "音乐公主艾美丽"
+      }
+    ]
+  },
+  {
     "id": 1665,
     "titles": [
       {
@@ -571696,21 +571731,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "阴阳师·平安物语第二季"
-      }
-    ]
-  },
-  {
-    "id": 20013,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Yinyue Gongzhu Ai Meili"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "音乐公主艾美丽"
       }
     ]
   },
