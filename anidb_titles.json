@@ -29795,6 +29795,26 @@
     ]
   },
   {
+    "id": 20019,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "A Night in the Valley of Witches"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Majo no Tani no Yoru"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔女の谷の夜"
+      }
+    ]
+  },
+  {
     "id": 18596,
     "titles": [
       {
@@ -442783,11 +442803,6 @@
         "title": "Meijou"
       },
       {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Meijyou"
-      },
-      {
         "type": 1,
         "language": "x-zht",
         "title": "Miqing"
@@ -489501,6 +489516,11 @@
         "type": 2,
         "language": "ko",
         "title": "핑커턴"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "ピンカートン"
       }
     ]
   },
