@@ -898,11 +898,6 @@
         "title": "Bienvenue à la NHK"
       },
       {
-        "type": 2,
-        "language": "el",
-        "title": "Kαλωσήρθατε στο NHK"
-      },
-      {
         "type": 3,
         "language": "x-jat",
         "title": "nhk"
@@ -961,6 +956,11 @@
         "type": 2,
         "language": "pl",
         "title": "Witaj w NHK!"
+      },
+      {
+        "type": 2,
+        "language": "el",
+        "title": "Καλωσήρθατε στο NHK"
       },
       {
         "type": 2,
@@ -11141,6 +11141,11 @@
         "type": 2,
         "language": "en",
         "title": "The Story of 15 Beautiful Girls Adrift"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "История о 15 прекрасных девушках"
       }
     ]
   },
@@ -51059,6 +51064,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "想結束這場的遊戲"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "想结束这场“我爱你”的游戏"
       },
@@ -72375,6 +72385,31 @@
     ]
   },
   {
+    "id": 12808,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Antiquarian Bookshop Biblia`s Case Files"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Biblia Koshodou no Jiken Techou"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Case Files of Biblia Bookstore"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ビブリア古書堂の事件手帖"
+      }
+    ]
+  },
+  {
     "id": 5971,
     "titles": [
       {
@@ -77981,6 +78016,36 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "阿拉德: 宿命之门"
+      }
+    ]
+  },
+  {
+    "id": 20020,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "arafo kenja"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Arafoo Kenja no Isekai Seikatsu Nikki"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Diary of a Middle-Aged Sage`s Carefree Life in Another World"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "アラフォー賢者"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "アラフォー賢者の異世界生活日記"
       }
     ]
   },
@@ -99513,6 +99578,11 @@
         "title": "내가 인기 없는 건 아무리 생각해도 너희들이 나빠!"
       },
       {
+        "type": 3,
+        "language": "zh-Hans",
+        "title": "丧女"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "我不受欢迎, 怎么想都是你们的错!"
@@ -116220,6 +116290,26 @@
     ]
   },
   {
+    "id": 20026,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Berserk of Gluttony 2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Boushoku no Berserk 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "暴食のベルセルク 2"
+      }
+    ]
+  },
+  {
     "id": 18781,
     "titles": [
       {
@@ -119486,21 +119576,6 @@
         "type": 2,
         "language": "zh-Hant",
         "title": "黑暗聖經 Only版"
-      }
-    ]
-  },
-  {
-    "id": 12808,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Biblia Koshodou no Jiken Techou"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ビブリア古書堂の事件手帖"
       }
     ]
   },
@@ -177793,6 +177868,11 @@
         "title": "I Made Friends with the Second Prettiest Girl in My Class"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Kuranika"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "クラスで2番目に可愛い女の子と友だちになった"
@@ -192355,6 +192435,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Fate/EXTRA Last Encore"
+      },
+      {
+        "type": 4,
+        "language": "es-419",
         "title": "Fate/EXTRA Last Encore"
       },
       {
@@ -216193,6 +216278,11 @@
         "title": "まったん"
       },
       {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "最近的侦探真没用"
+      },
+      {
         "type": 4,
         "language": "zh-Hant",
         "title": "最近的偵探真沒用"
@@ -239915,6 +240005,26 @@
     ]
   },
   {
+    "id": 20025,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Echoes of Aincrad Movie"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "SWORD ART ONLINE Unanswered//butterfly"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sword Art Online: Unanswered//Butterfly"
+      }
+    ]
+  },
+  {
     "id": 19446,
     "titles": [
       {
@@ -255701,6 +255811,26 @@
         "type": 4,
         "language": "ja",
         "title": "花織さんは転生しても喧嘩がしたい"
+      }
+    ]
+  },
+  {
+    "id": 20024,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Ever Night"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jiang Ye"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "将夜"
       }
     ]
   },
@@ -303415,6 +303545,36 @@
     ]
   },
   {
+    "id": 20022,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Glasses with a Chance of Delinquent"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Megane, Tokidoki, Yankee-kun"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "otasukebu"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "おたすけ部"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "メガネ, 時々, ヤンキーくん"
+      }
+    ]
+  },
+  {
     "id": 10506,
     "titles": [
       {
@@ -325995,6 +326155,21 @@
     ]
   },
   {
+    "id": 20028,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Harem-jima e Youkoso!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ハーレム島へようこそ！"
+      }
+    ]
+  },
+  {
     "id": 5665,
     "titles": [
       {
@@ -329816,6 +329991,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Hebi to Kumo"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "뱀과 거미"
       },
       {
         "type": 4,
@@ -351899,8 +352079,18 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "一叠间漫画咖啡屋生活！"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "一畳間まんきつ暮らし!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "一疊間漫畫咖啡廳日常"
       }
     ]
   },
@@ -368255,6 +368445,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Sword of Coming 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Sword of Coming 2nd Season"
       },
       {
@@ -375676,6 +375871,26 @@
         "type": 4,
         "language": "ja",
         "title": "駕籠真太郎アニメ作品集"
+      }
+    ]
+  },
+  {
+    "id": 20027,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kagurabachi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Kagurabachi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "カグラバチ"
       }
     ]
   },
@@ -405134,6 +405349,16 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "黑猫与魔女的教室"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "黑貓與魔女的教室"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "黒猫と魔女の教室"
       }
@@ -428560,6 +428785,36 @@
     ]
   },
   {
+    "id": 19958,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Magical Buffs: The Support Caster is Stronger Than He Realized!"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "zatsufuyo"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Zatsuyou Fuyojutsu-shi ga Jibun no Saikyou ni Kizuku made"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "雑付与"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "雑用付与術師が自分の最強に気付くまで"
+      }
+    ]
+  },
+  {
     "id": 600,
     "titles": [
       {
@@ -433201,6 +433456,16 @@
         "type": 3,
         "language": "ja",
         "title": "メイ食べ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "女仆小姐的贪吃日常"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "女僕小姐的貪吃日常"
       }
     ]
   },
@@ -488113,6 +488378,11 @@
         "title": "Phantom Alchemia: Silvia no Dokidoki Sakusei Toshi Keikaku"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "팬텀 알케미아"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ファントム・アルケミア ~シルヴィアのドキドキ搾精都市計画~"
@@ -511253,6 +511523,11 @@
         "title": "最弱テイマーはゴミ拾いの旅を始めました."
       },
       {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "最弱的驯养师开启的捡垃圾的旅途."
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "最弱魔物使开始了捡垃圾之旅。"
@@ -519210,12 +519485,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru 2"
+        "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru (2027)"
       },
       {
         "type": 2,
         "language": "en",
-        "title": "The World`s Finest Assassin Gets Reincarnated in Another World as an Aristocrat 2"
+        "title": "The World`s Finest Assassin Gets Reincarnated in Another World as an Aristocrat (2027)"
       },
       {
         "type": 2,
@@ -519225,7 +519500,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "世界最高の暗殺者, 異世界貴族に転生する 2"
+        "title": "世界最高の暗殺者, 異世界貴族に転生する (2027)"
       }
     ]
   },
@@ -550815,6 +551090,26 @@
     ]
   },
   {
+    "id": 20023,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "The Ribbon Hero"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "THE RIBBON HERO"
+      },
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "THE RIBBON HERO リボンヒーロー"
+      }
+    ]
+  },
+  {
     "id": 10784,
     "titles": [
       {
@@ -575606,31 +575901,6 @@
         "type": 4,
         "language": "ja",
         "title": "ざんねんないきもの事典 (2022)"
-      }
-    ]
-  },
-  {
-    "id": 19958,
-    "titles": [
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "zatsufuyo"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Zatsuyou Fuyojutsu-shi ga Jibun no Saikyou ni Kizuku made"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "雑付与"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "雑用付与術師が自分の最強に気付くまで"
       }
     ]
   },
