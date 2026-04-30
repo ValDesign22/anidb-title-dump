@@ -304370,6 +304370,36 @@
     ]
   },
   {
+    "id": 20029,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Go with the Clouds, North-by-Northwest"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "hokuhokusei"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hokuhokusei ni Kumori to Yuke"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "北北西"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "北北西に曇と往け"
+      }
+    ]
+  },
+  {
     "id": 10574,
     "titles": [
       {
@@ -415040,6 +415070,26 @@
     ]
   },
   {
+    "id": 20031,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Lele Bianlidian"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Lele Convenience Store"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "乐乐便利店"
+      }
+    ]
+  },
+  {
     "id": 4211,
     "titles": [
       {
@@ -482741,6 +482791,21 @@
         "type": 4,
         "language": "ja",
         "title": "アウトランダーズ"
+      }
+    ]
+  },
+  {
+    "id": 20030,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "OVA Furachi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "OVA フラチ"
       }
     ]
   },
