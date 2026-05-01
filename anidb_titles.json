@@ -31450,7 +31450,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "図書室ノ彼女~清楚ナ君ガ堕チルマデ~ THE ANIMATION"
+        "title": "図書室ノ彼女 ~清楚ナ君ガ堕チルマデ~ THE ANIMATION"
       }
     ]
   },
@@ -318965,7 +318965,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "H na Gishi Series The Animation"
+        "title": "H na Ane Series The Animation"
       },
       {
         "type": 2,
@@ -322630,13 +322630,33 @@
     ]
   },
   {
-    "id": 17846,
+    "id": 3225,
     "titles": [
       {
-        "type": 3,
+        "type": 1,
         "language": "x-jat",
-        "title": "hametsu"
+        "title": "Hametsu no Mars"
       },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Mars of Destruction"
+      },
+      {
+        "type": 2,
+        "language": "bg",
+        "title": "Унищоженият Марс"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "破滅のマルス Mars of Destruction"
+      }
+    ]
+  },
+  {
+    "id": 17846,
+    "titles": [
       {
         "type": 1,
         "language": "x-jat",
@@ -322676,31 +322696,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "破灭的王国"
-      }
-    ]
-  },
-  {
-    "id": 3225,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Hametsu no Mars"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Mars of Destruction"
-      },
-      {
-        "type": 2,
-        "language": "bg",
-        "title": "Унищоженият Марс"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "破滅のマルス Mars of Destruction"
       }
     ]
   },
@@ -326151,6 +326146,21 @@
         "type": 2,
         "language": "ja",
         "title": "淫妖蟲・蝕 ~孕ミ堕チル少女達~"
+      }
+    ]
+  },
+  {
+    "id": 20032,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Harem Shima e Youkoso!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ハーレム島へようこそ!"
       }
     ]
   },
@@ -366686,16 +366696,6 @@
         "type": 1,
         "language": "x-jat",
         "title": "Yuusha Party o Oidasareta Kiyoubinbou"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Yuusha Party wo Oidasareta Kiyoubinbou"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Yuusya Party wo Oidasareta Kiyou Bimbou"
       },
       {
         "type": 4,
@@ -412750,12 +412750,12 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "Nightmare x Deathscythe"
+        "title": "Nightmare × Deathscythe ～叛逆のレゾナンス～"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Nightmare x Deathscythe"
+        "title": "Nightmare x Deathscythe: Hangyaku no Resonance"
       },
       {
         "type": 2,
@@ -418899,7 +418899,7 @@
       },
       {
         "type": 1,
-        "language": "x-jat",
+        "language": "x-zht",
         "title": "Shiguang Dailiren: Yingdu Pian"
       },
       {
@@ -458344,6 +458344,11 @@
       },
       {
         "type": 4,
+        "language": "pl",
+        "title": "My Isekai Life"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!"
       },
@@ -481735,6 +481740,21 @@
     ]
   },
   {
+    "id": 20034,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Otaku no Boku ga Ichigun Gal to Tsukiaeru made no Hanashi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "オタクの僕が一軍ギャルと付き合えるまでの話"
+      }
+    ]
+  },
+  {
     "id": 6972,
     "titles": [
       {
@@ -482901,31 +482921,6 @@
         "type": 4,
         "language": "ja",
         "title": "OVA パイハメ家族"
-      }
-    ]
-  },
-  {
-    "id": 19414,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "OVA Pure Pure Pero Pero Princess"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "OVA ピュアピュア ぺろぺろ プリンセス"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "퓨어 퓨어 페로 페로 프린세스"
-      },
-      {
-        "type": 2,
-        "language": "ja",
-        "title": "ピュアピュア♥ぺろぺろ♥プリンセス"
       }
     ]
   },
@@ -497886,6 +497881,31 @@
         "type": 4,
         "language": "el",
         "title": "Αγνή Αγάπη"
+      }
+    ]
+  },
+  {
+    "id": 19414,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Pure Pure Pero Pero Princess"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "퓨어 퓨어 페로 페로 프린세스"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ピュアピュア ぺろぺろ プリンセス"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "ピュアピュア♥ぺろぺろ♥プリンセス"
       }
     ]
   },
@@ -516806,11 +516826,6 @@
         "type": 1,
         "language": "x-jat",
         "title": "Yuusha Party o Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugai Sugiru"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Yuusha Party wo Tsuihousareta Shiro Madoushi, S Rank Boukensha ni Hirowareru - Kono Shiro Madoushi ga Kikakugai sugiru"
       },
       {
         "type": 4,
@@ -549925,7 +549940,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "アイドルマスター ミリオンライブ！ 〜いつか、真ん中で〜"
+        "title": "アイドルマスター ミリオンライブ! ~いつか, 真ん中で~"
       }
     ]
   },
@@ -556886,6 +556901,21 @@
         "type": 4,
         "language": "ja",
         "title": "杜子春 (1981)"
+      }
+    ]
+  },
+  {
+    "id": 20033,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Toshoshitsu no Kanojo: Onna Kyoushi ga Ochiru made The Animation"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "図書室ノ彼女 ~女教師ガ堕チルマデ~ THE ANIMATION"
       }
     ]
   },
