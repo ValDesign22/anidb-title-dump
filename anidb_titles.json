@@ -350513,6 +350513,11 @@
         "title": "I Want You To Make a Disgusted Face and Show Me Your Underwear Returns"
       },
       {
+        "type": 4,
+        "language": "en",
+        "title": "I Want You To Show Me Your Panties with a Disgusted Face Returns"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Iya na Kao Sarenagara Opantsu Misete Moraitai Returns"
@@ -519605,6 +519610,26 @@
     ]
   },
   {
+    "id": 20035,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sekai Saikyou no Majo, Hajimemashita"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The World`s Strongest Witch"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "世界最強の魔女, 始めました"
+      }
+    ]
+  },
+  {
     "id": 10212,
     "titles": [
       {
@@ -556228,6 +556253,11 @@
         "title": "Wisteria of the Wand and Sword"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "wistoria"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Wistoria: Wand and Sword"
@@ -558651,6 +558681,11 @@
         "type": 4,
         "language": "de",
         "title": "Wistoria: Wand and Sword Staffel 2"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "wistoria2"
       },
       {
         "type": 4,
