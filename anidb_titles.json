@@ -40385,6 +40385,26 @@
     ]
   },
   {
+    "id": 20038,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Action Monster Big Movie"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Kai Pai La! Guaishou Da Dianying"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "开拍啦！怪兽大电影"
+      }
+    ]
+  },
+  {
     "id": 7020,
     "titles": [
       {
@@ -50846,6 +50866,26 @@
         "type": 4,
         "language": "ja",
         "title": "愛妻日記"
+      }
+    ]
+  },
+  {
+    "id": 20036,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Aisanai to Iwaremashite mo: Moto Maou no Hakushaku Reijou wa Kimajime Gunjin ni Ezuke o Sarete Shiawase ni Naru"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Dinners with My Darling: How the Former Monster King Ate Her Way to Happiness"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "愛さないといわれましても ~元魔王の伯爵令嬢は生真面目軍人に餌付けをされて幸せになる~"
       }
     ]
   },
@@ -75676,6 +75716,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "凹凸世界 第四季"
+      }
+    ]
+  },
+  {
+    "id": 20037,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "AOTU Shijie REBORN"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "凹凸世界REBORN"
       }
     ]
   },
@@ -106920,7 +106975,7 @@
       {
         "type": 4,
         "language": "zh-Hans",
-        "title": "爆裂飞车3兽神合体"
+        "title": "爆裂飞车3 兽神合体"
       }
     ]
   },
@@ -132935,6 +132990,21 @@
     ]
   },
   {
+    "id": 20039,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Boku no Hero Academia: More"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "僕のヒーローアカデミア More"
+      }
+    ]
+  },
+  {
     "id": 18199,
     "titles": [
       {
@@ -148881,6 +148951,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Yofukashi no Uta Season 2"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Zew nocy Sezon 2"
       },
       {
         "type": 4,
@@ -519618,9 +519693,19 @@
         "title": "Sekai Saikyou no Majo, Hajimemashita"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "sekamajo"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "The World`s Strongest Witch"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "せかまじょ"
       },
       {
         "type": 4,
@@ -549950,26 +550035,6 @@
     ]
   },
   {
-    "id": 20008,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "THE IDOLM@STER Million Live! ~Itsuka, Mannaka de~"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "The Idolmaster Million Live! Someday, In the Middle"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "アイドルマスター ミリオンライブ! ~いつか, 真ん中で~"
-      }
-    ]
-  },
-  {
     "id": 9701,
     "titles": [
       {
@@ -550186,6 +550251,26 @@
         "type": 4,
         "language": "ja",
         "title": "アイドルマスター シンデレラガールズ スターライトステージ 5周年記念 - Go Just Go!"
+      }
+    ]
+  },
+  {
+    "id": 20008,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "The Idolmaster Million Live! Itsuka, Mannaka de"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Idolmaster Million Live! Someday, In the Middle"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "アイドルマスター ミリオンライブ! ~いつか, 真ん中で~"
       }
     ]
   },
