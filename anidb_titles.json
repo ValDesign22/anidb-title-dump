@@ -116420,6 +116420,116 @@
     ]
   },
   {
+    "id": 14373,
+    "titles": [
+      {
+        "type": 3,
+        "language": "en",
+        "title": "Beryl and Sapphire"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Lu Lan Beryl and Sapphire"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xiao Lu He Xiao Lan"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "小绿和小蓝"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "绿蓝 Beryl and Sapphire"
+      }
+    ]
+  },
+  {
+    "id": 18925,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Beryl and Sapphire IV"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xiao Lu He Xiao Lan IV"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "小绿和小蓝 IV"
+      }
+    ]
+  },
+  {
+    "id": 18926,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Beryl and Sapphire V"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xiao Lu He Xiao Lan V"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "小绿和小蓝 V"
+      }
+    ]
+  },
+  {
+    "id": 18923,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Beryl and Sapphire: Demon King Chapter"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xiao Lu He Xiao Lan II"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "小绿和小蓝 II"
+      }
+    ]
+  },
+  {
+    "id": 18924,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Beryl and Sapphire: Demon King Chapter II"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xiao Lu He Xiao Lan III"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "小绿和小蓝 III"
+      }
+    ]
+  },
+  {
     "id": 18793,
     "titles": [
       {
@@ -422980,31 +423090,6 @@
     ]
   },
   {
-    "id": 14373,
-    "titles": [
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Lu Lan Beryl and Sapphire"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Xiao Lu He Xiao Lan"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "小绿和小蓝"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "绿蓝 Beryl and Sapphire"
-      }
-    ]
-  },
-  {
     "id": 15700,
     "titles": [
       {
@@ -570376,66 +570461,6 @@
         "type": 4,
         "language": "zh",
         "title": "小绿和小蓝 第五季"
-      }
-    ]
-  },
-  {
-    "id": 18923,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Xiao Lu He Xiao Lan II"
-      },
-      {
-        "type": 4,
-        "language": "zh",
-        "title": "小绿和小蓝 II"
-      }
-    ]
-  },
-  {
-    "id": 18924,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Xiao Lu He Xiao Lan III"
-      },
-      {
-        "type": 4,
-        "language": "zh",
-        "title": "小绿和小蓝 III"
-      }
-    ]
-  },
-  {
-    "id": 18925,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Xiao Lu He Xiao Lan IV"
-      },
-      {
-        "type": 4,
-        "language": "zh",
-        "title": "小绿和小蓝 IV"
-      }
-    ]
-  },
-  {
-    "id": 18926,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Xiao Lu He Xiao Lan V"
-      },
-      {
-        "type": 4,
-        "language": "zh",
-        "title": "小绿和小蓝 V"
       }
     ]
   },
