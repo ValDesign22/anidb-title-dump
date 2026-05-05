@@ -75650,6 +75650,31 @@
     ]
   },
   {
+    "id": 14870,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "AOTU Shijie 3"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "AOTU Shijie Di San Ji"
+      },
+      {
+        "type": 2,
+        "language": "zh",
+        "title": "凹凸世界 シーズン3"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "凹凸世界 第三季"
+      }
+    ]
+  },
+  {
     "id": 19860,
     "titles": [
       {
@@ -75659,7 +75684,7 @@
       },
       {
         "type": 4,
-        "language": "zh",
+        "language": "zh-Hans",
         "title": "凹凸世界 第四季"
       }
     ]
@@ -75681,41 +75706,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "凹凸世界 第二季"
-      }
-    ]
-  },
-  {
-    "id": 14870,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "AOTU Shijie Di San Ji"
-      },
-      {
-        "type": 2,
-        "language": "zh",
-        "title": "凹凸世界 シーズン3"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "凹凸世界 第三季"
-      }
-    ]
-  },
-  {
-    "id": 17508,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "AOTU Shijie Di Si Ji"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "凹凸世界 第四季"
       }
     ]
   },
@@ -482770,6 +482760,51 @@
     ]
   },
   {
+    "id": 14026,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Our Maid Is Way Too Annoying!"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Uchi no Maid ga Uzasugiru!"
+      },
+      {
+        "type": 3,
+        "language": "x-unk",
+        "title": "uzamaid"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "UzaMaid!"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "우리 메이드가 너무 짜증나!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "うちのメイドがウザすぎる!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "我家的女仆太烦人了！"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我家的女僕有夠煩！"
+      }
+    ]
+  },
+  {
     "id": 13692,
     "titles": [
       {
@@ -560511,46 +560546,6 @@
         "type": 4,
         "language": "ja",
         "title": "うっちゃれ五所瓦"
-      }
-    ]
-  },
-  {
-    "id": 14026,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Uchi no Maid ga Uzasugiru!"
-      },
-      {
-        "type": 3,
-        "language": "x-unk",
-        "title": "uzamaid"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "UzaMaid!"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "우리 메이드가 너무 짜증나!"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "うちのメイドがウザすぎる!"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "我家的女仆太烦人了！"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "我家的女僕有夠煩！"
       }
     ]
   },
