@@ -133099,6 +133099,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "My Hero Academia: More"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "僕のヒーローアカデミア More"
       }
@@ -558891,6 +558896,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "wistoria2"
+      },
+      {
+        "type": 2,
+        "language": "hi",
+        "title": "विस्टोरिया: छड़ी एंड तलवार सीज़न 2"
       },
       {
         "type": 4,
