@@ -25049,6 +25049,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "淡岛百景"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "淡島百景"
       }
@@ -87611,6 +87616,11 @@
         "type": 4,
         "language": "ko",
         "title": "책벌레의 하극상: 사서가 되기 위해서라면 뭐든지 할 수 있어 영주의 양녀"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "小书痴的下克上 〜为了成为图书管理员而不择手段〜 第四季"
       },
       {
         "type": 4,
@@ -168913,6 +168923,11 @@
         "title": "Chimimonryou"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "치매문릉"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "痴魅悶凌"
@@ -178921,6 +178936,11 @@
         "type": 4,
         "language": "ja",
         "title": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "欢迎来到实力至上主义教室 第四季"
       }
     ]
   },
@@ -197231,6 +197251,11 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "大賢者里德爾的時間逆行"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "大贤者里德尔的时间逆行"
       }
     ]
   },
@@ -238596,6 +238621,11 @@
         "type": 4,
         "language": "ja",
         "title": "彼女, お借りします (2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "租借女友 第五季"
       }
     ]
   },
@@ -242846,6 +242876,11 @@
         "type": 4,
         "language": "ja",
         "title": "映画 えんとつ町のプペル ~約束の時計台~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "烟囱镇的普佩尔~约定的钟楼"
       }
     ]
   },
@@ -292898,6 +292933,11 @@
         "title": "yakuindomo movie"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Члены школьного совета. Фильм"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "剧场版 妄想学生会"
@@ -292926,6 +292966,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "yakuindomo movie 2"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Члены школьного совета. Фильм 2"
       },
       {
         "type": 4,
@@ -350074,6 +350119,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ (2026)"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "異世界でチート能力を手にした俺は, 現実世界をも無双する~レベルアップは人生を変えた~ (2026)"
       }
@@ -369466,6 +369516,11 @@
         "type": 4,
         "language": "ja",
         "title": "自動販売機に生まれ変わった俺は迷宮を彷徨う3rd season"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "转生成自动贩卖机的我今天也在迷宫徘徊 第三季"
       }
     ]
   },
@@ -381470,6 +381525,31 @@
     ]
   },
   {
+    "id": 20040,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kanojo no Tomodachi"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "kanotomo"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "カノトモ"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "彼女の友達"
+      }
+    ]
+  },
+  {
     "id": 10915,
     "titles": [
       {
@@ -381821,6 +381901,11 @@
         "type": 4,
         "language": "ja",
         "title": "最強の職業は勇者でも賢者でもなく鑑定士 (仮) らしいですよ?"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "最强的职业不是勇者也不是贤者好像是鉴定士(伪)的样子"
       },
       {
         "type": 3,
@@ -401296,6 +401381,11 @@
         "type": 4,
         "language": "en",
         "title": "The Ramparts of Ice"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "冰之城墙"
       },
       {
         "type": 4,
@@ -422598,6 +422688,11 @@
         "title": "Love wa Gal kara Hajimaru Unmei"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "사랑은 갸루에서 시작되는 운명"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ラブはギャルから始まる運命"
@@ -443564,6 +443659,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "关于我转生变成史莱姆这档事 第四季"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "転生したらスライムだった件 (2026)"
       }
@@ -457071,6 +457171,11 @@
         "type": 2,
         "language": "en",
         "title": "Mushi-shi Special Episode: The Shadow That Devours the Sun"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Mushi-shi: The Shadow that Devours the Sun"
       },
       {
         "type": 2,
@@ -512211,6 +512316,11 @@
         "type": 4,
         "language": "ja",
         "title": "最強の王様, 二度目の人生は何をする? (2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "最强王者的第二人生 第二季"
       }
     ]
   },
@@ -518788,6 +518898,11 @@
         "title": "yakuindomo ova"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Члены школьного совета OVA (2011)"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "生徒会役員共 (2011)"
@@ -518816,6 +518931,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "yakuindomo ova 2"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Члены школьного совета OVA (2012)"
       },
       {
         "type": 4,
@@ -518951,6 +519071,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "yakuindomo ova 4"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Члены школьного совета 2 OVA"
       },
       {
         "type": 4,
@@ -555006,6 +555131,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Todo no Tsumari"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "끝내 아내가 되어"
       },
       {
         "type": 4,
