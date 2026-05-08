@@ -174535,6 +174535,26 @@
     ]
   },
   {
+    "id": 20043,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Chuanyue Shou Shi, Shenshou Nan Pu Zhu Wo Cheng Hou"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Reborn in Beast World, My Divine Beasts Make Me Queen"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "穿越兽世, 神兽男仆助我成后"
+      }
+    ]
+  },
+  {
     "id": 18637,
     "titles": [
       {
@@ -180731,6 +180751,26 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "電腦線圈"
+      }
+    ]
+  },
+  {
+    "id": 20041,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Coiling Dragon"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Panlong"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "盘龙"
       }
     ]
   },
@@ -319194,6 +319234,16 @@
       },
       {
         "type": 2,
+        "language": "x-jat",
+        "title": "H na Gishi Series The Animation"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "H na Onee Series The Animation"
+      },
+      {
+        "type": 2,
         "language": "ko",
         "title": "H한 의붓누나 시리즈"
       },
@@ -414636,6 +414686,71 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "星辰变 第六季"
+      }
+    ]
+  },
+  {
+    "id": 20044,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Legend of Immortals 7th Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Stellar Transformation 7"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Stellar Transformation 7th Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Stellar Transformation Season 7"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xing Chen Bian 7"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xing Chen Bian 7th Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xing Chen Bian Di Qi Ji"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xingchen Bian 7th Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xingchen Bian: Tianzun Zhi Zhan"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "星辰变 最终季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "星辰变 天尊之战"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "星辰变 第7季"
       }
     ]
   },
@@ -541311,6 +541426,31 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "吞噬星空剧场版 血洛大陆"
+      }
+    ]
+  },
+  {
+    "id": 20042,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Swallowed Star: Showdown on Primeval Star"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Tunshi Xingkong Movie: Juezhan Yuanshi Xing"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "吞噬星空剧场版 决战原始星"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "吞噬星空剧场版：决战原始星"
       }
     ]
   },
