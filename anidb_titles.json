@@ -59535,6 +59535,61 @@
     ]
   },
   {
+    "id": 19920,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Almighty Mage 7th Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Full-Time Magister 7th Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Full-Time Magister Season 7"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Quanzhi Fashi 7th Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Quanzhi Fashi VII"
+      },
+      {
+        "type": 3,
+        "language": "x-zht",
+        "title": "qzfs s7"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Versatile Mage 7th Season"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "全职法师 第7季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "全职法师 第七季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "全职法师VII"
+      }
+    ]
+  },
+  {
     "id": 7920,
     "titles": [
       {
@@ -117975,6 +118030,26 @@
     ]
   },
   {
+    "id": 14915,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Beyblade: Beywheelz"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "BeyWheelz"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ベイウィールズ"
+      }
+    ]
+  },
+  {
     "id": 9048,
     "titles": [
       {
@@ -118426,21 +118501,6 @@
         "type": 4,
         "language": "ja",
         "title": "ベイウォーリアーズ サイボーグ"
-      }
-    ]
-  },
-  {
-    "id": 14915,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Beywheelz"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ベイウィールズ"
       }
     ]
   },
@@ -238814,6 +238874,11 @@
       },
       {
         "type": 2,
+        "language": "pl",
+        "title": "Jin-Roh: Brygada Wilków"
+      },
+      {
+        "type": 2,
         "language": "es-419",
         "title": "Jin-Roh: La Brigada Lobo"
       },
@@ -261206,6 +261271,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "反派初始化"
+      }
+    ]
+  },
+  {
+    "id": 20045,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "Fanren Xiu Xian Zhuan: Mulan Zhi Zhan"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "凡人修仙传 第五季"
       }
     ]
   },
@@ -346039,6 +346119,11 @@
       },
       {
         "type": 2,
+        "language": "fr",
+        "title": "Le dernier souffle d`un yakuza"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "The Last Blossom"
       },
@@ -373666,6 +373751,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Junk Head"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "JUNK HEAD 1"
       }
     ]
   },
@@ -422465,17 +422555,22 @@
     ]
   },
   {
-    "id": 19697,
+    "id": 19302,
     "titles": [
       {
-        "type": 1,
+        "type": 4,
         "language": "en",
         "title": "Love Magic Grocery"
       },
       {
-        "type": 4,
-        "language": "zh",
+        "type": 1,
+        "language": "x-zht",
         "title": "Wanneng Lian Ai Zahuo Dian"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "万能恋爱杂货店"
       }
     ]
   },
@@ -449776,6 +449871,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Mirai no Kuromaku-kei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Moriarty`s Perfect Crime"
       },
       {
         "type": 4,
@@ -499965,21 +500065,6 @@
     ]
   },
   {
-    "id": 19920,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Quanzhi Fashi VII"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "全职法师VII"
-      }
-    ]
-  },
-  {
     "id": 16589,
     "titles": [
       {
@@ -541433,6 +541518,11 @@
     "id": 20042,
     "titles": [
       {
+        "type": 2,
+        "language": "en",
+        "title": "Swallowed Star Movie: The Decisive Battle on the Primordial Star"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Swallowed Star: Showdown on Primeval Star"
@@ -541443,12 +541533,12 @@
         "title": "Tunshi Xingkong Movie: Juezhan Yuanshi Xing"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "吞噬星空剧场版 决战原始星"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "zh-Hans",
         "title": "吞噬星空剧场版：决战原始星"
       }
@@ -567056,21 +567146,6 @@
         "type": 2,
         "language": "ko",
         "title": "스파르타 섹스를 원해"
-      }
-    ]
-  },
-  {
-    "id": 19302,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Wanneng Lian Ai Zahuo Dian"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "万能恋爱杂货店"
       }
     ]
   },
