@@ -75799,8 +75799,38 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "AOTU World Reborn"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "凹凸世界 Reborn"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "凹凸世界·Reborn"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "凹凸世界·新生"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "凹凸世界·新生 先行集"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "凹凸世界REBORN"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "凹凸世界REBORN 先行集"
       }
     ]
   },
@@ -406240,6 +406270,46 @@
     ]
   },
   {
+    "id": 16036,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "kuromaid"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shinigami Bocchan to Kuro Maid"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "shinmaid"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Duke of Death and His Maid"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Смертоносный герцог и его горничная"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "死神坊ちゃんと黒メイド"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "死神少爷与黑女仆"
+      }
+    ]
+  },
+  {
     "id": 9020,
     "titles": [
       {
@@ -482478,6 +482548,11 @@
         "title": "Otaku no Boku ga Ichigun Gal to Tsukiaeru made no Hanashi"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "오타쿠인 내가 일진 갸루와 사귀기까지의 이야기"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "オタクの僕が一軍ギャルと付き合えるまでの話"
@@ -527336,41 +527411,6 @@
         "type": 4,
         "language": "ja",
         "title": "特務戦隊シャインズマン"
-      }
-    ]
-  },
-  {
-    "id": 16036,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shinigami Bocchan to Kuro Maid"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "shinmaid"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "The Duke of Death and His Maid"
-      },
-      {
-        "type": 4,
-        "language": "ru",
-        "title": "Смертоносный герцог и его горничная"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "死神坊ちゃんと黒メイド"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "死神少爷与黑女仆"
       }
     ]
   },
