@@ -97353,8 +97353,8 @@
         "title": "B King"
       },
       {
-        "type": 2,
-        "language": "x-unk",
+        "type": 4,
+        "language": "en",
         "title": "B.King"
       },
       {
@@ -226628,7 +226628,7 @@
     "id": 18748,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Don`t Give Up!"
       },
@@ -303466,6 +303466,31 @@
         "type": 4,
         "language": "ja",
         "title": "ガールズ&パンツァー これが本当のアンツィオ戦です!"
+      }
+    ]
+  },
+  {
+    "id": 20047,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Girls und Panzer: Princess Samurai"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Girls und Panzer: Ribbon no Musha"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Girls und Panzer: Ribbon Warrior"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ガールズ&パンツァー リボンの武者"
       }
     ]
   },
@@ -549941,6 +549966,26 @@
         "type": 4,
         "language": "ja",
         "title": "ザ・コクピット"
+      }
+    ]
+  },
+  {
+    "id": 20046,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Credits Roll into the Sea"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Umi ga Hashiru End Roll"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "海が走るエンドロール"
       }
     ]
   },
