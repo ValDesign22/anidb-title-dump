@@ -51380,6 +51380,36 @@
     ]
   },
   {
+    "id": 11758,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ajin (OAD)"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Ajin OVA"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Полулюди OVA"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "亚人OAD"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "亜人 (OAD)"
+      }
+    ]
+  },
+  {
     "id": 18993,
     "titles": [
       {
@@ -51406,36 +51436,6 @@
         "type": 2,
         "language": "ja",
         "title": "亜人がお好きなんですね♡"
-      }
-    ]
-  },
-  {
-    "id": 11758,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Ajin OAD"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Ajin OVA"
-      },
-      {
-        "type": 2,
-        "language": "ru",
-        "title": "Полулюди OVA"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "亚人OAD"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "亜人 OAD"
       }
     ]
   },
@@ -114260,6 +114260,21 @@
     ]
   },
   {
+    "id": 20049,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Bei Ken Xiong: Huoxing Renwu"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "贝肯熊：火星任务"
+      }
+    ]
+  },
+  {
     "id": 15567,
     "titles": [
       {
@@ -156895,16 +156910,6 @@
     ]
   },
   {
-    "id": 19937,
-    "titles": [
-      {
-        "type": 1,
-        "language": "en",
-        "title": "Castlevania"
-      }
-    ]
-  },
-  {
     "id": 3498,
     "titles": [
       {
@@ -181220,6 +181225,11 @@
       {
         "type": 4,
         "language": "zh-Hant",
+        "title": "空之色，水之色"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
         "title": "空之色，水之色"
       }
     ]
@@ -322433,6 +322443,11 @@
         "title": "セキレイ~Pure Engagement~"
       },
       {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "鹡鸰女神 2"
+      },
+      {
         "type": 2,
         "language": "zh-Hans",
         "title": "鹦鹉女神~Pure Engagement~"
@@ -453631,6 +453646,11 @@
         "type": 3,
         "language": "ja",
         "title": "モン医者"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "魔物娘的医生"
       },
       {
         "type": 4,
