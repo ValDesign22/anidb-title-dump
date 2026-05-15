@@ -45408,6 +45408,11 @@
         "title": "Age of Gunslingers 3"
       },
       {
+        "type": 2,
+        "language": "x-unk",
+        "title": "Qiang Shen Ji 3: Xuezu Mishi Pian"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Qiang Shen Ji: Xuezu Mishi Pian"
@@ -98675,6 +98680,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Babylon"
+      },
+      {
+        "type": 4,
+        "language": "fr",
         "title": "Babylon"
       },
       {
@@ -365098,9 +365108,9 @@
         "title": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car o Shoukan Shimashita"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
-        "title": "The Forsaken Saintess and Her Foodie Roadtrip in Another World"
+        "title": "The Forsaken Saintess and Her Foodie Road Trip in Another World"
       },
       {
         "type": 4,
@@ -406280,12 +406290,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai 2"
+        "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai Season 2"
       },
       {
         "type": 2,
         "language": "en",
-        "title": "Medaka Kuroiwa Is Impervious to My Charms 2"
+        "title": "Medaka Kuroiwa Is Impervious to My Charms Season 2"
       },
       {
         "type": 4,
@@ -406300,7 +406310,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "黒岩メダカに私の可愛いが通じない 2"
+        "title": "黒岩メダカに私の可愛いが通じない Season2"
       }
     ]
   },
