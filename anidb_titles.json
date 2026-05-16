@@ -208355,6 +208355,21 @@
     ]
   },
   {
+    "id": 20051,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Deco x Deco The Animation"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "デコ×デコ THE ANIMATION"
+      }
+    ]
+  },
+  {
     "id": 11870,
     "titles": [
       {
@@ -238891,6 +238906,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Kanojo, Okarishimasu S5"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "KanoKari 5"
       },
       {
         "type": 4,
@@ -284085,6 +284105,21 @@
     ]
   },
   {
+    "id": 20050,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Gancheob Jabneun Ttoli Janggun"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "간첩 잡는 똘이장군"
+      }
+    ]
+  },
+  {
     "id": 3602,
     "titles": [
       {
@@ -295496,6 +295531,26 @@
         "type": 4,
         "language": "ja",
         "title": "いなかっぺ大将"
+      }
+    ]
+  },
+  {
+    "id": 15404,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "General Ttoli: 3rd Tunnel"
+      },
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Ttoli Janggun: Je 3 Ttanggul Pyeon"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "똘이장군 제3땅굴편"
       }
     ]
   },
@@ -307420,6 +307475,26 @@
     ]
   },
   {
+    "id": 15434,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Goku no Chosakken Nyuumon"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Goku`s Introduction to Copyright"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "悟空の著作権入門"
+      }
+    ]
+  },
+  {
     "id": 6031,
     "titles": [
       {
@@ -307621,21 +307696,6 @@
         "type": 2,
         "language": "ja",
         "title": "極上!!めちゃモテ委員長セカンドコレクション"
-      }
-    ]
-  },
-  {
-    "id": 15434,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Gokuu no Chosakken Nyuumon"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "悟空の著作権入門"
       }
     ]
   },
@@ -351143,6 +351203,11 @@
         "title": "Iya na Kao Sarenagara Opantsu Misete Moraitai Returns"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "IyaPan R"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "嫌な顔されながらおパンツ見せてもらいたいR"
@@ -389886,6 +389951,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kidou Senshi Gundam SEED Freedom Zero"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Mobile Suit Gundam SEED Freedom Zero"
       },
       {
         "type": 4,
@@ -502475,6 +502545,41 @@
     ]
   },
   {
+    "id": 16638,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Ranger Wars"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Chronicles of the Ranger"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Ranger Wars"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Youxia Zhan Ji"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Youxia Zhanji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "游侠战纪"
+      }
+    ]
+  },
+  {
     "id": 193,
     "titles": [
       {
@@ -548480,6 +548585,41 @@
     ]
   },
   {
+    "id": 20052,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tensei Shitara Slime Datta Ken (2027)"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tensei Shitara Slime Datta Ken 4th Season Part 2"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tensei Shitara Slime Datta Ken S4 Part 2"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "TenSura S4 Part 2"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "That Time I Got Reincarnated as a Slime (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "転生したらスライムだった件 (2027)"
+      }
+    ]
+  },
+  {
     "id": 8409,
     "titles": [
       {
@@ -549956,31 +550096,6 @@
         "type": 4,
         "language": "ja",
         "title": "ザ・チョコレートパニック・ピクチャーショー"
-      }
-    ]
-  },
-  {
-    "id": 16638,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Chronicles of the Ranger"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Youxia Zhan Ji"
-      },
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Youxia Zhanji"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "游侠战纪"
       }
     ]
   },
@@ -560636,21 +560751,6 @@
         "type": 4,
         "language": "ko",
         "title": "똑똑박사 에디"
-      }
-    ]
-  },
-  {
-    "id": 15404,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-kot",
-        "title": "Ttoli Janggun"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "똘이장군"
       }
     ]
   },
