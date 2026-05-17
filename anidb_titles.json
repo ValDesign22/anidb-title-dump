@@ -248849,6 +248849,11 @@
       },
       {
         "type": 4,
+        "language": "bg",
+        "title": "Цветовете отвътре"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "きみの色"
       }
@@ -264046,6 +264051,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "非人哉 第三季"
+      }
+    ]
+  },
+  {
+    "id": 20055,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Fei Ren Zai Di San Ji part 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "非人哉 第三季 Part 2"
       }
     ]
   },
@@ -324021,6 +324041,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Yozakura Quartet: Hana no Uta"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Yozakura Quartet: Song of Flowers"
       },
       {
         "type": 4,
@@ -400341,6 +400366,21 @@
         "type": 4,
         "language": "ja",
         "title": "こま撮りえいが こまねこ"
+      }
+    ]
+  },
+  {
+    "id": 20053,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Komaneko no orusuban"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "こまねこのおるすばん"
       }
     ]
   },
@@ -485880,6 +485920,21 @@
     ]
   },
   {
+    "id": 20054,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Pan no Akachan"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "パンの赤ちゃん"
+      }
+    ]
+  },
+  {
     "id": 17375,
     "titles": [
       {
@@ -541435,12 +541490,27 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Supreme Galaxy 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Supreme Galaxy Season 2"
       },
       {
         "type": 4,
         "language": "en",
         "title": "Supreme Lord of Galaxy 2"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xinghe Zhizun 2"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xinghe Zhizun 2nd Season"
       },
       {
         "type": 1,
@@ -574553,6 +574623,11 @@
         "title": "Yozakura Quartet: Hoshi no Umi"
       },
       {
+        "type": 4,
+        "language": "en",
+        "title": "Yozakura Quartet: Sea of Stars"
+      },
+      {
         "type": 3,
         "language": "en",
         "title": "yqhnu"
@@ -574576,6 +574651,11 @@
         "type": 2,
         "language": "en",
         "title": "Yozakura Quartet: Howl at the Moon"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Yozakura Quartet: Tears of the Moon"
       },
       {
         "type": 1,
