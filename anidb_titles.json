@@ -303570,31 +303570,6 @@
     ]
   },
   {
-    "id": 20047,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Girls und Panzer: Princess Samurai"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Girls und Panzer: Ribbon no Musha"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Girls und Panzer: Ribbon Warrior"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ガールズ&パンツァー リボンの武者"
-      }
-    ]
-  },
-  {
     "id": 8164,
     "titles": [
       {
@@ -357265,6 +357240,41 @@
     ]
   },
   {
+    "id": 19105,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Iku Iku Succubus Re-Education"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "OVA Yuugao"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "OVA 夕顔"
+      },
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "OVA 夕顔[ゆうがお]"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "박꽃"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "夕顔"
+      }
+    ]
+  },
+  {
     "id": 19007,
     "titles": [
       {
@@ -400375,7 +400385,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Komaneko no orusuban"
+        "title": "Komaneko no Orusuban"
       },
       {
         "type": 4,
@@ -444338,6 +444348,11 @@
         "title": "That Time I Got Reincarnated as a Slime (2026)"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "That Time I Got Reincarnated as a Slime Season 4"
+      },
+      {
         "type": 4,
         "language": "uk",
         "title": "Коли я переродився слизом (2026)"
@@ -484070,36 +484085,6 @@
     ]
   },
   {
-    "id": 19105,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "OVA Yuugao"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "OVA 夕顔"
-      },
-      {
-        "type": 6,
-        "language": "ja",
-        "title": "OVA 夕顔[ゆうがお]"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "박꽃"
-      },
-      {
-        "type": 2,
-        "language": "ja",
-        "title": "夕顔"
-      }
-    ]
-  },
-  {
     "id": 18049,
     "titles": [
       {
@@ -504276,6 +504261,11 @@
         "type": 4,
         "language": "ja",
         "title": "Re:ゼロから始める異世界生活 (2026)"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "rezero4"
       }
     ]
   },
@@ -529906,6 +529896,21 @@
         "type": 4,
         "language": "ja",
         "title": "少年忍者風のフジ丸 謎のアラビヤ人形"
+      }
+    ]
+  },
+  {
+    "id": 20056,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shounen to Gundam"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "少年とガンダム"
       }
     ]
   },
