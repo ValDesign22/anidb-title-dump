@@ -262503,6 +262503,11 @@
         "title": "Farming Life in Another World 2"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Farming Life in Another World Season 2"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Isekai Nonbiri Nouka 2"
@@ -370028,6 +370033,11 @@
         "title": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3"
+      },
+      {
         "type": 3,
         "language": "ja",
         "title": "俺自販機3"
@@ -411365,6 +411375,21 @@
     ]
   },
   {
+    "id": 20057,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "LaLaLa!!! Demacia 4 Chao Shen Xueyuan"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "LaLaLa!!!德玛西亚4超神学院"
+      }
+    ]
+  },
+  {
     "id": 15334,
     "titles": [
       {
@@ -450961,6 +450986,11 @@
         "type": 4,
         "language": "en",
         "title": "Mission: Yozakura Family (2026)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Mission: Yozakura Family Season 2"
       },
       {
         "type": 1,
@@ -573241,6 +573271,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "音乐公主爱美莉 第四季"
+      }
+    ]
+  },
+  {
+    "id": 20058,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yinyue Gongzhu Aimeili zhi Gongzhu Shangxue Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "音乐公主爱美莉之公主上学记"
       }
     ]
   },
