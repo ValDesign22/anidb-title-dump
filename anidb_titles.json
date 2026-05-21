@@ -410070,6 +410070,51 @@
     ]
   },
   {
+    "id": 17883,
+    "titles": [
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "La Réceptionniste Pokémon"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Pokemon Concierge"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Pokemon Concierge"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Pokémon Concierge"
+      },
+      {
+        "type": 2,
+        "language": "cs",
+        "title": "Pokémoní delegátka"
+      },
+      {
+        "type": 4,
+        "language": "cs",
+        "title": "Pokémonní delegátka"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Rececionista Pokémon"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ポケモンコンシェルジュ"
+      }
+    ]
+  },
+  {
     "id": 17159,
     "titles": [
       {
@@ -411296,6 +411341,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "啦啦啦德玛西亚 第三季"
+      }
+    ]
+  },
+  {
+    "id": 20059,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "Lalala Demacia"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "啦啦啦德玛西亚"
       }
     ]
   },
@@ -477010,6 +477070,21 @@
     ]
   },
   {
+    "id": 20060,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Omae, Tanuki ni Naranee ka?"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "お前, タヌキにならねーか?"
+      }
+    ]
+  },
+  {
     "id": 6571,
     "titles": [
       {
@@ -493921,46 +493996,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "乌冬面之国的金色毛毬"
-      }
-    ]
-  },
-  {
-    "id": 17883,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Pokemon Concierge"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Pokemon Concierge"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Pokémon Concierge"
-      },
-      {
-        "type": 2,
-        "language": "cs",
-        "title": "Pokémoní delegátka"
-      },
-      {
-        "type": 4,
-        "language": "cs",
-        "title": "Pokémonní delegátka"
-      },
-      {
-        "type": 4,
-        "language": "pt",
-        "title": "Rececionista Pokémon"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ポケモンコンシェルジュ"
       }
     ]
   },
