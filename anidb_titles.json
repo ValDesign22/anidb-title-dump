@@ -238918,6 +238918,11 @@
         "title": "Rent-a-Girlfriend (2026)"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Rent-a-Girlfriend Season 5"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "彼女, お借りします (2026)"
@@ -546594,6 +546599,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "The Tatami Time Machine Blues"
+      },
+      {
+        "type": 4,
         "language": "pl",
         "title": "Wehikuł Tatami"
       },
@@ -552881,6 +552891,36 @@
         "type": 4,
         "language": "ja",
         "title": "トウキョウ・バイス"
+      }
+    ]
+  },
+  {
+    "id": 20061,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "The Tower Will Go On"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "倒不了的塔"
+      }
+    ]
+  },
+  {
+    "id": 20062,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "The Tower Will Go On 2"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "倒不了的塔第2季：重生之死"
       }
     ]
   },
