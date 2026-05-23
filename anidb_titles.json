@@ -164735,6 +164735,26 @@
     ]
   },
   {
+    "id": 20064,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Cheongchun Blossom: Uliui Bom"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Seasons of Blossom: Our Spring"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "청춘 블라썸: 우리의 봄"
+      }
+    ]
+  },
+  {
     "id": 9643,
     "titles": [
       {
@@ -295085,6 +295105,26 @@
     ]
   },
   {
+    "id": 20063,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekkakoku Kiiden"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Eccentric Doctor of the Moon Flower Kingdom"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "月華国奇医伝"
+      }
+    ]
+  },
+  {
     "id": 10542,
     "titles": [
       {
@@ -349126,6 +349166,26 @@
         "type": 4,
         "language": "ja",
         "title": "冰剣の魔術師が世界を統べる"
+      }
+    ]
+  },
+  {
+    "id": 20065,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hyouken no Majutsushi ga Sekai o Suberu II"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Iceblade Sorcerer Shall Rule the World II"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "冰剣の魔術師が世界を統べるII"
       }
     ]
   },
@@ -469635,6 +469695,26 @@
     ]
   },
   {
+    "id": 20066,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Nikenichi! Non Non Zenshou Kichi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Outpost: Off-Duty Tales"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "にけにち! ~のんのん前哨基地~"
+      }
+    ]
+  },
+  {
     "id": 5226,
     "titles": [
       {
@@ -557519,6 +557599,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "Tonikawa: Over the Moon for You (2023)"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "トニカクカワイイ (2023)"
       },
@@ -557540,6 +557625,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Tonikawa: Over the Moon for You - High School Days"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "Tonikawa: Over the Moon for You - High School Days"
       },
       {
@@ -557571,6 +557661,11 @@
         "type": 4,
         "language": "en",
         "title": "Tonikawa: Over the Moon for You - Uniform"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "TONIKAWA: Over The Moon For You ~Uniform~"
       },
       {
         "type": 4,
