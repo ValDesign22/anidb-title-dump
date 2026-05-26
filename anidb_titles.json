@@ -52754,11 +52754,6 @@
       },
       {
         "type": 2,
-        "language": "en",
-        "title": "Akane-banashi"
-      },
-      {
-        "type": 2,
         "language": "x-jat",
         "title": "Akanebanashi"
       },
@@ -59565,12 +59560,22 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Full-Time Magister S7"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Full-Time Magister Season 7"
       },
       {
         "type": 2,
         "language": "x-zht",
         "title": "Quanzhi Fashi 7th Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Quanzhi Fashi S7"
       },
       {
         "type": 1,
@@ -167896,6 +167901,11 @@
         "type": 2,
         "language": "en",
         "title": "License to Molest"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "License to Sleaze"
       },
       {
         "type": 2,
@@ -293164,6 +293174,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "Psycho-Pass: Providence"
+      },
+      {
+        "type": 4,
         "language": "es-419",
         "title": "PSYCHO-PASS: Providencia"
       },
@@ -393398,7 +393413,7 @@
         "title": "Legend of Martial Immortal"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Legend of Xianwu"
       },
@@ -407360,7 +407375,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Kyonyuu ga Futari Inai to Bokki Shinai Otto no Tame ni Tomodachi wo Tsuretekita Tsuma"
+        "title": "Kyonyuu ga Futari Inai to Bokki Shinai Otto no Tame ni Tomodachi o Tsurete Kita Tsuma"
       },
       {
         "type": 4,
@@ -422911,6 +422926,21 @@
         "type": 4,
         "language": "ja",
         "title": "ラブライブ! 蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party"
+      }
+    ]
+  },
+  {
+    "id": 20069,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Love Live! Hasunosora Jogakuin School Idol Club Bloom Garden Party"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party"
       }
     ]
   },
@@ -499105,6 +499135,21 @@
     ]
   },
   {
+    "id": 20068,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Pure x Holic: Junketsu Otome to Kon`in Kankei!? The Animation"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ピュアホリック ～純潔乙女と婚姻カンケイ！？～ THE ANIMATION"
+      }
+    ]
+  },
+  {
     "id": 7235,
     "titles": [
       {
@@ -551470,6 +551515,26 @@
     ]
   },
   {
+    "id": 20067,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Immortal VS Superheroes"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xiuxian Zhe Dazhan Chaonengli"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "修仙者大战超能力"
+      }
+    ]
+  },
+  {
     "id": 17750,
     "titles": [
       {
@@ -565000,6 +565065,41 @@
     ]
   },
   {
+    "id": 9931,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Valkyrie Romance"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Walkure Romanze"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Walkure Romanze"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "Walkure Romanze 少女骑士物语"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "WalRoma"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ワルキューレロマンツェ"
+      }
+    ]
+  },
+  {
     "id": 14065,
     "titles": [
       {
@@ -567421,36 +567521,6 @@
         "type": 4,
         "language": "ja",
         "title": "ワクワク♥ぬけがけ大作戦"
-      }
-    ]
-  },
-  {
-    "id": 9931,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Walkure Romanze"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Walkure Romanze"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "Walkure Romanze 少女骑士物语"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "WalRoma"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ワルキューレロマンツェ"
       }
     ]
   },
