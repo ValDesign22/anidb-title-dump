@@ -157788,6 +157788,11 @@
     "id": 19336,
     "titles": [
       {
+        "type": 4,
+        "language": "en",
+        "title": "Catch! Teenieping: Fairies of Emotion"
+      },
+      {
         "type": 1,
         "language": "x-kot",
         "title": "Catch! Tiniping"
@@ -157796,6 +157801,11 @@
         "type": 4,
         "language": "ko",
         "title": "캐치! 티니핑"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "キャッチ!ティニピン"
       }
     ]
   },
@@ -434796,6 +434806,11 @@
         "type": 4,
         "language": "en",
         "title": "Welcome to Demon School! Iruma-kun (2026)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Welcome to Demon School! Iruma-kun Season 4"
       },
       {
         "type": 4,
