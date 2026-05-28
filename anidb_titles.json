@@ -58215,6 +58215,26 @@
     ]
   },
   {
+    "id": 19110,
+    "titles": [
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Alicja w Krainie Czarów: Skok w nieznane"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Fushigi no Kuni de Alice to: Dive in Wonderland"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "不思議の国でアリスと -Dive in Wonderland-"
+      }
+    ]
+  },
+  {
     "id": 19494,
     "titles": [
       {
@@ -87701,6 +87721,11 @@
         "type": 2,
         "language": "en",
         "title": "Ascendance of a Bookworm S4"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Ascendance of a Bookworm Season 4"
       },
       {
         "type": 4,
@@ -230015,6 +230040,26 @@
     ]
   },
   {
+    "id": 20072,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Dorohedoro Season 3"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Dorohedoro Season 3"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ドロヘドロ Season3"
+      }
+    ]
+  },
+  {
     "id": 11652,
     "titles": [
       {
@@ -276275,21 +276320,6 @@
     ]
   },
   {
-    "id": 19110,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Fushigi no Kuni de Alice to: Dive in Wonderland"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "不思議の国でアリスと -Dive in Wonderland-"
-      }
-    ]
-  },
-  {
     "id": 14157,
     "titles": [
       {
@@ -311996,6 +312026,11 @@
         "type": 4,
         "language": "ja",
         "title": "ここはグリーン・ウッド"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "绿林寮"
       }
     ]
   },
@@ -360061,6 +360096,21 @@
         "type": 4,
         "language": "ja",
         "title": "いなかねずみとまちねずみ"
+      }
+    ]
+  },
+  {
+    "id": 20071,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Inaka ni wa Kore Kurai Shika Goraku ga Nai"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "田舎にはこれくらいしか娯楽がない"
       }
     ]
   },
@@ -516661,6 +516711,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "皿三昧"
+      }
+    ]
+  },
+  {
+    "id": 20070,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sare Tsuma wa Ubawaretai"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "サレ妻は奪われたい"
       }
     ]
   },
