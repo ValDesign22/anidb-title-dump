@@ -63968,6 +63968,11 @@
         "title": "Anata ga Furikaeru Toki"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "When You Look Back"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "あなたが振り返るとき"
@@ -402089,6 +402094,11 @@
       },
       {
         "type": 4,
+        "language": "pt-BR",
+        "title": "Parede de Gelo"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "The Ramparts of Ice"
       },
@@ -557246,16 +557256,6 @@
         "type": 4,
         "language": "ja",
         "title": "トマトになった男の子"
-      }
-    ]
-  },
-  {
-    "id": 19229,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Tomb Raider King"
       }
     ]
   },
