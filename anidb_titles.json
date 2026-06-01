@@ -66960,6 +66960,51 @@
     ]
   },
   {
+    "id": 10437,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Angel Tear: Goddess Betrayed"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Nerawareta Megami Tenshi Angeltear ~Mamotta Ningen-tachi ni Uragirarete~"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "Nerawareta Megami Tenshi Angeltia ~Mamotta Ningen-tachi ni Uragirarete~"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Nerawareta Megami Tenshi Angeltia: Mamotta Ningen-tachi ni Uragirarete"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The targeted Angel Goddess Angeltia: Betrayed by the people I`ve protected"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "노려진 여전사 엔젤티어"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "圣天之泪: 惨遭背刺的天使"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "狙われた女神天使エンゼルティアー ~守った人間達に裏切られて~"
+      }
+    ]
+  },
+  {
     "id": 12451,
     "titles": [
       {
@@ -130123,6 +130168,11 @@
         "title": "Blue Lock: Episode Nagi"
       },
       {
+        "type": 4,
+        "language": "pt",
+        "title": "Blue Lock: O Filme - Episódio Nagi"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Gekijouban Blue Lock: Episode Nagi"
@@ -170835,7 +170885,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "超普通マホウ少女アスミトルバース"
+        "title": "超普通マホウ少女 アスミトルバース"
       }
     ]
   },
@@ -358665,6 +358715,36 @@
     ]
   },
   {
+    "id": 20067,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Immortal Cultivator vs Superhero"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Immortal Cultivators vs Superheroes"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Immortal VS Superheroes"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xiuxian Zhe Dazhan Chaonengli"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "修仙者大战超能力"
+      }
+    ]
+  },
+  {
     "id": 14718,
     "titles": [
       {
@@ -377856,6 +377936,21 @@
         "type": 4,
         "language": "ja",
         "title": "怪獣娘[かいじゅうがーるず] ~ウルトラ怪獣擬人化計画~ (2018)"
+      }
+    ]
+  },
+  {
+    "id": 20073,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Kaiju Jiu You Wangzhe Zhanghao"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "开局就有王者账号"
       }
     ]
   },
@@ -466700,41 +466795,6 @@
     ]
   },
   {
-    "id": 10437,
-    "titles": [
-      {
-        "type": 2,
-        "language": "ja",
-        "title": "Nerawareta Megami Tenshi Angeltia ~Mamotta Ningen-tachi ni Uragirarete~"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Nerawareta Megami Tenshi Angeltia: Mamotta Ningen-tachi ni Uragirarete"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The targeted Angel Goddess Angeltia: Betrayed by the people I`ve protected"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "노려진 여전사 엔젤티어"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "圣天之泪：惨遭背刺的天使"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "狙われた女神天使エンゼルティアー ~守った人間達に裏切られて~"
-      }
-    ]
-  },
-  {
     "id": 5773,
     "titles": [
       {
@@ -551611,26 +551671,6 @@
         "type": 4,
         "language": "ja",
         "title": "アイドルマスター ミリオンライブ! ~いつか, 真ん中で~"
-      }
-    ]
-  },
-  {
-    "id": 20067,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "The Immortal VS Superheroes"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Xiuxian Zhe Dazhan Chaonengli"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "修仙者大战超能力"
       }
     ]
   },
