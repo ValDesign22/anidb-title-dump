@@ -15380,6 +15380,21 @@
     ]
   },
   {
+    "id": 20075,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "500000000 years button Part 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "5億年ボタン Part 2"
+      }
+    ]
+  },
+  {
     "id": 1153,
     "titles": [
       {
@@ -191936,6 +191951,46 @@
         "type": 4,
         "language": "en",
         "title": "Wild Cardz"
+      }
+    ]
+  },
+  {
+    "id": 20073,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Crowned from the Start"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "It Starts with a Kingpin Account"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Kaiju Jiu You Wangzhe Zhanghao"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Start with a King Account"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Starting with a King-Level Account"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Starting with a King`s Account"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "开局就有王者账号"
       }
     ]
   },
@@ -377940,21 +377995,6 @@
     ]
   },
   {
-    "id": 20073,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Kaiju Jiu You Wangzhe Zhanghao"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "开局就有王者账号"
-      }
-    ]
-  },
-  {
     "id": 17550,
     "titles": [
       {
@@ -439661,6 +439701,21 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "婚姻劇毒"
+      }
+    ]
+  },
+  {
+    "id": 20074,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Marronnier Oukoku no Shichinin no Kishi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "マロニエ王国の七人の騎士"
       }
     ]
   },
