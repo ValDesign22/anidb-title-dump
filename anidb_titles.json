@@ -181250,6 +181250,21 @@
     ]
   },
   {
+    "id": 20076,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Collector"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Collector"
+      }
+    ]
+  },
+  {
     "id": 3529,
     "titles": [
       {
@@ -322723,6 +322738,16 @@
         "title": "Sekirei2"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Сэкирэй: Честная битва"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Сэкирэй: Чистая связь"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "セキレイ~Pure Engagement~"
@@ -364218,9 +364243,9 @@
         "title": "Iron Virgin Jun"
       },
       {
-        "type": 2,
+        "type": 6,
         "language": "x-jat",
-        "title": "Tetsu no Otome Jun"
+        "title": "Tetsu no Otome [Iron Virgin] Jun"
       },
       {
         "type": 5,
@@ -364231,6 +364256,11 @@
         "type": 4,
         "language": "ja",
         "title": "鉄の処女 JUN"
+      },
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "鉄の処女[アイアンバージン] JUN"
       }
     ]
   },
@@ -373493,7 +373523,7 @@
         "title": "jukishi"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Exiled Heavy Knight Knows How to Game the System"
       },
@@ -439711,6 +439741,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Marronnier Oukoku no Shichinin no Kishi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Seven Knights of the Marronnier Kingdom"
       },
       {
         "type": 4,
@@ -574305,17 +574340,17 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Yoroi Shin Den Samurai Troopers 2"
+        "title": "Yoroi Shin Den Samurai Troopers (2026)"
       },
       {
         "type": 2,
         "language": "en",
-        "title": "Yoroi-Shinden Samurai Troopers 2"
+        "title": "Yoroi-Shinden Samurai Troopers (2026)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "鎧真伝サムライトルーパー 2"
+        "title": "鎧真伝サムライトルーパー (2026)"
       }
     ]
   },
