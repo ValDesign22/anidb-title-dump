@@ -3975,7 +3975,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "「きみを愛する気はない」と言った 次期公爵様がなぜか溺愛してきます"
+        "title": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます"
       },
       {
         "type": 3,
@@ -8598,12 +8598,12 @@
     "id": 2195,
     "titles": [
       {
-        "type": 4,
+        "type": 6,
         "language": "ja",
         "title": "0[ゼロ]テスター"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "ja",
         "title": "0テスター"
       },
@@ -8613,7 +8613,7 @@
         "title": "Zero Tester"
       },
       {
-        "type": 2,
+        "type": 5,
         "language": "ja",
         "title": "ゼロテスター"
       }
@@ -8623,12 +8623,12 @@
     "id": 2196,
     "titles": [
       {
-        "type": 4,
+        "type": 6,
         "language": "ja",
         "title": "0[ゼロ]テスター 地球を守れ!"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "ja",
         "title": "0テスター 地球を守れ!"
       },
@@ -28876,11 +28876,6 @@
         "type": 2,
         "language": "pt-BR",
         "title": "A Melancolia de Suzumiya Haruhi-chan"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "haruhi (2009)"
       },
       {
         "type": 3,
@@ -67058,12 +67053,12 @@
         "title": "てんしのスリーピース!"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "ja",
         "title": "天使の3P!"
       },
       {
-        "type": 4,
+        "type": 6,
         "language": "ja",
         "title": "天使の3P[スリーピース]!"
       },
@@ -76678,7 +76673,7 @@
         "title": "Kusuriya no Hitorigoto (2026)"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Apothecary Diaries (2026)"
       },
@@ -114318,7 +114313,7 @@
         "title": "Behind the Supermarket, Smoking with You."
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Smoking Behind the Supermarket with You"
       },
@@ -141436,6 +141431,31 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "破刃之剑"
+      }
+    ]
+  },
+  {
+    "id": 3523,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Break Through The Wind!"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kaze o Nuke!"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Ride the Wind"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "風を抜け!"
       }
     ]
   },
@@ -225398,7 +225418,7 @@
         "title": "Dogul Wang"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Tomb Raider King"
       },
@@ -239550,6 +239570,26 @@
     ]
   },
   {
+    "id": 20079,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "E, Shanai System Subete Wanope Shiteiru Watashi o Kaiko Desuka?"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Fired? But I Maintain All the Software!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "え, 社内システム全てワンオペしている私を解雇ですか?"
+      }
+    ]
+  },
+  {
     "id": 2479,
     "titles": [
       {
@@ -243284,6 +243324,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Pompo the Cinephile"
+      },
+      {
+        "type": 4,
         "language": "it",
         "title": "Pompo, la cinefila"
       },
@@ -243301,11 +243346,6 @@
         "type": 2,
         "language": "en",
         "title": "Pompo: The Cinephile"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Pompo: The Cinéphile"
       },
       {
         "type": 4,
@@ -261258,12 +261298,12 @@
         "title": "ゼロのつかいま プリンセッセのロンド"
       },
       {
-        "type": 4,
+        "type": 6,
         "language": "ja",
         "title": "ゼロの使い魔~三美姫[プリンセッセ]の輪舞[ロンド]~"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "ja",
         "title": "ゼロの使い魔~三美姫の輪舞~"
       },
@@ -267118,7 +267158,7 @@
     "id": 19823,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Firefly Wedding"
       },
@@ -276998,12 +277038,12 @@
         "title": "フタゴノハハセイホンノウ"
       },
       {
-        "type": 4,
+        "type": 6,
         "language": "ja",
-        "title": "双子(フタゴ)ノ母(ハハ)性本能"
+        "title": "双子[フタゴ]ノ母[ハハ]性本能"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "ja",
         "title": "双子ノ母性本能"
       }
@@ -280138,7 +280178,7 @@
         "title": "Gachiakuta 2"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Gachiakuta 2"
       },
@@ -280595,6 +280635,41 @@
     ]
   },
   {
+    "id": 19053,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Gaikotsu Kishi-sama II"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Skeleton Knight in Another World II"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "해골기사님은 지금 이세계 모험 중 Ⅱ"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "骸骨騎士様, 只今異世界へお出掛け中II"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "骸骨騎士様II"
+      }
+    ]
+  },
+  {
     "id": 16262,
     "titles": [
       {
@@ -280641,31 +280716,6 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "骸骨骑士大人异世界冒险中"
-      }
-    ]
-  },
-  {
-    "id": 19053,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Skeleton Knight in Another World II"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "해골기사님은 지금 이세계 모험 중 Ⅱ"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "骸骨騎士様, 只今異世界へお出掛け中II"
       }
     ]
   },
@@ -300068,17 +300118,17 @@
         "title": "Ghost Sweeper Mikami"
       },
       {
-        "type": 3,
+        "type": 2,
         "language": "x-jat",
-        "title": "gs mikami"
+        "title": "GS Mikami"
       },
       {
-        "type": 4,
+        "type": 6,
         "language": "ja",
         "title": "GS[ゴーストスイーパー]美神"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "ja",
         "title": "GS美神"
       },
@@ -309218,7 +309268,7 @@
     "id": 18643,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Goodbye, Lara"
       },
@@ -350188,7 +350238,7 @@
     "id": 19635,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "I Became a Legend After My 10 Year-Long Last Stand"
       },
@@ -352106,11 +352156,6 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kon`yaku Haki Sareta Reijou o Hirotta Ore ga, Ikenai Koto o Oshiekomu"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu"
       },
       {
         "type": 3,
@@ -364243,9 +364288,14 @@
         "title": "Iron Virgin Jun"
       },
       {
-        "type": 6,
+        "type": 2,
         "language": "x-jat",
         "title": "Tetsu no Otome [Iron Virgin] Jun"
+      },
+      {
+        "type": 6,
+        "language": "x-jat",
+        "title": "Tetsu no Shojo [Iron Virgin] Jun"
       },
       {
         "type": 5,
@@ -374976,6 +375026,21 @@
         "type": 4,
         "language": "ja",
         "title": "十字架You and I"
+      }
+    ]
+  },
+  {
+    "id": 20081,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Juuou Bushin Dandivine"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "獣王武神ダンデヴァイン"
       }
     ]
   },
@@ -385711,26 +385776,6 @@
         "type": 4,
         "language": "ja",
         "title": "風を見た少年"
-      }
-    ]
-  },
-  {
-    "id": 3523,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kaze o Nuke!"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Ride the Wind"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "風を抜け!"
       }
     ]
   },
@@ -404648,12 +404693,12 @@
         "title": "きょうしろうととわのそら"
       },
       {
-        "type": 4,
+        "type": 6,
         "language": "ja",
-        "title": "京四郎と永遠(とわ)の空"
+        "title": "京四郎と永遠[とわ]の空"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "ja",
         "title": "京四郎と永遠の空"
       },
@@ -407178,7 +407223,7 @@
         "title": "Kusuriya no Hitorigoto (2027)"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Apothecary Diaries (2027)"
       },
@@ -411183,7 +411228,7 @@
     "id": 19429,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Labyrinth"
       },
@@ -426443,7 +426488,7 @@
         "title": "Lupin the IIIrd the Movie: Fujimi no Ketsuzoku"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Lupin the IIIrd the Movie: The Immortal Bloodline"
       }
@@ -439672,11 +439717,6 @@
   {
     "id": 9491,
     "titles": [
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Marriage Blue ~Kon Yakusha ga Iru no ni, Doushite Konna Otoko ni...~"
-      },
       {
         "type": 1,
         "language": "x-jat",
@@ -457101,6 +457141,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara o Tarenagasu"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Oblivious Saint Can`t Contain Her Power"
       },
       {
         "type": 2,
@@ -480008,7 +480053,7 @@
         "title": "Oni no Hanayome"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Ogre`s Bride"
       },
@@ -484701,6 +484746,41 @@
         "type": 4,
         "language": "ja",
         "title": "おーばーふろぉ"
+      }
+    ]
+  },
+  {
+    "id": 20077,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Overgeared"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tempal: Item no Chikara"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Tempal: The Power of Items"
+      },
+      {
+        "type": 2,
+        "language": "x-kot",
+        "title": "Temppal"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "템빨"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "テムパル~アイテムの力~"
       }
     ]
   },
@@ -501018,12 +501098,12 @@
     "id": 16589,
     "titles": [
       {
-        "type": 2,
+        "type": 1,
         "language": "x-zht",
         "title": "Quanzhi Gaoshou 3"
       },
       {
-        "type": 1,
+        "type": 2,
         "language": "x-zht",
         "title": "Quanzhi Gaoshou Di San Ji"
       },
@@ -501038,9 +501118,39 @@
         "title": "The King`s Avatar Ⅲ"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "zh-Hans",
         "title": "全职高手 第三季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "全职高手3"
+      }
+    ]
+  },
+  {
+    "id": 20078,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Quanzhi Gaoshou 4"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The King`s Avatar 4"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "全职高手 第四季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "全职高手4"
       }
     ]
   },
@@ -512493,12 +512603,12 @@
         "title": "不起眼女主角培育法♭"
       },
       {
-        "type": 4,
+        "type": 6,
         "language": "ja",
         "title": "冴えない彼女[ヒロイン]の育てかた♭"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "ja",
         "title": "冴えない彼女の育てかた♭"
       },
@@ -517193,7 +517303,7 @@
     "id": 18563,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Sasaki and Peeps Season 2"
       },
@@ -533533,11 +533643,6 @@
         "title": "Snow Eagle Lord"
       },
       {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Xue Ying Ling Zhu - Season 3"
-      },
-      {
         "type": 1,
         "language": "x-zht",
         "title": "Xue Ying Lingzhu"
@@ -539261,6 +539366,26 @@
         "type": 2,
         "language": "ja",
         "title": "ステーションアイドルラッチ!"
+      }
+    ]
+  },
+  {
+    "id": 20080,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Stay Low Profile, Sect Chief"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhang Men Didiao Dian"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "掌门低调点"
       }
     ]
   },
@@ -547638,7 +547763,7 @@
         "title": "Tefuda ga Oome no Victoria"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Victoria of Many Faces"
       },
@@ -551210,6 +551335,11 @@
       {
         "type": 4,
         "language": "pl",
+        "title": "The First Slam Dunk"
+      },
+      {
+        "type": 4,
+        "language": "en",
         "title": "The First Slam Dunk"
       },
       {
