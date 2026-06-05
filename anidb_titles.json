@@ -301035,6 +301035,16 @@
     ]
   },
   {
+    "id": 20082,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gifted"
+      }
+    ]
+  },
+  {
     "id": 11261,
     "titles": [
       {
@@ -374166,21 +374176,6 @@
         "type": 2,
         "language": "zh",
         "title": "绿林大冒险之糖果世界"
-      }
-    ]
-  },
-  {
-    "id": 19662,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Jungle Taitei / Honnouji no Hen"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ジャングル大帝／本能寺の変"
       }
     ]
   },
