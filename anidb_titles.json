@@ -330865,6 +330865,26 @@
     ]
   },
   {
+    "id": 20084,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Heavily Armed High School Girls"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Juuheisou-gata Joshikousei"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "重兵装型女子高生"
+      }
+    ]
+  },
+  {
     "id": 5230,
     "titles": [
       {
@@ -434311,6 +434331,26 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "魔法科高校的劣等生 第三季"
+      }
+    ]
+  },
+  {
+    "id": 20083,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mahouka Koukou no Rettousei (Dai Ni Bu)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Irregular at Magic High School (Part II)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔法科高校の劣等生 (第二部)"
       }
     ]
   },
