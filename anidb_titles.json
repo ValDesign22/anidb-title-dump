@@ -87568,11 +87568,6 @@
         "title": "Ascendance of a Bookworm: I`ll Do Anything to Become a Librarian!"
       },
       {
-        "type": 3,
-        "language": "x-jat",
-        "title": "Honzuki"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen"
@@ -388751,6 +388746,21 @@
         "type": 4,
         "language": "ja",
         "title": "けろけろけろっぴ はすのうえタウン危機一髪!"
+      }
+    ]
+  },
+  {
+    "id": 20085,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Keroro Gunsou Hoshi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ケロロ軍曹☆"
       }
     ]
   },
