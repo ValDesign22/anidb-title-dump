@@ -5175,6 +5175,11 @@
       {
         "type": 3,
         "language": "x-jat",
+        "title": "HagaRen Brotherhood"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
         "title": "hagaren2"
       },
       {
@@ -118616,6 +118621,11 @@
         "type": 4,
         "language": "en",
         "title": "Beyond Time`s Gaze"
+      },
+      {
+        "type": 3,
+        "language": "en",
+        "title": "BTG"
       },
       {
         "type": 1,
@@ -407691,6 +407701,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kyonyuu ga Futari Inai to Bokki Shinai Otto no Tame ni Tomodachi o Tsurete Kita Tsuma"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "거유 두 명이 없으면 안 서는 남편을 위해 친구를 데리고 온 아내"
       },
       {
         "type": 4,
