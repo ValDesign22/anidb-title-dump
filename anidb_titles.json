@@ -130200,26 +130200,6 @@
     ]
   },
   {
-    "id": 19620,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Blue Lock (New Series)"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Blue Lock (Shin Series)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ブルーロック (新シリーズ)"
-      }
-    ]
-  },
-  {
     "id": 17954,
     "titles": [
       {
@@ -130266,6 +130246,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "蓝色监狱 VS. U-20 日本"
+      }
+    ]
+  },
+  {
+    "id": 19620,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Blue Lock: Neo Egoist League"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Blue Lock: Neo Egoist League"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ブルーロック ネオ・エゴイストリーグ"
       }
     ]
   },
@@ -212886,6 +212886,26 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "靠廢柴技能【狀態異常】成為最強的我將蹂躪一切"
+      }
+    ]
+  },
+  {
+    "id": 20086,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Dengeki Daisy"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Dengeki Daisy"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "電撃デイジー"
       }
     ]
   },
@@ -443643,6 +443663,11 @@
         "title": "Medalist 2nd Season"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Medalist Season 2"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "メダリスト (2026)"
@@ -457021,6 +457046,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Muchuu no Tou"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "안개 속의 탑"
       },
       {
         "type": 4,
@@ -484446,6 +484476,11 @@
         "type": 4,
         "language": "ja",
         "title": "OVA はーとまーく多め."
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "하트마크 듬뿍"
       }
     ]
   },
@@ -484526,6 +484561,11 @@
         "type": 4,
         "language": "ja",
         "title": "OVA パイハメ家族"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "젖통 삽입 가족"
       }
     ]
   },
@@ -519868,6 +519908,11 @@
         "title": "Seishidouin no Oshigoto The Animation"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "성지도원의 업무"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "性指導員のお仕事 The Animation"
@@ -553803,7 +553848,7 @@
     "id": 19849,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The World Is Dancing"
       },
