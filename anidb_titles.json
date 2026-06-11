@@ -513645,6 +513645,26 @@
     ]
   },
   {
+    "id": 20089,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Saikyou Mahoushi no Inton Keikaku"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Greatest Magicmaster`s Retirement Plan"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "最強魔法師の隠遁計画"
+      }
+    ]
+  },
+  {
     "id": 18935,
     "titles": [
       {
