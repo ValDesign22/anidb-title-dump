@@ -58238,6 +58238,11 @@
     "id": 19110,
     "titles": [
       {
+        "type": 2,
+        "language": "pl",
+        "title": "Alicja w Krainie Czarów: Dive in Wonderland"
+      },
+      {
         "type": 4,
         "language": "pl",
         "title": "Alicja w Krainie Czarów: Skok w nieznane"
@@ -63826,11 +63831,6 @@
         "type": 1,
         "language": "x-jat",
         "title": "Jishou Akuyaku Reijou na Kon`yakusha no Kansatsu Kiroku."
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku."
       },
       {
         "type": 2,
@@ -120331,6 +120331,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "超级骗子"
+      }
+    ]
+  },
+  {
+    "id": 20093,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Big Boss"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Big Boss"
       }
     ]
   },
@@ -202448,6 +202463,11 @@
         "title": "Dark Summoner to Dekite Iru"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "I`m Dating a Dark Summoner"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ダークサモナーとデキている"
@@ -260928,9 +260948,19 @@
         "title": "Koi Seyo Mayakashi Tenshi-domo"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "koidomo"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "恋せよまやかし天使ども"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "恋ども"
       }
     ]
   },
@@ -275041,6 +275071,21 @@
         "type": 2,
         "language": "ja",
         "title": "ふくびき!トライアングル～双葉はあたふた～"
+      }
+    ]
+  },
+  {
+    "id": 20095,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Fukurai-chu, ton`neru roji no otoko"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "福来町、トンネル路地の男"
       }
     ]
   },
@@ -439498,6 +439543,11 @@
         "title": "Marika-chan no Koukando wa Bukkowarete Iru"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Marika-chan no Koukando wa Bukkowareteiru"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Marika`s Love Meter Malfunction"
@@ -461760,6 +461810,21 @@
     ]
   },
   {
+    "id": 20094,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Nageki no aisukyandii"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "嘆きのアイスキャンディー"
+      }
+    ]
+  },
+  {
     "id": 13080,
     "titles": [
       {
@@ -469136,6 +469201,21 @@
         "type": 4,
         "language": "ja",
         "title": "日常 日常の0話"
+      }
+    ]
+  },
+  {
+    "id": 20096,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "NICKY"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "NICKY"
       }
     ]
   },
@@ -547116,6 +547196,21 @@
         "type": 4,
         "language": "ja",
         "title": "太郎の番兵 潜航艇の巻"
+      }
+    ]
+  },
+  {
+    "id": 20092,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tarou wa Mizu ni Naritakatta"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "太郎は水になりたかった"
       }
     ]
   },
