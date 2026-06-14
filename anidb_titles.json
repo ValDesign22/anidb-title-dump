@@ -29375,6 +29375,56 @@
     ]
   },
   {
+    "id": 20098,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "A Mortal`s Journey 5th Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "A Record of a Mortal`s Journey to Immortality 5th Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "A Record of Mortal`s Journey to Immortality 5th Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Fanren Xiu Xian Chuan: Di Wu Ji"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Fanren Xiu Xian Chuan: Mulan Zhi Zhan"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Fanren Xiu Xian Zhuan 5th Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Fanren Xiu Xian Zhuan: Mulan Zhi Zhan"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "凡人修仙传 慕兰之战"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "凡人修仙传 第五季"
+      }
+    ]
+  },
+  {
     "id": 15425,
     "titles": [
       {
@@ -38241,6 +38291,26 @@
         "type": 2,
         "language": "ja",
         "title": "異常痴態　実験奴隷"
+      }
+    ]
+  },
+  {
+    "id": 20101,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Above Myriads"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wan Ren Zhi Shang"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "万人之上"
       }
     ]
   },
@@ -49601,6 +49671,11 @@
         "type": 4,
         "language": "ja",
         "title": "イチゴ哀歌 ~雑で生イキな妹と割り切れない兄~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "草莓哀歌~散漫嚣张的妹妹与无法释怀的哥哥~"
       }
     ]
   },
@@ -65636,6 +65711,11 @@
         "type": 4,
         "language": "ja",
         "title": "姉恋 スキ・キライ・ダイスキ."
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "姐恋 喜欢・讨厌・最喜欢了。"
       }
     ]
   },
@@ -119861,6 +119941,56 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "镖人"
+      }
+    ]
+  },
+  {
+    "id": 20099,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Biao Ren 2"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Biao Ren 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Biao Ren Di Er Ji"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Biao Ren Er"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Blades of the Guardians 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Blades of the Guardians 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Blades of the Guardians S2"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "镖人 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "镖人 贰"
       }
     ]
   },
@@ -261835,21 +261965,6 @@
     ]
   },
   {
-    "id": 20045,
-    "titles": [
-      {
-        "type": 1,
-        "language": "en",
-        "title": "Fanren Xiu Xian Zhuan: Mulan Zhi Zhan"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "凡人修仙传 第五季"
-      }
-    ]
-  },
-  {
     "id": 1581,
     "titles": [
       {
@@ -351661,6 +351776,11 @@
         "type": 4,
         "language": "ja",
         "title": "嫌な顔されながらおパンツ見せてもらいたいR"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "摆出讨厌的表情露出内裤 R"
       }
     ]
   },
@@ -388855,7 +388975,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Keroro Gunsou Hoshi"
+        "title": "Keroro Gunsou (2026)"
       },
       {
         "type": 4,
@@ -498511,6 +498631,26 @@
         "type": 2,
         "language": "ja",
         "title": "ゆけ! 小英くん"
+      }
+    ]
+  },
+  {
+    "id": 20102,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Project Spark"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wo Ba Mori Shang Jiao Geile Guojia"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "我把末日上交给了国家"
       }
     ]
   },
