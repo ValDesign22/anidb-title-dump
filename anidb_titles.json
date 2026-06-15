@@ -308884,6 +308884,11 @@
       },
       {
         "type": 4,
+        "language": "ko",
+        "title": "곤"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "ゴン"
       },
@@ -551066,6 +551071,21 @@
         "type": 4,
         "language": "zh",
         "title": "斩兽之刃"
+      }
+    ]
+  },
+  {
+    "id": 20103,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "The Bloody Mary"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ブラッディ・メアリー"
       }
     ]
   },
