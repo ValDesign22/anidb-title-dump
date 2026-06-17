@@ -18980,6 +18980,26 @@
     ]
   },
   {
+    "id": 20056,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "A Boy with Gundam"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shounen to Gundam"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "少年とガンダム"
+      }
+    ]
+  },
+  {
     "id": 3674,
     "titles": [
       {
@@ -530881,21 +530901,6 @@
         "type": 4,
         "language": "ja",
         "title": "少年忍者風のフジ丸 謎のアラビヤ人形"
-      }
-    ]
-  },
-  {
-    "id": 20056,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shounen to Gundam"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "少年とガンダム"
       }
     ]
   },
