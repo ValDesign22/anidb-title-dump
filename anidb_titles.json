@@ -3983,7 +3983,7 @@
         "title": "kimi ai"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Duke`s Son Claims He Won`t Love Me Yet Showers Me with Adoration"
       },
@@ -35528,7 +35528,7 @@
         "title": "A Witch`s Life in Mongol"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Jaadugar: A Witch in Mongolia"
       },
@@ -97118,9 +97118,9 @@
         "title": "Azur Lane: Bisoku Zenshin! Ni!!"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
-        "title": "Azur Lane: Slow Ahead! 2"
+        "title": "Azur Lane: Slow Ahead! Season 2"
       },
       {
         "type": 4,
@@ -126833,6 +126833,11 @@
     "id": 19203,
     "titles": [
       {
+        "type": 4,
+        "language": "en",
+        "title": "Black Torch"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Black Torch"
@@ -126841,11 +126846,6 @@
         "type": 4,
         "language": "ja",
         "title": "BLACK TORCH"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Black Torch"
       },
       {
         "type": 2,
@@ -144943,13 +144943,13 @@
     "id": 19698,
     "titles": [
       {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Bungou Stray Dogs Wan! 2"
-      },
-      {
         "type": 4,
         "language": "en",
+        "title": "Bungo Stray Dogs Wan! 2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
         "title": "Bungou Stray Dogs Wan! 2"
       },
       {
@@ -182811,6 +182811,11 @@
         "type": 4,
         "language": "ja",
         "title": "ムーミン谷の彗星"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "楽しいムーミン一家 ムーミン谷の彗星"
       }
     ]
   },
@@ -201983,7 +201988,7 @@
     "id": 19764,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Dara-san of Reiwa"
       },
@@ -241020,6 +241025,81 @@
     ]
   },
   {
+    "id": 20107,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Eclipse of Illusion 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Eclipse of Illusion 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Eclipse of Illusion II"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Yun Shen Buzhi Meng 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Yun Shen Buzhi Meng Di Er Ji"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yun Shen Buzhi Meng II"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "云深不知梦 第二季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "云深不知梦2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "云深不知梦II"
+      }
+    ]
+  },
+  {
+    "id": 20106,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Eclipse of Illusion SP: The Miasma War"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Eclipse of Illusion Special: The Battle of Qiumina"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "云深不知梦 特别篇：逐冥之役"
+      }
+    ]
+  },
+  {
     "id": 8599,
     "titles": [
       {
@@ -246001,6 +246081,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Eiga Sumikko Gurashi: Aoi Tsukiyo no Mahou no Ko"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Sumikko Gurashi The Movie 2 - The Little Wizard in the Blue Moonlight"
       },
       {
         "type": 4,
@@ -256786,6 +256871,11 @@
         "type": 2,
         "language": "en",
         "title": "Even Reincarnated, Hanaori`s Still Spoiling for a Fight"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Hanaori-san Still Wants to Fight in the Next Life"
       },
       {
         "type": 1,
@@ -273983,7 +274073,7 @@
     "id": 19896,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage"
       },
@@ -278003,7 +278093,7 @@
         "title": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court"
       },
@@ -280878,7 +280968,7 @@
         "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Skeleton Knight in Another World II"
       },
@@ -313143,9 +313233,9 @@
         "title": "Grow Up Show: Himawari no Circus-dan"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
-        "title": "Grow Up Show: The Sunflower Circus Troupe"
+        "title": "Grow Up Show: Sunflower Circus"
       },
       {
         "type": 4,
@@ -324658,19 +324748,19 @@
     "id": 19961,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
-        "title": "Hana-Kimi 2"
+        "title": "Hana-Kimi (2026)"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Hanazakari no Kimitachi e 2"
+        "title": "Hanazakari no Kimitachi e (2026)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "花ざかりの君たちへ 2"
+        "title": "花ざかりの君たちへ (2026)"
       }
     ]
   },
@@ -351658,7 +351748,7 @@
     "id": 19189,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "I Want to Love You Till Your Dying Day"
       },
@@ -375165,6 +375255,41 @@
     ]
   },
   {
+    "id": 20104,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Just Like Mona Lisa"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "mona lisa"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Seibetsu \"Mona Lisa\" no Kimi e."
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Gender of Mona Lisa"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "モナリザ"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "性別「モナリザ」の君へ."
+      }
+    ]
+  },
+  {
     "id": 8710,
     "titles": [
       {
@@ -378250,6 +378375,26 @@
     ]
   },
   {
+    "id": 19782,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Kaiju Girl Caramelise"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Otome Kaijuu Caramelise"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "乙女怪獣キャラメリゼ"
+      }
+    ]
+  },
+  {
     "id": 12021,
     "titles": [
       {
@@ -379418,7 +379563,7 @@
         "title": "Kakekoi"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Love Unseen Beneath the Clear Night Sky"
       },
@@ -431038,7 +431183,7 @@
     "id": 19080,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Magical Girl Lyrical Nanoha Exceeds: Gun Blaze Vengeance"
       },
@@ -443437,6 +443582,11 @@
   {
     "id": 14730,
     "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Mebius Dust"
+      },
       {
         "type": 1,
         "language": "x-jat",
@@ -466888,7 +467038,7 @@
         "title": "Neko to Ryuu"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Cat and the Dragon"
       },
@@ -469603,7 +469753,7 @@
         "title": "Nige Jouzu no Wakagimi (2026)"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Elusive Samurai (2026)"
       },
@@ -476456,6 +476606,31 @@
         "type": 4,
         "language": "ja",
         "title": "鬼切丸"
+      }
+    ]
+  },
+  {
+    "id": 18211,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Oh Boy, Was I Wrong About Her"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "てんびん"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "転校先の清楚可憐な美少女が, 昔男子と思って一緒に遊んだ幼馴染だった件"
       }
     ]
   },
@@ -483624,6 +483799,11 @@
       },
       {
         "type": 2,
+        "language": "x-jat",
+        "title": "Otaku no Boku ga Ichigun Gal to Tsukiaerumade no Hanashi"
+      },
+      {
+        "type": 2,
         "language": "ko",
         "title": "오타쿠인 내가 일진 갸루와 사귀기까지의 이야기"
       },
@@ -484176,21 +484356,6 @@
         "type": 4,
         "language": "ja",
         "title": "乙女蹂躙遊戯~Maiden Infringement Play~"
-      }
-    ]
-  },
-  {
-    "id": 19782,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Otome Kaijuu Caramelise"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "乙女怪獣キャラメリゼ"
       }
     ]
   },
@@ -499943,7 +500108,7 @@
         "title": "Purple River 2nd Season"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Purple River S2"
       },
@@ -507713,7 +507878,7 @@
     "id": 19690,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Rich Girl Caretaker: I`m Secretly the Caregiver of the Most Popular Girl in This Rich Kid School"
       },
@@ -513873,7 +514038,7 @@
         "title": "Saikyou Degarashi Ouji no An`yaku Teii Arasoi: Munou o Enjiru SS Rank Ouji wa Koui Keishou-sen o Kage kara Shihai Suru"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Insipid Prince`s Furtive Grab for the Throne"
       },
@@ -519968,7 +520133,7 @@
         "title": "Seihantai na Kimi to Boku (2026)"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "You and I Are Polar Opposites (2026)"
       },
@@ -521653,7 +521818,7 @@
         "title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The World`s Strongest Rearguard: Labyrinth Country`s Novice Seeker"
       },
@@ -536238,9 +536403,9 @@
     "id": 19755,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
-        "title": "Sorry About My Younger Brothers"
+        "title": "Sorry About My Little Brotherss"
       },
       {
         "type": 1,
@@ -549281,26 +549446,6 @@
         "type": 4,
         "language": "ja",
         "title": "テンカイチ 日本最強武芸者決定戦"
-      }
-    ]
-  },
-  {
-    "id": 18211,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "てんびん"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "転校先の清楚可憐な美少女が, 昔男子と思って一緒に遊んだ幼馴染だった件"
       }
     ]
   },
@@ -570785,6 +570930,21 @@
     ]
   },
   {
+    "id": 20105,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Wollum Jogyonim"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "원룸 조교님"
+      }
+    ]
+  },
+  {
     "id": 11277,
     "titles": [
       {
@@ -574928,7 +575088,7 @@
         "title": "Yoroi Shin Den Samurai Troopers (2026)"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Yoroi-Shinden Samurai Troopers (2026)"
       },
