@@ -57940,6 +57940,41 @@
     ]
   },
   {
+    "id": 19110,
+    "titles": [
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Alice au pays des merveilles: Dive in Wonderland"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Alice im Wunderland: Dive in Wonderland"
+      },
+      {
+        "type": 2,
+        "language": "pl",
+        "title": "Alicja w Krainie Czarów: Dive in Wonderland"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Alicja w Krainie Czarów: Skok w nieznane"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Fushigi no Kuni de Alice to: Dive in Wonderland"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "不思議の国でアリスと -Dive in Wonderland-"
+      }
+    ]
+  },
+  {
     "id": 4867,
     "titles": [
       {
@@ -58326,31 +58361,6 @@
         "type": 4,
         "language": "ja",
         "title": "アリスとテレスのまぼろし工場"
-      }
-    ]
-  },
-  {
-    "id": 19110,
-    "titles": [
-      {
-        "type": 2,
-        "language": "pl",
-        "title": "Alicja w Krainie Czarów: Dive in Wonderland"
-      },
-      {
-        "type": 4,
-        "language": "pl",
-        "title": "Alicja w Krainie Czarów: Skok w nieznane"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Fushigi no Kuni de Alice to: Dive in Wonderland"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "不思議の国でアリスと -Dive in Wonderland-"
       }
     ]
   },
@@ -167545,6 +167555,26 @@
     ]
   },
   {
+    "id": 20111,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Chiikawa the Movie: The Secret of the Mermaid Island"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Eiga Chiikawa: Ningyo no Shima no Himitsu"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "映画ちいかわ 人魚の島のひみつ"
+      }
+    ]
+  },
+  {
     "id": 6062,
     "titles": [
       {
@@ -189931,6 +189961,26 @@
         "type": 4,
         "language": "ja",
         "title": "映画クレヨンしんちゃん オラたちの恐竜日記"
+      }
+    ]
+  },
+  {
+    "id": 19766,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Crayon Shin-chan the Movie: Spooky! My Yokai Vacation"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Eiga Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "映画クレヨンしんちゃん 奇々怪々! オラの妖怪バケ~ション"
       }
     ]
   },
@@ -219310,6 +219360,26 @@
     ]
   },
   {
+    "id": 20108,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Dice with Demon"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Haseo Sugoroku"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "長谷雄双六"
+      }
+    ]
+  },
+  {
     "id": 286,
     "titles": [
       {
@@ -243575,21 +243645,6 @@
     ]
   },
   {
-    "id": 19766,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Eiga Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "映画クレヨンしんちゃん 奇々怪々! オラの妖怪バケ~ション"
-      }
-    ]
-  },
-  {
     "id": 13405,
     "titles": [
       {
@@ -245996,6 +246051,21 @@
         "type": 4,
         "language": "ja",
         "title": "えいがそれいけ! アンパンマン ドロリンとバケ~るカーニバル"
+      }
+    ]
+  },
+  {
+    "id": 20110,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Eiga Sore Ike! Anpanman: Pantan to Yakusoku no Hoshi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "えいがそれいけ! アンパンマン パンタンと約束の星"
       }
     ]
   },
@@ -309006,6 +309076,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "小恐龙阿贡"
+      },
+      {
+        "type": 2,
+        "language": "zh",
+        "title": "阿贡"
       }
     ]
   },
@@ -374526,6 +374601,21 @@
         "type": 2,
         "language": "zh",
         "title": "绿林大冒险之糖果世界"
+      }
+    ]
+  },
+  {
+    "id": 20113,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Jungle Taitei / Honnouji no Hen"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ジャングル大帝／本能寺の変"
       }
     ]
   },
@@ -445518,6 +445608,11 @@
         "title": "Meitantei Precure!"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "precure23"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Star Detective Precure!"
@@ -447041,6 +447136,21 @@
         "type": 4,
         "language": "ja",
         "title": "牝性 ペルソナ"
+      }
+    ]
+  },
+  {
+    "id": 20109,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Metafear"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Metafear"
       }
     ]
   },
@@ -471931,6 +472041,26 @@
         "type": 4,
         "language": "ja",
         "title": "ニセコイモノガタリ"
+      }
+    ]
+  },
+  {
+    "id": 19431,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Nisemono no Renkinjutsushi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Fake Alchemist"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ニセモノの錬金術師"
       }
     ]
   },
@@ -498736,21 +498866,6 @@
         "type": 4,
         "language": "ja",
         "title": "PROJECT HAL"
-      }
-    ]
-  },
-  {
-    "id": 19431,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Project M"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "Project M"
       }
     ]
   },
@@ -529821,6 +529936,26 @@
         "type": 4,
         "language": "ja",
         "title": "しらんぷり"
+      }
+    ]
+  },
+  {
+    "id": 20112,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shiranuhi"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Shiranui"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "しらぬひ"
       }
     ]
   },
