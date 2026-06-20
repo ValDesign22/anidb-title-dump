@@ -112916,6 +112916,11 @@
         "type": 4,
         "language": "ja",
         "title": "BEAT&MOTION"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "ビートアンドモーション"
       }
     ]
   },
@@ -304458,6 +304463,11 @@
     "id": 19703,
     "titles": [
       {
+        "type": 4,
+        "language": "en",
+        "title": "given Moments in Life"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Given: 10th Mix"
@@ -371056,6 +371066,21 @@
         "type": 4,
         "language": "ja",
         "title": "ジムボタン"
+      }
+    ]
+  },
+  {
+    "id": 20114,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Jimoto Saikou!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "地元最高!"
       }
     ]
   },
@@ -579736,6 +579761,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Zombie Land Saga: Yumeginga Paradise"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Zombieland Saga Movie - Yumeginga Paradise"
       },
       {
         "type": 4,
