@@ -53020,6 +53020,21 @@
     ]
   },
   {
+    "id": 20117,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Akane-banashi (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "あかね噺 (2027)"
+      }
+    ]
+  },
+  {
     "id": 12454,
     "titles": [
       {
@@ -77998,6 +78013,11 @@
         "title": "Gekijouban Tensei Shitara Slime Datta Ken: Guren no Kizuna Hen"
       },
       {
+        "type": 4,
+        "language": "pl",
+        "title": "Odrodzony jako galareta: Szkarłatna więź"
+      },
+      {
         "type": 3,
         "language": "x-jat",
         "title": "tensura movie"
@@ -92966,6 +92986,31 @@
         "type": 4,
         "language": "ja",
         "title": "闇市場 ~美女奴隷~"
+      }
+    ]
+  },
+  {
+    "id": 16298,
+    "titles": [
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Aucun doute en nous"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Liang Bu Yi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "No Doubt In Us"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "两不疑"
       }
     ]
   },
@@ -116081,6 +116126,11 @@
         "type": 4,
         "language": "fr",
         "title": "Moi, quand je me réincarne en Slime"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Odrodzony jako galaretaㅤ"
       },
       {
         "type": 2,
@@ -196891,6 +196941,11 @@
         "type": 2,
         "language": "en",
         "title": "The Great Ruler 3D 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Great Ruler S2"
       },
       {
         "type": 2,
@@ -294974,6 +295029,11 @@
       },
       {
         "type": 4,
+        "language": "pl",
+        "title": "Odrodzony jako galareta. Film: Łzy Morza Lazuroweg"
+      },
+      {
+        "type": 4,
         "language": "es",
         "title": "That Time I Got Reincarnated as a Slime La Película: Lágrimas del mar celeste"
       },
@@ -314341,6 +314401,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "关喵什么事"
+      }
+    ]
+  },
+  {
+    "id": 20115,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Guangyin Zhi Wai 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "光阴之外2"
       }
     ]
   },
@@ -382340,6 +382415,26 @@
     ]
   },
   {
+    "id": 20118,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kanan-sama wa Akumade Choroi 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Mistress Kanan Is Devilishly Easy 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "カナン様はあくまでチョロい 2"
+      }
+    ]
+  },
+  {
     "id": 16923,
     "titles": [
       {
@@ -419260,26 +419355,6 @@
     ]
   },
   {
-    "id": 16298,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Liang Bu Yi"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "No Doubt In Us"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "两不疑"
-      }
-    ]
-  },
-  {
     "id": 17988,
     "titles": [
       {
@@ -419291,6 +419366,21 @@
         "type": 4,
         "language": "en",
         "title": "No Doubt in Us 2nd Season"
+      }
+    ]
+  },
+  {
+    "id": 20116,
+    "titles": [
+      {
+        "type": 4,
+        "language": "x-zht",
+        "title": "Liang Bu Yi S2"
+      },
+      {
+        "type": 1,
+        "language": "en",
+        "title": "No Doubt In Us S2"
       }
     ]
   },
