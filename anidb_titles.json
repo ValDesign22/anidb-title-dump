@@ -118810,6 +118810,51 @@
     ]
   },
   {
+    "id": 20115,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Beyond Time`s Gaze 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Beyond Time`s Gaze 2nd Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Guangyin Zhi Wai 2"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Guangyin Zhi Wai 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Guangyin Zhi Wai: Nian Fan"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "光阴之外 年番"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "光阴之外 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "光阴之外2"
+      }
+    ]
+  },
+  {
     "id": 20000,
     "titles": [
       {
@@ -165041,6 +165086,11 @@
         "type": 4,
         "language": "en",
         "title": "How dare you!? Season 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "What A Scandal 2"
       },
       {
         "type": 2,
@@ -314405,21 +314455,6 @@
     ]
   },
   {
-    "id": 20115,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Guangyin Zhi Wai 2"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "光阴之外2"
-      }
-    ]
-  },
-  {
     "id": 5511,
     "titles": [
       {
@@ -338761,6 +338796,21 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "暮蟬悲鳴時 卒"
+      }
+    ]
+  },
+  {
+    "id": 20119,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Higurashi no Naku Koro ni (shinsaku TV anime)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ひぐらしのなく頃に (新作TVアニメ)"
       }
     ]
   },
@@ -432210,6 +432260,26 @@
     ]
   },
   {
+    "id": 20120,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Magical Sisters Lulutto Lilly (2026)"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mahou no Shimai Lulutto Lilly (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔法の姉妹ルルットリリィ (2026)"
+      }
+    ]
+  },
+  {
     "id": 9464,
     "titles": [
       {
@@ -471976,6 +472046,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Nippon Sangoku"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Nippon Sangoku: Les Nations du Soleil Sanglant"
       },
       {
         "type": 4,
@@ -526661,6 +526736,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Shenshi Mowang: Gentleman Devil"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Shenshi Mowang: Gentleman Devil - Pilot"
       },
       {
         "type": 4,
