@@ -63959,6 +63959,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "自称恶役大小姐的婚约者观察记录。"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "自称悪役令嬢な婚約者の観察記録."
       }
@@ -114488,6 +114493,11 @@
         "title": "Super no Ura de Yani Suu Futari"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Super no Ura de Yani Suu Futari Mini"
+      },
+      {
         "type": 3,
         "language": "x-jat",
         "title": "yanisuu"
@@ -118806,6 +118816,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "光阴之外"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "光阴之外 第一季"
       }
     ]
   },
@@ -321356,6 +321371,11 @@
         "type": 4,
         "language": "ja",
         "title": "灰原くんの強くて青春ニューゲーム"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "灰原君的青春二周目"
       }
     ]
   },
@@ -350778,6 +350798,11 @@
         "title": "I upset millions of cultivators"
       },
       {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wo Qi Ku Le Baiwan Xiulian Zhe"
+      },
+      {
         "type": 2,
         "language": "x-zht",
         "title": "Wo Qi Ku Le Baiwan Xiulianzhe"
@@ -350788,7 +350813,7 @@
         "title": "Wo Qi Ku Liao Bai Wan Xiulian Zhe"
       },
       {
-        "type": 1,
+        "type": 2,
         "language": "x-zht",
         "title": "Wo Qi Ku Liao Baiwan Xiulian Zhe"
       },
@@ -350796,6 +350821,31 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "我气哭了百万修炼者"
+      }
+    ]
+  },
+  {
+    "id": 19991,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "I Annoyed Millions of Cultivators 2nd season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "I Upset Millions Of Cultivators 2nd season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wo Qi Ku Le Baiwan Xiulian Zhe 2nd Season"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "我气哭了百万修炼者 第二季"
       }
     ]
   },
@@ -419413,24 +419463,24 @@
         "title": "Liang Bu Yi 2nd Season"
       },
       {
-        "type": 4,
-        "language": "en",
-        "title": "No Doubt in Us 2nd Season"
-      }
-    ]
-  },
-  {
-    "id": 20116,
-    "titles": [
-      {
-        "type": 4,
+        "type": 2,
         "language": "x-zht",
-        "title": "Liang Bu Yi S2"
+        "title": "Liang Bu Yi Di Er Ji"
       },
       {
-        "type": 1,
+        "type": 4,
         "language": "en",
-        "title": "No Doubt In Us S2"
+        "title": "No Doubt In Us 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "No Doubt In Us 2nd Season"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "两不疑 第二季"
       }
     ]
   },
@@ -571176,21 +571226,6 @@
         "type": 4,
         "language": "ja",
         "title": "ウィザードリィ"
-      }
-    ]
-  },
-  {
-    "id": 19991,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Wo Qi Ku Le Baiwan Xiulian Zhe 2nd Season"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "我气哭了百万修炼者 第二季"
       }
     ]
   },
