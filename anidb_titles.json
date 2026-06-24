@@ -271750,6 +271750,26 @@
     ]
   },
   {
+    "id": 20121,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Fool Night"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Fool Night"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "フールナイト"
+      }
+    ]
+  },
+  {
     "id": 14898,
     "titles": [
       {
@@ -460195,6 +460215,26 @@
     ]
   },
   {
+    "id": 19927,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "My Classmate`s a Sexy Actress, and Now We Live Together?!"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Onaji Zemi no Someya-san ga Sexy Joyuu Datta Hanashi."
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "同じゼミの染谷さんがセクシー女優だった話。"
+      }
+    ]
+  },
+  {
     "id": 9430,
     "titles": [
       {
@@ -470893,6 +470933,11 @@
         "title": "Nikenichi! Non Non Zenshou Kichi"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Nikke Nichi! Non Non Zenshou Kichi"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Outpost: Off-Duty Tales"
@@ -478811,21 +478856,6 @@
         "type": 4,
         "language": "ja",
         "title": "オナホ教室 ~女子全員妊娠計画~ THE ANIMATION"
-      }
-    ]
-  },
-  {
-    "id": 19927,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Onaji Zemi no Someya-san ga Sexy Joyuu Datta Hanashi."
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "同じゼミの染谷さんがセクシー女優だった話。"
       }
     ]
   },
