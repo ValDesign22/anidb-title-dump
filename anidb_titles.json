@@ -59040,6 +59040,31 @@
     ]
   },
   {
+    "id": 19327,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "All Works Maid"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Heroine? Saint? No, I`m an All-Works Maid (And Proud of It)!"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Heroine? Seijo? Iie, All Works Maid Desu (Hokori)!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ヒロイン? 聖女? いいえ, オールワークスメイドです (誇)!"
+      }
+    ]
+  },
+  {
     "id": 19208,
     "titles": [
       {
@@ -102485,7 +102510,7 @@
       {
         "type": 4,
         "language": "en",
-        "title": "BAKI-DOU: The Invincible Samurai"
+        "title": "Baki-Dou: The Invincible Samurai"
       },
       {
         "type": 4,
@@ -179630,6 +179655,26 @@
     ]
   },
   {
+    "id": 20123,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Classroom of the Elite 5th Season"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ようこそ実力至上主義の教室へ 5th Season"
+      }
+    ]
+  },
+  {
     "id": 17208,
     "titles": [
       {
@@ -235383,6 +235428,11 @@
         "title": "Dragonite and the Postman"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Kairyu and the Mail Carrier"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Kairyuu to Yuubin`ya-san"
@@ -244978,7 +245028,7 @@
         "title": "Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Miss Kobayashi`s Dragon Maid: A Lonely Dragon Wants to Be Loved"
       },
@@ -304608,14 +304658,14 @@
     "id": 19703,
     "titles": [
       {
-        "type": 4,
-        "language": "en",
-        "title": "given Moments in Life"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Given: 10th Mix"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Given: Moments in Life"
       },
       {
         "type": 4,
@@ -335915,26 +335965,6 @@
     ]
   },
   {
-    "id": 19327,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Heroine? Saint? No, I`m an All-Works Maid (And Proud of It)!"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Heroine? Seijo? Iie, All Works Maid Desu (Ko)!"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ヒロイン? 聖女? いいえ, オールワークスメイドです (誇)!"
-      }
-    ]
-  },
-  {
     "id": 7412,
     "titles": [
       {
@@ -352079,6 +352109,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Show Me Your Panties While You Give Me That Disgusted Look"
+      },
+      {
+        "type": 4,
         "language": "ko",
         "title": "싫은 얼굴을 하면서 팬티 보여줬으면 한다"
       },
@@ -352126,6 +352161,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "IyaPan S2"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Show Me Your Panties While You Give Me That Disgusted Look (2019)"
       },
       {
         "type": 4,
@@ -362106,6 +362146,11 @@
         "type": 4,
         "language": "en",
         "title": "Ingoku Danchi: Deviant`s Apartment Complex"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "음옥단지"
       },
       {
         "type": 4,
@@ -476149,6 +476194,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "The Diary of Ochibi-san"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "オチビサン"
       },
@@ -505655,6 +505705,21 @@
     ]
   },
   {
+    "id": 20122,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Re:bel Robotica"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "レベルロボチカ"
+      }
+    ]
+  },
+  {
     "id": 18201,
     "titles": [
       {
@@ -515213,19 +515278,19 @@
     "id": 19775,
     "titles": [
       {
+        "type": 2,
+        "language": "en",
+        "title": "Sakamoto Days (2027)"
+      },
+      {
         "type": 1,
         "language": "x-jat",
-        "title": "Sakamoto Days 2"
+        "title": "Sakamoto Days (2027)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "SAKAMOTO DAYS 2"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Sakamoto Days 2"
+        "title": "SAKAMOTO DAYS (2027)"
       }
     ]
   },
