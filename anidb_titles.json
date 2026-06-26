@@ -106925,6 +106925,21 @@
     ]
   },
   {
+    "id": 20129,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Banjjagbanjjag Catch! Tiniping"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "반짝반짝 캐치! 티니핑"
+      }
+    ]
+  },
+  {
     "id": 4,
     "titles": [
       {
@@ -274100,6 +274115,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Frieren 3"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Frieren: Beyond Journey`s End (2027)"
       },
       {
@@ -283221,6 +283241,41 @@
         "type": 4,
         "language": "ja",
         "title": "銀河探査2100年 ボーダープラネット"
+      }
+    ]
+  },
+  {
+    "id": 8923,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Galaxy Kickoff!!"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ginga e Kickoff!!"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Victory Kickoff !!"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Victory Kickoff: Pontapé de Saída"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "銀河へキックオフ!!"
+      },
+      {
+        "type": 2,
+        "language": "x-unk",
+        "title": "银河KICK OFF！！"
       }
     ]
   },
@@ -298210,6 +298265,26 @@
     ]
   },
   {
+    "id": 20127,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Getting Shots on a Frying Pan"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Nabe ni Tama o Ukenagara"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "鍋に弾丸を受けながら"
+      }
+    ]
+  },
+  {
     "id": 17512,
     "titles": [
       {
@@ -302451,36 +302526,6 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "银盘万花筒"
-      }
-    ]
-  },
-  {
-    "id": 8923,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Ginga e Kickoff!!"
-      },
-      {
-        "type": 4,
-        "language": "fr",
-        "title": "Victory Kickoff !!"
-      },
-      {
-        "type": 4,
-        "language": "pt",
-        "title": "Victory Kickoff: Pontapé de Saída"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "銀河へキックオフ!!"
-      },
-      {
-        "type": 2,
-        "language": "x-unk",
-        "title": "银河KICK OFF！！"
       }
     ]
   },
@@ -308296,6 +308341,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "蟑螂娘"
+      }
+    ]
+  },
+  {
+    "id": 20128,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gokigen`you, Ikkyoku Ikaga?"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Good Day to You, How About a Game?"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ごきげんよう, 一局いかが?"
       }
     ]
   },
@@ -324100,12 +324165,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Hamehara: Sore Sekuhara Desu!"
+        "title": "Hamehara"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "ハメハラ ~それセクハラですっ~"
+        "title": "ハメハラ"
       }
     ]
   },
@@ -474495,6 +474560,21 @@
     ]
   },
   {
+    "id": 20125,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "NTR Kishi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "NTR騎士"
+      }
+    ]
+  },
+  {
     "id": 16106,
     "titles": [
       {
@@ -484246,11 +484326,6 @@
         "type": 1,
         "language": "x-jat",
         "title": "Otaku no Boku ga Ichigun Gal to Tsukiaeru made no Hanashi"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Otaku no Boku ga Ichigun Gal to Tsukiaerumade no Hanashi"
       },
       {
         "type": 2,
@@ -541890,6 +541965,26 @@
     ]
   },
   {
+    "id": 20126,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sudachi no Maou-jou"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Fledgling Demon Lord`s Starter Shop"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "すだちの魔王城"
+      }
+    ]
+  },
+  {
     "id": 6807,
     "titles": [
       {
@@ -579361,6 +579456,21 @@
         "type": 4,
         "language": "ja",
         "title": "絶体絶命でんぢゃらすじーさん (2005)"
+      }
+    ]
+  },
+  {
+    "id": 20124,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhan Shen: Fanchen Shenyu II"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "斩神之凡尘神域 2"
       }
     ]
   },
