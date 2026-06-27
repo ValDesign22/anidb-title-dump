@@ -60300,6 +60300,21 @@
     ]
   },
   {
+    "id": 20130,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Alssongdalssong Catch! Tiniping"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "알쏭달쏭 캐치! 티니핑"
+      }
+    ]
+  },
+  {
     "id": 12651,
     "titles": [
       {
@@ -120176,6 +120191,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "镖人 贰"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "镖人2"
       }
     ]
   },
@@ -268843,7 +268863,7 @@
     "id": 18190,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Fist of the North Star (2026)"
       },
@@ -268861,6 +268881,26 @@
         "type": 4,
         "language": "ja",
         "title": "北斗の拳  (2026)"
+      }
+    ]
+  },
+  {
+    "id": 20134,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Fist of the North Star (2027)"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hokuto no Ken (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "北斗の拳 (2027)"
       }
     ]
   },
@@ -310221,6 +310261,11 @@
         "type": 2,
         "language": "ar",
         "title": "قوطي"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "ゴシック"
       }
     ]
   },
@@ -383351,6 +383396,26 @@
         "type": 4,
         "language": "ja",
         "title": "彼女はゾンビ"
+      }
+    ]
+  },
+  {
+    "id": 20136,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kanojo, Okarishimasu 6"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Rent-a-Girlfriend 6"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "彼女, お借りします 6"
       }
     ]
   },
@@ -498465,6 +498530,21 @@
     ]
   },
   {
+    "id": 20137,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Princess Catch! Tiniping"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "프린세스 캐치! 티니핑"
+      }
+    ]
+  },
+  {
     "id": 20013,
     "titles": [
       {
@@ -506235,6 +506315,26 @@
     ]
   },
   {
+    "id": 20135,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Record of Ragnarok IV"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shuumatsu no Walkure IV"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "終末のワルキューレIV"
+      }
+    ]
+  },
+  {
     "id": 12438,
     "titles": [
       {
@@ -513765,6 +513865,21 @@
     ]
   },
   {
+    "id": 20132,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Saekomdalkom Catch! Tiniping"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "새콤달콤 캐치! 티니핑"
+      }
+    ]
+  },
+  {
     "id": 15395,
     "titles": [
       {
@@ -516221,6 +516336,21 @@
         "type": 2,
         "language": "ja",
         "title": "沙羅曼陀 (incorrect)"
+      }
+    ]
+  },
+  {
+    "id": 20138,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Salangui Hachyuping"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "사랑의 하츄핑"
       }
     ]
   },
@@ -531260,6 +531390,21 @@
     ]
   },
   {
+    "id": 20133,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Shooting Star Catch! Tiniping"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "슈팅스타 캐치! 티니핑"
+      }
+    ]
+  },
+  {
     "id": 18405,
     "titles": [
       {
@@ -534175,6 +534320,76 @@
     ]
   },
   {
+    "id": 20124,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Slay The Gods 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Slay The Gods 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Slay the Gods Ⅱ"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Slay The Gods Season 2"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Zhan Shen 2"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Zhan Shen: Fanchen Shenyu 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Zhan Shen: Fanchen Shenyu Di Er Ji"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhan Shen: Fanchen Shenyu II"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "斩神2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "斩神之凡尘神域 第2季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "斩神之凡尘神域 第二季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "斩神之凡尘神域2"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "斩神之凡尘神域Ⅱ"
+      }
+    ]
+  },
+  {
     "id": 350,
     "titles": [
       {
@@ -534896,6 +535111,26 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "凍結地球"
+      }
+    ]
+  },
+  {
+    "id": 20131,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Snowball Earth 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Snowball Earth 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "スノウボールアース 2"
       }
     ]
   },
@@ -579456,21 +579691,6 @@
         "type": 4,
         "language": "ja",
         "title": "絶体絶命でんぢゃらすじーさん (2005)"
-      }
-    ]
-  },
-  {
-    "id": 20124,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Zhan Shen: Fanchen Shenyu II"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "斩神之凡尘神域 2"
       }
     ]
   },
