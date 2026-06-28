@@ -64505,6 +64505,31 @@
     ]
   },
   {
+    "id": 19894,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Anatolia Story"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Red River"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sora wa Akai Kawa no Hotori"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "天は赤い河のほとり"
+      }
+    ]
+  },
+  {
     "id": 131,
     "titles": [
       {
@@ -212443,6 +212468,11 @@
         "title": "Kimetsu no Yaiba: Hashira Geiko Hen"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "KnY s5"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "鬼滅の刃 柱稽古編"
@@ -212511,6 +212541,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kimetsu no Yaiba: Katanakaji no Sato Hen"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "KnY s4"
       },
       {
         "type": 4,
@@ -332383,7 +332418,7 @@
     "id": 19978,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing (2026)"
       },
@@ -366380,7 +366415,7 @@
       {
         "type": 4,
         "language": "en",
-        "title": "The Forsaken Saintess and Her Foodie Road Trip in Another World"
+        "title": "The Forsaken Saintess and Her Foodie Roadtrip in Another World"
       },
       {
         "type": 4,
@@ -392351,6 +392386,26 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "殺手青春"
+      }
+    ]
+  },
+  {
+    "id": 20139,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kill Ao 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Kill Blue 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "キルアオ 2"
       }
     ]
   },
@@ -485073,6 +485128,11 @@
         "title": "The Angel Next Door Spoils Me Rotten 2"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "The Angel Next Door Spoils Me Rotten Season 2"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "お隣の天使様にいつの間にか駄目人間にされていた件2"
@@ -506641,26 +506701,6 @@
         "type": 4,
         "language": "ja",
         "title": "赤い太鼓橋"
-      }
-    ]
-  },
-  {
-    "id": 19894,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Red River"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Sora wa Akai Kawa no Hotori"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "天は赤い河のほとり"
       }
     ]
   },
