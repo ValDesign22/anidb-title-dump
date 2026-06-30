@@ -309045,21 +309045,6 @@
     ]
   },
   {
-    "id": 20001,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ゴールデンカムイ 稲妻強盗と蝮のお銀 / シマエナガ"
-      }
-    ]
-  },
-  {
     "id": 19475,
     "titles": [
       {
@@ -458285,6 +458270,21 @@
     ]
   },
   {
+    "id": 20146,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara The Animation"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "無自覚な幼馴染と興味本位でヤってみたら THE ANIMATION"
+      }
+    ]
+  },
+  {
     "id": 19485,
     "titles": [
       {
@@ -559461,6 +559461,26 @@
         "type": 4,
         "language": "ja",
         "title": "とんがり頭のごん太 ー2つの名前を生きた福島被災犬の物語ー"
+      }
+    ]
+  },
+  {
+    "id": 20145,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tongari Boushi no Atelier 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Witch Hat Atelier 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "とんがり帽子のアトリエ 2"
       }
     ]
   },
