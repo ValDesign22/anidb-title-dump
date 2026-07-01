@@ -9463,7 +9463,7 @@
         "title": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na Hyakunin no Kanojo (2026)"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (2026)"
       },
@@ -64538,7 +64538,7 @@
         "title": "Anatolia Story"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Red River"
       },
@@ -100485,6 +100485,26 @@
     ]
   },
   {
+    "id": 20151,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Bai Ri Cheng Wang"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Crowned in a Hundred Days"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "百日成王"
+      }
+    ]
+  },
+  {
     "id": 19082,
     "titles": [
       {
@@ -106700,6 +106720,11 @@
       {
         "type": 1,
         "language": "x-jat",
+        "title": "Bang Dream! Yumemita"
+      },
+      {
+        "type": 4,
+        "language": "en",
         "title": "Bang Dream! Yumemita"
       },
       {
@@ -166430,6 +166455,26 @@
     ]
   },
   {
+    "id": 20149,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Chibi Godzilla no Gyakushuu (2026)"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Chibi Godzilla Raids Again (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ちびゴジラの逆襲 (2026)"
+      }
+    ]
+  },
+  {
     "id": 7420,
     "titles": [
       {
@@ -168806,6 +168851,21 @@
         "type": 4,
         "language": "ja",
         "title": "地球防衛企業ダイ・ガード"
+      }
+    ]
+  },
+  {
+    "id": 20148,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Chikyuu Daisuki! Kikkun"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "地球大好き! きっくん"
       }
     ]
   },
@@ -235566,6 +235626,36 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "龙机传承"
+      }
+    ]
+  },
+  {
+    "id": 19232,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Draw This, Then Die!"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kore Kaite Shine"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "kore shine"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "これ描いて死ね"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "これ死ね"
       }
     ]
   },
@@ -311618,7 +311708,7 @@
     "id": 19600,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Grand Blue Dreaming Season 3"
       },
@@ -330866,6 +330956,31 @@
         "type": 4,
         "language": "ja",
         "title": "心予報"
+      }
+    ]
+  },
+  {
+    "id": 19976,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Heart Mark Motto Oome."
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "하트마크 듬뿍"
+      },
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "はーとまーく多[もっと]め."
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "はーとまーく多め."
       }
     ]
   },
@@ -365173,7 +365288,7 @@
     "id": 19768,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Iron Wok Jan!"
       },
@@ -367846,6 +367961,11 @@
         "type": 2,
         "language": "en",
         "title": "Recommendation from Mr. Iwamoto"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Recommendations from Iwamoto-Senpai"
       },
       {
         "type": 4,
@@ -403510,31 +403630,6 @@
     ]
   },
   {
-    "id": 19232,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kore Kaite Shine"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "kore shine"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "これ描いて死ね"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "これ死ね"
-      }
-    ]
-  },
-  {
     "id": 11377,
     "titles": [
       {
@@ -405500,6 +405595,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Seirei Gensouki: Spirit Chronicles"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "Seirei Gensouki: Spirit Chronicles"
       },
       {
@@ -418581,6 +418681,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Let`s Go Kaiki-gumi"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Let`s Go Kaikigumi"
       },
       {
         "type": 4,
@@ -440860,6 +440965,26 @@
     ]
   },
   {
+    "id": 20150,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Marriage Toxin (2027)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Marriage Toxin (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "マリッジトキシン (2027)"
+      }
+    ]
+  },
+  {
     "id": 20074,
     "titles": [
       {
@@ -458296,6 +458421,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara o Tarenagasu"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu"
       },
       {
         "type": 4,
@@ -480403,7 +480533,7 @@
         "title": "One Piece Novel Heroines"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "One Piece: Heroines"
       }
@@ -485656,26 +485786,6 @@
         "type": 4,
         "language": "ja",
         "title": "OVA フラチ"
-      }
-    ]
-  },
-  {
-    "id": 19976,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "OVA Heart Mark Oome."
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "OVA はーとまーく多め."
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "하트마크 듬뿍"
       }
     ]
   },
@@ -512708,7 +512818,7 @@
         "title": "ryoumin0"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Frontier Lord Begins with Zero Subjects"
       },
@@ -520838,6 +520948,11 @@
         "title": "Seirei Gensouki: Spirit Chronicles 2"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "Seirei Gensouki: Spirit Chronicles 2"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "Seirei Gensouki: Spirit Chronicles Season 2"
@@ -524276,6 +524391,26 @@
         "type": 4,
         "language": "ja",
         "title": "戦争が終わった夏に 1945・樺太 [からふと]"
+      }
+    ]
+  },
+  {
+    "id": 20147,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sensou Kyoushitsu"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Bugle Call: Song of War"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "戦奏教室"
       }
     ]
   },
@@ -534465,12 +534600,22 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Slay The Gods S2"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Slay The Gods Season 2"
       },
       {
         "type": 2,
         "language": "x-zht",
         "title": "Zhan Shen 2"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Zhan Shen S2"
       },
       {
         "type": 2,
