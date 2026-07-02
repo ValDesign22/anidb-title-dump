@@ -52870,51 +52870,6 @@
     ]
   },
   {
-    "id": 19513,
-    "titles": [
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Akane Banashi"
-      },
-      {
-        "type": 4,
-        "language": "es-419",
-        "title": "Akane-banashi"
-      },
-      {
-        "type": 4,
-        "language": "pt-BR",
-        "title": "Akane-banashi"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Akane-banashi"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Akanebanashi"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "あかね噺"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "朱音落語"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "落语朱音"
-      }
-    ]
-  },
-  {
     "id": 6025,
     "titles": [
       {
@@ -53041,6 +52996,41 @@
         "type": 4,
         "language": "ja",
         "title": "茜ハ摘マレ染メラレル"
+      }
+    ]
+  },
+  {
+    "id": 19513,
+    "titles": [
+      {
+        "type": 4,
+        "language": "es-419",
+        "title": "Akane-banashi"
+      },
+      {
+        "type": 4,
+        "language": "pt-BR",
+        "title": "Akane-banashi"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Akane-banashi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "あかね噺"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "朱音落語"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "落语朱音"
       }
     ]
   },
@@ -143925,6 +143915,11 @@
       {
         "type": 2,
         "language": "x-jat",
+        "title": "Bubble de House de Marumarumaru The Animation"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
         "title": "Bubble de House de OOO The Animation"
       },
       {
@@ -145211,6 +145206,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Bungou Stray Dogs Wan! 2"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Bungou Stray Dogs Wan! S2"
       },
       {
         "type": 4,
@@ -300050,12 +300050,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Ghost (2027)"
+        "title": "Ghost / Yoru no Hate"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "ghost (2027)"
+        "title": "ghost / 夜の果て"
       }
     ]
   },
@@ -325303,6 +325303,11 @@
         "title": "Hanazakari no Kimitachi e (2026)"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Hanazakari no Kimitachi e S2"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "花ざかりの君たちへ (2026)"
@@ -328026,21 +328031,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "后宫时间"
-      }
-    ]
-  },
-  {
-    "id": 20028,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Harem-jima e Youkoso!"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ハーレム島へようこそ！"
       }
     ]
   },
@@ -350061,6 +350051,11 @@
         "type": 2,
         "language": "en",
         "title": "Hypnosis Academy"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Saimin ☆ Gakuen"
       },
       {
         "type": 1,
@@ -535536,6 +535531,31 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "飞吧！伊莎美"
+      }
+    ]
+  },
+  {
+    "id": 20152,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Soara and Monster`s House"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Soara and the House of Monsters"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Soara to Mamono no Ie"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ソアラと魔物の家"
       }
     ]
   },
