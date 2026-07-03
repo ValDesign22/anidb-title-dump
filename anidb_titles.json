@@ -6920,12 +6920,12 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "〈物語〉シリーズ オフ＆モンスターシーズン (新エピソード)"
+        "title": "〈物語〉シリーズ オフ＆モンスターシーズン 業物語 かれんオウガ"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Monogatari Series: Off & Monster Season (Shin Episode)"
+        "title": "Monogatari Series: Off & Monster Season - Wazamonogatari: Karen Ogre"
       }
     ]
   },
@@ -55057,6 +55057,11 @@
   {
     "id": 9483,
     "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Aku no Onna Kanbu: Full Moon Night"
+      },
       {
         "type": 1,
         "language": "x-jat",
@@ -118700,6 +118705,21 @@
     ]
   },
   {
+    "id": 20155,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Beyond the Boundary: I`ll Be Here - Future"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Kyôkai no Kanata: mirai-hen"
+      }
+    ]
+  },
+  {
     "id": 15719,
     "titles": [
       {
@@ -120950,6 +120970,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Big Brother 4th Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "My Senior Brother Is Too Steady 4th Season"
       },
       {
@@ -120970,7 +120995,7 @@
       {
         "type": 2,
         "language": "x-zht",
-        "title": "Shixiong A Shixiong Nian Fan 2"
+        "title": "Shixiong A Shixiong: Nian Fan 2"
       },
       {
         "type": 2,
@@ -120981,6 +121006,36 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "师兄啊师兄 第四季"
+      }
+    ]
+  },
+  {
+    "id": 20153,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Big Brother Final Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "My Senior Brother Is Too Steady Final Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shixiong A Shixiong: Zuizhong Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "师兄啊师兄 最终季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "师兄啊师兄 年番3"
       }
     ]
   },
@@ -162878,7 +162933,7 @@
     "id": 19873,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Chainsmoker Cat"
       },
@@ -181612,6 +181667,11 @@
   {
     "id": 20041,
     "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Coiled Dragon"
+      },
       {
         "type": 4,
         "language": "en",
@@ -202360,7 +202420,7 @@
       {
         "type": 4,
         "language": "en",
-        "title": "Dara-san of Reiwa"
+        "title": "Dara-san of the Reiwa Era"
       },
       {
         "type": 1,
@@ -225706,6 +225766,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "Dodge Danko"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Flaming Dodgeball Girl Danko"
       },
       {
         "type": 1,
@@ -336799,6 +336864,11 @@
       },
       {
         "type": 2,
+        "language": "x-jat",
+        "title": "HHH Triple Ecchi"
+      },
+      {
+        "type": 2,
         "language": "ja",
         "title": "HHH トリプルエッチ"
       },
@@ -362948,6 +363018,11 @@
         "title": "Inmu 2"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Inmu 2: Chijoku no Kaniku Matsuri"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Inmu 2: Flesh Dreams"
@@ -371261,6 +371336,11 @@
         "type": 2,
         "language": "en",
         "title": "Jiburiru: The Devil Angel 2"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Makai Tenshi Djibril 2"
       },
       {
         "type": 1,
@@ -436665,6 +436745,26 @@
     ]
   },
   {
+    "id": 20154,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Majo to Ryouken"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Witch and Hound"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔女と猟犬"
+      }
+    ]
+  },
+  {
     "id": 17575,
     "titles": [
       {
@@ -440903,6 +441003,11 @@
     "id": 9491,
     "titles": [
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Marriage Blue"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Marriage Blue: \"Kon`yakusha ga Iru no ni, Doushite Konna Otoko ni......\""
@@ -440911,6 +441016,11 @@
         "type": 2,
         "language": "ko",
         "title": "메리지 블루"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "マリッジブルー"
       },
       {
         "type": 4,
@@ -470578,6 +470688,11 @@
         "title": "Nige Jouzu no Wakagimi (2026)"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Nigewaka 2"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "The Elusive Samurai (2026)"
@@ -479270,6 +479385,36 @@
     ]
   },
   {
+    "id": 8241,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Ona x2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Onanie"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Onax2"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "오나x2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "オナ×2"
+      }
+    ]
+  },
+  {
     "id": 13379,
     "titles": [
       {
@@ -479346,31 +479491,6 @@
         "type": 4,
         "language": "ja",
         "title": "おなか姫"
-      }
-    ]
-  },
-  {
-    "id": 8241,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Onanie"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Onax2"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "오나x2"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "オナ×2"
       }
     ]
   },
@@ -482751,6 +482871,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Oppai Infinity"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Oppai Infinity! The Animation"
       },
       {
         "type": 4,
