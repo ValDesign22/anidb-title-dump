@@ -3985,7 +3985,7 @@
       {
         "type": 4,
         "language": "en",
-        "title": "The Duke`s Son Claims He Won`t Love Me Yet Showers Me with Adoration"
+        "title": "The Duke`s Son Claims He Won`t Love Me, But Showers Me with Adoration"
       },
       {
         "type": 3,
@@ -73253,7 +73253,7 @@
         "title": "Ao Ashi Season 2"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Aoashi Season 2"
       },
@@ -164785,6 +164785,21 @@
     ]
   },
   {
+    "id": 20161,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Cheat Item Kanrikyoku no Oshigoto EX"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "チートアイテム管理局のお仕事EX〜散々ヤラれた後だし、どうせ全部忘れるから、被害者つまみ食いしてもいいよね〜"
+      }
+    ]
+  },
+  {
     "id": 17749,
     "titles": [
       {
@@ -213518,7 +213533,7 @@
         "title": "Dengeki Daisy"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Dengeki Daisy"
       },
@@ -280988,7 +281003,7 @@
     "id": 19358,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Gacha Girls Corps"
       },
@@ -284196,6 +284211,11 @@
         "type": 4,
         "language": "ja",
         "title": "オタクに優しいギャルはいない!?"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "没有辣妹会对阿宅温柔！？"
       }
     ]
   },
@@ -290870,17 +290890,17 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Gekijouban Kusuriya no Hitorigoto"
+        "title": "Gekijouban Kusuriya no Hitorigoto: Bouhi no Hihou"
       },
       {
         "type": 2,
         "language": "en",
-        "title": "The Apothecary Diaries the Movie"
+        "title": "The Apothecary Diaries the Movie: The Deceased Empress` Treasure"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "劇場版 薬屋のひとりごと"
+        "title": "劇場版 薬屋のひとりごと 亡妃の秘宝"
       }
     ]
   },
@@ -292331,6 +292351,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "海贼王 狂热行动"
+      }
+    ]
+  },
+  {
+    "id": 20162,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Ore dake Level Up na Ken: Beyond the System"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Solo Leveling: Beyond the System"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版 俺だけレベルアップな件 -Beyond the System-"
       }
     ]
   },
@@ -332240,6 +332280,31 @@
     ]
   },
   {
+    "id": 20159,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Heir to a Monstermancer"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mamono Tsukai no Musume"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Monster Master Girl"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔物使いの娘"
+      }
+    ]
+  },
+  {
     "id": 1943,
     "titles": [
       {
@@ -332580,6 +332645,31 @@
     ]
   },
   {
+    "id": 19978,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Hell Mode S2"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing (2026)"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~ (2026)"
+      }
+    ]
+  },
+  {
     "id": 19029,
     "titles": [
       {
@@ -332606,26 +332696,6 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～"
-      }
-    ]
-  },
-  {
-    "id": 19978,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing (2026)"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru (2026)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~ (2026)"
       }
     ]
   },
@@ -335876,6 +335946,26 @@
         "type": 4,
         "language": "ja",
         "title": "三つ目がとおる"
+      }
+    ]
+  },
+  {
+    "id": 20163,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Here U Are"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Here U Are"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Here U Are"
       }
     ]
   },
@@ -374653,6 +374743,11 @@
         "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "追放された転生重騎士はゲーム知識で無双する"
@@ -379106,6 +379201,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Otome Kaijuu Caramelise"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Otome Kaijuu Carameliser"
       },
       {
         "type": 4,
@@ -383606,6 +383706,21 @@
         "type": 4,
         "language": "ja",
         "title": "彼女の友達"
+      }
+    ]
+  },
+  {
+    "id": 20160,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kanojo Saimin"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "彼女催眠"
       }
     ]
   },
@@ -390398,7 +390513,7 @@
         "title": "Ki ni Natteru Hito ga Otoko ja Nakatta"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Guy She Was Interested In Wasn`t a Guy at All"
       },
@@ -442105,26 +442220,6 @@
     ]
   },
   {
-    "id": 18653,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Mashle (Zokuhen)"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Mashle: Tri-Magic-Athalon Divine Visionary Final Exam Arc"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "マッシュル 三魔対争神覚者最終試験編"
-      }
-    ]
-  },
-  {
     "id": 18088,
     "titles": [
       {
@@ -442161,6 +442256,26 @@
         "type": 2,
         "language": "zh-Hant",
         "title": "肌肉魔法使-MASHLE- 神覺者候補選拔試驗篇"
+      }
+    ]
+  },
+  {
+    "id": 18653,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mashle: Sanma Taisou Shinkakusha Saishuu Shiken Hen"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Mashle: Tri-Magic-Athalon Divine Visionary Final Exam Arc"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "マッシュル 三魔対争神覚者最終試験編"
       }
     ]
   },
@@ -485471,6 +485586,11 @@
         "type": 4,
         "language": "ja",
         "title": "お隣の天使様にいつの間にか駄目人間にされていた件2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "关于邻家的天使大人不知不觉把我惯成了废人这档子事 2"
       }
     ]
   },
@@ -494421,6 +494541,36 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "喜羊羊与灰太狼之牛气冲天"
+      }
+    ]
+  },
+  {
+    "id": 19755,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Please Excuse My Younger Brothers"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Sorry About My Little Brothers"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Sorry About My Younger Brothers!"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Uchi no Otouto-domo ga Sumimasen"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "うちの弟どもがすみません"
       }
     ]
   },
@@ -506371,6 +506521,11 @@
         "type": 4,
         "language": "ja",
         "title": "Re:ゼロから始める異世界生活 (2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "Re：从零开始的异世界生活 第四季"
       },
       {
         "type": 3,
@@ -532758,7 +532913,7 @@
         "title": "Shuiro no Kamen"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Vermilion Mask"
       },
@@ -537600,26 +537755,6 @@
     ]
   },
   {
-    "id": 19755,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Sorry About My Little Brotherss"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Uchi no Otouto-domo ga Sumimasen"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "うちの弟どもがすみません"
-      }
-    ]
-  },
-  {
     "id": 7567,
     "titles": [
       {
@@ -540860,17 +540995,17 @@
     ]
   },
   {
-    "id": 19299,
+    "id": 20156,
     "titles": [
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "Star Wars: Visions Presents - The Ninth Jedi"
-      },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Star Wars: Visions Presents - The Ninth Jedi"
+        "title": "Star Wars: Visions / Kyuuhitome no Jedi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "スター・ウォーズ：ビジョンズ／九人目のジェダイ"
       }
     ]
   },
@@ -548983,7 +549118,7 @@
         "title": "Tate no Yuusha no Nariagari Season 5"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Rising of the Shield Hero Season 5"
       },
