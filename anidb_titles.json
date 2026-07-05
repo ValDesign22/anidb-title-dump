@@ -3983,6 +3983,11 @@
         "title": "kimi ai"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Kimiai (2026)"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "The Duke`s Son Claims He Won`t Love Me, But Showers Me with Adoration"
@@ -169750,6 +169755,26 @@
     ]
   },
   {
+    "id": 20167,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Chillin` in Another World with Level 2 Super Cheat Powers 2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Lv2 kara Cheat Datta Moto Yuusha Kouho no Mattari Isekai Life 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Lv2からチートだった元勇者候補のまったり異世界ライフ 2"
+      }
+    ]
+  },
+  {
     "id": 11125,
     "titles": [
       {
@@ -210015,17 +210040,17 @@
       {
         "type": 2,
         "language": "en",
-        "title": "Delicious in Dungeon 2"
+        "title": "Delicious in Dungeon Season 2"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Dungeon Meshi 2"
+        "title": "Dungeon Meshi Season 2"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "ダンジョン飯 2"
+        "title": "ダンジョン飯 Season2"
       }
     ]
   },
@@ -281528,6 +281553,11 @@
         "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu II"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu S2"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Skeleton Knight in Another World II"
@@ -301053,14 +301083,14 @@
     "id": 19093,
     "titles": [
       {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Ghost of Tsushima: Legends"
-      },
-      {
         "type": 4,
         "language": "ja",
-        "title": "Ghost of Tsushima: Legends"
+        "title": "Ghost of Tsushima 冥人奇譚"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ghost of Tsushima: Kuroudo Kitan"
       },
       {
         "type": 2,
@@ -313872,6 +313902,11 @@
   {
     "id": 19473,
     "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Grow Up Show - Himawari no Circus-dan"
+      },
       {
         "type": 1,
         "language": "x-jat",
@@ -342235,6 +342270,26 @@
     ]
   },
   {
+    "id": 20166,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hitoribocchi no Isekai Kouryaku 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Loner Life in Another World 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ひとりぼっちの異世界攻略 2"
+      }
+    ]
+  },
+  {
     "id": 6456,
     "titles": [
       {
@@ -344976,6 +345031,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "红影一脉之一大文物背后的故事"
+      }
+    ]
+  },
+  {
+    "id": 20172,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Honnouji no Hen"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "本能寺の変"
       }
     ]
   },
@@ -348546,6 +348616,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "花开张美丽"
+      }
+    ]
+  },
+  {
+    "id": 20164,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Hua Xianzi: Mofa Xiang Dui Lun"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "花仙子之魔法香对论"
       }
     ]
   },
@@ -368125,7 +368210,7 @@
       {
         "type": 4,
         "language": "en",
-        "title": "Recommendations from Iwamoto-Senpai"
+        "title": "Recommendations from Iwamoto-senpai"
       },
       {
         "type": 4,
@@ -375335,12 +375420,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Jungle Taitei / Honnouji no Hen"
+        "title": "Jungle Taitei (2000)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "ジャングル大帝／本能寺の変"
+        "title": "ジャングル大帝 (2000)"
       }
     ]
   },
@@ -375916,6 +376001,26 @@
         "type": 4,
         "language": "ja",
         "title": "ジュラシックヒーローズ 星空の警備隊"
+      }
+    ]
+  },
+  {
+    "id": 20171,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Jurassic Shadows"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ryuugeshou no Shinobu"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "竜化粧の忍"
       }
     ]
   },
@@ -403646,6 +403751,26 @@
         "type": 4,
         "language": "ja",
         "title": "氷の城壁"
+      }
+    ]
+  },
+  {
+    "id": 20168,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Koori no Jouheki (2026)"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Ramparts of Ice (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "氷の城壁 (2026)"
       }
     ]
   },
@@ -432088,6 +432213,11 @@
         "title": "Magical Girl Lyrical Nanoha Exceeds: Gun Blaze Vengeance"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeance"
@@ -450835,6 +450965,26 @@
     ]
   },
   {
+    "id": 20169,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Milky Byway Spring Special: Kyoufu no Chelovin`s Day"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Milky Byway Spring Special: Terror on Chelovin`s Day"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ミルキー☆バイウェイ スプリングスペシャル \"恐怖のチェロビン・パーティー\""
+      }
+    ]
+  },
+  {
     "id": 6461,
     "titles": [
       {
@@ -459280,6 +459430,31 @@
     ]
   },
   {
+    "id": 20170,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Murcielago"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Murcielago"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "MURCIÉLAGO"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "ムルシエラゴ"
+      }
+    ]
+  },
+  {
     "id": 4393,
     "titles": [
       {
@@ -460126,6 +460301,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Mushoku Tensei S3"
       },
       {
         "type": 4,
@@ -513340,6 +513520,21 @@
     ]
   },
   {
+    "id": 20165,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "S Rank Boukensha de Aru Ore no Musume-tachi wa Juudo no Father-con Deshita"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Sランク冒険者である俺の娘たちは重度のファザコンでした"
+      }
+    ]
+  },
+  {
     "id": 5584,
     "titles": [
       {
@@ -541000,12 +541195,22 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Star Wars: Visions / Kyuuhitome no Jedi"
+        "title": "Star Wars: Visions / Kyuuninme no Jedi"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Star Wars: Visions Presents - The Ninth Jedi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Ninth Jedi"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "スター・ウォーズ：ビジョンズ／九人目のジェダイ"
+        "title": "スター・ウォーズ: ビジョンズ / 九人目のジェダイ"
       }
     ]
   },
