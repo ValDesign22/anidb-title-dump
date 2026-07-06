@@ -97263,6 +97263,11 @@
     "id": 18188,
     "titles": [
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Azur Lane - Bisoku Zenshin! S2"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Azur Lane: Bisoku Zenshin! Ni!!"
@@ -98576,6 +98581,26 @@
         "type": 4,
         "language": "ja",
         "title": "バビル2世 (2001)"
+      }
+    ]
+  },
+  {
+    "id": 20054,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Babies of Bread"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Pan no Akachan"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "パンの赤ちゃん"
       }
     ]
   },
@@ -120271,6 +120296,11 @@
         "type": 2,
         "language": "en",
         "title": "Blades of the Guardians S2"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "镖人 第2季"
       },
       {
         "type": 2,
@@ -215300,6 +215330,21 @@
     ]
   },
   {
+    "id": 20175,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Despera"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ですぺら"
+      }
+    ]
+  },
+  {
     "id": 791,
     "titles": [
       {
@@ -243756,6 +243801,36 @@
         "type": 4,
         "language": "ja",
         "title": "えがおのはな"
+      }
+    ]
+  },
+  {
+    "id": 19080,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "egbv"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Magical Girl Lyrical Nanoha Exceeds: Gun Blaze Vengeance"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeance"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance"
       }
     ]
   },
@@ -275881,6 +275956,21 @@
         "type": 2,
         "language": "ja",
         "title": "ふくびき!トライアングル～双葉はあたふた～"
+      }
+    ]
+  },
+  {
+    "id": 20177,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Fukufuku no Chizu"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ふくふくの地図"
       }
     ]
   },
@@ -332323,6 +332413,11 @@
         "title": "Heir to a Monstermancer"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "mamomusu"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Mamono Tsukai no Musume"
@@ -332331,6 +332426,11 @@
         "type": 2,
         "language": "en",
         "title": "Monster Master Girl"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "まもむす"
       },
       {
         "type": 4,
@@ -372975,6 +373075,21 @@
     ]
   },
   {
+    "id": 20174,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jiyi Guanli Ju (2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "记忆管理局 (2026)"
+      }
+    ]
+  },
+  {
     "id": 18363,
     "titles": [
       {
@@ -382991,6 +383106,26 @@
         "type": 4,
         "language": "ja",
         "title": "忍風カムイ外伝"
+      }
+    ]
+  },
+  {
+    "id": 19889,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Kamui: He`s behind you"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ushiro no Shoumen Kamui-san"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "うしろの正面カムイさん"
       }
     ]
   },
@@ -423135,6 +423270,21 @@
     ]
   },
   {
+    "id": 20176,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "Lollipop Chainsaw (Anime Project)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ロリポップチェーンソー"
+      }
+    ]
+  },
+  {
     "id": 20140,
     "titles": [
       {
@@ -432201,31 +432351,6 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "魔法少女奈葉Detonation"
-      }
-    ]
-  },
-  {
-    "id": 19080,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Magical Girl Lyrical Nanoha Exceeds: Gun Blaze Vengeance"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Mahou Shoujo Lyrical Nanoha Exceeds: Gun Blaze Vengeance"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance"
       }
     ]
   },
@@ -446238,6 +446363,11 @@
         "title": "Moi, quand je me réincarne en Slime (2021)"
       },
       {
+        "type": 4,
+        "language": "pl",
+        "title": "Odrodzony jako galaretaㅤ - Sezon 2 część 1"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Tensei Shitara Slime Datta Ken (2021)"
@@ -446306,6 +446436,11 @@
         "type": 4,
         "language": "de",
         "title": "Meine Wiedergeburt als Schleim in einer anderen Welt Staffel 3"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Odrodzony jako galaretaㅤ - Sezon 3"
       },
       {
         "type": 1,
@@ -446381,6 +446516,11 @@
         "type": 4,
         "language": "de",
         "title": "Meine Wiedergeburt als Schleim in einer anderen Welt Staffel 4"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Odrodzony jako galaretaㅤ - Sezon 4"
       },
       {
         "type": 1,
@@ -468276,6 +468416,11 @@
         "type": 4,
         "language": "ja",
         "title": "猫と竜"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "貓與龍"
       }
     ]
   },
@@ -471732,6 +471877,11 @@
   {
     "id": 14236,
     "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Nijusseiki Denki Mokuroku: Eureka Evrika"
+      },
       {
         "type": 1,
         "language": "x-jat",
@@ -477471,6 +477621,71 @@
         "type": 4,
         "language": "ja",
         "title": "おどるポケモンひみつ基地"
+      }
+    ]
+  },
+  {
+    "id": 15456,
+    "titles": [
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Odrodzony jako galaretaㅤ - Sezon 2 część 2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tensei Shitara Slime Datta Ken (2021 Dai 2 Bu)"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tensei shitara Slime Datta Ken 2nd Season Part 2"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tensei shitara Slime Datta Ken Season 2 Part 2"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Tensura (2021 Part 2)"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Tensura 2 Part 2"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "tensura s2.5"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "That Time I Got Reincarnated as a Slime (2021 Part 2)"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "전생했더니 슬라임이었던 건에 대하여 2기 2부"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "关于我转生变成史莱姆这档事 第二季 第2部分"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "転生したらスライムだった件 (2021 第2部)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "關於我轉生變成史萊姆這檔事 第二季 第2部分"
       }
     ]
   },
@@ -488261,21 +488476,6 @@
         "type": 4,
         "language": "ja",
         "title": "パンどろぼう"
-      }
-    ]
-  },
-  {
-    "id": 20054,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Pan no Akachan"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "パンの赤ちゃん"
       }
     ]
   },
@@ -513526,6 +513726,16 @@
         "type": 1,
         "language": "x-jat",
         "title": "S Rank Boukensha de Aru Ore no Musume-tachi wa Juudo no Father-con Deshita"
+      },
+      {
+        "type": 3,
+        "language": "en",
+        "title": "Sfather"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "Sファザ"
       },
       {
         "type": 4,
@@ -551330,66 +551540,6 @@
     ]
   },
   {
-    "id": 15456,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Tensei Shitara Slime Datta Ken (2021 Dai 2 Bu)"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Tensei shitara Slime Datta Ken 2nd Season Part 2"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Tensei shitara Slime Datta Ken Season 2 Part 2"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "Tensura (2021 Part 2)"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "Tensura 2 Part 2"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "tensura s2.5"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "That Time I Got Reincarnated as a Slime (2021 Part 2)"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "전생했더니 슬라임이었던 건에 대하여 2기 2부"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "关于我转生变成史莱姆这档事 第二季 第2部分"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "転生したらスライムだった件 (2021 第2部)"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "關於我轉生變成史萊姆這檔事 第二季 第2部分"
-      }
-    ]
-  },
-  {
     "id": 20052,
     "titles": [
       {
@@ -559735,6 +559885,21 @@
     ]
   },
   {
+    "id": 20173,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tomica Heroes Jobraver: Tokusou Gattai Robo Job Labor - Gyakushu no Joka!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "トミカヒーローズ ジョブレイバー 特装合体ロボ ジョブレイバー 逆襲のジョーカー！"
+      }
+    ]
+  },
+  {
     "id": 12721,
     "titles": [
       {
@@ -566841,21 +567006,6 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "潮与虎 第二季"
-      }
-    ]
-  },
-  {
-    "id": 19889,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Ushiro no Shoumen Kamui-san"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "うしろの正面カムイさん"
       }
     ]
   },
