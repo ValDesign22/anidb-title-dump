@@ -4169,6 +4169,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "Oshi no Ko: Mein Star - Season 2"
+      },
+      {
+        "type": 4,
         "language": "ru",
         "title": "Ребёнок идола 2"
       }
@@ -4206,6 +4211,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Oshi no Ko S3"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Oshi no Ko: Mein Star - Season 3"
       }
     ]
   },
@@ -9385,6 +9395,46 @@
     ]
   },
   {
+    "id": 19663,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "100 Girlfriends Season 3"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "100 Kanojo 3"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "hyakkano 3"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na Hyakunin no Kanojo (2026)"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (2026)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "君のことが大大大大大好きな100人の彼女 (2026)"
+      }
+    ]
+  },
+  {
     "id": 1001,
     "titles": [
       {
@@ -9446,36 +9496,6 @@
         "type": 4,
         "language": "ja",
         "title": "京極夏彦 巷説百物語"
-      }
-    ]
-  },
-  {
-    "id": 19663,
-    "titles": [
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "100 Kanojo 3"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "hyakkano 3"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na Hyakunin no Kanojo (2026)"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You (2026)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "君のことが大大大大大好きな100人の彼女 (2026)"
       }
     ]
   },
@@ -28431,6 +28451,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Buchigire Reijou wa Houfuku o Chikaimashita. Madousho no Chikara de Sokoku o Tatakitsubushimasu"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Buchigire Reijou wa Houfuku wo Chikaimashita"
       },
       {
         "type": 4,
@@ -215375,6 +215400,46 @@
     ]
   },
   {
+    "id": 14236,
+    "titles": [
+      {
+        "type": 4,
+        "language": "es-419",
+        "title": "Destellos del mañana"
+      },
+      {
+        "type": 4,
+        "language": "es",
+        "title": "Destellos del mañana"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Nijusseiki Denki Mokuroku: Eureka Evrika"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Nijuuseiki Denki Mokuroku: Eureka Evrika"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Sparks of Tomorrow"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Sparks of Tomorrow"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "二十世紀電氣目録-ユーレカ・エヴリカ-"
+      }
+    ]
+  },
+  {
     "id": 4547,
     "titles": [
       {
@@ -250748,7 +250813,7 @@
     "id": 19188,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Elegy for the Henchmen: Fist of the North Star"
       },
@@ -250766,6 +250831,26 @@
         "type": 4,
         "language": "ja",
         "title": "北斗の拳 拳王軍ザコたちの挽歌"
+      }
+    ]
+  },
+  {
+    "id": 20178,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Elegy for the Henchmen: Fist of the North Star (2026)"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hokuto no Ken: Ken`ou-gun Zako-tachi no Banka (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "北斗の拳 拳王軍ザコたちの挽歌 (2026)"
       }
     ]
   },
@@ -257506,6 +257591,36 @@
         "type": 4,
         "language": "ja",
         "title": "花織さんは転生しても喧嘩がしたい"
+      }
+    ]
+  },
+  {
+    "id": 19650,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Even Though I`m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "yowaki max"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yowaki Max Reijou na no ni, Ratsuwan Kon`yakusha-sama no Kake ni Notte Shimatta"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "弱気MAX"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "弱気MAX令嬢なのに, 辣腕婚約者様の賭けに乗ってしまった"
       }
     ]
   },
@@ -295336,6 +295451,21 @@
         "type": 4,
         "language": "ja",
         "title": "劇場版すとぷり はじまりの物語~Strawberry School Festival!!!~"
+      }
+    ]
+  },
+  {
+    "id": 17705,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Sword Art Online: Integral Domain"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版 ソードアート・オンライン - インテグラル・ドメイン -"
       }
     ]
   },
@@ -380611,6 +380741,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi o Shita."
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita."
       },
       {
         "type": 3,
@@ -471875,31 +472010,6 @@
     ]
   },
   {
-    "id": 14236,
-    "titles": [
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Nijusseiki Denki Mokuroku: Eureka Evrika"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Nijuuseiki Denki Mokuroku: Eureka Evrika"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Sparks of Tomorrow"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "二十世紀電氣目録-ユーレカ・エヴリカ-"
-      }
-    ]
-  },
-  {
     "id": 3132,
     "titles": [
       {
@@ -478116,6 +478226,11 @@
         "type": 4,
         "language": "en",
         "title": "Oh Boy, Was I Wrong About Her"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tenkosaki"
       },
       {
         "type": 1,
@@ -515593,6 +515708,11 @@
         "title": "Saikyou Degarashi Ouji no An`yaku Teii Arasoi: Munou o Enjiru SS Rank Ouji wa Koui Keishou-sen o Kage kara Shihai Suru"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "The Insipid Prince`s Furtive Grab for the Throne"
@@ -545161,21 +545281,6 @@
         "type": 4,
         "language": "ja",
         "title": "スイッチ"
-      }
-    ]
-  },
-  {
-    "id": 17705,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Sword Art Online (Original Gekijouban)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ソードアート・オンライン (オリジナル劇場版)"
       }
     ]
   },
@@ -577301,31 +577406,6 @@
         "type": 4,
         "language": "ja",
         "title": "弱い虫"
-      }
-    ]
-  },
-  {
-    "id": 19650,
-    "titles": [
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "yowaki max"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Yowaki Max Reijou na no ni, Ratsuwan Kon`yakusha-sama no Kake ni Notte Shimatta"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "弱気MAX"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "弱気MAX令嬢なのに, 辣腕婚約者様の賭けに乗ってしまった"
       }
     ]
   },
