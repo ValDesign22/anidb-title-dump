@@ -17510,6 +17510,26 @@
     ]
   },
   {
+    "id": 20179,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "7人の眠り姫"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Nananin no Nemuri Hime"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Seven Sleeping Beauties"
+      }
+    ]
+  },
+  {
     "id": 1352,
     "titles": [
       {
@@ -60359,8 +60379,28 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Secret Catch! Teenieping"
+      },
+      {
+        "type": 4,
+        "language": "mn",
+        "title": "Нууцлаг Бариарай! Тинипин"
+      },
+      {
+        "type": 4,
         "language": "ko",
         "title": "알쏭달쏭 캐치! 티니핑"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "シークレット キャッチ! ティニピン"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "魔法钥匙 奇妙! 萌可"
       }
     ]
   },
@@ -107074,8 +107114,28 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Twinkle Catch! Teenieping"
+      },
+      {
+        "type": 4,
+        "language": "mn",
+        "title": "Нүд гялбам Бариарай! Тинипин"
+      },
+      {
+        "type": 4,
         "language": "ko",
         "title": "반짝반짝 캐치! 티니핑"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "キラキラ キャッチ！ティニピン"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "闪亮宝石 奇妙! 萌可"
       }
     ]
   },
@@ -158454,6 +158514,16 @@
     "titles": [
       {
         "type": 4,
+        "language": "id",
+        "title": "Catch! Teenieping"
+      },
+      {
+        "type": 4,
+        "language": "es-419",
+        "title": "Catch! Teenieping Hadas De Las Emociones"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Catch! Teenieping: Fairies of Emotion"
       },
@@ -158464,6 +158534,26 @@
       },
       {
         "type": 4,
+        "language": "vi",
+        "title": "TRUY TÌM TIỂU TINH LINH"
+      },
+      {
+        "type": 4,
+        "language": "mn",
+        "title": "Бариарай! Тинипин"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Поймай Тинипин! Королевство Эмоций"
+      },
+      {
+        "type": 4,
+        "language": "tt",
+        "title": "Тиктормас Тинипин! Хисләр патшалыгы"
+      },
+      {
+        "type": 4,
         "language": "ko",
         "title": "캐치! 티니핑"
       },
@@ -158471,6 +158561,11 @@
         "type": 4,
         "language": "ja",
         "title": "キャッチ!ティニピン"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "奇妙! 萌可"
       }
     ]
   },
@@ -213255,6 +213350,41 @@
     ]
   },
   {
+    "id": 19237,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Demons Plan Something Good!"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ma no Mono-tachi wa Kuwadateru"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "manomono"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Demons Are Planning Something Good"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "魔のもの"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔のものたちは企てる"
+      }
+    ]
+  },
+  {
     "id": 19751,
     "titles": [
       {
@@ -215396,6 +215526,36 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "绝爱"
+      }
+    ]
+  },
+  {
+    "id": 20132,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Dessert Catch! Teenieping"
+      },
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Saekomdalkom Catch! Tiniping"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "새콤달콤 캐치! 티니핑"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "デザート キャッチ! ティニピン"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "魔法甜心 奇妙! 萌可"
       }
     ]
   },
@@ -352823,6 +352983,11 @@
         "title": "Kimi ga Shinu made Koi o Shitai"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Kimi ga Shinu made Koi wo Shitai"
+      },
+      {
         "type": 3,
         "language": "x-jat",
         "title": "kimi shinu"
@@ -422388,6 +422553,11 @@
         "title": "Odekake Kozame (2026)"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Odekake Kozame 2nd Season"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "おでかけ子ザメ (2026)"
@@ -429281,36 +429451,6 @@
         "type": 4,
         "language": "zh",
         "title": "妈妈咪鸭"
-      }
-    ]
-  },
-  {
-    "id": 19237,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Ma no Mono-tachi wa Kuwadateru"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "manomono"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Demons Are Planning Something Good"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "魔のもの"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "魔のものたちは企てる"
       }
     ]
   },
@@ -450341,6 +450481,36 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "陰陽眼見子"
+      }
+    ]
+  },
+  {
+    "id": 20180,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "migawari reijou"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Migawari Reijou o Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai Deshita"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Saved by the Ice Cold Prince`s Embrace"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "身代わり令嬢"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした"
       }
     ]
   },
@@ -478230,6 +478400,11 @@
       {
         "type": 2,
         "language": "x-jat",
+        "title": "tenbin"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
         "title": "Tenkosaki"
       },
       {
@@ -486605,26 +486780,6 @@
     ]
   },
   {
-    "id": 19971,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "OVA Paihame Kazoku"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "OVA パイハメ家族"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "젖통 삽입 가족"
-      }
-    ]
-  },
-  {
     "id": 19514,
     "titles": [
       {
@@ -488296,6 +488451,26 @@
         "type": 4,
         "language": "ko",
         "title": "파닥파닥"
+      }
+    ]
+  },
+  {
+    "id": 19971,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Paihame Kazoku"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "젖통 삽입 가족"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "パイハメ家族"
       }
     ]
   },
@@ -499553,6 +499728,11 @@
     "id": 20137,
     "titles": [
       {
+        "type": 4,
+        "language": "en",
+        "title": "Princess Catch! Teenieping"
+      },
+      {
         "type": 1,
         "language": "x-kot",
         "title": "Princess Catch! Tiniping"
@@ -499561,6 +499741,11 @@
         "type": 4,
         "language": "ko",
         "title": "프린세스 캐치! 티니핑"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "奇迹公主 奇妙! 萌可"
       }
     ]
   },
@@ -512545,6 +512730,26 @@
     ]
   },
   {
+    "id": 20183,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Ruguo Lishi Shi Yi Qun Miao (11)"
+      }
+    ]
+  },
+  {
+    "id": 20184,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Ruguo Lishi Shi Yi Qun Miao (13)"
+      }
+    ]
+  },
+  {
     "id": 16694,
     "titles": [
       {
@@ -512666,6 +512871,26 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "如果历史是一群喵 第六季"
+      }
+    ]
+  },
+  {
+    "id": 20181,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Ruguo Lishi Shi Yi Qun Miao (7)"
+      }
+    ]
+  },
+  {
+    "id": 20182,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Ruguo Lishi Shi Yi Qun Miao (9)"
       }
     ]
   },
@@ -514891,21 +515116,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "路人女主的养成方法 剧场版"
-      }
-    ]
-  },
-  {
-    "id": 20132,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-kot",
-        "title": "Saekomdalkom Catch! Tiniping"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "새콤달콤 캐치! 티니핑"
       }
     ]
   },
@@ -532459,8 +532669,18 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Star Catch! Teenieping"
+      },
+      {
+        "type": 4,
         "language": "ko",
         "title": "슈팅스타 캐치! 티니핑"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "闪耀流星 奇妙! 萌可"
       }
     ]
   },
@@ -546271,6 +546491,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Tai Ari Deshita. Ojou-sama wa Kakutou Game Nante Shinai"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai"
       },
       {
         "type": 4,
@@ -581420,6 +581645,31 @@
     ]
   },
   {
+    "id": 18462,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "zom ore"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Zombie no Afureta Sekai de Ore dake ga Osowarenai"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ゾンビのあふれた世界で俺だけが襲われない"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "ゾン俺"
+      }
+    ]
+  },
+  {
     "id": 16911,
     "titles": [
       {
@@ -581441,21 +581691,6 @@
         "type": 4,
         "language": "ja",
         "title": "ゾンビランドサガ ゆめぎんがパラダイス"
-      }
-    ]
-  },
-  {
-    "id": 18462,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Zombie no Afureta Sekai de Ore dake ga Osowarenai"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ゾンビのあふれた世界で俺だけが襲われない"
       }
     ]
   },
