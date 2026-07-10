@@ -4188,6 +4188,11 @@
         "title": "\"Oshi no Ko\" (2026)"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "[Oshi no Ko] 3rd Season"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "[推しの子] (2026)"
@@ -106330,6 +106335,21 @@
     ]
   },
   {
+    "id": 20189,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Bananya: At Home Party"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ばなにゃ あっとほーむぱーてぃー"
+      }
+    ]
+  },
+  {
     "id": 555,
     "titles": [
       {
@@ -153053,6 +153073,11 @@
         "title": "Jiaonang Jihua: Yingxiong"
       },
       {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "胶囊计划 第三季"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "胶囊计划 英雄"
@@ -165481,6 +165506,21 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "成何体统2"
+      }
+    ]
+  },
+  {
+    "id": 20188,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Cheng Huang Lu"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "城隍录"
       }
     ]
   },
@@ -179158,6 +179198,11 @@
         "title": "Class de 2 Banme ni Kawaii Onnanoko to Tomodachi ni Natta"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "I Made Friends with the Second Prettiest Girl in My Class"
@@ -180029,6 +180074,11 @@
       },
       {
         "type": 2,
+        "language": "x-unk",
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki"
+      },
+      {
+        "type": 2,
         "language": "x-jat",
         "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e S4"
       },
@@ -180411,6 +180461,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Clevatess II: Majuu no Ou to Akago to Shikabane no Yuusha"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Clevatess S2"
       },
       {
         "type": 4,
@@ -180803,6 +180858,16 @@
         "title": "CMFU Academy King of Billiards"
       },
       {
+        "type": 4,
+        "language": "en",
+        "title": "CMFU Academy: King of Billiards"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "CMFU College - Prince Touch Ball"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "CMFU Xueyuan: Wangzi Peng Peng Qiu"
@@ -180811,6 +180876,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "CMFU学院-王子碰碰球"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "CMFU学院：王子碰碰球"
       }
     ]
   },
@@ -235230,6 +235300,21 @@
     ]
   },
   {
+    "id": 20185,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Dragon Heart: Reikai Tanbouki"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ドラゴン・ハート―霊界探訪記―"
+      }
+    ]
+  },
+  {
     "id": 1529,
     "titles": [
       {
@@ -244036,6 +244121,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "egbv"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "exgv"
       },
       {
         "type": 4,
@@ -274996,6 +275086,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Katainaka no Ossan, Kensei ni Naru II"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Vom Landei zum Schwertheiligen II"
       },
       {
         "type": 4,
@@ -333106,6 +333201,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru"
       },
       {
         "type": 4,
@@ -405144,6 +405244,11 @@
       },
       {
         "type": 4,
+        "language": "fr",
+        "title": "The Ghost in the Shell"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "攻殻機動隊 (2026)"
       }
@@ -454988,6 +455093,11 @@
         "title": "mobseka s2"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Otome Game Sekai wa Mob ni Kibishii Sekai desu S2"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Otomege Sekai wa Mob ni Kibishii Sekai Desu 2"
@@ -489838,6 +489948,11 @@
         "title": "Tadaima, Ojamasaremasu!"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "tadaoja"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ただいま, おじゃまされます!"
@@ -491311,6 +491426,21 @@
         "type": 4,
         "language": "ja",
         "title": "ペレストロイカ"
+      }
+    ]
+  },
+  {
+    "id": 20187,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Perfect Addiction"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "パーフェクトアディクション"
       }
     ]
   },
@@ -500786,6 +500916,41 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "普羅米亞"
+      }
+    ]
+  },
+  {
+    "id": 20186,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Promise Me the Spotlight"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "watacen"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Watashi o Center ni Suru to Chikaimasu ka?"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "ワタセン"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "私セン"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "私をセンターにすると誓いますか?"
       }
     ]
   },
@@ -515238,6 +515403,11 @@
         "title": "Youjo Senki II"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Youjo Senki S2"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "幼女戦記II"
@@ -516056,6 +516226,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru? (2026)"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2"
       },
       {
         "type": 2,
@@ -557408,7 +557583,7 @@
         "title": "Thunder 3"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Thunder 3"
       },
@@ -563082,6 +563257,11 @@
   {
     "id": 18889,
     "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tsue to Tsurugi no Wistoria 2nd Season"
+      },
       {
         "type": 2,
         "language": "x-jat",
