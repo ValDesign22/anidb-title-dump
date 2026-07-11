@@ -32935,6 +32935,31 @@
     ]
   },
   {
+    "id": 19927,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "A Story about How Someya-san, a Girl from My College Seminar, Turned out to Be an AV Actress."
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "My Classmate`s a Sexy Actress, and Now We Live Together?!"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Onaji Zemi no Someya-san ga Sexy Joyuu Datta Hanashi."
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "同じゼミの染谷さんがセクシー女優だった話。"
+      }
+    ]
+  },
+  {
     "id": 11711,
     "titles": [
       {
@@ -106310,6 +106335,31 @@
     ]
   },
   {
+    "id": 20189,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Bananya At-Home Party"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Bananya: At Home Party"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Bananya: At-Home Party"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ばなにゃ あっとほーむぱーてぃー"
+      }
+    ]
+  },
+  {
     "id": 18837,
     "titles": [
       {
@@ -106331,21 +106381,6 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "香蕉喵遊世界"
-      }
-    ]
-  },
-  {
-    "id": 20189,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Bananya: At Home Party"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ばなにゃ あっとほーむぱーてぃー"
       }
     ]
   },
@@ -226463,7 +226498,7 @@
     "id": 19838,
     "titles": [
       {
-        "type": 2,
+        "type": 1,
         "language": "x-kot",
         "title": "Dogul Wang"
       },
@@ -226473,7 +226508,7 @@
         "title": "Tomb Raider King"
       },
       {
-        "type": 1,
+        "type": 4,
         "language": "x-jat",
         "title": "Toukutsu Ou"
       },
@@ -251860,6 +251895,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "In Another World with My Smartphone"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "In Another World with My Smartphone"
       },
       {
@@ -350584,6 +350624,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "The Master of Ragnarok & Blesser of Einherjar"
+      },
+      {
+        "type": 4,
         "language": "ru",
         "title": "Владыка Рагнарёка и заклинатель эйнхерий"
       },
@@ -354910,6 +354955,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Isekai Cheat Magician"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "Isekai Cheat Magician"
       },
       {
@@ -361305,6 +361355,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "In Another World with My Smartphone 2"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "In Another World with My Smartphone 2"
       },
       {
@@ -389285,6 +389340,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Wise Man`s Grandchild"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "Wise Man`s Grandchild"
       },
       {
@@ -422316,6 +422376,31 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "时光代理人II -LINK CLICK-"
+      }
+    ]
+  },
+  {
+    "id": 19882,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Link Click III Part One"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shiguang Dailiren III"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "时光代理人 第三季 [PART ONE]"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "时光代理人III [PART ONE]"
       }
     ]
   },
@@ -461615,26 +461700,6 @@
     ]
   },
   {
-    "id": 19927,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "My Classmate`s a Sexy Actress, and Now We Live Together?!"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Onaji Zemi no Someya-san ga Sexy Joyuu Datta Hanashi."
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "同じゼミの染谷さんがセクシー女優だった話。"
-      }
-    ]
-  },
-  {
     "id": 9430,
     "titles": [
       {
@@ -486366,6 +486431,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken S2"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Ototen S2"
       },
       {
         "type": 4,
@@ -529450,16 +529520,6 @@
     ]
   },
   {
-    "id": 19882,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Shiguang Dailiren III"
-      }
-    ]
-  },
-  {
     "id": 13726,
     "titles": [
       {
@@ -546666,11 +546726,6 @@
         "type": 1,
         "language": "x-jat",
         "title": "Tai Ari Deshita. Ojou-sama wa Kakutou Game Nante Shinai"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai"
       },
       {
         "type": 4,
