@@ -35609,6 +35609,11 @@
       },
       {
         "type": 4,
+        "language": "fr",
+        "title": "Jaadugar, la légende de Fatima"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Jaadugar: A Witch in Mongolia"
       },
@@ -45813,6 +45818,16 @@
         "title": "Agent Aika"
       },
       {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Agente Aika"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Agente Aika"
+      },
+      {
         "type": 4,
         "language": "fr",
         "title": "AIKa"
@@ -46061,6 +46076,101 @@
         "type": 4,
         "language": "ja",
         "title": "ベクシル 2077日本鎖国"
+      }
+    ]
+  },
+  {
+    "id": 4852,
+    "titles": [
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Agente Aika: R-16"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Agente Aika: R-16"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Aika R-16"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "AIKa R-16"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "AIKa R-16"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Aika R-16 Virgin Mission"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "AIKa R-16: 处女任务"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Aika: R-16"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Агент Айка R-16"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "아이카 R-16 버진미션"
+      }
+    ]
+  },
+  {
+    "id": 6526,
+    "titles": [
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Agente Aika: Zero"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Agente Aika: Zero"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "AIKa ZERO"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Aika Zero"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Aika: Zero"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Агент Айка Начало"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "아이카 제로"
       }
     ]
   },
@@ -49686,81 +49796,6 @@
         "type": 6,
         "language": "ja",
         "title": "愛姫MEGOHIME"
-      }
-    ]
-  },
-  {
-    "id": 4852,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Aika R-16"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "AIKa R-16"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "AIKa R-16"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Aika R-16 Virgin Mission"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "AIKa R-16: 处女任务"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "Aika: R-16"
-      },
-      {
-        "type": 2,
-        "language": "ru",
-        "title": "Агент Айка R-16"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "아이카 R-16 버진미션"
-      }
-    ]
-  },
-  {
-    "id": 6526,
-    "titles": [
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "AIKa ZERO"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Aika Zero"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "Aika: Zero"
-      },
-      {
-        "type": 2,
-        "language": "ru",
-        "title": "Агент Айка Начало"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "아이카 제로"
       }
     ]
   },
@@ -60934,6 +60969,11 @@
       },
       {
         "type": 4,
+        "language": "pt",
+        "title": "Alya Esconde os Seus Sentimentos em Russo"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Alya Sometimes Hides Her Feelings in Russian"
       },
@@ -72088,6 +72128,16 @@
         "title": "Ji Yao Lu: Qicheng Pian"
       },
       {
+        "type": 4,
+        "language": "pt",
+        "title": "Outra Jornada ao Oeste"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Outra Jornada ao Oeste"
+      },
+      {
         "type": 2,
         "language": "x-zht",
         "title": "Wu Chengen Ji Yao Lu"
@@ -82236,6 +82286,16 @@
         "type": 2,
         "language": "pt",
         "title": "Mellowlink o Caçador de Armaduras"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Mellowlink, o Caçador de Armaduras"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Mellowlink, o Caçador de Armaduras"
       },
       {
         "type": 2,
@@ -208698,6 +208758,11 @@
         "title": "Dealing with Mikadono Sisters Is a Breeze"
       },
       {
+        "type": 4,
+        "language": "pt",
+        "title": "Lidar com as Irmãs Mikadono é Canja."
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Mikadono San Shimai wa Angai, Choroi."
@@ -257871,6 +257936,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai"
       },
       {
         "type": 2,
@@ -377738,7 +377808,7 @@
         "title": "Kabushikigaisha Magilumiere (2026)"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Magilumiere Magical Girls Inc. (2026)"
       },
@@ -440696,6 +440766,11 @@
         "type": 2,
         "language": "en",
         "title": "Mao"
+      },
+      {
+        "type": 2,
+        "language": "x-unk",
+        "title": "マオ"
       }
     ]
   },
@@ -558436,6 +558511,26 @@
         "type": 2,
         "language": "ko",
         "title": "틴더박스"
+      }
+    ]
+  },
+  {
+    "id": 20190,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Tiny Metal: Zero Line"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tiny Metal: Zerosen Sen"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "タイニーメタル: 零戦線"
       }
     ]
   },
