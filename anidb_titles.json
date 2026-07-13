@@ -279248,6 +279248,11 @@
         "title": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Futsutsuka na Akujo dewa Gozaimasu ga"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court"
@@ -495190,6 +495195,21 @@
     ]
   },
   {
+    "id": 20191,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Plannosaurus: Gachi Koseibutsu Bu"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "プラノサウルス ガチコセイブツ部"
+      }
+    ]
+  },
+  {
     "id": 18261,
     "titles": [
       {
@@ -556966,6 +556986,31 @@
         "type": 2,
         "language": "ja",
         "title": "闇芝居 十六期"
+      }
+    ]
+  },
+  {
+    "id": 20192,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Theatre of Darkness: Yamishibai 17"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yami Shibai 17"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "闇芝居 17"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "闇芝居 十七期"
       }
     ]
   },
