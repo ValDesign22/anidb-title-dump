@@ -287608,6 +287608,11 @@
         "title": "Девушки и танки"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "걸즈 앤 판처"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ガールズ&パンツァー"
@@ -398835,6 +398840,26 @@
     ]
   },
   {
+    "id": 20193,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kizuguchi to Houtai"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Wound & Bandage"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "傷口と包帯"
+      }
+    ]
+  },
+  {
     "id": 8357,
     "titles": [
       {
@@ -474546,6 +474571,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "农林"
+      }
+    ]
+  },
+  {
+    "id": 20194,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Noa Is My Senior, and My Friend."
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Noa-senpai wa Tomodachi."
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "のあ先輩はともだち."
       }
     ]
   },
