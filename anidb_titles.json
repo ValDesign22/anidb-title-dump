@@ -134425,6 +134425,36 @@
     ]
   },
   {
+    "id": 18890,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Boku no Kokoro no Yabai Yatsu Movie"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "bokuyaba movie"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Boku no Kokoro no Yabai Yatsu"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Dangers in My Heart the Movie"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版 僕の心のヤバイやつ"
+      }
+    ]
+  },
+  {
     "id": 1489,
     "titles": [
       {
@@ -135921,31 +135951,6 @@
         "type": 4,
         "language": "ja",
         "title": "ぼくたちのピース・リバー"
-      }
-    ]
-  },
-  {
-    "id": 18890,
-    "titles": [
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "bokuyaba movie"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Gekijouban Boku no Kokoro no Yabai Yatsu"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Dangers in My Heart the Movie"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "劇場版 僕の心のヤバイやつ"
       }
     ]
   },
@@ -561486,6 +561491,26 @@
         "type": 4,
         "language": "ja",
         "title": "トラとミケ あにめーしょん"
+      }
+    ]
+  },
+  {
+    "id": 20196,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tora Tsugumi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Tsugumi Project"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "虎鶫"
       }
     ]
   },
