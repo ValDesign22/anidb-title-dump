@@ -226573,6 +226573,11 @@
         "title": "Dogul Wang"
       },
       {
+        "type": 2,
+        "language": "x-kot",
+        "title": "Dogulwang"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Tomb Raider King"
@@ -228391,6 +228396,21 @@
         "type": 4,
         "language": "ja",
         "title": "鬼神童子ZENKI"
+      }
+    ]
+  },
+  {
+    "id": 20197,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Dongda Gao Wu Xueyuan"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "东大高武学院"
       }
     ]
   },
@@ -326038,6 +326058,11 @@
         "title": "Hana-Kimi (2026)"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Hana-Kimi Season 2"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Hanazakari no Kimitachi e (2026)"
@@ -371981,6 +372006,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "骄傲的将军"
+      }
+    ]
+  },
+  {
+    "id": 20199,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jiaonang Jihua: Qiji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "胶囊计划 奇迹"
       }
     ]
   },
@@ -440046,6 +440086,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "Shiren"
+      },
+      {
+        "type": 2,
+        "language": "pl",
+        "title": "Zarządzanie początkującym alchemikiem"
       },
       {
         "type": 4,
@@ -581201,6 +581246,21 @@
         "type": 4,
         "language": "ja",
         "title": "ZEPHYR"
+      }
+    ]
+  },
+  {
+    "id": 20198,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zeri Feisheng"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "择日飞升"
       }
     ]
   },
