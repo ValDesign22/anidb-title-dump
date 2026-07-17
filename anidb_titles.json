@@ -73379,6 +73379,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "Aoashi"
+      },
+      {
+        "type": 4,
         "language": "ru",
         "title": "Аоаси"
       },
@@ -84950,6 +84955,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Let This Grieving Soul Retire"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "Let This Grieving Soul Retire"
       },
       {
@@ -148291,6 +148301,11 @@
         "type": 4,
         "language": "en",
         "title": "Chaos;Child"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Chäos;Child"
       },
       {
         "type": 2,
@@ -315325,6 +315340,21 @@
     ]
   },
   {
+    "id": 20201,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Gu Changge: Wo! Tianming Da Fanpai"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "顾长歌：我！天命大反派"
+      }
+    ]
+  },
+  {
     "id": 17435,
     "titles": [
       {
@@ -383939,6 +383969,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "The Foolish Angel Dances with the Devil"
+      },
+      {
+        "type": 4,
         "language": "ru",
         "title": "Глупый ангел пляшет с демоном"
       },
@@ -385841,6 +385876,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kare no Shiranai Himitsu o Irete. The Animation"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "그가 모르는 비밀을 넣어줘"
       },
       {
         "type": 4,
@@ -419671,6 +419711,11 @@
         "type": 4,
         "language": "en",
         "title": "Let This Grieving Soul Retire (2025)"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Let This Grieving Soul Retire: Cour 2"
       },
       {
         "type": 1,
@@ -548283,12 +548328,12 @@
         "title": "Yao Shen Ji Di Jiu Ji"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "zh-Hans",
         "title": "妖神记 第9季"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "妖神记 第九季"
       }
@@ -576326,6 +576371,21 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "矢野同學的普通日常"
+      }
+    ]
+  },
+  {
+    "id": 20200,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yao Shen Ji Di Shi Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "妖神记 第十季"
       }
     ]
   },
