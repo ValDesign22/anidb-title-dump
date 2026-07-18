@@ -26398,6 +26398,11 @@
         "title": "A Kite"
       },
       {
+        "type": 2,
+        "language": "pt",
+        "title": "Anjo da Vingança"
+      },
+      {
         "type": 4,
         "language": "fr",
         "title": "Domination Nakite"
@@ -445480,7 +445485,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Mebius Dust"
+        "title": "Mobius Dust"
       },
       {
         "type": 4,
@@ -471806,6 +471811,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Nige Jouzu no Wakagimi (2026)"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Nige Jouzu no Wakagimi S2"
       },
       {
         "type": 3,
@@ -575141,66 +575151,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "小花仙第5季：四时花语 春夏 1: 春"
-      }
-    ]
-  },
-  {
-    "id": 19184,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Xiao Lu he Xiao Lan 2nd season (Beryl and Sapphire 2nd season)"
-      },
-      {
-        "type": 4,
-        "language": "zh",
-        "title": "小绿和小蓝 魔王篇"
-      }
-    ]
-  },
-  {
-    "id": 19185,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Xiao Lu he Xiao Lan 3rd season (Beryl and Sapphire 3rd season)"
-      },
-      {
-        "type": 4,
-        "language": "zh",
-        "title": "小绿和小蓝 第三季"
-      }
-    ]
-  },
-  {
-    "id": 19186,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Xiao Lu he Xiao Lan 4th season (Beryl and Sapphire 4th season)"
-      },
-      {
-        "type": 4,
-        "language": "zh",
-        "title": "小绿和小蓝 第四季"
-      }
-    ]
-  },
-  {
-    "id": 19187,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Xiao Lu he Xiao Lan 5th season (Beryl and Sapphire 5th season)"
-      },
-      {
-        "type": 4,
-        "language": "zh",
-        "title": "小绿和小蓝 第五季"
       }
     ]
   },
