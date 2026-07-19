@@ -9873,7 +9873,7 @@
         "title": "Lian Qi Shi Wan Nian"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "One Hundred Thousand Years of Qi Refining"
       },
@@ -23400,6 +23400,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Rage of Bahamut: Virgin Soul"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "Rage of Bahamut: Virgin Soul"
       },
       {
@@ -127393,6 +127398,21 @@
         "title": "Black Torch"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "Black Torch"
+      },
+      {
+        "type": 4,
+        "language": "es",
+        "title": "Black Torch"
+      },
+      {
+        "type": 4,
+        "language": "it",
+        "title": "Black Torch"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Black Torch"
@@ -127401,6 +127421,11 @@
         "type": 4,
         "language": "ja",
         "title": "BLACK TORCH"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Black Torch"
       },
       {
         "type": 2,
@@ -226604,6 +226629,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "Tomb Raider King"
+      },
+      {
+        "type": 4,
         "language": "x-jat",
         "title": "Toukutsu Ou"
       },
@@ -254540,6 +254570,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "When I Woke Up I Became a Bagel Girl"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "When I Woke Up I Became a Bagel Girl"
       },
       {
@@ -444460,17 +444495,17 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Mayonaka Heart Tune 2"
+        "title": "Mayonaka Heart Tune (2027)"
       },
       {
         "type": 2,
         "language": "en",
-        "title": "Tune In to the Midnight Heart 2"
+        "title": "Tune In to the Midnight Heart (2027)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "真夜中ハートチューン 2"
+        "title": "真夜中ハートチューン (2027)"
       }
     ]
   },
@@ -504930,6 +504965,11 @@
       {
         "type": 4,
         "language": "fr",
+        "title": "Rage of Bahamut: Genesis"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "Rage of Bahamut: Genesis"
       },
       {
