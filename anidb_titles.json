@@ -113290,6 +113290,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Beastars Final Season Part 1"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Beastars: Final Season"
       }
     ]
@@ -113311,6 +113316,11 @@
         "type": 4,
         "language": "en",
         "title": "Beastars Final Season (2026)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Beastars Final Season Part 2"
       }
     ]
   },
@@ -230205,6 +230215,31 @@
     ]
   },
   {
+    "id": 19711,
+    "titles": [
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Doraemon et le château sous-marin"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Doraemon: Nobita and the New Castle of the Undersea Devil"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Eiga Doraemon: Shin Nobita no Kaitei Kiganjou"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "映画ドラえもん 新・のび太の海底鬼岩城"
+      }
+    ]
+  },
+  {
     "id": 3114,
     "titles": [
       {
@@ -230851,26 +230886,6 @@
         "type": 4,
         "language": "ja",
         "title": "ドラえもん ぼく, 桃太郎のなんなのさ"
-      }
-    ]
-  },
-  {
-    "id": 19711,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Doraemon: Nobita and the New Castle of the Undersea Devil"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Eiga Doraemon: Shin Nobita no Kaitei Kiganjou"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "映画ドラえもん 新・のび太の海底鬼岩城"
       }
     ]
   },
@@ -377938,6 +377953,11 @@
         "title": "Magilumiere Magical Girls Inc. (2026)"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Magilumiere Magical Girls Inc. Season 2"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "株式会社マジルミエ (2026)"
@@ -383906,6 +383926,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kanan-sama wa Akumade Choroi"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Mistress Kanan Is Devilishly Easy"
       },
       {
         "type": 4,
@@ -495383,6 +495408,11 @@
     "id": 20191,
     "titles": [
       {
+        "type": 2,
+        "language": "en",
+        "title": "Plannosaurus Serious Paleontology Club"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Plannosaurus: Gachi Koseibutsu Bu"
@@ -507756,6 +507786,31 @@
         "type": 4,
         "language": "ja",
         "title": "リアルエロゲシチュエーション! 2 THE ANIMATION"
+      }
+    ]
+  },
+  {
+    "id": 20202,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Real mo Tama ni wa Uso o Tsuku"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Sometimes Even Reality Is a Lie!"
+      },
+      {
+        "type": 5,
+        "language": "ja",
+        "title": "リアルもたまにはうそをつく"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "現実もたまには嘘をつく"
       }
     ]
   },
@@ -522571,6 +522626,11 @@
         "type": 4,
         "language": "en",
         "title": "You and I Are Polar Opposites (2026)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "You and I Are Polar Opposites Season 2"
       },
       {
         "type": 4,
