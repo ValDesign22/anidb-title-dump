@@ -9885,6 +9885,41 @@
     ]
   },
   {
+    "id": 20204,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "100.000 Years of Refining Qi: Yang Ascendant"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Lian Qi Shi Wan Nian Special: Yangji Tianxia"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Lian Qi Shi Wan Nian Tebie Pian: Yangji Tianxia"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "One Hundred Thousand Years of Qi Refining Special"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "One Hundred Thousand Years of Qi Training: Yang Ascendant"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "炼气十万年特别篇 阳极天下"
+      }
+    ]
+  },
+  {
     "id": 5308,
     "titles": [
       {
@@ -24050,6 +24085,31 @@
     ]
   },
   {
+    "id": 20198,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "A Good Day to Ascend"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Ascend Another Day"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zeri Feisheng"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "择日飞升"
+      }
+    ]
+  },
+  {
     "id": 9765,
     "titles": [
       {
@@ -35636,6 +35696,16 @@
         "type": 4,
         "language": "ja",
         "title": "天幕のジャードゥーガル"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "穹庐下的魔女"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "穹廬下的魔女"
       }
     ]
   },
@@ -97456,6 +97526,16 @@
         "type": 4,
         "language": "ja",
         "title": "アズールレーン びそくぜんしんっ! にっ!!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "碧蓝航线：微速前行！第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "碧藍航線 微速前進！2"
       }
     ]
   },
@@ -163281,6 +163361,11 @@
         "type": 4,
         "language": "ja",
         "title": "ヤニねこ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "尼古喵喵"
       }
     ]
   },
@@ -165671,6 +165756,21 @@
         "type": 1,
         "language": "x-zht",
         "title": "Cheng Huang Lu"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "CHENGHUANG"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "City God Chronicles"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Chronicles of City God"
       },
       {
         "type": 4,
@@ -202846,6 +202946,11 @@
         "type": 4,
         "language": "ja",
         "title": "令和のダラさん"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "令和妖神斑小姐"
       }
     ]
   },
@@ -226324,8 +226429,18 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "斗球女弹子"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "炎の闘球女 ドッジ弾子"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "鬥球女彈子"
       }
     ]
   },
@@ -228466,6 +228581,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Dongda Gao Wu Xueyuan"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Oriental Martial Academy"
       },
       {
         "type": 4,
@@ -236306,6 +236426,16 @@
         "type": 3,
         "language": "ja",
         "title": "これ死ね"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "画完这个再去死"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "畫完這個再去死"
       }
     ]
   },
@@ -247086,6 +247216,11 @@
         "type": 4,
         "language": "ja",
         "title": "えいがそれいけ! アンパンマン チャポンのヒーロー!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "麵包超人電影版：小水滴的英雄！"
       }
     ]
   },
@@ -264805,17 +264940,17 @@
       {
         "type": 2,
         "language": "x-jat",
-        "title": "Fate: Fate/Kaleid Liner Prisma Illya (Zokuhen)"
+        "title": "Fate: Fate/Kaleid Liner Prisma Illya Finale"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Fate/Kaleid Liner Prisma Illya (Zokuhen)"
+        "title": "Fate/Kaleid Liner Prisma Illya Finale"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "Fate/kaleid liner プリズマ☆イリヤ (続編)"
+        "title": "Fate/kaleid liner プリズマ☆イリヤ FINALE"
       }
     ]
   },
@@ -298383,6 +298518,16 @@
         "title": "genshiken ova 2"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Genshiken Second Generation - Volume 6"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Genshiken Second Season - Volume 6"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "げんしけん 二代目の六"
@@ -310976,6 +311121,16 @@
         "type": 4,
         "language": "ja",
         "title": "さよならララ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "再見菈菈"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "再见菈菈"
       }
     ]
   },
@@ -315398,9 +315553,24 @@
     "id": 20201,
     "titles": [
       {
+        "type": 2,
+        "language": "en",
+        "title": "Gu Changge: Me! The Heavenly Destined Villain"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Gu Changge: Wo! Tianming Da Fanpai"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "I Am the Fated Villain"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Heavenly Fate Villain"
       },
       {
         "type": 4,
@@ -353341,6 +353511,16 @@
         "type": 3,
         "language": "ja",
         "title": "きみ死ぬ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "与你相恋到生命尽头"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "與妳相戀到生命盡頭"
       }
     ]
   },
@@ -367553,6 +367733,16 @@
         "title": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました"
       },
       {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "无用圣女的异世界美食之旅 凭借隐藏技能召唤露营车"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "無用聖女的異世界美食之旅 憑藉隱藏技能召喚露營車"
+      },
+      {
         "type": 3,
         "language": "ja",
         "title": "異世界ごはん旅"
@@ -368961,6 +369151,16 @@
         "type": 4,
         "language": "ja",
         "title": "岩元先輩ノ推薦"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "岩元前輩的推薦"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "岩元前辈的推荐"
       }
     ]
   },
@@ -375613,6 +375813,16 @@
         "title": "追放された転生重騎士はゲーム知識で無双する"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "遭到流放的轉生重騎士憑藉遊戲知識大開無雙"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "遭到流放的转生重骑士凭借游戏知识大开无双"
+      },
+      {
         "type": 3,
         "language": "ja",
         "title": "重騎士"
@@ -380096,6 +380306,16 @@
         "type": 4,
         "language": "ja",
         "title": "乙女怪獣キャラメリゼ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "少女怪兽焦糖味"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "少女怪獸焦糖戀心"
       }
     ]
   },
@@ -381286,6 +381506,16 @@
         "type": 3,
         "language": "ja",
         "title": "かけ恋"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "与奔驰于透明之夜的你，谈一场看不见的恋爱。"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "與奔馳於透明之夜的你，談一場看不見的戀愛。"
       },
       {
         "type": 4,
@@ -383796,6 +384026,16 @@
         "type": 4,
         "language": "ja",
         "title": "うしろの正面カムイさん"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "从后面来的神威先生"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "從後面來的神威先生"
       }
     ]
   },
@@ -450958,6 +451198,16 @@
         "title": "Saved by the Ice Cold Prince`s Embrace"
       },
       {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "拯救替身千金的是冷酷无情冰之王子的爱"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "拯救替身千金的是冷酷無情冰之王子的愛"
+      },
+      {
         "type": 3,
         "language": "ja",
         "title": "身代わり令嬢"
@@ -482866,6 +483116,16 @@
         "type": 4,
         "language": "ja",
         "title": "鬼の花嫁"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "鬼的新娘"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "鬼的新娘"
       }
     ]
   },
@@ -495751,6 +496011,16 @@
         "type": 4,
         "language": "ja",
         "title": "うちの弟どもがすみません"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "我家的弟弟们真是让您费心了"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我家的弟弟們真是讓您費心了"
       }
     ]
   },
@@ -510291,6 +510561,16 @@
         "type": 4,
         "language": "ja",
         "title": "才女のお世話 高嶺の花だらけな名門校で, 学院一のお嬢様(生活能力皆無)を陰ながらお世話することになりました"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "才女的侍從 在滿是高嶺之花的貴族學校暗中照顧（毫無生活自理能力的）學院第一大小姐"
       }
     ]
   },
@@ -514391,6 +514671,16 @@
         "type": 4,
         "language": "en",
         "title": "The Frontier Lord Begins with Zero Subjects"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "从0位居民开始的边境领主大人"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "從 0 位居民開始的邊境領主大人"
       },
       {
         "type": 3,
@@ -524321,6 +524611,16 @@
         "type": 4,
         "language": "ja",
         "title": "世界最強の後衛 ~迷宮国の新人探索者~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "世界最強後衛 ～迷宮國的新人探索者～"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "世界最强的后卫 ～迷宫国的新人探索者～"
       }
     ]
   },
@@ -547081,6 +547381,16 @@
         "type": 4,
         "language": "ja",
         "title": "対ありでした. ~お嬢さまは格闘ゲームなんてしない~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "感謝對戰。～大小姐才不玩格鬥遊戲～"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "感谢对战。 ～大小姐才不玩格斗游戏～"
       }
     ]
   },
@@ -548126,6 +548436,46 @@
         "type": 2,
         "language": "ja",
         "title": "テイルズ オブ クレストリア-咎我ヲ背負いて彼は発つ-"
+      }
+    ]
+  },
+  {
+    "id": 20200,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Tales of Demon and God 10th Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Tales of Demons and Gods 10"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Tales of Demons and Gods 10th Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Yao Shen Ji 10th Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yao Shen Ji Di Shi Ji"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "妖神记 第10季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "妖神记 第十季"
       }
     ]
   },
@@ -551046,6 +551396,16 @@
         "type": 4,
         "language": "en",
         "title": "Victoria of Many Faces"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "奇招百出的維多利亞"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "奇招百出的维多利亚"
       },
       {
         "type": 4,
@@ -576425,21 +576785,6 @@
     ]
   },
   {
-    "id": 20200,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Yao Shen Ji Di Shi Ji"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "妖神记 第十季"
-      }
-    ]
-  },
-  {
     "id": 17885,
     "titles": [
       {
@@ -580125,6 +580470,21 @@
     ]
   },
   {
+    "id": 20203,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yurayura Q"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ゆらゆらQ"
+      }
+    ]
+  },
+  {
     "id": 17207,
     "titles": [
       {
@@ -581356,21 +581716,6 @@
         "type": 4,
         "language": "ja",
         "title": "ZEPHYR"
-      }
-    ]
-  },
-  {
-    "id": 20198,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Zeri Feisheng"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "择日飞升"
       }
     ]
   },
