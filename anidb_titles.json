@@ -12391,6 +12391,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Ni Kakeru Ichi"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "シークレット アニマ シリーズ"
       }
     ]
   },
@@ -184126,6 +184131,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kanojo ga Koushaku-tei ni Itta Riyuu"
+      },
+      {
+        "type": 3,
+        "language": "en",
+        "title": "Raeliana"
       },
       {
         "type": 4,
@@ -473685,7 +473695,7 @@
       {
         "type": 4,
         "language": "en",
-        "title": "Ninja Vs. Gokudo"
+        "title": "Ninja vs. Gokudo"
       },
       {
         "type": 4,
@@ -487438,6 +487448,11 @@
         "title": "OVA Furachi"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "OVA 발칙함"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "OVA フラチ"
@@ -500578,7 +500593,7 @@
     "id": 7927,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Princess Iron Fan"
       },
@@ -549583,14 +549598,14 @@
         "title": "Tamala"
       },
       {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Tamala 2010 - A Punk Cat in Space"
-      },
-      {
         "type": 4,
         "language": "fr",
         "title": "Tamala 2010 - A Punk Cat in Space"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tamala 2010: A Punk Cat in Space"
       },
       {
         "type": 4,
@@ -560396,6 +560411,21 @@
         "type": 4,
         "language": "ja",
         "title": "TOKIMEKI Runners"
+      }
+    ]
+  },
+  {
+    "id": 20205,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Tokio kido porisu"
+      },
+      {
+        "type": 1,
+        "language": "it",
+        "title": "Tokyo Private Police - Poliziotte, robottoni e pistoni"
       }
     ]
   },
