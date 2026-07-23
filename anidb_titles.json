@@ -68363,6 +68363,11 @@
         "title": "Please Take My Brother Away"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "There`s No Cure for My Brother!"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "兄に付ける薬はない!"
@@ -68406,6 +68411,11 @@
         "type": 2,
         "language": "en",
         "title": "Please Take My Brother Away S2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "There`s No Cure for My Brother! 2"
       },
       {
         "type": 4,
@@ -234813,6 +234823,11 @@
         "title": "Dr. Stone S4"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Dr. Stone Season 4 Part 3"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Dr. Stone: Science Future (2026)"
@@ -332001,6 +332016,11 @@
         "type": 4,
         "language": "ja",
         "title": "はーとまーく多め."
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "爱心符号多一点。"
       }
     ]
   },
@@ -487513,6 +487533,11 @@
         "title": "OVA Natsu Zuma"
       },
       {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "OVA 夏妻"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "OVA 夏妻"
@@ -544260,6 +544285,26 @@
     ]
   },
   {
+    "id": 20206,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Studio Cabana"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Studio Cabana"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "スタジオカバナ"
+      }
+    ]
+  },
+  {
     "id": 16761,
     "titles": [
       {
@@ -570328,6 +570373,11 @@
         "title": "Virgin Punk"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Virgin Punk: Clockwork Girl"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ヴァージン・パンク"
@@ -577376,6 +577426,21 @@
         "type": 4,
         "language": "ja",
         "title": "イエスかノーか半分か"
+      }
+    ]
+  },
+  {
+    "id": 20207,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yi Nian Yong Heng: Wanjie Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "一念永恒 完结季"
       }
     ]
   },
