@@ -29929,6 +29929,11 @@
       },
       {
         "type": 4,
+        "language": "fr",
+        "title": "Une aube nouvelle"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "花緑青が明ける日に"
       }
@@ -89738,6 +89743,11 @@
         "title": "Assassination Classroom the Movie: Everybody`s Time"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Assassination Classroom the Movie: Our Time"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Gekijouban Ansatsu Kyoushitsu: Minna no Jikan"
@@ -114406,6 +114416,36 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "腹黑妹妹控兄记!!"
+      }
+    ]
+  },
+  {
+    "id": 20209,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Because I, the True Saint, was Banished, that Country Is Done For!"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shin no Seijo de Aru Watashi wa Tsuihou Saremashita. Dakara Kono Kuni wa Mou Owari Desu"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "shinnoseijo"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "真の聖女"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "真の聖女である私は追放されました. だからこの国はもう終わりです"
       }
     ]
   },
@@ -240848,6 +240888,11 @@
         "title": "Noiseman Sound Insect"
       },
       {
+        "type": 4,
+        "language": "fr",
+        "title": "Noiseman Sound Insect"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Onkyou Seimeitai Noiseman"
@@ -250666,6 +250711,11 @@
         "type": 4,
         "language": "es",
         "title": "Tu color"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Your Color"
       },
       {
         "type": 4,
@@ -275446,6 +275496,11 @@
         "type": 2,
         "language": "en",
         "title": "From Old Country Bumpkin to Master Swordsman II"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "From Old Country Bumpkin to Master Swordsman Season 2"
       },
       {
         "type": 1,
@@ -366715,191 +366770,6 @@
     ]
   },
   {
-    "id": 18704,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Is it the King?"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Shi Wangzhe A?"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "是王者啊?"
-      }
-    ]
-  },
-  {
-    "id": 18705,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Is it the King? 2nd Season"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Is it the King? Season 2"
-      },
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Shi Wangzhe A? 2nd Season"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Shi Wangzhe A? Di 2 Ji: Yun Zhong Bu Wanquan Jiao Fei Riji"
-      },
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Shi Wangzhe A? Season 2"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "是王者啊? 第二季"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "是王者啊？第2季 云中不完全剿匪日记"
-      }
-    ]
-  },
-  {
-    "id": 18706,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Is it the King? 3rd Season"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Is it the King? Season 3"
-      },
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Shi Wangzhe A? 3rd Season"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Shi Wangzhe A? Di 3 Ji: Youqiubiying Xingzhi Dui"
-      },
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Shi Wangzhe A? Season 3"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "是王者啊？ 第三季"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "是王者啊？第3季 有求必应星之队"
-      }
-    ]
-  },
-  {
-    "id": 19114,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Is it the King? 4th Season"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Is it the King? Season 4"
-      },
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Shi Wangzhe A? 4th Season"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Shi Wangzhe A? Di 4 Ji: Mudan Xiang You Dali Si"
-      },
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Shi Wangzhe A? Season 4"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "是王者啊? 第4季 牡丹香幽大理寺"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "是王者啊？ 第四季"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "是王者啊？之牡丹香幽大理寺"
-      }
-    ]
-  },
-  {
-    "id": 19654,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Is it the King? 5th Season"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Is it the King? Season 5"
-      },
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Shi Wangzhe A? 5th Season"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Shi Wangzhe A? Di 5 Ji: Feng Wu Leiting Chang`an Juan"
-      },
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Shi Wangzhe A? Season 5"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "是王者啊？第5季 凤舞雷霆长安卷"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "是王者啊？第五季"
-      }
-    ]
-  },
-  {
     "id": 8476,
     "titles": [
       {
@@ -367056,6 +366926,191 @@
         "type": 4,
         "language": "ja",
         "title": "これはゾンビですか? えぇ,これが最終回ですか?"
+      }
+    ]
+  },
+  {
+    "id": 18704,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Is This Honor of Kings?"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shi Wangzhe A?"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "是王者啊?"
+      }
+    ]
+  },
+  {
+    "id": 18705,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Is This Honor of Kings? 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Is This Honor of Kings? Season 2"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Shi Wangzhe A? 2nd Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shi Wangzhe A? Di 2 Ji: Yun Zhong Bu Wanquan Jiao Fei Riji"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Shi Wangzhe A? Season 2"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "是王者啊? 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "是王者啊？第2季 云中不完全剿匪日记"
+      }
+    ]
+  },
+  {
+    "id": 18706,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Is This Honor of Kings? 3rd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Is This Honor of Kings? Season 3"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Shi Wangzhe A? 3rd Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shi Wangzhe A? Di 3 Ji: Youqiubiying Xingzhi Dui"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Shi Wangzhe A? Season 3"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "是王者啊？ 第三季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "是王者啊？第3季 有求必应星之队"
+      }
+    ]
+  },
+  {
+    "id": 19114,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Is This Honor of Kings? 4th Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Is This Honor of Kings? Season 4"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Shi Wangzhe A? 4th Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shi Wangzhe A? Di 4 Ji: Mudan Xiang You Dali Si"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Shi Wangzhe A? Season 4"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "是王者啊? 第4季 牡丹香幽大理寺"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "是王者啊？ 第四季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "是王者啊？之牡丹香幽大理寺"
+      }
+    ]
+  },
+  {
+    "id": 19654,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Is This Honor of Kings? 5th Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Is This Honor of Kings? Season 5"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Shi Wangzhe A? 5th Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shi Wangzhe A? Di 5 Ji: Feng Wu Leiting Chang`an Juan"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Shi Wangzhe A? Season 5"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "是王者啊？第5季 凤舞雷霆长安卷"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "是王者啊？第五季"
       }
     ]
   },
@@ -379790,6 +379845,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Kaguya-sama: Love Is War - Stairway to Adulthood"
+      },
+      {
+        "type": 4,
+        "language": "fr",
         "title": "Kaguya-sama: Love Is War - Stairway to Adulthood"
       },
       {
@@ -392850,6 +392910,21 @@
     ]
   },
   {
+    "id": 20210,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kidou Senshi Gundam RG: Alex-Zero"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "機動戦士ガンダムRG XARX-ZERO"
+      }
+    ]
+  },
+  {
     "id": 18958,
     "titles": [
       {
@@ -398757,6 +398832,11 @@
   {
     "id": 16107,
     "titles": [
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Kitaro Birth: The Mystery of GeGeGe"
+      },
       {
         "type": 1,
         "language": "x-jat",
@@ -409760,6 +409840,26 @@
     ]
   },
   {
+    "id": 20208,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kusunoki-san wa Koukou Debut ni Shippai Shite Iru"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Kusunoki`s Flunking Her High School Glow-Up"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "楠木さんは高校デビューに失敗している"
+      }
+    ]
+  },
+  {
     "id": 19671,
     "titles": [
       {
@@ -411845,6 +411945,11 @@
       {
         "type": 4,
         "language": "it",
+        "title": "The Dragon Dentist"
+      },
+      {
+        "type": 4,
+        "language": "fr",
         "title": "The Dragon Dentist"
       },
       {
