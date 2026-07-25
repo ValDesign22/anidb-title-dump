@@ -8586,6 +8586,11 @@
         "type": 4,
         "language": "en",
         "title": "Head Start at Birth"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Преимущество при рождении"
       }
     ]
   },
@@ -33534,6 +33539,16 @@
       },
       {
         "type": 2,
+        "language": "pt",
+        "title": "Consigo Ouvir o Oceano"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Consigo Ouvir o Oceano"
+      },
+      {
+        "type": 2,
         "language": "pt-BR",
         "title": "Eu Posso Ouvir o Mar"
       },
@@ -35588,14 +35603,74 @@
         "title": "A Will Eternal 3"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "A Will Eternal 3rd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Yi Nian Yong Heng 3rd Season"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Yi Nian Yong Heng Di San Ji"
       },
       {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Yi Nian Yong Heng: Zhizi Pian"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "一念永恒 第3季"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "一念永恒 第三季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "一念永恒 质子篇"
+      }
+    ]
+  },
+  {
+    "id": 20207,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "A Will Eternal 4"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "A Will Eternal Final Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yi Nian Yong Heng: Wanjie Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "一念永恒 完结季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "一念永恒 第4季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "一念永恒 第四季"
       }
     ]
   },
@@ -56174,6 +56249,11 @@
       },
       {
         "type": 4,
+        "language": "ru",
+        "title": "Перерождение мужчины средних лет в дочь дворянина"
+      },
+      {
+        "type": 4,
         "language": "th",
         "title": "เมื่อตาลุงเกิดใหม่เป็นนางร้ายที่ต่างโลก"
       },
@@ -63019,6 +63099,11 @@
       },
       {
         "type": 4,
+        "language": "ru",
+        "title": "Карта детектива Такао Амэку"
+      },
+      {
+        "type": 4,
         "language": "th",
         "title": "บันทึกประวัติคดีคุณหมออาเมคุ"
       },
@@ -67116,6 +67201,11 @@
         "type": 2,
         "language": "en",
         "title": "Angel Legend"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Легенда об Ангеле"
       },
       {
         "type": 4,
@@ -72730,6 +72820,36 @@
     ]
   },
   {
+    "id": 19567,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Ansatsu Kyoushitsu Movie - Minna no Jikan"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Assassination Classroom the Movie: Everybody`s Time"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Assassination Classroom the Movie: Our Time"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Ansatsu Kyoushitsu: Minna no Jikan"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版 暗殺教室 みんなの時間"
+      }
+    ]
+  },
+  {
     "id": 19162,
     "titles": [
       {
@@ -76828,6 +76948,11 @@
         "title": "Үхэгсдийн Ахлах Сургууль"
       },
       {
+        "type": 4,
+        "language": "ru",
+        "title": "Школа мертвецов"
+      },
+      {
         "type": 2,
         "language": "ru",
         "title": "Школа Мёртвых"
@@ -77691,6 +77816,16 @@
         "type": 4,
         "language": "en",
         "title": "Appleseed XIII: Tartaros & Ouranos"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Appleseed XIII: Tártaros e Urano"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Appleseed XIII: Tártaros e Urano"
       },
       {
         "type": 1,
@@ -89731,31 +89866,6 @@
         "type": 2,
         "language": "ja",
         "title": "遊ぼう! ハローキティ"
-      }
-    ]
-  },
-  {
-    "id": 19567,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Assassination Classroom the Movie: Everybody`s Time"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Assassination Classroom the Movie: Our Time"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Gekijouban Ansatsu Kyoushitsu: Minna no Jikan"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "劇場版 暗殺教室 みんなの時間"
       }
     ]
   },
@@ -109931,6 +110041,16 @@
         "type": 2,
         "language": "en",
         "title": "Battle Angel Alita - Motorball CG Movie"
+      },
+      {
+        "type": 2,
+        "language": "pt",
+        "title": "Gunnm 3D Especial"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Gunnm 3D Especial"
       },
       {
         "type": 1,
@@ -163344,6 +163464,11 @@
       },
       {
         "type": 4,
+        "language": "ru",
+        "title": "Человек-Бензопила: История Резе"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "剧场版 电锯人 蕾塞篇"
       },
@@ -177795,6 +177920,71 @@
     ]
   },
   {
+    "id": 1023,
+    "titles": [
+      {
+        "type": 2,
+        "language": "pt",
+        "title": "Cidade Demoníaca Shinjuku"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Cidade Demoníaca Shinjuku"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Demon City Shinjuku"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Demon City Shinjuku"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Demon City Shinjuku"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Hell City Shinjuku"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Makai Toshi Shinjuku"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Monster City"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Shinjuku Cidade Demoníaca"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Shinjuku Cidade Demoníaca"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Синдзюку - город-ад"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔界都市 (新宿)"
+      }
+    ]
+  },
+  {
     "id": 1040,
     "titles": [
       {
@@ -180770,7 +180960,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Clevatess II: Majuu no Ou to Akago to Shikabane no Yuusha"
+        "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou"
       },
       {
         "type": 2,
@@ -211720,51 +211910,6 @@
     ]
   },
   {
-    "id": 1023,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Demon City Shinjuku"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "Demon City Shinjuku"
-      },
-      {
-        "type": 4,
-        "language": "fr",
-        "title": "Demon City Shinjuku"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Hell City Shinjuku"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Makai Toshi Shinjuku"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Monster City"
-      },
-      {
-        "type": 2,
-        "language": "ru",
-        "title": "Синдзюку - город-ад"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "魔界都市 (新宿)"
-      }
-    ]
-  },
-  {
     "id": 632,
     "titles": [
       {
@@ -212941,6 +213086,11 @@
         "type": 4,
         "language": "en",
         "title": "Demon Slayer: Infinity Castle"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Demon Slayer: Infinity Castle I"
       },
       {
         "type": 4,
@@ -242228,6 +242378,16 @@
         "title": "Soul: Insert"
       },
       {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Tamashii: Insere"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Tamashii: Insere"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Tamashii: Insert"
@@ -242976,6 +243136,16 @@
         "type": 2,
         "language": "it",
         "title": "Lupin III: C`era una volta... Lupin"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Lupin III: Episódio 0 - Primeiro Contato"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Lupin III: Episódio 0 - Primeiro Contato"
       },
       {
         "type": 1,
@@ -266185,6 +266355,41 @@
     ]
   },
   {
+    "id": 13611,
+    "titles": [
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Feitiçaria na Cidade Grande"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Feitiçaria na Grande Cidade"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Itazura Majo to Nemuranai Machi"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Sorcery in the Big City"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "いたずら魔女と眠らない街"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "恶作剧魔女与不夜城"
+      }
+    ]
+  },
+  {
     "id": 10363,
     "titles": [
       {
@@ -277761,6 +277966,26 @@
         "type": 4,
         "language": "ja",
         "title": "Funny Pets 2ndシーズン"
+      }
+    ]
+  },
+  {
+    "id": 20030,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Furachi"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "OVA 발칙함"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "フラチ"
       }
     ]
   },
@@ -306726,6 +306951,16 @@
         "type": 4,
         "language": "en",
         "title": "Voices of a Distant Star"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Vozes de Uma Estrela Distante"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Vozes de Uma Estrela Distante"
       },
       {
         "type": 2,
@@ -368735,31 +368970,6 @@
     ]
   },
   {
-    "id": 13611,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Itazura Majo to Nemuranai Machi"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Sorcery in the Big City"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "いたずら魔女と眠らない街"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "恶作剧魔女与不夜城"
-      }
-    ]
-  },
-  {
     "id": 6913,
     "titles": [
       {
@@ -375818,7 +376028,7 @@
         "title": "Super Heroic"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Super Heroic Spirit"
       },
@@ -375826,6 +376036,51 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "绝世战魂"
+      }
+    ]
+  },
+  {
+    "id": 20212,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jueshi Zhan Hun 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Peerless Battle Spirit 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Super Heroic 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Super Heroic Spirit 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Super Heroic Spirit 2nd Season"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Super Heroic Spirit Season 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "绝世战魂 第2季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "绝世战魂 第二季"
       }
     ]
   },
@@ -404934,6 +405189,11 @@
       },
       {
         "type": 4,
+        "language": "es-419",
+        "title": "Rompiendo el hielo"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "The Ramparts of Ice"
       },
@@ -412306,6 +412566,16 @@
         "type": 4,
         "language": "fr",
         "title": "La Forêt de Miyori"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Miyori e a Floresta Mágica"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Miyori e a Floresta Mágica"
       },
       {
         "type": 1,
@@ -428923,6 +429193,16 @@
         "title": "Lupin III: Family All-Stars"
       },
       {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Lupin III: Formação da Família"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Lupin III: Formação da Família"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Lupin Ikka Seizoroi"
@@ -429406,6 +429686,16 @@
         "type": 1,
         "language": "x-jat",
         "title": "M-ogui: Last Order"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "M-ogui: Último Pedido"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "M-ogui: Último Pedido"
       },
       {
         "type": 2,
@@ -487565,26 +487855,6 @@
     ]
   },
   {
-    "id": 20030,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "OVA Furachi"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "OVA 발칙함"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "OVA フラチ"
-      }
-    ]
-  },
-  {
     "id": 18756,
     "titles": [
       {
@@ -519551,6 +519821,21 @@
         "type": 4,
         "language": "ja",
         "title": "三国志"
+      }
+    ]
+  },
+  {
+    "id": 20211,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Sanguo Sha: Taiping Tianshu"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "三国杀：太平天书"
       }
     ]
   },
@@ -560565,21 +560850,6 @@
     ]
   },
   {
-    "id": 20205,
-    "titles": [
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "Tokio kido porisu"
-      },
-      {
-        "type": 1,
-        "language": "it",
-        "title": "Tokyo Private Police - Poliziotte, robottoni e pistoni"
-      }
-    ]
-  },
-  {
     "id": 3499,
     "titles": [
       {
@@ -577531,21 +577801,6 @@
         "type": 4,
         "language": "ja",
         "title": "イエスかノーか半分か"
-      }
-    ]
-  },
-  {
-    "id": 20207,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Yi Nian Yong Heng: Wanjie Ji"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "一念永恒 完结季"
       }
     ]
   },
