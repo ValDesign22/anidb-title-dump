@@ -106651,6 +106651,16 @@
         "type": 4,
         "language": "ja",
         "title": "ばなにゃ あっとほーむぱーてぃー"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "香蕉喵 10 週年紀念篇"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "香蕉喵10周年纪念特别篇"
       }
     ]
   },
@@ -129143,6 +129153,11 @@
     "id": 19079,
     "titles": [
       {
+        "type": 2,
+        "language": "ja",
+        "title": "BLEACH 千年血戦篇 最終クール"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "BLEACH 千年血戦篇-禍進譚-"
@@ -129153,6 +129168,16 @@
         "title": "Bleach: Sennen Kessen Hen - Kashin Tan"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Bleach: Sennen Kessen Hen Saishuu Cour"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Bleach: Sennen Kessen-hen - Kashin-tan"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Bleach: Thousand-Year Blood War - The Calamity"
@@ -129161,6 +129186,11 @@
         "type": 4,
         "language": "de",
         "title": "Bleach: Thousand-Year Blood War - The Calamity"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Bleach: Thousand-Year Blood War Final Part"
       }
     ]
   },
@@ -134646,6 +134676,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Boku no Kokoro no Yabai Yatsu (2024)"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Boku no Kokoro no Yabai Yatsu 2nd Season"
       },
       {
         "type": 3,
@@ -153991,6 +154026,31 @@
         "type": 4,
         "language": "ja",
         "title": "淫妖蟲・蝕 ~凌触島退魔録~"
+      }
+    ]
+  },
+  {
+    "id": 16748,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Capybara Bathhouse"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Porpoise Soup Restaurant"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shui Tun Tang Guan"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "水豚汤馆"
       }
     ]
   },
@@ -226979,8 +227039,18 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "盗墓王"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "盗掘王"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "盜墓王"
       }
     ]
   },
@@ -258426,6 +258496,16 @@
         "type": 4,
         "language": "ja",
         "title": "花織さんは転生しても喧嘩がしたい"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "花織即使是轉生也想打架"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "花织即使是转生也想打架"
       }
     ]
   },
@@ -279801,6 +279881,16 @@
         "type": 4,
         "language": "ja",
         "title": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "我是不才惡女"
       }
     ]
   },
@@ -280786,6 +280876,11 @@
         "type": 4,
         "language": "de",
         "title": "Fuuto PI: The Portrait of Kamen Rider Skull"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Fuuto Tantei Movie"
       },
       {
         "type": 1,
@@ -290456,6 +290551,21 @@
         "type": 4,
         "language": "ja",
         "title": "ゲキ・ガンガー3 熱血大決戦"
+      }
+    ]
+  },
+  {
+    "id": 20214,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijou Ginga Tetsudou 999"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場 銀河鉄道999"
       }
     ]
   },
@@ -355236,6 +355346,16 @@
         "type": 4,
         "language": "ja",
         "title": "いびってこない義母と義姉"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "不虐待我的繼母與繼姐"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "不虐待我的继母与继姐"
       }
     ]
   },
@@ -367350,6 +367470,46 @@
     ]
   },
   {
+    "id": 20213,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Is This Honor of Kings? 6th Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Is This Honor of Kings? Season 6"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Shi Wangzhe A? 6th Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shi Wangzhe A? Di 6 Ji: Xuezhang Jiadao Qing Zhijiao"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Shi Wangzhe A? Season 6"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "是王者啊？第6季 学长驾到请指教"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "是王者啊？第六季"
+      }
+    ]
+  },
+  {
     "id": 3627,
     "titles": [
       {
@@ -374241,6 +374401,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "记忆管理局 (2026)"
+      }
+    ]
+  },
+  {
+    "id": 20216,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jiyi Guanli Ju(2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "记忆管理局(2026)"
       }
     ]
   },
@@ -451850,6 +452025,26 @@
     ]
   },
   {
+    "id": 20215,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Mii-chan and Miss Yamada"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mii-chan to Yamada-san"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "みいちゃんと山田さん"
+      }
+    ]
+  },
+  {
     "id": 8726,
     "titles": [
       {
@@ -476038,6 +476233,11 @@
     "id": 9865,
     "titles": [
       {
+        "type": 2,
+        "language": "en",
+        "title": "Noobow and the Lost Medal"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Noobow: Kieta Medal"
@@ -492476,6 +492676,16 @@
         "type": 4,
         "language": "ja",
         "title": "パーフェクトアディクション"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "澈底对你成瘾"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "澈底對你成癮"
       }
     ]
   },
@@ -499101,26 +499311,6 @@
         "type": 4,
         "language": "ko",
         "title": "뽀로로가 한국에 왔어요"
-      }
-    ]
-  },
-  {
-    "id": 16748,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Porpoise Soup Restaurant"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Shui Tun Tang Guan"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "水豚汤馆"
       }
     ]
   },
@@ -516524,8 +516714,18 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "幼女战记 第二季"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "幼女戦記II"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "幼女戰記 2"
       }
     ]
   },
@@ -519831,6 +520031,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Sanguo Sha: Taiping Tianshu"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Three Kingdoms Kill: Taiping Heavenly Book"
       },
       {
         "type": 4,
@@ -555285,6 +555490,21 @@
     ]
   },
   {
+    "id": 20217,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Eternal Supreme, Li Yunxiao"
+      },
+      {
+        "type": 1,
+        "language": "zh",
+        "title": "Wangu Zhizun: Li Yunxiao Zhuan"
+      }
+    ]
+  },
+  {
     "id": 18108,
     "titles": [
       {
@@ -558571,11 +558791,6 @@
         "type": 1,
         "language": "x-jat",
         "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku Shite Mita."
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita."
       },
       {
         "type": 4,
