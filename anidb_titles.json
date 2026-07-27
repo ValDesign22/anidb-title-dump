@@ -129190,6 +129190,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Bleach: Thousand-Year Blood War - The Calamity Arc"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Bleach: Thousand-Year Blood War Final Part"
       }
     ]
@@ -198354,6 +198359,11 @@
       },
       {
         "type": 4,
+        "language": "pt-BR",
+        "title": "Yomi no Tsugai - Daemons do Reino das Sombras"
+      },
+      {
+        "type": 4,
         "language": "ko",
         "title": "황천의 츠가이"
       },
@@ -231345,6 +231355,26 @@
     ]
   },
   {
+    "id": 20220,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Doraemon: Nobita`s Steam-Powered Time Machine"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Eiga Doraemon: Nobita no Jouki Jikansha"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "映画ドラえもん のび太の蒸気時間車"
+      }
+    ]
+  },
+  {
     "id": 4765,
     "titles": [
       {
@@ -233623,7 +233653,7 @@
         "title": "Soul Land: Sword Dao Chen Xin"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Soul Land: Sword Master"
       },
@@ -246631,6 +246661,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "魔法使光之美少女 奇迹的变身！Cure Mofurun！"
+      }
+    ]
+  },
+  {
+    "id": 20218,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Eiga Meitantei Precure! Fushigi na Niwa to Futari no Himitsu"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Star Detective Precure! The Movie: The Mysterious Garden and a Secret Pair"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "映画名探偵プリキュア! 不思議な庭と2人の秘密"
       }
     ]
   },
@@ -274990,6 +275040,26 @@
     ]
   },
   {
+    "id": 18626,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Free Fire Daybreak"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Free Fire Daybreak"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "フリーファイアデイブレイク"
+      }
+    ]
+  },
+  {
     "id": 13621,
     "titles": [
       {
@@ -287506,26 +287576,6 @@
         "type": 4,
         "language": "en",
         "title": "Garden of Remembrance"
-      }
-    ]
-  },
-  {
-    "id": 18626,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Garena Free Fire"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "Garena Free Fire"
-      },
-      {
-        "type": 2,
-        "language": "ja",
-        "title": "ガレナ フリーファイア"
       }
     ]
   },
@@ -308686,6 +308736,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "天荒战神"
+      }
+    ]
+  },
+  {
+    "id": 20219,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "God of Eternity"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wangu Shen Di"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "万古神帝"
       }
     ]
   },
@@ -361501,6 +361571,11 @@
         "type": 2,
         "language": "x-zht",
         "title": "Xian Wang de Richang Shenghuo Er"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "不死身な僕の日常　シーズン2"
       },
       {
         "type": 4,
@@ -436015,6 +436090,21 @@
     ]
   },
   {
+    "id": 20224,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "MAHOROBA"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "MAHOROBA"
+      }
+    ]
+  },
+  {
     "id": 201,
     "titles": [
       {
@@ -460460,6 +460550,21 @@
     ]
   },
   {
+    "id": 20223,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Muhou no Ai"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "無法の愛"
+      }
+    ]
+  },
+  {
     "id": 14953,
     "titles": [
       {
@@ -469406,6 +469511,26 @@
         "type": 4,
         "language": "ja",
         "title": "死妹人形"
+      }
+    ]
+  },
+  {
+    "id": 20221,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Necromancer: I Am the Scourge"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Si Ling Fashi! Wo Ji Shi Tianzai"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "死灵法师！我即是天灾"
       }
     ]
   },
@@ -481916,6 +482041,16 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "超智遊戲"
+      }
+    ]
+  },
+  {
+    "id": 20222,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "One Pace"
       }
     ]
   },
@@ -526840,6 +526975,21 @@
     ]
   },
   {
+    "id": 20225,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Senren Banka"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "千恋＊万花"
+      }
+    ]
+  },
+  {
     "id": 14522,
     "titles": [
       {
@@ -555109,6 +555259,11 @@
       },
       {
         "type": 4,
+        "language": "ja",
+        "title": "不死身な僕の日常　シーズン4"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "仙王的日常生活 第四季"
       }
@@ -555161,6 +555316,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Xian Wang de Richang Shenghuo Di San Ji"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "不死身な僕の日常　シーズン3"
       },
       {
         "type": 4,
@@ -555501,6 +555661,11 @@
         "type": 1,
         "language": "zh",
         "title": "Wangu Zhizun: Li Yunxiao Zhuan"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "万古至尊：李云霄传"
       }
     ]
   },
@@ -573630,6 +573795,21 @@
     ]
   },
   {
+    "id": 20226,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wei Jiang"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "维将"
+      }
+    ]
+  },
+  {
     "id": 16744,
     "titles": [
       {
@@ -574601,6 +574781,21 @@
         "type": 4,
         "language": "ja",
         "title": "ウィザードリィ"
+      }
+    ]
+  },
+  {
+    "id": 20227,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wo Kao Chongzhi Dang Wudi"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "我靠充值当武帝"
       }
     ]
   },
