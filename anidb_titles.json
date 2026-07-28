@@ -25123,6 +25123,11 @@
         "title": "Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou Dakara Guntai Soshiki Shita"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "Romelia War Chronicle"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "Romélia War Chronicle: The Count’s Daughter Rallies an Army in the Wake of Mankind’s Victory"
@@ -343610,6 +343615,21 @@
     ]
   },
   {
+    "id": 20229,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hitori Tsuma"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ヒトリ妻"
+      }
+    ]
+  },
+  {
     "id": 7635,
     "titles": [
       {
@@ -451883,6 +451903,11 @@
         "title": "Migawari Reijou o Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai Deshita"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Saved by the Ice Cold Prince`s Embrace"
@@ -452931,6 +452956,26 @@
         "type": 2,
         "language": "ko",
         "title": "밀키웨이"
+      }
+    ]
+  },
+  {
+    "id": 20228,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Millennium Family"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Odoru Sennen Kazoku"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "踊る千年家族"
       }
     ]
   },
@@ -488243,11 +488288,6 @@
         "title": "OVA Natsu Zuma"
       },
       {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "OVA 夏妻"
-      },
-      {
         "type": 4,
         "language": "ja",
         "title": "OVA 夏妻"
@@ -517691,6 +517731,11 @@
         "type": 4,
         "language": "en",
         "title": "The Beginning After the End Season 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "What Will the Mighty King Do in His Second Life?"
       },
       {
         "type": 4,
