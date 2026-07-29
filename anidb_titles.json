@@ -213198,6 +213198,11 @@
         "title": "Gekijouban Kimetsu no Yaiba: Mugen-jou Hen"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Kimetsu no Yaiba Movie 1 - Mugenjou-hen - Akaza Sairai"
+      },
+      {
         "type": 4,
         "language": "uk",
         "title": "Вбивця Демонів: Замок Нескінченності"
@@ -229895,6 +229900,31 @@
     ]
   },
   {
+    "id": 9528,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Doraemon (1994) - Nobita & the Future Notebook"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Doraemon: Nobita to Mirai Note"
+      },
+      {
+        "type": 4,
+        "language": "vi",
+        "title": "Doraemon: Nobita Và Cuốn Nhật Kí Tương Lai"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ドラえもん のび太と未来ノート"
+      }
+    ]
+  },
+  {
     "id": 6584,
     "titles": [
       {
@@ -231301,26 +231331,6 @@
         "type": 4,
         "language": "ja",
         "title": "ドラえもん ぼく, 桃太郎のなんなのさ"
-      }
-    ]
-  },
-  {
-    "id": 9528,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Doraemon: Nobita to Mirai Note"
-      },
-      {
-        "type": 4,
-        "language": "vi",
-        "title": "Doraemon: Nobita Và Cuốn Nhật Kí Tương Lai"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ドラえもん のび太と未来ノート"
       }
     ]
   },
@@ -263100,12 +263110,17 @@
       {
         "type": 4,
         "language": "en",
-        "title": "False Memory (2025)"
+        "title": "False Memory (2026)"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Jiyi Guanli Ju (2025)"
+        "title": "Jiyi Guanli Ju (2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "记忆管理局 (2026)"
       }
     ]
   },
@@ -316050,6 +316065,36 @@
     ]
   },
   {
+    "id": 20230,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Gu An"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "GuAn"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "One Slash Through The Heavens"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yi Zhan Cangqiong"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "一斩苍穹"
+      }
+    ]
+  },
+  {
     "id": 20201,
     "titles": [
       {
@@ -353493,11 +353538,6 @@
         "title": "Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta (2026)"
       },
       {
-        "type": 3,
-        "language": "x-jat",
-        "title": "Iseleve - OVA"
-      },
-      {
         "type": 4,
         "language": "zh-Hans",
         "title": "在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～ (2026)"
@@ -374481,36 +374521,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "九州缥缈录"
-      }
-    ]
-  },
-  {
-    "id": 20174,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Jiyi Guanli Ju (2026)"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "记忆管理局 (2026)"
-      }
-    ]
-  },
-  {
-    "id": 20216,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Jiyi Guanli Ju(2026)"
-      },
-      {
-        "type": 4,
-        "language": "zh",
-        "title": "记忆管理局(2026)"
       }
     ]
   },
@@ -445005,6 +445015,26 @@
     ]
   },
   {
+    "id": 20231,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Mawangui Ttallo Taeeonatseumnida"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Adventures of a Demon King`s Daughter"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "마왕의 딸로 태어났습니다"
+      }
+    ]
+  },
+  {
     "id": 8421,
     "titles": [
       {
@@ -463601,6 +463631,56 @@
         "type": 4,
         "language": "ja",
         "title": "マイリトルゴート"
+      }
+    ]
+  },
+  {
+    "id": 7598,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "My Lord and Me"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tono to Issho: Ippunkan Gekijou"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "和殿下一起 1分钟剧场"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "殿といっしょ 1分間劇場"
+      }
+    ]
+  },
+  {
+    "id": 8221,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "My Lord and Me ~The Ambition Behind the Eyepatch~"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tono to Issho: Gantai no Yabou"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "和殿下一起～眼罩之野心～"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "殿といっしょ 眼帯の野望"
       }
     ]
   },
@@ -486848,6 +486928,11 @@
         "title": "Osomatsu-san: Hipipo-zoku to Kagayaku Kajitsu"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Osomatsu-san: The Hipipo Tribe and the Shining Fruit"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "おそ松さん~ヒピポ族と輝く果実~"
@@ -486876,6 +486961,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Osomatsu-san: Tamashii no Takoyaki Party to Densetsu no Otomarikai"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Osomatsu-san: The Spirit Takoyaki Party and the Legendary Sleepover"
       },
       {
         "type": 4,
@@ -562746,46 +562836,6 @@
         "type": 4,
         "language": "ja",
         "title": "殿といっしょ 1.5"
-      }
-    ]
-  },
-  {
-    "id": 8221,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Tono to Issho: Gantai no Yabou"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "和殿下一起～眼罩之野心～"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "殿といっしょ 眼帯の野望"
-      }
-    ]
-  },
-  {
-    "id": 7598,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Tono to Issho: Ippunkan Gekijou"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "和殿下一起 1分钟剧场"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "殿といっしょ 1分間劇場"
       }
     ]
   },
