@@ -57233,7 +57233,7 @@
     "id": 18920,
     "titles": [
       {
-        "type": 4,
+        "type": 2,
         "language": "en",
         "title": "Alchemy Supreme"
       },
@@ -57243,7 +57243,7 @@
         "title": "Dan Dao Zhizun"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Supreme Alchemy"
       },
@@ -306295,6 +306295,36 @@
     ]
   },
   {
+    "id": 18652,
+    "titles": [
+      {
+        "type": 3,
+        "language": "en",
+        "title": "gits 2026"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Koukaku Kidoutai (2026)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Ghost in the Shell"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "The Ghost in the Shell"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "攻殻機動隊 (2026)"
+      }
+    ]
+  },
+  {
     "id": 12360,
     "titles": [
       {
@@ -367633,6 +367663,11 @@
         "title": "Shi Wangzhe A? Season 6"
       },
       {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "是王者啊？稷下篇"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "是王者啊？第6季 学长驾到请指教"
@@ -375186,6 +375221,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Josee to Tora to Sakana-tachi"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Josee to Tora to Sakanatachi"
       },
       {
         "type": 4,
@@ -406430,31 +406470,6 @@
     ]
   },
   {
-    "id": 18652,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Koukaku Kidoutai (2026)"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Ghost in the Shell"
-      },
-      {
-        "type": 4,
-        "language": "fr",
-        "title": "The Ghost in the Shell"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "攻殻機動隊 (2026)"
-      }
-    ]
-  },
-  {
     "id": 18316,
     "titles": [
       {
@@ -411257,6 +411272,11 @@
   {
     "id": 19865,
     "titles": [
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "Kyouran Reijou Nia Liston"
+      },
       {
         "type": 1,
         "language": "x-jat",
@@ -421896,6 +421916,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "李林克的小馆儿 第二季"
+      }
+    ]
+  },
+  {
+    "id": 20232,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Li Xiongmao"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Raised by Demons: Panda Li"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "李熊猫"
       }
     ]
   },
