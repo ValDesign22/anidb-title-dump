@@ -45483,7 +45483,7 @@
         "title": "Against the Gods 2nd Season"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Against the Gods II"
       },
@@ -65166,6 +65166,31 @@
         "type": 4,
         "language": "ja",
         "title": "闘神機ジーズフレーム"
+      }
+    ]
+  },
+  {
+    "id": 20233,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Ancient God Sovereign"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Primeval Overlord"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Tai Gu Shen Zun"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "太古神尊"
       }
     ]
   },
@@ -134638,7 +134663,7 @@
         "title": "Czarne chmury w moim sercu"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "pt",
         "title": "Os Perigos no Meu Coração"
       },
@@ -134708,7 +134733,7 @@
         "title": "Czarne chmury w moim sercu Sezon 2"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "pt",
         "title": "Os Perigos no Meu Coração (2024)"
       },
@@ -134763,6 +134788,11 @@
         "title": "Boku no Kokoro no Yabai Yatsu (2027)"
       },
       {
+        "type": 4,
+        "language": "pt",
+        "title": "Os Perigos no Meu Coração (2027)"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "The Dangers in My Heart (2027)"
@@ -134791,6 +134821,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Gekijouban Boku no Kokoro no Yabai Yatsu"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Os Perigos no Meu Coração: Filme"
       },
       {
         "type": 2,
@@ -181036,6 +181071,11 @@
         "type": 2,
         "language": "en",
         "title": "Clevatess S2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Clevatess Season 2"
       },
       {
         "type": 4,
@@ -259646,6 +259686,26 @@
         "type": 4,
         "language": "ja",
         "title": "楽園追放 -Expelled From Paradise-"
+      }
+    ]
+  },
+  {
+    "id": 20234,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Exiled Merchant Saves the World with the Power of Money"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tsuihou Sareta Shounin wa Kin no Chikara de Sekai o Sukuu"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "追放された商人は金の力で世界を救う"
       }
     ]
   },
