@@ -69194,6 +69194,11 @@
       },
       {
         "type": 4,
+        "language": "pl",
+        "title": "Skarbczyk najpiękniejszych bajek"
+      },
+      {
+        "type": 4,
         "language": "pt",
         "title": "Videocontos"
       },
@@ -153535,7 +153540,17 @@
       {
         "type": 2,
         "language": "x-zht",
+        "title": "Jiaonang Jihua 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
         "title": "Jiaonang Jihua Di Er Ji"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Jiaonang Jihua II"
       },
       {
         "type": 4,
@@ -153550,12 +153565,27 @@
       {
         "type": 2,
         "language": "en",
+        "title": "CAPSULES 3"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Capsules 3rd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Capsules Project: Hero"
       },
       {
         "type": 4,
         "language": "en",
         "title": "CAPSULES: Hero"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Capsules:Hero"
       },
       {
         "type": 1,
@@ -153571,6 +153601,41 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "胶囊计划 英雄"
+      }
+    ]
+  },
+  {
+    "id": 20199,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "CAPSULES 4"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "CAPSULES: Miracle"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Jiaonang Jihua 4th Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jiaonang Jihua: Qiji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "胶囊计划 奇迹"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "胶囊计划 第四季"
       }
     ]
   },
@@ -181430,6 +181495,26 @@
     ]
   },
   {
+    "id": 20235,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Cloud Moon Continent"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yun Yue Dalu"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "云月大陆"
+      }
+    ]
+  },
+  {
     "id": 2893,
     "titles": [
       {
@@ -198123,7 +198208,7 @@
         "title": "TGR 2"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Great Ruler 2"
       },
@@ -372976,21 +373061,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "骄傲的将军"
-      }
-    ]
-  },
-  {
-    "id": 20199,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Jiaonang Jihua: Qiji"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "胶囊计划 奇迹"
       }
     ]
   },
