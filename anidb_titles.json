@@ -142570,6 +142570,21 @@
     ]
   },
   {
+    "id": 20236,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Break Ups"
+      },
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Jeolyeonjooui Sahang"
+      }
+    ]
+  },
+  {
     "id": 14722,
     "titles": [
       {
@@ -168576,6 +168591,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "Chii Fuyo"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life"
       },
       {
         "type": 1,
@@ -223015,6 +223035,21 @@
     ]
   },
   {
+    "id": 20237,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Digimon (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "デジモン (2027)"
+      }
+    ]
+  },
+  {
     "id": 562,
     "titles": [
       {
@@ -246554,6 +246589,11 @@
       },
       {
         "type": 4,
+        "language": "pt",
+        "title": "Konosuba: A Bênção de Deus Para Este Maravilhoso Mundo! - Lenda Carmesim"
+      },
+      {
+        "type": 4,
         "language": "pl",
         "title": "KonoSuba: God`s Blessing on this Wonderful World!"
       },
@@ -251810,6 +251850,11 @@
       {
         "type": 1,
         "language": "x-jat",
+        "title": "Eleceed"
+      },
+      {
+        "type": 4,
+        "language": "en",
         "title": "Eleceed"
       },
       {
@@ -263238,9 +263283,19 @@
         "title": "False Memory"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "False Memory (2020)"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Jiyi Guanli Ju"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Jiyi Guanli Ju (2020)"
       },
       {
         "type": 4,
@@ -281268,7 +281323,7 @@
     "id": 19847,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "FX Fighter Kurumi-chan"
       },
@@ -297006,6 +297061,11 @@
         "type": 4,
         "language": "pl",
         "title": "Odrodzony jako galareta. Film: Łzy Morza Lazuroweg"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tensei shitara Slime Datta Ken Movie 2 - Soukai no Namida-hen"
       },
       {
         "type": 4,
@@ -352233,7 +352293,7 @@
         "title": "Hyouken no Majutsushi ga Sekai o Suberu II"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Iceblade Sorcerer Shall Rule the World II"
       },
@@ -363936,6 +363996,26 @@
         "type": 2,
         "language": "ja",
         "title": "インフィニティーフォース"
+      }
+    ]
+  },
+  {
+    "id": 15638,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Infinite 48"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wuxian Shaonu 48"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "无限少女48"
       }
     ]
   },
@@ -388313,6 +388393,11 @@
         "title": "Kaya-chan wa Kowakunai"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "kayakowa"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "カヤちゃんはコワくない"
@@ -405131,6 +405216,11 @@
         "type": 4,
         "language": "en",
         "title": "Konosuba: An Explosion on this Wonderful World!"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Konosuba: Uma Explosão Neste Maravilhoso Mundo!"
       },
       {
         "type": 4,
@@ -480859,6 +480949,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Uncle`s Obsession with Cute Things"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "おじさんはカワイイものがお好き."
       }
@@ -529258,7 +529353,7 @@
     "id": 19263,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Shangri-La Frontier (2027)"
       },
@@ -575706,21 +575801,6 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "巫人神傳說"
-      }
-    ]
-  },
-  {
-    "id": 15638,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Wuxian Shaonu 48"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "无限少女48"
       }
     ]
   },
