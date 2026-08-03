@@ -134440,6 +134440,26 @@
     ]
   },
   {
+    "id": 20241,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Boku no Hero Academia: I Am a Hero Too"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "My Hero Academia: I Am a Hero Too"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "僕のヒーローアカデミア I am a hero too"
+      }
+    ]
+  },
+  {
     "id": 20039,
     "titles": [
       {
@@ -163435,6 +163455,26 @@
     ]
   },
   {
+    "id": 20238,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Chained Soldier Season 3"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mato Seihei no Slave 3"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔都精兵のスレイブ3"
+      }
+    ]
+  },
+  {
     "id": 12447,
     "titles": [
       {
@@ -171121,6 +171161,26 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "彈珠汽水瓶裡的千歲同學"
+      }
+    ]
+  },
+  {
+    "id": 20240,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Chiramune S2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Chitose-kun wa Ramune Bin no Naka (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "千歳くんはラムネ瓶のなか (2026)"
       }
     ]
   },
@@ -534386,6 +534446,31 @@
         "type": 4,
         "language": "ja",
         "title": "静かなるドン YAKUZA SIDE STORY"
+      }
+    ]
+  },
+  {
+    "id": 20239,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shizun Qu Na Le: Bian Cheng Shen Shou Bei Wu Ge Tu`er rua Tu"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Taming My Fluffy Shizun"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Where did Master go? He turned into a divine beast and was rubbed bald by his five disciples"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "师尊去哪了：变成神兽被五个徒儿rua秃"
       }
     ]
   },
