@@ -122568,6 +122568,11 @@
         "title": "Binan Koukou Chikyuu Bouei Bu Haikara!"
       },
       {
+        "type": 4,
+        "language": "en",
+        "title": "Cute High Earth Defense Club Hi-CARA!"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "Cute High Earth Defense Club Stylish!"
@@ -166181,6 +166186,31 @@
         "type": 4,
         "language": "zh",
         "title": "城隍录"
+      }
+    ]
+  },
+  {
+    "id": 20245,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Cheng Ye Xiao He"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "For the Win!"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "To Be Winner"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "成也萧河"
       }
     ]
   },
@@ -373540,6 +373570,26 @@
     ]
   },
   {
+    "id": 20242,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jie Men Zhi Xia"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Under the Gate"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "界门之下"
+      }
+    ]
+  },
+  {
     "id": 12967,
     "titles": [
       {
@@ -517585,6 +517635,21 @@
     ]
   },
   {
+    "id": 20243,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Sai Ngoi"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "世外"
+      }
+    ]
+  },
+  {
     "id": 19102,
     "titles": [
       {
@@ -530571,6 +530636,21 @@
         "type": 4,
         "language": "ja",
         "title": "死と処女"
+      }
+    ]
+  },
+  {
+    "id": 20244,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shi Wai"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "世外"
       }
     ]
   },
