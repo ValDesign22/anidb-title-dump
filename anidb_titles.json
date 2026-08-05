@@ -35540,17 +35540,17 @@
       {
         "type": 2,
         "language": "en",
-        "title": "A Wild Last Boss Appeared! 2"
+        "title": "A Wild Last Boss Appeared! (2026)"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Yasei no Last Boss ga Arawareta! 2"
+        "title": "Yasei no Last Boss ga Arawareta! (2026)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "野生のラスボスが現れた! 2"
+        "title": "野生のラスボスが現れた! (2026)"
       }
     ]
   },
@@ -72496,6 +72496,26 @@
         "type": 2,
         "language": "ja",
         "title": "アナザー・ワールド"
+      }
+    ]
+  },
+  {
+    "id": 20244,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Another World (2025)"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shi Wai"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "世外"
       }
     ]
   },
@@ -227435,6 +227455,21 @@
     ]
   },
   {
+    "id": 20246,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Dokagui Daisuki! Mochizuki-san"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ドカ食いダイスキ! もちづきさん"
+      }
+    ]
+  },
+  {
     "id": 14608,
     "titles": [
       {
@@ -354150,7 +354185,7 @@
       {
         "type": 4,
         "language": "en",
-        "title": "I Saved Myself with a Potion! : Life in Another World"
+        "title": "I Saved Myself with a Potion!: Life in Another World"
       },
       {
         "type": 1,
@@ -530640,21 +530675,6 @@
     ]
   },
   {
-    "id": 20244,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Shi Wai"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "世外"
-      }
-    ]
-  },
-  {
     "id": 13353,
     "titles": [
       {
@@ -578696,6 +578716,26 @@
         "type": 4,
         "language": "ko",
         "title": "영심이"
+      }
+    ]
+  },
+  {
+    "id": 20247,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Yeonui Pyeonji"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Your Letter"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "연의 편지"
       }
     ]
   },
