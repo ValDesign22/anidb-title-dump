@@ -100425,6 +100425,16 @@
     ]
   },
   {
+    "id": 20252,
+    "titles": [
+      {
+        "type": 1,
+        "language": "ko",
+        "title": "Badass Girl : Run Hany"
+      }
+    ]
+  },
+  {
     "id": 8441,
     "titles": [
       {
@@ -203709,6 +203719,11 @@
       },
       {
         "type": 2,
+        "language": "ru",
+        "title": "Темно-синий"
+      },
+      {
+        "type": 2,
         "language": "ko",
         "title": "다크 블루"
       }
@@ -209546,6 +209561,11 @@
         "type": 4,
         "language": "ja",
         "title": "Dearest Blue"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Самый дорогой"
       },
       {
         "type": 2,
@@ -262086,6 +262106,41 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "有兽焉 第五季"
+      }
+    ]
+  },
+  {
+    "id": 20248,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Fabulous Beasts 6"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Fabulous Beasts 6th Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "There Are Fabulous Beasts: Season 6"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "You Shou Yan 6"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "You Shou Yan 6th Season"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "有兽焉 第六季"
       }
     ]
   },
@@ -365204,6 +365259,11 @@
       },
       {
         "type": 2,
+        "language": "ru",
+        "title": "Невинная грусть"
+      },
+      {
+        "type": 2,
         "language": "ko",
         "title": "이노센트 블루"
       }
@@ -406726,6 +406786,11 @@
         "type": 2,
         "language": "en",
         "title": "Reason ~Fragment of Your Overflowing Heart~"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Осколки твоего сердца"
       },
       {
         "type": 2,
@@ -539615,6 +539680,36 @@
     ]
   },
   {
+    "id": 20250,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sonyeonjangsu"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "소년장수"
+      }
+    ]
+  },
+  {
+    "id": 20251,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Sonyeonjangsu (2015)"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "소년장수 (2015)"
+      }
+    ]
+  },
+  {
     "id": 8034,
     "titles": [
       {
@@ -564619,6 +564714,11 @@
       },
       {
         "type": 2,
+        "language": "ru",
+        "title": "Синий треугольник"
+      },
+      {
+        "type": 2,
         "language": "ko",
         "title": "트라이앵글 블루"
       },
@@ -565179,6 +565279,11 @@
       },
       {
         "type": 2,
+        "language": "ru",
+        "title": "Настоящая грусть"
+      },
+      {
+        "type": 2,
         "language": "ko",
         "title": "트루 블루"
       }
@@ -565206,6 +565311,11 @@
         "type": 4,
         "language": "ja",
         "title": "True Blue~トゥルー・ブルー~外伝"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Настоящая грусть - Генезис"
       }
     ]
   },
@@ -574784,6 +574894,11 @@
       },
       {
         "type": 2,
+        "language": "ru",
+        "title": "Белый Синий"
+      },
+      {
+        "type": 2,
         "language": "ko",
         "title": "화이트 블루"
       },
@@ -581786,6 +581901,26 @@
         "type": 4,
         "language": "ja",
         "title": "ゆめりあ"
+      }
+    ]
+  },
+  {
+    "id": 20249,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Yumi`s Cells: The Movie"
+      },
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Yumiui Sepodeul Deo Mubi"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "유미의 세포들 더 무비"
       }
     ]
   },
