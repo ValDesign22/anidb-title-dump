@@ -60088,6 +60088,11 @@
         "title": "qzfs s7"
       },
       {
+        "type": 4,
+        "language": "en",
+        "title": "Versatile Mage (2026)"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "Versatile Mage 7th Season"
@@ -216760,6 +216765,21 @@
     ]
   },
   {
+    "id": 20254,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Destiny Unchain Online"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Destiny Unchain Online"
+      }
+    ]
+  },
+  {
     "id": 17219,
     "titles": [
       {
@@ -277911,6 +277931,46 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "全职法师IV"
+      }
+    ]
+  },
+  {
+    "id": 20253,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Full-Time Magister S8"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Quanzhi Fashi S8"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Quanzhi Fashi VIII"
+      },
+      {
+        "type": 3,
+        "language": "x-zht",
+        "title": "qzfs s8"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Versatile Mage S8"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "全职法师 第八季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "全职法师VIII"
       }
     ]
   },
