@@ -99610,6 +99610,26 @@
     ]
   },
   {
+    "id": 20255,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Back Alley of Guyu Street"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Guyu Jie Hou Xiang"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "谷雨街后巷"
+      }
+    ]
+  },
+  {
     "id": 15341,
     "titles": [
       {
@@ -121383,6 +121403,11 @@
         "title": "Cycata fantazja"
       },
       {
+        "type": 4,
+        "language": "en",
+        "title": "Funbag Fantasy"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Kyonyuu Fantasy"
@@ -126110,6 +126135,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Black Lagoon"
+      },
+      {
+        "type": 4,
+        "language": "cs",
         "title": "Black Lagoon"
       },
       {
@@ -198303,6 +198333,11 @@
         "title": "Da Zhuzai 3D"
       },
       {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Da Zhuzai: Nian Fan"
+      },
+      {
         "type": 3,
         "language": "en",
         "title": "TGR"
@@ -198346,6 +198381,11 @@
         "type": 2,
         "language": "en",
         "title": "Da Zhuzai 3D 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Da Zhuzai: Nian Fan 2"
       },
       {
         "type": 3,
@@ -203521,6 +203561,31 @@
         "type": 4,
         "language": "ja",
         "title": "探偵学園Q"
+      }
+    ]
+  },
+  {
+    "id": 20256,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Daqian Town"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Daqian Xiao Zhen"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Daqian Xiaozhen"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "大千小镇"
       }
     ]
   },
@@ -220033,12 +220098,12 @@
         "title": "Di Ling Ai: Mo Shui Linglong"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "en",
         "title": "Divine Love - Deep Blue"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Divine Love: Deep Blue"
       },
@@ -220046,6 +220111,46 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "缔灵爱之默水玲珑"
+      }
+    ]
+  },
+  {
+    "id": 20257,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Di Ling Ai: Shui Xin Chan"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Divine Love 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Divine Love: Entwined Water Hearts"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Divine Love: Water Heart Entwine"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "缔灵爱之默水玲珑2"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "缔灵爱之默水玲珑第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "缔灵爱水心缠"
       }
     ]
   },
@@ -381431,6 +381536,11 @@
         "type": 4,
         "language": "en",
         "title": "Kaiju Girl Caramelise"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Otome Kaijuu"
       },
       {
         "type": 1,
