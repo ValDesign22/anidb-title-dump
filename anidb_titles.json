@@ -126278,6 +126278,11 @@
         "title": "Black Lagoon: Roberta`s Blood Trail"
       },
       {
+        "type": 4,
+        "language": "cs",
+        "title": "Black Lagoon: Robertina krvavá stopa"
+      },
+      {
         "type": 2,
         "language": "lt",
         "title": "Juodoji Lagūna: Kruvinas Robertos Kelias"
@@ -195298,6 +195303,11 @@
         "title": "Jujutsu Kaisen"
       },
       {
+        "type": 4,
+        "language": "fr",
+        "title": "Jujutsu Kaisen"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "Sorcery Fight"
@@ -200965,7 +200975,7 @@
       {
         "type": 4,
         "language": "fr",
-        "title": "DAN DA DAN"
+        "title": "Dan Da Dan"
       },
       {
         "type": 4,
@@ -220740,7 +220750,7 @@
       {
         "type": 4,
         "language": "fr",
-        "title": "Les Carnets de l`apothicaire"
+        "title": "Les carnets de l`apothicaire"
       },
       {
         "type": 4,
@@ -231005,6 +231015,56 @@
     ]
   },
   {
+    "id": 5432,
+    "titles": [
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Doraemon E Os Sete Magos"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Doraemon Movie 27"
+      },
+      {
+        "type": 4,
+        "language": "es",
+        "title": "Doraemon y los siete magos"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Doraemon: Nobita no Shin Makai Daibouken - Shichinin no Mahou Tsukai"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Doraemon: Nobita`s New Adventure into the Dark World - The seven messengers of magic"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Doraemon: Nobita`s New Adventure Into the Magic Planet"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Doraemon: Nobita`s New Great Adventure into the Underworld - The Seven Magic Users"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ドラえもん のび太の新魔界大冒険~7人の魔法使い~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "哆啦A梦 大雄的新魔界大冒险 ～7个魔法师～"
+      }
+    ]
+  },
+  {
     "id": 4967,
     "titles": [
       {
@@ -231331,51 +231391,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "哆啦A梦 大雄的猫狗时空传"
-      }
-    ]
-  },
-  {
-    "id": 5432,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Doraemon Movie 27"
-      },
-      {
-        "type": 4,
-        "language": "es",
-        "title": "Doraemon y los siete magos"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Doraemon: Nobita no Shin Makai Daibouken - Shichinin no Mahou Tsukai"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Doraemon: Nobita`s New Adventure into the Dark World - The seven messengers of magic"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Doraemon: Nobita`s New Adventure Into the Magic Planet"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Doraemon: Nobita`s New Great Adventure into the Underworld - The Seven Magic Users"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ドラえもん のび太の新魔界大冒険~7人の魔法使い~"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "哆啦A梦 大雄的新魔界大冒险 ～7个魔法师～"
       }
     ]
   },
@@ -412665,6 +412680,31 @@
     ]
   },
   {
+    "id": 20023,
+    "titles": [
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "L`héroïne au ruban"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "The Ribbon Hero"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "THE RIBBON HERO"
+      },
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "THE RIBBON HERO リボンヒーロー"
+      }
+    ]
+  },
+  {
     "id": 3092,
     "titles": [
       {
@@ -483755,6 +483795,21 @@
     ]
   },
   {
+    "id": 20258,
+    "titles": [
+      {
+        "type": 1,
+        "language": "en",
+        "title": "One Piece: Adventure in the Ocean`s Navel"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "One Piece: Umi no Heso no Daibouken-hen"
+      }
+    ]
+  },
+  {
     "id": 11448,
     "titles": [
       {
@@ -493720,12 +493775,22 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Perfect World The Movie: Ashes of Fire"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Perfect World Theater Edition"
       },
       {
         "type": 2,
         "language": "en",
         "title": "Perfect World: Theatrical Movie"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Wanmei Shijie Movie: Huo Zhi Huijin"
       },
       {
         "type": 1,
@@ -519035,6 +519100,11 @@
       {
         "type": 4,
         "language": "pl",
+        "title": "Sakamoto Days"
+      },
+      {
+        "type": 4,
+        "language": "fr",
         "title": "Sakamoto Days"
       },
       {
@@ -558160,26 +558230,6 @@
     ]
   },
   {
-    "id": 20023,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "The Ribbon Hero"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "THE RIBBON HERO"
-      },
-      {
-        "type": 6,
-        "language": "ja",
-        "title": "THE RIBBON HERO リボンヒーロー"
-      }
-    ]
-  },
-  {
     "id": 10784,
     "titles": [
       {
@@ -568985,6 +569035,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Undead Unluck"
+      },
+      {
+        "type": 4,
+        "language": "fr",
         "title": "Undead Unluck"
       },
       {
