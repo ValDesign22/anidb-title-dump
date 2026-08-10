@@ -11385,6 +11385,21 @@
     ]
   },
   {
+    "id": 20262,
+    "titles": [
+      {
+        "type": 1,
+        "language": "zh-Hans",
+        "title": "1999! Shenmi Xue Duice Bu"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "1999！神秘学对策部"
+      }
+    ]
+  },
+  {
     "id": 3370,
     "titles": [
       {
@@ -56186,6 +56201,31 @@
         "type": 4,
         "language": "ja",
         "title": "悪役令嬢レベル99 ~私は裏ボスですが魔王ではありません~"
+      }
+    ]
+  },
+  {
+    "id": 20259,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Akuyaku no Ending wa Shi Nomi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Villains Are Destined to Die"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "악역의 엔딩은 죽음뿐"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "悪役のエンディングは死のみ"
       }
     ]
   },
@@ -150036,6 +150076,21 @@
         "type": 4,
         "language": "ja",
         "title": "めい・king"
+      }
+    ]
+  },
+  {
+    "id": 20261,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Caishen Dou Zhanlong"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "财神窦占龙"
       }
     ]
   },
@@ -440835,6 +440890,36 @@
     ]
   },
   {
+    "id": 5436,
+    "titles": [
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Mała foczka"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Secret of the Seal"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tottoi"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Tottoi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "トトイ"
+      }
+    ]
+  },
+  {
     "id": 14828,
     "titles": [
       {
@@ -443406,6 +443491,11 @@
         "type": 4,
         "language": "en",
         "title": "Marika`s Love Meter Malfunction"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Уровень симпатии Марики ненормально высокий"
       },
       {
         "type": 4,
@@ -493820,6 +493910,51 @@
     ]
   },
   {
+    "id": 20260,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Perfect World Movie: Nine Calamities Burning Heaven"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Perfect World Movie: Nine Tribulations Incinerate the Heavens"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Perfect World Movie: Ninefold The Burning Sky"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wanmei Shijie Movie: Jiu Jie Fen Tian"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "完美世界 剧场版之九劫焚天"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "完美世界之九劫焚天"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "完美世界剧场版 九劫焚天"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "完美世界剧场版 第二部"
+      }
+    ]
+  },
+  {
     "id": 10950,
     "titles": [
       {
@@ -517676,6 +517811,11 @@
         "type": 4,
         "language": "en",
         "title": "Saga of Tanya the Evil II"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Saga of Tanya the Evil Season 2"
       },
       {
         "type": 1,
@@ -558361,31 +558501,6 @@
         "type": 2,
         "language": "ja",
         "title": "私の知らない妻の貌"
-      }
-    ]
-  },
-  {
-    "id": 5436,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Secret of the Seal"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Tottoi"
-      },
-      {
-        "type": 4,
-        "language": "pt",
-        "title": "Tottoi"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "トトイ"
       }
     ]
   },
