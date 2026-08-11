@@ -4338,6 +4338,11 @@
         "title": "Evangelion: 3.0+1.11 Thrice Upon a Time"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "Evangelion: 3.0+1.11 Thrice Upon a Time"
+      },
+      {
         "type": 2,
         "language": "x-jat",
         "title": "Evangelion: Final"
@@ -53770,6 +53775,21 @@
     ]
   },
   {
+    "id": 20263,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Akazukin, Tabi no Tochuu de Shitai to Deau."
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "赤ずきん, 旅の途中で死体と出会う."
+      }
+    ]
+  },
+  {
     "id": 8816,
     "titles": [
       {
@@ -62253,7 +62273,7 @@
         "title": "Martial Master"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The God of War Dominates"
       },
@@ -77626,6 +77646,31 @@
         "type": 4,
         "language": "ja",
         "title": "人間不信の冒険者たちが世界を救うようです"
+      }
+    ]
+  },
+  {
+    "id": 20255,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "APPLES"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Back Alley of Guyu Street"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Guyu Jie Hou Xiang"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "谷雨街后巷"
       }
     ]
   },
@@ -99646,26 +99691,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "永生之酒"
-      }
-    ]
-  },
-  {
-    "id": 20255,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Back Alley of Guyu Street"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Guyu Jie Hou Xiang"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "谷雨街后巷"
       }
     ]
   },
@@ -163891,6 +163916,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Yani Neko"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Табакошка"
       },
       {
         "type": 4,
