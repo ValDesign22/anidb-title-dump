@@ -117878,6 +117878,11 @@
         "title": "Pocałuj jego, kolego"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Watamote (2016)"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Watashi ga Motete Dou Sunda"
@@ -448123,11 +448128,6 @@
         "title": "My Ribdiculous Reincarnation"
       },
       {
-        "type": 3,
-        "language": "x-jat",
-        "title": "Yuusha no Rokkotsu de"
-      },
-      {
         "type": 4,
         "language": "zh-Hans",
         "title": "女神“异世界转生想成为什么”我“勇者的肋骨”"
@@ -472691,6 +472691,21 @@
         "type": 4,
         "language": "ja",
         "title": "ねずみのよめいり"
+      }
+    ]
+  },
+  {
+    "id": 20264,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Nezumi-kun no Chokki"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ねずみくんのチョッキ"
       }
     ]
   },
