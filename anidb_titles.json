@@ -65248,9 +65248,24 @@
         "title": "Primeval Overlord"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Primordial God"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Tai Gu Shen Zun"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Taigu Shen Zun"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Taigu Shenzun"
       },
       {
         "type": 4,
@@ -150110,21 +150125,6 @@
     ]
   },
   {
-    "id": 20261,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Caishen Dou Zhanlong"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "财神窦占龙"
-      }
-    ]
-  },
-  {
     "id": 8122,
     "titles": [
       {
@@ -176521,6 +176521,36 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "穿越火线：幽灵计划"
+      }
+    ]
+  },
+  {
+    "id": 20266,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Chuanyue Shikong Cheng Xian Di, Xitong Chidao Ba Wan Nian"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Chuanyue Shikong Cheng Xiandi, Xitong Chidao Bawan Nian"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Heaven`s Game"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Transcending time and space to become an immortal emperor, the system is 80,000 years late"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "穿越时空成仙帝，系统迟到八万年"
       }
     ]
   },
