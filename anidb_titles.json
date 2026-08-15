@@ -274138,9 +274138,19 @@
         "title": "Paws & Palaces"
       },
       {
+        "type": 4,
+        "language": "x-jat",
+        "title": "Shikin: On Myao Bou - Shikinjou Neko Keibishitsu"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Zi Jin: Yu Miao Fang"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "紫禁・御猫房〜紫禁城猫警備室〜"
       },
       {
         "type": 4,
@@ -276138,7 +276148,7 @@
         "title": "Frieren - Oltre la Fine del Viaggio"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "pt",
         "title": "Frieren e a Jornada para o Além"
       },
@@ -276244,6 +276254,11 @@
       },
       {
         "type": 4,
+        "language": "pt",
+        "title": "Frieren e a Jornada para o Além (2026)"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Frieren: Beyond Journey`s End (2026)"
       },
@@ -276286,6 +276301,11 @@
         "type": 2,
         "language": "en",
         "title": "Frieren 3"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Frieren e a Jornada para o Além (2027)"
       },
       {
         "type": 2,
@@ -342325,81 +342345,6 @@
     ]
   },
   {
-    "id": 18898,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Hime Kishi wa Barbaroi no Yome"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Himekishi wa Barbaroi no Yome"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Barbarian’s Bride"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Bride of Barbaroi"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Princess-Knight Bride of Barbaroi"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "The Warrior Princess and the Barbaric King"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "공주 기사는 야만족의 신부"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "女騎士成為蠻族新娘"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "女骑士成为蛮族新娘"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "姫騎士は蛮族の嫁"
-      }
-    ]
-  },
-  {
-    "id": 19160,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Hime Kishi-sama no Himo"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Kept Man of the Princess Knight"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "姫騎士様のヒモ"
-      }
-    ]
-  },
-  {
     "id": 842,
     "titles": [
       {
@@ -342611,6 +342556,76 @@
         "type": 4,
         "language": "ja",
         "title": "姫騎士オリヴィア"
+      }
+    ]
+  },
+  {
+    "id": 18898,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Himekishi wa Barbaroi no Yome"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Barbarian’s Bride"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Bride of Barbaroi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Princess-Knight Bride of Barbaroi"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Warrior Princess and the Barbaric King"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "공주 기사는 야만족의 신부"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "女騎士成為蠻族新娘"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "女骑士成为蛮族新娘"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "姫騎士は蛮族の嫁"
+      }
+    ]
+  },
+  {
+    "id": 19160,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Himekishi-sama no Himo"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Kept Man of the Princess Knight"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "姫騎士様のヒモ"
       }
     ]
   },
@@ -386806,6 +386821,11 @@
         "type": 4,
         "language": "ja",
         "title": "プリンセスチュチュ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "彩夢芭蕾"
       }
     ]
   },
@@ -424303,11 +424323,6 @@
         "title": "Link Click - Bridon Arc"
       },
       {
-        "type": 2,
-        "language": "en",
-        "title": "Link Click Season 3"
-      },
-      {
         "type": 4,
         "language": "en",
         "title": "Link Click: Bridon Arc"
@@ -424365,7 +424380,22 @@
       {
         "type": 2,
         "language": "en",
+        "title": "LINK CLICK 3"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Link Click III Part One"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Link Click S3"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Link Click Season 3"
       },
       {
         "type": 1,
@@ -424376,6 +424406,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "时光代理人 第三季 [PART ONE]"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "时光代理人III -LINK CLICK-"
       },
       {
         "type": 2,
