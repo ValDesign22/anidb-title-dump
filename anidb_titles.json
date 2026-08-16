@@ -111575,6 +111575,66 @@
     ]
   },
   {
+    "id": 20270,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Bawang Long Lei Qi"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "霸王龙雷奇"
+      }
+    ]
+  },
+  {
+    "id": 20269,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Bawang Long Lei Qi 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "霸王龙雷奇 第二季"
+      }
+    ]
+  },
+  {
+    "id": 20268,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Bawang Long Lei Qi 3"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Bawang Long Lei Qi: Lei Qi Zhi Duoshao"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Tyrannosaurus Rex Ricky 3"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "霸王龙雷奇之雷奇知多少"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "霸王龙雷奇第三季"
+      }
+    ]
+  },
+  {
     "id": 15213,
     "titles": [
       {
@@ -147876,6 +147936,21 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "豬肝記得煮熟再吃"
+      }
+    ]
+  },
+  {
+    "id": 20267,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Butagini Jugeojura"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "부탁이니 죽어주라"
       }
     ]
   },
@@ -210511,6 +210586,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Deco x Deco The Animation"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "데코x데코"
       },
       {
         "type": 4,
@@ -326658,6 +326738,11 @@
         "title": "Hamehara"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "하메하라"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ハメハラ"
@@ -330296,6 +330381,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Harem Shima e Youkoso!"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "하렘섬에 어서오세요"
       },
       {
         "type": 4,
@@ -363763,6 +363853,11 @@
         "title": "Inaka ni wa Kore Kurai Shika Goraku ga Nai"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "시골에는 오락이 이 정도 밖에 없다"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "田舎にはこれくらいしか娯楽がない"
@@ -378388,6 +378483,11 @@
         "title": "Jurassic Shadows"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Ryuugeshou no Shinobi"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Ryuugeshou no Shinobu"
@@ -378726,6 +378826,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Juurin Oukoku"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "유린왕국"
       },
       {
         "type": 4,
@@ -411156,6 +411261,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kusunoki-san wa Koukou Debut ni Shippai Shite Iru"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Kusunoki-san wa Koukou Debut ni Shippai Shiteiru"
       },
       {
         "type": 2,
@@ -473886,6 +473996,11 @@
         "type": 4,
         "language": "en",
         "title": "The Elusive Samurai (2026)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Elusive Samurai Season 2"
       },
       {
         "type": 4,
@@ -540146,6 +540261,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Sono Mukou no Mukougawa"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Other Side of the Other Side"
       },
       {
         "type": 4,
