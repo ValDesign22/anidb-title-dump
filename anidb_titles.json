@@ -135033,6 +135033,11 @@
         "title": "Boku no Kokoro no Yabai Yatsu (2027)"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Boku no Kokoro no Yabai Yatsu 3"
+      },
+      {
         "type": 4,
         "language": "pt",
         "title": "Os Perigos no Meu Coração (2027)"
@@ -140791,6 +140796,21 @@
         "type": 4,
         "language": "ja",
         "title": "ザ・ハード BOUNTY HUNTER"
+      }
+    ]
+  },
+  {
+    "id": 20274,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Bousei no Volicia"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "忘星のヴァリシア"
       }
     ]
   },
@@ -276453,9 +276473,24 @@
         "title": "Sousou no Frieren (2027)"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Sousou no Frieren: Ougonkyou Hen"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Sousou no Frieren: Ougonkyou-hen"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "葬送のフリーレン (2027)"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "葬送のフリーレン 黄金郷編"
       }
     ]
   },
@@ -276966,6 +277001,11 @@
         "type": 2,
         "language": "en",
         "title": "Frozen Mahjong: Underground Mahjong Battle Record"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tohai: Ura Rate Mahjong Tohai Roku"
       },
       {
         "type": 1,
@@ -299971,6 +300011,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Genshin"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "Genshin Impact"
       },
       {
         "type": 4,
@@ -378878,6 +378923,11 @@
         "title": "Juuou Bushin Dandivine"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Juuou Mujin Dandivine"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "獣王武神ダンデヴァイン"
@@ -398264,8 +398314,18 @@
       },
       {
         "type": 2,
+        "language": "x-jat",
+        "title": "Kingdom 6th season 2nd part"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "Kingdom S6 Part II"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Kingdom Season 6 Part 2"
       },
       {
         "type": 4,
@@ -419921,6 +419981,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Xing Chen Bian Di Qi Ji"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xingchen Bian 7"
       },
       {
         "type": 2,
@@ -484439,6 +484504,16 @@
       },
       {
         "type": 2,
+        "language": "x-jat",
+        "title": "One Punch Man Season 3 Part 2"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "opm s3p2"
+      },
+      {
+        "type": 2,
         "language": "ja",
         "title": "ワンパンマン (2027)"
       }
@@ -520556,6 +520631,11 @@
         "type": 1,
         "language": "x-kot",
         "title": "Salangui Hachyuping: Golaeboseogui Jeonseol"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Teenieping: Legend of the Whale Heartstone"
       },
       {
         "type": 4,
