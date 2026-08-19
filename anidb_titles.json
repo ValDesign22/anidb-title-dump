@@ -28643,6 +28643,11 @@
         "title": "A Love Too Captivating"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Is It Because of Love That I Can`t Resist?"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Tamaranai no wa Koi na no ka"
@@ -200255,6 +200260,31 @@
     ]
   },
   {
+    "id": 16271,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "DAKAICHI -I`m being harassed by the sexiest man of the year-: Spain Arc"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Dakaichi: I`m Being Harassed by the Sexiest Man of the Year - the Movie in Spain"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Dakaretai Otoko 1-i ni Odosarete Imasu. Spain Hen"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版 抱かれたい男1位に脅されています. ~スペイン編~"
+      }
+    ]
+  },
+  {
     "id": 13979,
     "titles": [
       {
@@ -200286,26 +200316,6 @@
         "type": 4,
         "language": "ja",
         "title": "抱かれたい男1位に脅されています."
-      }
-    ]
-  },
-  {
-    "id": 16271,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Dakaichi: I`m Being Harassed by the Sexiest Man of the Year - the Movie in Spain"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Gekijouban Dakaretai Otoko 1-i ni Odosarete Imasu. Spain Hen"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "劇場版 抱かれたい男1位に脅されています. ~スペイン編~"
       }
     ]
   },
@@ -339851,6 +339861,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Hibike! Euphonium: Ensemble Contest-hen"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Sound! Euphonium: Ensemble Contest"
       },
       {
         "type": 2,
@@ -487976,6 +487991,36 @@
         "type": 4,
         "language": "ja",
         "title": "おしりたんてい (2023)"
+      }
+    ]
+  },
+  {
+    "id": 20275,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Oshiri Tantei (2024)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "おしりたんてい (2024)"
+      }
+    ]
+  },
+  {
+    "id": 20276,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Oshiri Tantei (2025)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "おしりたんてい (2025)"
       }
     ]
   },
