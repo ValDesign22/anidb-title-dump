@@ -136700,6 +136700,21 @@
     ]
   },
   {
+    "id": 20277,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Bol-cheu-wa Beul-lib: Dalnala Ligeuui Jeontu"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "볼츠와 블립: 달나라 리그의 전투"
+      }
+    ]
+  },
+  {
     "id": 2786,
     "titles": [
       {
@@ -266625,6 +266640,26 @@
     ]
   },
   {
+    "id": 20278,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Fate/Grand Order 藤丸立香はわからない (2026)"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai (2026)"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Fate/Grand Order: You`ve Lost Ritsuka Fujimaru (2026)"
+      }
+    ]
+  },
+  {
     "id": 6817,
     "titles": [
       {
@@ -321115,31 +321150,6 @@
     ]
   },
   {
-    "id": 16709,
-    "titles": [
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Gundam: SD Gundam World Heroes: The Legend of Dragon Knight"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "SD GUNDAM WORLD HEROES THE LEGEND OF DRAGON KNIGHT"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "SD Gundam World Heroes: The Legend of Dragon Knight"
-      },
-      {
-        "type": 2,
-        "language": "ja",
-        "title": "SDガンダムワールド ヒーローズ THE LEGEND OF DRAGON KNIGHT"
-      }
-    ]
-  },
-  {
     "id": 14497,
     "titles": [
       {
@@ -353681,6 +353691,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "我为刀宗"
+      }
+    ]
+  },
+  {
+    "id": 20280,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "I Am the Only Human in School"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wo shi xue xiao wei yi de ren lei"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我是學校唯一的人類"
       }
     ]
   },
@@ -513626,6 +513656,26 @@
         "type": 4,
         "language": "ja",
         "title": "ライジングインパクト (2024)"
+      }
+    ]
+  },
+  {
+    "id": 20279,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Rising in The Fire"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xiang Huo Er Sheng"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "向火而生"
       }
     ]
   },
