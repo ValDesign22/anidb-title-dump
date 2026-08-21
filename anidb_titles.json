@@ -137530,6 +137530,21 @@
     ]
   },
   {
+    "id": 20281,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "Bolts & Blip"
+      },
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Bolts-wa Blip"
+      }
+    ]
+  },
+  {
     "id": 8740,
     "titles": [
       {
@@ -203666,6 +203681,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "在这世界的角落"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "謝謝你，在世界的角落找到我"
       }
     ]
   },
@@ -217191,6 +217211,11 @@
         "type": 4,
         "language": "ja",
         "title": "かがみの孤城"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "鏡之孤城"
       },
       {
         "type": 4,
@@ -246284,6 +246309,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "劇場版 五等分的新娘"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "映画 五等分の花嫁"
       },
@@ -250731,6 +250761,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "言叶之庭"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "言葉之庭"
       }
     ]
   },
@@ -308656,6 +308691,11 @@
         "type": 4,
         "language": "ja",
         "title": "五等分の花嫁＊"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "五等分的新娘*"
       },
       {
         "type": 4,
@@ -411591,6 +411631,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "未麻的部屋"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "藍色恐懼"
       }
     ]
   },
@@ -474306,6 +474351,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "春宵苦短,少女前进吧!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "春宵苦短，少女前進吧！"
       }
     ]
   },
@@ -492381,6 +492431,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "盗梦侦探"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "盜夢偵探"
       },
       {
         "type": 2,
