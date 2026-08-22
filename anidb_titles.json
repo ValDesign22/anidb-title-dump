@@ -46105,7 +46105,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "Agent Blue"
+        "title": "AGENT BLUE"
       }
     ]
   },
@@ -68391,6 +68391,21 @@
         "type": 4,
         "language": "ja",
         "title": "アンゴルモア 元寇合戦記"
+      }
+    ]
+  },
+  {
+    "id": 20285,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Angry Rabbit"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ANGRY RABBIT"
       }
     ]
   },
@@ -283309,6 +283324,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "Gachiakuta"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "ガチアクタ"
       },
@@ -371715,6 +371735,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Jade Dynasty 3rd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Jade Dynasty Season 3"
       },
       {
@@ -427668,6 +427693,11 @@
         "title": "Love Live! Hasu no Sora Jogakuin School Idol Club: Bloom Garden Party"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Love Live! Hasunosora Girls` High School Idol Club: Bloom Garden Party"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ラブライブ! 蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party"
@@ -439411,6 +439441,26 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "女僕小姐的貪吃日常"
+      }
+    ]
+  },
+  {
+    "id": 20284,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Maiden Blood"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Maiden Blood"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "メイデンブラッド"
       }
     ]
   },
@@ -471321,6 +471371,16 @@
         "type": 1,
         "language": "x-jat",
         "title": "Neko ni Naritai Tamagawa-kun"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Nekotama"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "ねこたま"
       },
       {
         "type": 4,
@@ -547680,6 +547740,21 @@
     ]
   },
   {
+    "id": 20286,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "SUPER NINJA NEKO"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Super Ninja Neko"
+      }
+    ]
+  },
+  {
     "id": 1411,
     "titles": [
       {
@@ -584626,6 +584701,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "中国唱诗班"
+      }
+    ]
+  },
+  {
+    "id": 20282,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhu Xian: Zuizhong Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "诛仙 最终季"
       }
     ]
   },
