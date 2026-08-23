@@ -10591,6 +10591,11 @@
         "type": 4,
         "language": "ja",
         "title": "十二戦支 爆烈エトレンジャー"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "十二生肖 爆烈戰士"
       }
     ]
   },
@@ -17271,6 +17276,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "七大罪 戒律的复活"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "七大罪 戒律的復活"
       }
     ]
   },
@@ -25309,6 +25319,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "夏日時光"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "夏日重现"
       }
@@ -32325,6 +32340,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "怪人的沙拉碗"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "怪人的沙拉碗"
       }
     ]
@@ -58361,6 +58381,11 @@
         "type": 4,
         "language": "ja",
         "title": "不思議の国でアリスと -Dive in Wonderland-"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "穿越吧！不思議少女"
       }
     ]
   },
@@ -77281,6 +77306,11 @@
         "type": 4,
         "language": "ja",
         "title": "アポカリプスホテル"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "末世旅館"
       },
       {
         "type": 4,
@@ -160388,6 +160418,11 @@
         "title": "はたらく細胞BLACK"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "工作細胞BLACK"
+      },
+      {
         "type": 2,
         "language": "zh",
         "title": "工作细胞 Black"
@@ -160451,6 +160486,11 @@
         "type": 4,
         "language": "ja",
         "title": "はたらく細胞"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "工作細胞"
       },
       {
         "type": 4,
@@ -160526,6 +160566,11 @@
         "type": 4,
         "language": "ja",
         "title": "はたらく細胞!!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "工作細胞S2"
       },
       {
         "type": 4,
@@ -201796,6 +201841,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "舞动不止"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "舞動不止"
       }
     ]
   },
@@ -267875,6 +267925,21 @@
     ]
   },
   {
+    "id": 20287,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Feng Tian Qi"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "封天契"
+      }
+    ]
+  },
+  {
     "id": 14431,
     "titles": [
       {
@@ -310284,6 +310349,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "女神咖啡廳"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "女神的露天咖啡厅"
       }
@@ -310346,6 +310416,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "女神咖啡厅 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "女神咖啡廳 第二季"
       },
       {
         "type": 2,
@@ -330560,26 +330635,6 @@
     ]
   },
   {
-    "id": 20032,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Harem Shima e Youkoso!"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "하렘섬에 어서오세요"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ハーレム島へようこそ!"
-      }
-    ]
-  },
-  {
     "id": 9340,
     "titles": [
       {
@@ -330606,6 +330661,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "后宫时间"
+      }
+    ]
+  },
+  {
+    "id": 20032,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Harem-tou e Youkoso!"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "하렘섬에 어서오세요"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ハーレム島へようこそ!"
       }
     ]
   },
@@ -371770,6 +371845,46 @@
     ]
   },
   {
+    "id": 20282,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Jade Dynasty 4th Season"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Jade Dynasty Final Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Zhu Xian 4th Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Zhu Xian Di Si Ji"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhu Xian: Zuizhong Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "诛仙 最终季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "诛仙 第四季"
+      }
+    ]
+  },
+  {
     "id": 18244,
     "titles": [
       {
@@ -376456,6 +376571,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "女高中生的虚度日常"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "女高中生的虛度日常"
       }
     ]
   },
@@ -439493,6 +439613,11 @@
         "title": "乙女[おとめ]はお姉さま[ボク]に恋してる 2人のエルダー THE ANIMATION"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "少女愛上大姊姊 2"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "少女爱上姐姐 2人的Elder THE ANIMATION"
@@ -486566,6 +486691,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "房东妹子青春期"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "房東妹子思春期！"
       }
     ]
   },
@@ -578896,6 +579026,11 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "山田君與7人魔女"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "山田君與7位魔女"
       }
     ]
   },
@@ -584701,21 +584836,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "中国唱诗班"
-      }
-    ]
-  },
-  {
-    "id": 20282,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Zhu Xian: Zuizhong Ji"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "诛仙 最终季"
       }
     ]
   },
