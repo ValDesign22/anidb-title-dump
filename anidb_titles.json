@@ -115465,6 +115465,21 @@
     ]
   },
   {
+    "id": 20289,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Bei Jiazu Paoqi, Wo Juexing Jiu Yi Shuxing Dian 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "被家族抛弃，我觉醒九亿属性点 第二季"
+      }
+    ]
+  },
+  {
     "id": 20049,
     "titles": [
       {
@@ -208855,6 +208870,41 @@
     ]
   },
   {
+    "id": 19400,
+    "titles": [
+      {
+        "type": 4,
+        "language": "es",
+        "title": "De campesino cuarentón a espadachín legendario II"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "From Old Country Bumpkin to Master Swordsman II"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "From Old Country Bumpkin to Master Swordsman Season 2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Katainaka no Ossan, Kensei ni Naru II"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Vom Landei zum Schwertheiligen II"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "片田舎のおっさん, 剣聖になるII"
+      }
+    ]
+  },
+  {
     "id": 13175,
     "titles": [
       {
@@ -276855,36 +276905,6 @@
     ]
   },
   {
-    "id": 19400,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "From Old Country Bumpkin to Master Swordsman II"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "From Old Country Bumpkin to Master Swordsman Season 2"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Katainaka no Ossan, Kensei ni Naru II"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "Vom Landei zum Schwertheiligen II"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "片田舎のおっさん, 剣聖になるII"
-      }
-    ]
-  },
-  {
     "id": 19896,
     "titles": [
       {
@@ -330635,6 +330655,31 @@
     ]
   },
   {
+    "id": 20032,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Harem Shima e Youkoso!"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Harem-tou e Youkoso!"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "하렘섬에 어서오세요"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ハーレム島へようこそ!"
+      }
+    ]
+  },
+  {
     "id": 9340,
     "titles": [
       {
@@ -330661,26 +330706,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "后宫时间"
-      }
-    ]
-  },
-  {
-    "id": 20032,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Harem-tou e Youkoso!"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "하렘섬에 어서오세요"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ハーレム島へようこそ!"
       }
     ]
   },
@@ -444103,6 +444128,11 @@
         "title": "Marika`s Love Meter Malfunction"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "marikowa"
+      },
+      {
         "type": 2,
         "language": "ru",
         "title": "Уровень симпатии Марики ненормально высокий"
@@ -484310,6 +484340,36 @@
     ]
   },
   {
+    "id": 20291,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ONE PIECE FILM BAAD"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "One Piece Film: Baad"
+      }
+    ]
+  },
+  {
+    "id": 20290,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ONE PIECE FILM GOD VALLEY"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "One Piece Film: God Valley"
+      }
+    ]
+  },
+  {
     "id": 11529,
     "titles": [
       {
@@ -521940,6 +522000,21 @@
     ]
   },
   {
+    "id": 20288,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Sanjiaozhou: Zaowuzhu Wanjia"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "三角洲：造物主玩家"
+      }
+    ]
+  },
+  {
     "id": 9924,
     "titles": [
       {
@@ -538946,6 +539021,16 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "天翔少女"
+      }
+    ]
+  },
+  {
+    "id": 20292,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sky Kids BOOBY"
       }
     ]
   },
@@ -564521,6 +564606,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Tooi-san wa Seishun Shitai! \"Baka to Sumaho to Romance to\""
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tooi-san wa Seishun Shitai! Baka to Smartphone to Romance to"
       },
       {
         "type": 3,
