@@ -11380,6 +11380,21 @@
     ]
   },
   {
+    "id": 20293,
+    "titles": [
+      {
+        "type": 1,
+        "language": "zh-Hans",
+        "title": "19 Tian"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "19天"
+      }
+    ]
+  },
+  {
     "id": 11393,
     "titles": [
       {
@@ -29711,6 +29726,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Fanren Xiu Xian Chuan: Mo Dao Zhengfeng"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Fanren Xiu Xian Zhuan 2nd Season"
       },
       {
         "type": 4,
@@ -59065,6 +59085,21 @@
     ]
   },
   {
+    "id": 20294,
+    "titles": [
+      {
+        "type": 1,
+        "language": "zh-Hans",
+        "title": "Alita De Shi Lian"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "阿莉塔的试炼"
+      }
+    ]
+  },
+  {
     "id": 11403,
     "titles": [
       {
@@ -59461,6 +59496,11 @@
         "type": 4,
         "language": "ja",
         "title": "ヒロイン? 聖女? いいえ, オールワークスメイドです (誇)!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "女主角？聖女？都不對，我是雜役女僕（自豪）！"
       }
     ]
   },
@@ -64536,6 +64576,11 @@
         "type": 2,
         "language": "en",
         "title": "And2 Girls"
+      },
+      {
+        "type": 2,
+        "language": "x-unk",
+        "title": "And2! And2!"
       },
       {
         "type": 4,
@@ -74771,6 +74816,21 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "满脑都是○○的我没办法谈恋爱"
+      }
+    ]
+  },
+  {
+    "id": 20295,
+    "titles": [
+      {
+        "type": 1,
+        "language": "zh-Hans",
+        "title": "Aoao Dai Bu"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "敖敖待捕"
       }
     ]
   },
@@ -88439,6 +88499,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "小書痴的下剋上：為了成為圖書管理員不擇手段！"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "本好きの下剋上 司書になるためには手段を選んでいられません"
       }
@@ -101120,6 +101185,51 @@
     ]
   },
   {
+    "id": 20296,
+    "titles": [
+      {
+        "type": 1,
+        "language": "zh-Hans",
+        "title": "Bai Lian Feisheng Lu"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "百炼飞升录"
+      }
+    ]
+  },
+  {
+    "id": 20297,
+    "titles": [
+      {
+        "type": 1,
+        "language": "zh-Hans",
+        "title": "Bai Lian Feisheng Lu Di Er Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "百炼飞升录二季"
+      }
+    ]
+  },
+  {
+    "id": 20298,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Bai Ri Cheng Cai"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "百日成财"
+      }
+    ]
+  },
+  {
     "id": 20151,
     "titles": [
       {
@@ -101146,6 +101256,11 @@
         "type": 2,
         "language": "x-zht",
         "title": "Bai She 3: Fusheng"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Bai She III: Fusheng"
       },
       {
         "type": 1,
@@ -101186,6 +101301,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "白蛇Ⅱ: 青蛇劫起"
+      }
+    ]
+  },
+  {
+    "id": 20299,
+    "titles": [
+      {
+        "type": 1,
+        "language": "zh-Hans",
+        "title": "Bai She Zhuan: Bai Suzhen"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "白蛇传之白素贞"
       }
     ]
   },
@@ -106555,6 +106685,21 @@
     ]
   },
   {
+    "id": 20300,
+    "titles": [
+      {
+        "type": 1,
+        "language": "zh-Hant",
+        "title": "Ban Shen Zhi Jing"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "半神之境"
+      }
+    ]
+  },
+  {
     "id": 2383,
     "titles": [
       {
@@ -108015,6 +108160,36 @@
     ]
   },
   {
+    "id": 20301,
+    "titles": [
+      {
+        "type": 1,
+        "language": "zh-Hant",
+        "title": "Banshou Shaonian"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "扳手少年"
+      }
+    ]
+  },
+  {
+    "id": 20302,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Bao Ke Meng Donghua Tujian: Xiaoqi Dao Zhong"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "宝可梦动画图鉴 小憩岛中"
+      }
+    ]
+  },
+  {
     "id": 2753,
     "titles": [
       {
@@ -108181,6 +108356,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "爆裂飞车3 兽神合体"
+      }
+    ]
+  },
+  {
+    "id": 20320,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Baoxiao Kung Fu"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "爆笑功夫"
       }
     ]
   },
@@ -111054,8 +111244,18 @@
       },
       {
         "type": 2,
+        "language": "x-zht",
+        "title": "Dou Po Cangqiong 2: Tebie Pian - Sha Zhi Lan Ge"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "Dou po Cangqiong 2nd Season: Song of Desert"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Doupo Cangqiong: Tebie Pian 2 - Sha Zhi Lan Ge"
       },
       {
         "type": 4,
@@ -115474,6 +115674,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Cast Out by My Family, I Awakened 900 Million Stat Points 2"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "被家族抛弃，我觉醒九亿属性点 第二季"
       }
@@ -115491,6 +115696,21 @@
         "type": 4,
         "language": "zh",
         "title": "贝肯熊：火星任务"
+      }
+    ]
+  },
+  {
+    "id": 20303,
+    "titles": [
+      {
+        "type": 1,
+        "language": "zh-Hant",
+        "title": "Bei Xue"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "杯雪"
       }
     ]
   },
@@ -134146,6 +134366,41 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "偽物語"
+      }
+    ]
+  },
+  {
+    "id": 18232,
+    "titles": [
+      {
+        "type": 2,
+        "language": "pl",
+        "title": "Bohater bez klasy: Na co komu zdolności?!"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Hero Without A Class: Who Even Needs Skills?!"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakattanda ga"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "无职英雄：技能什么的毫无用处"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "無職の英雄 別にスキルなんか要らなかったんだが"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "無職英雄：技能什麼的毫無用處"
       }
     ]
   },
@@ -164595,6 +164850,21 @@
     ]
   },
   {
+    "id": 20304,
+    "titles": [
+      {
+        "type": 1,
+        "language": "zh-Hant",
+        "title": "Chang An San Wan Li"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "长安三万里"
+      }
+    ]
+  },
+  {
     "id": 19180,
     "titles": [
       {
@@ -164670,12 +164940,22 @@
       {
         "type": 2,
         "language": "x-zht",
+        "title": "Chang Jiang 7 Hao Ai Di Qiu"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
         "title": "Chang Jiang 7 Hao: Ai Diqiu"
       },
       {
         "type": 2,
         "language": "x-zht",
         "title": "Chang Jiang Qi Hao: Ai Diqiu"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Changjiang 7 Hao Ai Diqiu"
       },
       {
         "type": 2,
@@ -165015,6 +165295,21 @@
     ]
   },
   {
+    "id": 20305,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Chao Neng Fuke Jing"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "超能复刻镜"
+      }
+    ]
+  },
+  {
     "id": 19234,
     "titles": [
       {
@@ -165181,6 +165476,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Chao You Bing"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Chao You Bing: Zhi Yong Zhe Chuan Shuo"
       },
       {
         "type": 2,
@@ -166495,6 +166795,21 @@
     ]
   },
   {
+    "id": 20306,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Chen Feng Gui"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "乘风归"
+      }
+    ]
+  },
+  {
     "id": 18744,
     "titles": [
       {
@@ -166606,6 +166921,21 @@
         "type": 4,
         "language": "zh",
         "title": "城隍录"
+      }
+    ]
+  },
+  {
+    "id": 20307,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Cheng Li Laile Liao Yi Tiao Long"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "城里来了一条龙"
       }
     ]
   },
@@ -172490,6 +172820,21 @@
     ]
   },
   {
+    "id": 20308,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Chong Chu Diqiu"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "冲出地球"
+      }
+    ]
+  },
+  {
     "id": 18659,
     "titles": [
       {
@@ -176766,6 +177111,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "穿书自救指南"
+      }
+    ]
+  },
+  {
+    "id": 20309,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Chuan Shu Zijiu Zhinan: Xian Meng Pian"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "穿书自救指南之仙盟篇"
       }
     ]
   },
@@ -198660,6 +199020,21 @@
     ]
   },
   {
+    "id": 20310,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Da Yu Hai Tang: Rong Song Chuan"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "大鱼海棠之融松传"
+      }
+    ]
+  },
+  {
     "id": 19371,
     "titles": [
       {
@@ -198933,6 +199308,11 @@
         "title": "Dabing Jinbao"
       },
       {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Dabing Jinbao Lixian Ji"
+      },
+      {
         "type": 4,
         "language": "x-jat",
         "title": "Dragon Panda"
@@ -198956,6 +199336,11 @@
         "type": 4,
         "language": "ja",
         "title": "ドラゴン・パンダ"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "大兵金宝历险记"
       },
       {
         "type": 4,
@@ -212075,6 +212460,26 @@
     ]
   },
   {
+    "id": 20288,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Delta Force: The Creator"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Sanjiaozhou: Zaowuzhu Wanjia"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "三角洲：造物主玩家"
+      }
+    ]
+  },
+  {
     "id": 4595,
     "titles": [
       {
@@ -220636,6 +221041,36 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "地灵曲——楼兰古城"
+      }
+    ]
+  },
+  {
+    "id": 20311,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Di Ling Qu: Loulan Wanjie Pian"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "地灵曲 楼兰完结篇"
+      }
+    ]
+  },
+  {
+    "id": 20312,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Di Ling Qu: Nanjiang Miwu"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "地灵曲 南疆迷雾"
       }
     ]
   },
@@ -229800,6 +230235,21 @@
     ]
   },
   {
+    "id": 20313,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Dongfang Ye Que Shitang Donghua"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "东方夜雀食堂动画"
+      }
+    ]
+  },
+  {
     "id": 12951,
     "titles": [
       {
@@ -237544,6 +237994,11 @@
       },
       {
         "type": 2,
+        "language": "x-zht",
+        "title": "Long Dao Qi Yuan -DragonBlade-"
+      },
+      {
+        "type": 2,
         "language": "x-unk",
         "title": "Lung do kei yuen"
       },
@@ -241226,6 +241681,21 @@
         "type": 4,
         "language": "ja",
         "title": "継母"
+      }
+    ]
+  },
+  {
+    "id": 20315,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Duxing Yueqiu"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "独行月球"
       }
     ]
   },
@@ -267230,6 +267700,21 @@
     ]
   },
   {
+    "id": 20316,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Fei Ba! Lanqiu"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "飞吧！篮球"
+      }
+    ]
+  },
+  {
     "id": 16607,
     "titles": [
       {
@@ -267431,6 +267916,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "非人哉 (6)"
+      }
+    ]
+  },
+  {
+    "id": 20317,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Fei Ren Zai: Xian Shi Wan Jia"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "非人哉：限时玩家"
       }
     ]
   },
@@ -267780,6 +268280,46 @@
     ]
   },
   {
+    "id": 20318,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Feng Huo Zhan Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "风火战纪"
+      }
+    ]
+  },
+  {
+    "id": 3188,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Feng Ji Yun Nu"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Storm Rider - Wild Winds, Raging Clouds"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Storm Riders OVA (Year 2002 Version)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "風急雲怒"
+      }
+    ]
+  },
+  {
     "id": 13447,
     "titles": [
       {
@@ -267960,6 +268500,21 @@
     ]
   },
   {
+    "id": 20319,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Feng Shu Zhan Jing (2012)"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "锋速战警 (2012)"
+      }
+    ]
+  },
+  {
     "id": 16711,
     "titles": [
       {
@@ -267981,6 +268536,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Feng Tian Qi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Heaven Sealing Contract"
       },
       {
         "type": 4,
@@ -273066,6 +273626,46 @@
         "type": 4,
         "language": "ko",
         "title": "날아라 슈퍼보드"
+      }
+    ]
+  },
+  {
+    "id": 10873,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Flying Superboard (1998)"
+      },
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Narara Superboard (1998)"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "날아라 슈퍼보드 (1998)"
+      }
+    ]
+  },
+  {
+    "id": 10874,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Flying Superboard (2001)"
+      },
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Narara Superboard (2001)"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "날아라 슈퍼보드 (2001)"
       }
     ]
   },
@@ -338780,36 +339380,6 @@
     ]
   },
   {
-    "id": 18232,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Hero Without A Class: Who Even Needs Skills?!"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakattanda ga"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "无职英雄：技能什么的毫无用处"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "無職の英雄 別にスキルなんか要らなかったんだが"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "無職英雄：技能什麼的毫無用處"
-      }
-    ]
-  },
-  {
     "id": 1217,
     "titles": [
       {
@@ -353866,6 +354436,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Wo shi xue xiao wei yi de ren lei"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Wo Shi Xuexiao Weiyi de Renlei"
       },
       {
         "type": 4,
@@ -468950,36 +469525,6 @@
     ]
   },
   {
-    "id": 10873,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-kot",
-        "title": "Narara Superboard (1998)"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "날아라 슈퍼보드 (1998)"
-      }
-    ]
-  },
-  {
-    "id": 10874,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-kot",
-        "title": "Narara Superboard (2001)"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "날아라 슈퍼보드 (2001)"
-      }
-    ]
-  },
-  {
     "id": 586,
     "titles": [
       {
@@ -481476,6 +482021,11 @@
         "type": 4,
         "language": "ja",
         "title": "転校先の清楚可憐な美少女が, 昔男子と思って一緒に遊んだ幼馴染だった件"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "轉學後班上的清純可愛美少女，竟是小時候玩在一起的哥兒們"
       }
     ]
   },
@@ -522000,21 +522550,6 @@
     ]
   },
   {
-    "id": 20288,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Sanjiaozhou: Zaowuzhu Wanjia"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "三角洲：造物主玩家"
-      }
-    ]
-  },
-  {
     "id": 9924,
     "titles": [
       {
@@ -529341,6 +529876,11 @@
         "type": 1,
         "language": "x-kot",
         "title": "Seupideuwang Beongae"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Wings of Dragon"
       },
       {
         "type": 4,
@@ -546376,26 +546916,6 @@
         "type": 4,
         "language": "ja",
         "title": "風雲草圖"
-      }
-    ]
-  },
-  {
-    "id": 3188,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Storm Rider - Wild Winds, Raging Clouds"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Storm Riders OVA (Year 2002 Version)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "風急雲怒"
       }
     ]
   },
