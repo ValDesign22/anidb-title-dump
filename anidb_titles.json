@@ -30,41 +30,6 @@
     ]
   },
   {
-    "id": 10004,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "-Dark night at NTR Village-, Kagachi-sama, please honor me with your presence"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kagachi-sama Onagusame Tatematsurimasu: Netorare Mura In`ya Hanashi"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "카가치님 위로해드립니다"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "카가치님 위로해주세요"
-      },
-      {
-        "type": 2,
-        "language": "ja",
-        "title": "かがち様お慰め奉ります ~寝取られ村淫夜噺~ THE ANIMATION"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "かがち様お慰め奉ります 寝取られ村淫夜噺"
-      }
-    ]
-  },
-  {
     "id": 17715,
     "titles": [
       {
@@ -45625,21 +45590,6 @@
     ]
   },
   {
-    "id": 16433,
-    "titles": [
-      {
-        "type": 1,
-        "language": "en",
-        "title": "AgainsttheGods"
-      },
-      {
-        "type": 4,
-        "language": "x-zht",
-        "title": "Ni Tian Xie Shen"
-      }
-    ]
-  },
-  {
     "id": 18375,
     "titles": [
       {
@@ -64071,6 +64021,51 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "绯色恋"
+      }
+    ]
+  },
+  {
+    "id": 885,
+    "titles": [
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Amor Estranho"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Amor Estranho"
+      },
+      {
+        "type": 2,
+        "language": "pt",
+        "title": "Estranho Amor"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hen"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Strange Love"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "Strange Love - 変"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "헨 - 이상한 사랑"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "変"
       }
     ]
   },
@@ -87454,6 +87449,11 @@
       },
       {
         "type": 2,
+        "language": "en",
+        "title": "Pretty Guardian Sailor Moon R the Movie"
+      },
+      {
+        "type": 2,
         "language": "x-jat",
         "title": "Sailor Moon R Movie"
       },
@@ -95940,6 +95940,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Pretty Guardian Sailor Moon"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Pretty Soldier Sailor Moon"
       },
       {
@@ -101681,6 +101686,26 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "吸血鬼同盟"
+      }
+    ]
+  },
+  {
+    "id": 14065,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Bainiao Gu"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Valley of White Birds"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "白鸟谷"
       }
     ]
   },
@@ -125011,6 +125036,11 @@
         "type": 2,
         "language": "pt",
         "title": "Navegante da Lua R"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Pretty Guardian Sailor Moon R"
       },
       {
         "type": 2,
@@ -182139,7 +182169,7 @@
     "titles": [
       {
         "type": 1,
-        "language": "en",
+        "language": "x-kot",
         "title": "Climbing"
       },
       {
@@ -194790,7 +194820,7 @@
       {
         "type": 1,
         "language": "en",
-        "title": "CRYSTAL CLEAR"
+        "title": "Crystal Clear"
       }
     ]
   },
@@ -204946,6 +204976,41 @@
         "type": 4,
         "language": "ja",
         "title": "黒の月: 月の祭壇"
+      }
+    ]
+  },
+  {
+    "id": 10004,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Dark night at NTR Village: Kagachi-sama, please honor me with your presence"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kagachi-sama Onagusame Tatematsurimasu: Netorare Mura In`ya Hanashi"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "카가치님 위로해드립니다"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "카가치님 위로해주세요"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "かがち様お慰め奉ります ~寝取られ村淫夜噺~ THE ANIMATION"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "かがち様お慰め奉ります 寝取られ村淫夜噺"
       }
     ]
   },
@@ -273525,6 +273590,26 @@
     ]
   },
   {
+    "id": 14917,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Flying Lotus - More (feat. Anderson .Paak)"
+      },
+      {
+        "type": 1,
+        "language": "en",
+        "title": "More"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "More feat. Anderson .Paak"
+      }
+    ]
+  },
+  {
     "id": 18191,
     "titles": [
       {
@@ -335854,6 +335939,11 @@
       },
       {
         "type": 4,
+        "language": "pl",
+        "title": "Tryb piekła: Hardcorowy gracz dominuje w innym świecie ze śmietnikowym balansowaniem (2026)"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~ (2026)"
       }
@@ -335876,6 +335966,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Tryb piekła: Hardcorowy gracz dominuje w innym świecie ze śmietnikowym balansowaniem"
       },
       {
         "type": 4,
@@ -338411,36 +338506,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "白浊之村"
-      }
-    ]
-  },
-  {
-    "id": 885,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Hen"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Strange Love"
-      },
-      {
-        "type": 2,
-        "language": "ja",
-        "title": "Strange Love - 変"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "헨 - 이상한 사랑"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "変"
       }
     ]
   },
@@ -405478,9 +405543,24 @@
         "title": "Kokkoku"
       },
       {
+        "type": 4,
+        "language": "pt",
+        "title": "Kokkoku: Momento a Momento"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Kokkoku: Momento a Momento"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "Moment by Moment"
+      },
+      {
+        "type": 2,
+        "language": "pt",
+        "title": "Momento a Momento"
       },
       {
         "type": 2,
@@ -425099,7 +425179,7 @@
     "titles": [
       {
         "type": 1,
-        "language": "en",
+        "language": "x-zht",
         "title": "Ling Yu"
       },
       {
@@ -425496,6 +425576,31 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "时光代理人II -LINK CLICK-"
+      }
+    ]
+  },
+  {
+    "id": 20273,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Link Click SP2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Mini Link Click S2"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shiguang Xiao Juchang"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "时光小剧场"
       }
     ]
   },
@@ -455620,26 +455725,6 @@
     ]
   },
   {
-    "id": 20273,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Mini Link Click S2"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Shiguang Xiao Juchang"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "时光小剧场"
-      }
-    ]
-  },
-  {
     "id": 4065,
     "titles": [
       {
@@ -460911,16 +460996,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "月出之战"
-      }
-    ]
-  },
-  {
-    "id": 14917,
-    "titles": [
-      {
-        "type": 1,
-        "language": "en",
-        "title": "More"
       }
     ]
   },
@@ -488193,9 +488268,19 @@
     "id": 16042,
     "titles": [
       {
-        "type": 1,
+        "type": 4,
         "language": "en",
         "title": "Origami of Landscape"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sinu Nara Konnna Basyo De Ga Ii"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "死ぬならこんな場所でがいい"
       }
     ]
   },
@@ -572345,21 +572430,6 @@
     ]
   },
   {
-    "id": 14065,
-    "titles": [
-      {
-        "type": 1,
-        "language": "en",
-        "title": "Valley of White Birds"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "白鸟谷"
-      }
-    ]
-  },
-  {
     "id": 5586,
     "titles": [
       {
@@ -580519,7 +580589,7 @@
     "titles": [
       {
         "type": 1,
-        "language": "en",
+        "language": "x-jat",
         "title": "Yebisu Celebrities 1st"
       },
       {
@@ -580554,7 +580624,7 @@
       },
       {
         "type": 1,
-        "language": "en",
+        "language": "x-kot",
         "title": "Young-sim"
       },
       {
