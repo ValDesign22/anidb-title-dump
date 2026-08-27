@@ -7261,6 +7261,11 @@
         "type": 2,
         "language": "ja",
         "title": "ハーモニー"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "和諧"
       }
     ]
   },
@@ -115734,6 +115739,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Cup of Snow"
+      },
+      {
+        "type": 4,
         "language": "zh",
         "title": "杯雪"
       }
@@ -197421,6 +197431,51 @@
         "type": 4,
         "language": "ja",
         "title": "オズの魔法使い"
+      }
+    ]
+  },
+  {
+    "id": 19131,
+    "titles": [
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Czarodziej Kunon potrafi widzieć"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Kunon the Sorcerer Can See"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Majutsushi Kunon wa Miete Iru"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Majutsushi Kunon wa Mieteiru"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "마술사 쿠논은 보인다"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "魔术师库诺看得见一切"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔術師クノンは見えている"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "魔術師庫諾看得見一切"
       }
     ]
   },
@@ -364413,6 +364468,11 @@
         "title": "In the Land of Leadale"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "In the Land of Leadale"
+      },
+      {
         "type": 3,
         "language": "en",
         "title": "Leadale"
@@ -411280,46 +411340,6 @@
     ]
   },
   {
-    "id": 19131,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Kunon the Sorcerer Can See"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Majutsushi Kunon wa Miete Iru"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Majutsushi Kunon wa Mieteiru"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "마술사 쿠논은 보인다"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "魔术师库诺看得见一切"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "魔術師クノンは見えている"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "魔術師庫諾看得見一切"
-      }
-    ]
-  },
-  {
     "id": 6746,
     "titles": [
       {
@@ -457364,6 +457384,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "三顆星彩色冒險"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "三颗星彩色冒险"
       }
@@ -466014,13 +466039,18 @@
     "titles": [
       {
         "type": 1,
-        "language": "x-jat",
-        "title": "My Mother"
+        "language": "x-tht",
+        "title": "My Mother The Animation"
+      },
+      {
+        "type": 4,
+        "language": "th",
+        "title": "My Mother THE ANIMATION"
       },
       {
         "type": 2,
-        "language": "ja",
-        "title": "My Mother The Animation"
+        "language": "th",
+        "title": "ไม มอเธอร์ เดอะ แอนิเมชั่น"
       },
       {
         "type": 4,
@@ -512479,6 +512509,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "ReLIFE"
+      },
+      {
+        "type": 4,
         "language": "ru",
         "title": "Повторная жизнь"
       },
@@ -512521,6 +512556,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "ReLIFE 完结篇"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "ReLIFE: Final Arc"
       },
       {
         "type": 2,
