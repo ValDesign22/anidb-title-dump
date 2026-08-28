@@ -1504,6 +1504,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "再見了，橡果兄弟！－奇蹟的暑假－"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "再见了，橡果兄弟！"
       }
@@ -23751,6 +23756,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "文学少女 剧场版"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "文學少女 劇場版"
       }
     ]
   },
@@ -31159,6 +31169,11 @@
       },
       {
         "type": 2,
+        "language": "zh-Hant",
+        "title": "公主流浪記"
+      },
+      {
+        "type": 2,
         "language": "zh-Hans",
         "title": "废弃公主"
       },
@@ -31166,6 +31181,11 @@
         "type": 2,
         "language": "ja",
         "title": "廃棄王女"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "廢棄公主"
       }
     ]
   },
@@ -48091,6 +48111,11 @@
         "type": 4,
         "language": "ja",
         "title": "アホガール"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "單蠢女孩"
       },
       {
         "type": 4,
@@ -65328,7 +65353,7 @@
         "title": "Primordial God"
       },
       {
-        "type": 1,
+        "type": 2,
         "language": "x-zht",
         "title": "Tai Gu Shen Zun"
       },
@@ -65338,7 +65363,7 @@
         "title": "Taigu Shen Zun"
       },
       {
-        "type": 2,
+        "type": 1,
         "language": "x-zht",
         "title": "Taigu Shenzun"
       },
@@ -116616,6 +116641,11 @@
         "type": 4,
         "language": "ja",
         "title": "雲のむこう, 約束の場所"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "雲之彼端，約定的地方"
       }
     ]
   },
@@ -134889,6 +134919,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "僕愛君愛：致我深愛的每個妳"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "致我深爱的每个你"
       }
@@ -135646,6 +135681,26 @@
         "type": 4,
         "language": "ja",
         "title": "ぼくの孫悟空"
+      }
+    ]
+  },
+  {
+    "id": 20322,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Boku no Suki na Hito ga Suki na Hito"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "My Crush`s Crush"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ぼくの好きな人が好きな人"
       }
     ]
   },
@@ -143154,6 +143209,11 @@
       },
       {
         "type": 2,
+        "language": "zh-Hant",
+        "title": "破刃之劍劇場版"
+      },
+      {
+        "type": 2,
         "language": "zh-Hans",
         "title": "破剑之刃"
       }
@@ -144801,6 +144861,11 @@
         "type": 4,
         "language": "ru",
         "title": "Проза бродячих псов 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "文豪 Stray Dogs 第二季"
       },
       {
         "type": 4,
@@ -164411,6 +164476,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "剧场版 电锯人 蕾塞篇"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "劇場版 鏈鋸人 蕾潔篇"
       },
       {
         "type": 4,
@@ -198098,6 +198168,16 @@
         "title": "D.C."
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "D.C. ～戀愛學園～"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "D.C. ～青春戀歌～"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "D.C.: Da Capo"
@@ -198126,6 +198206,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "初音岛"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "初音島"
       }
     ]
   },
@@ -237563,9 +237648,14 @@
     "id": 18671,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Dragon Prince Yuan"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Dragon Prince"
       },
       {
         "type": 1,
@@ -261141,6 +261231,11 @@
         "type": 4,
         "language": "ja",
         "title": "楽園追放 -Expelled From Paradise-"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "樂園追放 -Expelled from Paradise-"
       }
     ]
   },
@@ -343533,6 +343628,16 @@
         "title": "ひめゴト SECRET PRINCESS HIMEGOTO"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "偽姬日常"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "偽姬物語"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "搞姬日常"
@@ -387611,6 +387716,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "我的狐仙女友 ～真夏的大谢肉祭～"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我的狐仙女友 OVA 盛夏的狂歡節"
       }
     ]
   },
@@ -397679,6 +397789,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "僕愛君愛：致深愛妳的那個我"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "君を愛したひとりの僕へ"
       },
@@ -407448,6 +407563,11 @@
         "title": "Koori no Jouheki"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Koori no Jyōheki"
+      },
+      {
         "type": 4,
         "language": "cs",
         "title": "Ledové hradby"
@@ -408461,6 +408581,11 @@
         "type": 4,
         "language": "ja",
         "title": "紅殻のパンドラ GHOST URN"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "紅殼的潘朵拉"
       },
       {
         "type": 4,
@@ -423628,6 +423753,11 @@
         "title": "ラブひな Again"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "純情房東俏房客 Again"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "纯情房东俏房客 Again"
@@ -433506,6 +433636,16 @@
         "type": 4,
         "language": "ja",
         "title": "まちカドまぞく"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "小惡魔女在街角"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "街角的魔族女孩"
       },
       {
         "type": 4,
@@ -465315,6 +465455,31 @@
     ]
   },
   {
+    "id": 20323,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "My Grave Nourishes My Cultivation"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "My Tomb Can Nourish Cultivation"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wo De Fenzhong Neng Ziyang Xiuwei"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "我的坟冢能滋养修为"
+      }
+    ]
+  },
+  {
     "id": 18545,
     "titles": [
       {
@@ -465691,6 +465856,31 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "我的异界之旅"
+      }
+    ]
+  },
+  {
+    "id": 20324,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "My Junior Uncle Cannot Be This Strong"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "My Young Master-Uncle Couldn`t Be This Powerful"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wojia Xiao Shishu Bukeneng Zheme Qiang"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "我家小师叔不可能这么强"
       }
     ]
   },
@@ -466771,6 +466961,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "我老婆是学生会长"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我老婆是學生會長"
       }
     ]
   },
@@ -481166,6 +481361,21 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "小不點"
+      }
+    ]
+  },
+  {
+    "id": 20321,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ochiru Pato Tsuma Toshishita Otoko to no Jouji ni Oboreta Hate ni..."
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "堕ちるパート妻 年下男との情事に溺れた果てに..."
       }
     ]
   },
@@ -505421,6 +505631,11 @@
         "type": 4,
         "language": "ja",
         "title": "PUI PUI モルカー"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "PUI PUI 天竺鼠車車"
       }
     ]
   },
@@ -544881,6 +545096,11 @@
         "type": 2,
         "language": "ja",
         "title": "スパイ教室 2nd season"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "間諜教室 第二季"
       }
     ]
   },
@@ -583211,6 +583431,11 @@
         "type": 4,
         "language": "ja",
         "title": "結城友奈は勇者である"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "結城友奈是勇者"
       },
       {
         "type": 4,
