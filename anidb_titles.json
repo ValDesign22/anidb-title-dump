@@ -157884,6 +157884,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：唐紅的戀歌"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "名探偵コナン から紅の恋歌[ラブレター]"
       }
@@ -157991,6 +157996,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "名侦探柯南 剧场版23:绀青之拳"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：紺青之拳"
       },
       {
         "type": 4,
@@ -481370,7 +481380,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Ochiru Pato Tsuma Toshishita Otoko to no Jouji ni Oboreta Hate ni..."
+        "title": "Ochiru Part Tsuma: Toshishita Otoko to no Jouji ni Oboreta Hate ni..."
       },
       {
         "type": 4,
