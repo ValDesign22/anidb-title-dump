@@ -11174,6 +11174,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：第14號獵物"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "名探偵コナン 14番目の標的(ターゲット)"
       }
@@ -145640,6 +145645,26 @@
     ]
   },
   {
+    "id": 20328,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Buddies for Bud"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Tuanzimen de Shiming"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "团子们的使命"
+      }
+    ]
+  },
+  {
     "id": 10291,
     "titles": [
       {
@@ -157249,6 +157274,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：瞳孔中的暗殺者"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "名探偵コナン 瞳の中の暗殺者"
       },
@@ -157331,6 +157361,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "名侦探柯南 通往天国的倒数计时"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：往天國的倒數計時"
       },
       {
         "type": 4,
@@ -157429,6 +157464,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：世紀末的魔術師"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "名探偵コナン 世紀末の魔術師"
       }
@@ -157506,6 +157546,11 @@
         "type": 4,
         "language": "ko",
         "title": "명탐정 코난: 베이커가의 망령"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：貝克街的亡靈"
       },
       {
         "type": 4,
@@ -157609,6 +157654,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：引爆摩天樓"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "名探偵コナン 時計じかけの摩天楼"
       },
@@ -157676,6 +157726,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "名侦探柯南 异次元的狙击手"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：異次元的狙擊手"
       },
       {
         "type": 4,
@@ -157756,6 +157811,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "侦探们的镇魂歌"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：偵探們的鎮魂歌"
       },
       {
         "type": 4,
@@ -158044,6 +158104,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：100萬美元的五稜星"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "名探偵コナン 100万ドルの五稜星"
       }
@@ -158114,6 +158179,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：漆黑的追跡者"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "名探偵コナン 漆黒の追跡者(チェイサー)"
       }
@@ -158176,6 +158246,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "名侦探柯南 零的执行人"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：零的執行人"
       },
       {
         "type": 4,
@@ -218084,6 +218159,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：紺碧之棺"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "名探偵コナン 紺碧の棺[ジョリー・ロジャー]"
       },
@@ -218169,6 +218249,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：迷宮的十字路"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "名探偵コナン 迷宮の十字路(クロスロード)"
       },
@@ -218244,6 +218329,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：銀翼的奇術師"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "名探偵コナン 銀翼の奇術師[マジシャン]"
       },
@@ -218314,6 +218404,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：水平線上的陰謀"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "名探偵コナン 水平線上の陰謀"
       },
@@ -218361,6 +218456,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Meitantei Conan: Chinmoku no Quarter"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：沉默的15分鐘"
       },
       {
         "type": 4,
@@ -218419,6 +218519,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：天空的劫難船"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "名探偵コナン 天空の難破船(ロスト・シップ)"
       }
@@ -218469,6 +218574,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：緋色的彈丸"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "名探偵コナン 緋色の弾丸"
       }
@@ -218506,6 +218616,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "名侦探柯南 万圣节的新娘"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：萬聖節的新娘"
       },
       {
         "type": 4,
@@ -218566,6 +218681,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "名侦探柯南 战栗的乐谱"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：戰慄的樂譜"
       },
       {
         "type": 4,
@@ -218671,6 +218791,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "名侦探柯南 黑铁的鱼影"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：黑鐵的魚影"
       },
       {
         "type": 4,
@@ -219601,6 +219726,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Meitantei Conan: Hiiro no Fuzai Shoumei"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "名偵探柯南：緋色的不在場證明"
       },
       {
         "type": 4,
@@ -263430,6 +263560,41 @@
     ]
   },
   {
+    "id": 16628,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Face King"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "King of Appearance"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Yan Wang"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yan Wang: Guai Hualang"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "颜王"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "颜王 -怪画廊-"
+      }
+    ]
+  },
+  {
     "id": 17349,
     "titles": [
       {
@@ -268766,6 +268931,11 @@
         "type": 2,
         "language": "en",
         "title": "Heaven Sealing Contract"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Seal The Heaven Covenant"
       },
       {
         "type": 4,
@@ -352870,6 +353040,26 @@
     ]
   },
   {
+    "id": 20327,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Huoxing Xi Lu 7 Hao"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "No. 7 West Mars St."
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "火星西路7号"
+      }
+    ]
+  },
+  {
     "id": 3307,
     "titles": [
       {
@@ -406936,6 +407126,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "一弦定音!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "一弦定音！"
       }
     ]
   },
@@ -406990,6 +407185,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "一弦定音！第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "一弦定音！第二季"
       }
     ]
@@ -477596,6 +477796,16 @@
         "type": 3,
         "language": "uk",
         "title": "Нітабо"
+      }
+    ]
+  },
+  {
+    "id": 20326,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Niu Lai"
       }
     ]
   },
@@ -580201,21 +580411,6 @@
         "type": 4,
         "language": "ja",
         "title": "闇憑村/めるてぃーりみっと The Animation"
-      }
-    ]
-  },
-  {
-    "id": 16628,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Yan Wang: Guai Hualang"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "颜王 -怪画廊-"
       }
     ]
   },
