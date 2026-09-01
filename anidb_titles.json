@@ -17690,6 +17690,31 @@
     ]
   },
   {
+    "id": 20330,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "8-gatsu 31-nichi no Long Summer"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "8月31日のロングサマー"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Long Summer of August 31"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Long Summer of August 31st"
+      }
+    ]
+  },
+  {
     "id": 6621,
     "titles": [
       {
@@ -102935,6 +102960,21 @@
     ]
   },
   {
+    "id": 20331,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Baki Gaiden: Retsu Kaiou wa Isekai Tensei Shitemo Ikkou ni Kamawan!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "バキ外伝 烈海王は異世界転生しても一向にかまわんッッ"
+      }
+    ]
+  },
+  {
     "id": 15737,
     "titles": [
       {
@@ -135684,6 +135724,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "My Son Goku"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "ぼくの孫悟空"
       }
@@ -139803,19 +139848,9 @@
         "title": "Botan Kamiina Fully Blossoms When Drunk"
       },
       {
-        "type": 3,
-        "language": "x-jat",
-        "title": "kamiina botan"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "上伊那ぼたん"
       },
       {
         "type": 4,
@@ -145659,7 +145694,7 @@
       },
       {
         "type": 4,
-        "language": "ja",
+        "language": "zh",
         "title": "团子们的使命"
       }
     ]
@@ -277928,19 +277963,9 @@
         "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage"
       },
       {
-        "type": 3,
-        "language": "x-jat",
-        "title": "rakudai kenja"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S Rank Cheat Majutsushi Bouken Roku"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "落第賢者"
       },
       {
         "type": 4,
@@ -357948,8 +357973,13 @@
         "title": "Ichijouma Mankitsu Gurashi!"
       },
       {
-        "type": 2,
-        "language": "x-jat",
+        "type": 4,
+        "language": "de",
+        "title": "Ichijouma Mankitsu Gurashi!"
+      },
+      {
+        "type": 4,
+        "language": "en",
         "title": "Ichijyoma Mankitsu Gurashi!"
       },
       {
@@ -372728,11 +372758,6 @@
         "title": "Jack-of-All-Trades, Party of None"
       },
       {
-        "type": 3,
-        "language": "x-jat",
-        "title": "kiyoubinbou"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Yuusha Party o Oidasareta Kiyoubinbou"
@@ -372741,11 +372766,6 @@
         "type": 4,
         "language": "ja",
         "title": "勇者パーティを追い出された器用貧乏"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "器用貧乏"
       },
       {
         "type": 4,
@@ -396681,6 +396701,11 @@
         "type": 4,
         "language": "ja",
         "title": "機巧少女は傷つかない"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "機巧少女不會受傷"
       }
     ]
   },
@@ -444316,6 +444341,16 @@
         "type": 2,
         "language": "x-jat",
         "title": "Manyuu Hikenchou"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "O Manual Secreto dos Seios Demoníacos"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "O Manual Secreto dos Seios Demoníacos"
       },
       {
         "type": 2,
@@ -501205,6 +501240,26 @@
     ]
   },
   {
+    "id": 20329,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Pokémon ワイルドカード"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Pokemon: Wild Card"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Pokemon: Wild Card"
+      }
+    ]
+  },
+  {
     "id": 11237,
     "titles": [
       {
@@ -514143,19 +514198,9 @@
         "title": "Rich Girl Caretaker: I`m Secretly the Caregiver of the Most Popular Girl in This Rich Kid School"
       },
       {
-        "type": 3,
-        "language": "x-jat",
-        "title": "saijo no osewa"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) o Kagenagara Osewa Suru Koto ni Narimashita"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "才女のお世話"
       },
       {
         "type": 4,
@@ -580256,6 +580301,21 @@
         "type": 4,
         "language": "ja",
         "title": "山口さんちのツトム君"
+      }
+    ]
+  },
+  {
+    "id": 20332,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yamakawa Jun`ichi Anime Gekijou"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "山川純一アニメ劇場"
       }
     ]
   },
