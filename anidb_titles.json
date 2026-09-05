@@ -388043,6 +388043,11 @@
         "title": "Kanojo Saimin"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "여친 최면"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "彼女催眠"
@@ -531954,6 +531959,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "SHADOWS HOUSE-影宅- 第2季"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "シャドーハウス 2nd Season"
       },
@@ -563674,6 +563684,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "出包王女"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "出包王女ㅤ"
       }
@@ -563805,6 +563820,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "出包王女Darkness 2nd"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "出包王女Darkness 2nd"
       }
     ]
