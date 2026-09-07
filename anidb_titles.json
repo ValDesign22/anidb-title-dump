@@ -1289,6 +1289,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "前進吧！登山少女"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "向山进发"
       }
@@ -20156,6 +20161,11 @@
         "type": 4,
         "language": "x-zht",
         "title": "科學一方通行"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "科學一方通行"
       }
     ]
   },
@@ -30043,6 +30053,11 @@
         "title": "Hana Rokushou ga Akeru Hi ni"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "hanaroku"
+      },
+      {
         "type": 4,
         "language": "fr",
         "title": "Une aube nouvelle"
@@ -30975,6 +30990,11 @@
       {
         "type": 4,
         "language": "zh",
+        "title": "鈴芽之旅"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "鈴芽之旅"
       },
       {
@@ -32731,6 +32751,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "指尖相触，恋恋不舍"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "指尖相觸，戀戀不捨"
       }
     ]
   },
@@ -36654,6 +36679,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "愛麗絲與藏六"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "爱丽丝与藏六"
       }
@@ -39466,6 +39496,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou"
+      },
+      {
+        "type": 2,
+        "language": "pl",
+        "title": "Odmieniec z Akademii Króla Demonów"
       },
       {
         "type": 4,
@@ -42461,6 +42496,11 @@
         "type": 4,
         "language": "ja",
         "title": "うらら迷路帖"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "烏菈菈迷路帖"
       }
     ]
   },
@@ -53564,6 +53604,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "不正經的魔術講師與禁忌教典"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "不正经的魔术讲师与禁忌教典"
       }
@@ -61211,6 +61256,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "妖精的旋律"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "妖精的旋律"
       }
     ]
   },
@@ -61881,6 +61931,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "清恋"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "清戀"
       }
     ]
   },
@@ -62950,6 +63005,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "狼的孩子雨和雪"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "狼的孩子雨和雪"
       }
     ]
@@ -69071,6 +69131,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "动画锻炼!XX"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "動畫鍛鍊！XX 同一屋檐下"
       }
     ]
   },
@@ -80346,6 +80411,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "你遭难了吗?"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "你遭難了嗎？"
       }
     ]
   },
@@ -87639,6 +87709,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "只要別西卜大小姐喜歡就好"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "只要贝尔哲布布大小姐喜欢就好。"
       }
@@ -92191,6 +92266,11 @@
         "type": 4,
         "language": "ja",
         "title": "エスカ&ロジーのアトリエ ~黄昏の空の錬金術士~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "愛絲卡&羅吉的鍊金工房 ～黃昏天空之鍊金術士～"
       },
       {
         "type": 4,
@@ -97046,6 +97126,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "妖幻三重奏"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "妖幻三重奏"
       }
     ]
   },
@@ -99921,6 +100006,11 @@
         "type": 4,
         "language": "en",
         "title": "Kill Me Baby"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "KILL ME BABY 愛殺寶貝"
       },
       {
         "type": 3,
@@ -115961,6 +116051,11 @@
         "type": 3,
         "language": "ja",
         "title": "ヤニすう"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "躲在超市后门抽烟的两人"
       }
     ]
   },
@@ -117826,6 +117921,11 @@
         "type": 4,
         "language": "ja",
         "title": "バーナード嬢曰く."
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "伯納德小姐說。"
       },
       {
         "type": 4,
@@ -123021,6 +123121,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "比基尼勇士"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "比基尼鬥士"
       }
     ]
   },
@@ -128401,6 +128506,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "黑色残骸"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "黑骸"
       }
     ]
   },
@@ -131429,6 +131539,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "終將成為妳"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "终将成为你"
       }
@@ -131936,6 +132051,11 @@
         "type": 2,
         "language": "ja",
         "title": "LUPIN THE THIRD PART IV"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Lupin Trzeci: Włoska przygoda"
       },
       {
         "type": 3,
@@ -151244,6 +151364,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "奇諾之旅"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "奇诺之旅"
       }
@@ -160023,6 +160148,11 @@
     "id": 1025,
     "titles": [
       {
+        "type": 4,
+        "language": "pl",
+        "title": "Cat’s Eye: Oczy Kota"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Cat`s Eye"
@@ -160546,6 +160676,11 @@
         "type": 4,
         "language": "ja",
         "title": "ネコぱら"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "貓娘樂園 OVA"
       }
     ]
   },
@@ -161621,6 +161756,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "圣枪修女"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "聖槍修女"
       }
     ]
   },
@@ -162916,6 +163056,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Cencoroll Connect"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "CENCOROLL CONNECT"
       },
       {
         "type": 2,
@@ -182191,6 +182336,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "欢迎来到实力至上主义教室"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "歡迎來到實力至上主義的教室"
       }
     ]
   },
@@ -182971,6 +183121,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "时钟机关之星"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "時鐘機關之星"
       }
     ]
   },
@@ -185826,6 +185981,11 @@
         "type": 4,
         "language": "ja",
         "title": "こみっくがーるず"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "漫畫女孩"
       }
     ]
   },
@@ -190865,6 +191025,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "魔物娘的同居日常"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "魔物娘的同居日常"
       }
     ]
@@ -201619,6 +201784,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "約會大作戰"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "约会大作战"
       }
@@ -206078,6 +206248,11 @@
         "title": "Darling in the Franxx"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "DARLING in the FRANXX"
+      },
+      {
         "type": 3,
         "language": "en",
         "title": "DitF"
@@ -206586,6 +206761,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "新子与千年魔法"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "新子與千年魔法"
       }
     ]
   },
@@ -210030,6 +210210,21 @@
     ]
   },
   {
+    "id": 20342,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "De Ji Kyaratto Kurisumasu Supesharu"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Di Gi Charat Christmas Special"
+      }
+    ]
+  },
+  {
     "id": 13175,
     "titles": [
       {
@@ -211140,6 +211335,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "相合之物"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "相合之物"
       }
     ]
@@ -212335,6 +212535,11 @@
       {
         "type": 1,
         "language": "x-jat",
+        "title": "Deji Meets Girl"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
         "title": "Deji Meets Girl"
       },
       {
@@ -233936,6 +234141,11 @@
         "type": 4,
         "language": "ja",
         "title": "異世界魔王と召喚少女の奴隷魔術"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "異世界魔王與召喚少女的奴隸魔術"
       }
     ]
   },
@@ -237451,6 +237661,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "桧曾根与间租谭"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "飛龍女孩"
       }
     ]
   },
@@ -245818,6 +246033,11 @@
         "title": "Lupin the 3rd: The Mystery of Mamo"
       },
       {
+        "type": 4,
+        "language": "pl",
+        "title": "Lupin Trzeci: Tajemnica Mamo"
+      },
+      {
         "type": 2,
         "language": "x-jat",
         "title": "Rupan vs Fukusei-ningen"
@@ -252566,6 +252786,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "从零开始的魔法书"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "從零開始的魔法書"
       }
     ]
   },
@@ -253276,6 +253501,11 @@
         "type": 4,
         "language": "ja",
         "title": "きみの色"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "你的顏色"
       }
     ]
   },
@@ -255236,6 +255466,11 @@
         "type": 4,
         "language": "ja",
         "title": "衛宮さんちの今日のごはん"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "衛宮家今天的餐桌風景"
       }
     ]
   },
@@ -256044,6 +256279,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "前進吧！登山少女 OVA 回憶的禮物"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "向山进发 回忆的礼物"
       }
@@ -256114,6 +256354,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "前進吧！登山少女 第二季"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "向山进发 第二季"
       }
@@ -256151,6 +256396,11 @@
         "type": 4,
         "language": "ja",
         "title": "ヤマノススメ サードシーズン"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "前進吧！登山少女 第三季"
       },
       {
         "type": 4,
@@ -264379,6 +264629,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "留級魔女 風嘉與黑之魔女"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "落第魔女 风香与暗之魔女"
       }
@@ -264506,6 +264761,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "原书·见习生"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "童話魔法使"
       },
       {
         "type": 2,
@@ -273898,6 +274158,11 @@
         "title": "フリップフラッパーズ"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "輕拍翻轉小魔女"
+      },
+      {
         "type": 2,
         "language": "zh-Hans",
         "title": "轻拍翻转小魔女"
@@ -277366,6 +277631,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "时光碎片"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "時光沙漏 fragtime"
       }
     ]
   },
@@ -288688,6 +288958,11 @@
     "id": 12494,
     "titles": [
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "GAMERS 電玩咖！"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Gamers!"
@@ -289916,6 +290191,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "玻璃之花与崩坏的世界"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "玻璃花與毀壞的世界"
       }
     ]
   },
@@ -293271,6 +293551,11 @@
         "type": 4,
         "language": "ja",
         "title": "ゲキ・ガンガー3 熱血大決戦"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "激鋼牙 3 熱血大決戰"
       }
     ]
   },
@@ -294149,6 +294434,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "劇場版 吹響吧！上低音號～誓言的終章～"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "劇場版 響け! ユーフォニアム ~誓いのフィナーレ~"
       },
@@ -294756,6 +295046,11 @@
         "type": 4,
         "language": "ja",
         "title": "劇場版 からかい上手の高木さん"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "劇場版 擅長捉弄人的高木同學"
       },
       {
         "type": 4,
@@ -298929,6 +299224,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "天降之物 計時的悲傷女神"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "天降之物 计时的悲伤女神"
       }
@@ -299249,6 +299549,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "刀劍神域劇場版－Progressive－無星夜的詠嘆調"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "剧场版 刀剑神域 进击篇 无星之夜的咏叹调"
       },
@@ -299276,6 +299581,11 @@
         "type": 4,
         "language": "en",
         "title": "Sword Art Online the Movie: Progressive - Scherzo of Deep Night"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "刀劍神域劇場版－Progressive－陰沉薄暮的詼諧曲"
       },
       {
         "type": 4,
@@ -305496,6 +305806,11 @@
         "type": 4,
         "language": "ja",
         "title": "ガーリッシュ ナンバー"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "少女編號"
       },
       {
         "type": 4,
@@ -315234,6 +315549,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "幸腹塗鴉"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "幸腹涂鸦"
       }
@@ -317961,6 +318281,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "灰色的乐园"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "灰色的樂園"
       }
     ]
   },
@@ -328044,6 +328369,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "鶺鴒女神～Pure Engagement～"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "鹡鸰女神 2"
       },
@@ -335946,6 +336276,11 @@
         "type": 4,
         "language": "ja",
         "title": "そらのおとしもの Final 永遠の私の鳥籠[エターナルマイマスター]"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "天降之物 Final 永遠的我的鳥籠"
       },
       {
         "type": 4,
@@ -345136,6 +345471,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "不受欢迎之家"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "不受歡迎之屋"
       }
     ]
   },
@@ -345346,6 +345686,11 @@
         "type": 4,
         "language": "ja",
         "title": "ヒナまつり (2018)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "極道超女"
       },
       {
         "type": 4,
@@ -350146,6 +350491,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "堀与宫村"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "堀與宮村"
       }
     ]
   },
@@ -353221,6 +353571,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "扶桑花之舞"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "扶桑花女孩之舞"
       }
     ]
   },
@@ -357191,6 +357546,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "jihanki"
       },
       {
         "type": 3,
@@ -361271,6 +361631,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "为了女儿，我说不定连魔王都能干掉。"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "為了女兒，我說不定連魔王都能幹掉。"
       }
     ]
   },
@@ -372865,12 +373230,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Iya na Kao sare nagara Opantsu Misete Moraitai ver 3.0"
+        "title": "Iya na Kao Sarenagara Opantsu Misete Moraitai Ver. 3.0 (Kari)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "嫌な顔されながらおパンツ見せてもらいたい ver.3.0 (仮)"
+        "title": "嫌な顔されながらおパンツ見せてもらいたい Ver.3.0 (仮)"
       }
     ]
   },
@@ -376243,6 +376608,16 @@
         "title": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 3rd Season"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "jihanki 3"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "jihanki s3"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season"
@@ -376281,6 +376656,16 @@
         "type": 1,
         "language": "x-jat",
         "title": "Jidouhanbaiki ni Umarekawatta Ore wa Meikyuu o Samayou 2nd Season"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "jihanki 2"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "jihanki s2"
       },
       {
         "type": 4,
@@ -378216,6 +378601,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "军火女王"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "軍火女王"
       }
     ]
   },
@@ -391149,6 +391539,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "可愛過頭大危機"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "可爱过头大危机"
       }
@@ -392441,6 +392836,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "喵咪days"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "貓咪 DAYS"
       }
     ]
   },
@@ -393021,6 +393421,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "兽娘动物园"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "動物朋友"
       }
     ]
   },
@@ -396946,6 +397351,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "朝花夕誓——于离别之朝束起约定之花"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "道別的早晨就用約定之花點綴吧"
       }
     ]
   },
@@ -397061,6 +397471,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "异邦人-无皇刃谭-"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "異邦人 無皇刃譚"
       }
     ]
   },
@@ -404536,6 +404951,11 @@
         "type": 4,
         "language": "ja",
         "title": "シドニアの騎士 あいつむぐほし"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "銀河騎士傳 織愛之星"
       }
     ]
   },
@@ -407736,6 +408156,11 @@
         "type": 4,
         "language": "ja",
         "title": "この青空に約束を- ~ようこそつぐみ寮へ~"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "青空下的約定"
       },
       {
         "type": 2,
@@ -411261,6 +411686,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "斩首循环: 蓝色学者与戏言跟班"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "斬首循環 - 藍色學者與戲言跟班"
       }
     ]
   },
@@ -421491,6 +421921,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "昭和元禄落语心中"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "昭和元祿 落語心中"
       }
     ]
   },
@@ -424908,6 +425343,11 @@
         "title": "ラブひな"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "純情房東俏房客"
+      },
+      {
         "type": 2,
         "language": "zh-Hans",
         "title": "纯情房东俏房客"
@@ -427933,6 +428373,11 @@
         "title": "Love Live! Superstar!!"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Love Live! Superstar!!"
+      },
+      {
         "type": 2,
         "language": "x-jat",
         "title": "Love Live! Superstar!! S1"
@@ -430161,6 +430606,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "Love Live! Sunshine!! 学园偶像剧场版 彩虹彼端"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Love Live! Sunshine!! 學園偶像電影~彩虹彼端~"
       },
       {
         "type": 4,
@@ -447406,6 +447856,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "玛丽与魔女之花"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "瑪麗與魔女之花"
       }
     ]
   },
@@ -450736,6 +451191,11 @@
         "type": 4,
         "language": "en",
         "title": "Megalobox"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "MEGALOBOX 機甲拳擊"
       },
       {
         "type": 4,
@@ -458209,6 +458669,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "絲襪視界"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "裤袜视界"
       }
@@ -458406,6 +458871,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "春原庄的管理人"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "春原莊的管理員小姐"
       }
     ]
   },
@@ -463966,6 +464436,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "邻家索菲"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "隔壁的吸血鬼美眉"
       }
     ]
   },
@@ -470028,6 +470503,11 @@
         "title": "Nana"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "NANA"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "Nana tv"
@@ -474156,6 +474636,11 @@
         "type": 4,
         "language": "ja",
         "title": "ネコぱら 仔ネコの日の約束"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "貓娘樂園 Extra ～小貓之日的約定～"
       }
     ]
   },
@@ -479146,6 +479631,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "悠哉日常大王"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "悠悠哉哉少女日和"
       }
     ]
   },
@@ -479821,6 +480311,11 @@
         "type": 4,
         "language": "ja",
         "title": "ノブナガ・ザ・フール"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "愚者信長"
       },
       {
         "type": 4,
@@ -488766,6 +489261,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "狼少女与黑王子"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "狼少女和黑王子"
       }
     ]
   },
@@ -492836,6 +493336,11 @@
         "type": 4,
         "language": "ja",
         "title": "オーバーテイク!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "競速 OVERTAKE!"
       }
     ]
   },
@@ -496341,6 +496846,11 @@
         "type": 4,
         "language": "ja",
         "title": "ピーチボーイリバーサイド"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "桃子男孩渡海而來"
       },
       {
         "type": 4,
@@ -500226,6 +500736,11 @@
         "type": 4,
         "language": "ja",
         "title": "プラスティック･メモリーズ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "可塑性記憶"
       },
       {
         "type": 4,
@@ -512586,6 +513101,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "灵感少女"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "靈感！"
       }
     ]
   },
@@ -513181,6 +513701,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "甜蜜声优"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "甜蜜聲優"
       }
     ]
   },
@@ -521336,6 +521861,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "重启咲良田"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "重啟咲良田"
       }
     ]
   },
@@ -523031,6 +523561,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "樱花任务"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "櫻花任務"
       }
     ]
   },
@@ -529863,6 +530398,11 @@
         "title": "セキレイ"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "鶺鴒女神"
+      },
+      {
         "type": 2,
         "language": "zh-Hans",
         "title": "鹡鴒计划"
@@ -531716,6 +532256,11 @@
         "type": 4,
         "language": "en",
         "title": "Servant x Service"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "SERVANT×SERVICE 迷糊公務員"
       },
       {
         "type": 4,
@@ -540626,6 +541171,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "仙乐传说"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "時空幻境 交響曲傳奇"
       }
     ]
   },
@@ -540941,6 +541491,11 @@
         "type": 2,
         "language": "ja",
         "title": "シスター♥プリンセス"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "妹妹公主"
       }
     ]
   },
@@ -542096,6 +542651,11 @@
         "type": 4,
         "language": "en",
         "title": "Slow Loop"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "SLOW LOOP－女孩的釣魚慢活"
       },
       {
         "type": 4,
@@ -546288,6 +546848,11 @@
         "title": "スパイラル -推理の絆-"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "少年偵探 ～推理之絆～"
+      },
+      {
         "type": 2,
         "language": "zh-Hans",
         "title": "推理之绊"
@@ -546701,6 +547266,11 @@
         "type": 4,
         "language": "ja",
         "title": "スパイ教室"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "間諜教室"
       },
       {
         "type": 4,
@@ -548619,6 +549189,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "World Dai Star"
+      },
+      {
+        "type": 4,
         "language": "ru",
         "title": "Мировые легенды театра"
       },
@@ -549694,6 +550269,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "銀砂糖師與黑妖精～sugar apple fairy tale～"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "银砂糖师与黑妖精"
       }
@@ -550031,6 +550611,11 @@
         "type": 4,
         "language": "ja",
         "title": "サマーゴースト"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "夏日幽靈"
       }
     ]
   },
@@ -554321,6 +554906,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "仙乐传说 迪赛雅兰篇"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "時空幻境 交響曲傳奇 提賽亞拉篇"
       }
     ]
   },
@@ -554371,6 +554961,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "仙乐传说 世界统合篇"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "時空幻境 交響曲傳奇 世界統合篇"
       }
     ]
   },
@@ -572094,6 +572689,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "尤利西斯 貞德與鍊金騎士"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "尤利西斯 贞德与炼金骑士"
       }
@@ -573526,6 +574126,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "潮与虎"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "潮與虎"
       }
     ]
   },
@@ -574396,6 +575001,11 @@
         "type": 4,
         "language": "en",
         "title": "Walkure Romanze"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Walkure Romanze 少女騎士物語"
       },
       {
         "type": 4,
@@ -575571,6 +576181,11 @@
         "type": 4,
         "language": "ja",
         "title": "ヴァージン・パンク"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "純潔龐克 發條少女"
       }
     ]
   },
@@ -578186,6 +578801,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "魔女的使命"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "魔女的使命"
       }
     ]
   },
@@ -578476,6 +579096,11 @@
         "type": 4,
         "language": "ja",
         "title": "ワンダーエッグ・プライオリティ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "奇蛋物語 Wonder Egg Priority"
       },
       {
         "type": 4,
@@ -579181,6 +579806,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Wizard Barristers: Benmashi Cecil"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "WIZARD BARRISTERS～弁魔士賽希爾"
       },
       {
         "type": 4,
@@ -587669,6 +588299,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "佐賀偶像是傳奇"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "佐贺偶像是传奇"
       }
@@ -587706,6 +588341,11 @@
         "type": 4,
         "language": "ja",
         "title": "ゾンビランドサガ リベンジ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "佐賀偶像是傳奇 捲土重來"
       },
       {
         "type": 2,
