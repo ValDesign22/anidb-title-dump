@@ -51713,11 +51713,6 @@
         "title": "Aishiteru Game o Owarasetai"
       },
       {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Aishiteru Game wo Owarasetai"
-      },
-      {
         "type": 4,
         "language": "en",
         "title": "I Want to End This Love Game"
@@ -56836,6 +56831,11 @@
         "type": 2,
         "language": "en",
         "title": "Journey to the West"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Saiyuki"
       },
       {
         "type": 1,
@@ -240343,6 +240343,11 @@
         "title": "사신쨩 드롭킥"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "小邪神飛踢"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "邪神ちゃんドロップキック"
@@ -294501,6 +294506,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "莉兹与青鸟"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "莉茲與青鳥"
       }
     ]
   },
@@ -352998,14 +353008,9 @@
         "title": "Hu Yao Xiao Hongniang: Huang Feng Ling Pian"
       },
       {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "狐妖小红娘 黄风岭篇"
-      },
-      {
         "type": 4,
         "language": "zh-Hans",
-        "title": "狐妖小红娘13 黄风岭篇"
+        "title": "狐妖小红娘 黄风岭篇"
       }
     ]
   },
@@ -428536,6 +428541,21 @@
         "type": 2,
         "language": "ru",
         "title": "Шаловливая сестричка Мидзуки"
+      }
+    ]
+  },
+  {
+    "id": 20343,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "LOCA!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ロカ"
       }
     ]
   },
