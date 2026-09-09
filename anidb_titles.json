@@ -143436,6 +143436,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "无畏魔女"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "無畏魔女"
       }
     ]
   },
@@ -260496,6 +260501,11 @@
         "type": 4,
         "language": "ja",
         "title": "劇場版 響け! ユーフォニアム ~北宇治高校吹奏楽部へようこそ~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "電影版 吹響吧！上低音號～歡迎加入北宇治高中管樂社～"
       }
     ]
   },
@@ -282246,6 +282256,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "双恋"
+      }
+    ]
+  },
+  {
+    "id": 20344,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Futanari Jinja wa Otome Ochinpo Soudansho"
+      },
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "ふたなり神社は乙女おチ○ポ相談所"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ふたなり神社は乙女おチンポ相談所"
       }
     ]
   },
@@ -549858,6 +549888,11 @@
         "title": "侵袭魔女"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "強襲魔女"
+      },
+      {
         "type": 2,
         "language": "zh-Hans",
         "title": "强袭魔女"
@@ -549916,6 +549951,11 @@
         "type": 4,
         "language": "ja",
         "title": "ストライクウィッチーズ 劇場版"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "強襲魔女 劇場版"
       },
       {
         "type": 4,
