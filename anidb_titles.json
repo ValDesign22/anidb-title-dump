@@ -102839,6 +102839,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "My Next Life as a Villainess: All Routes Lead to Doom! Ich habe die mir vorbestimmte Person getroffen"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "My Next Life as a Villainess: All Routes Lead to Doom! X: I Met My Destined One..."
       },
@@ -388283,11 +388288,6 @@
         "title": "完堕ちX●取られ家族"
       },
       {
-        "type": 2,
-        "language": "ja",
-        "title": "完堕ちX寝取られ家族 The Animation"
-      },
-      {
         "type": 4,
         "language": "ja",
         "title": "完堕ちX寝取られ家族 The Animation ~アナタ, 許して. 私たち, 浮気セックスに本気でハマっちゃったの~"
@@ -397101,21 +397101,6 @@
         "type": 4,
         "language": "ja",
         "title": "機動戦士ガンダムSEED FREEDOM ZERO"
-      }
-    ]
-  },
-  {
-    "id": 19345,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kidou Senshi Gundam Tekketsu no Orphans Urdr Hunt -Chiisana Chousen-Sha no Kiseki-"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "機動戦士ガンダム 鉄血のオルフェンズ ウルズハント -小さな挑戦者の軌跡-"
       }
     ]
   },
@@ -480739,13 +480724,13 @@
       },
       {
         "type": 2,
-        "language": "ko",
-        "title": "OVA 노노하라 유카의 비밀 방송"
+        "language": "ru",
+        "title": "Секретные стримы Юки Нонохары"
       },
       {
         "type": 2,
-        "language": "ru",
-        "title": "Секретные стримы Юки Нонохары"
+        "language": "ko",
+        "title": "노노하라 유카의 비밀 방송"
       },
       {
         "type": 4,
@@ -508083,6 +508068,11 @@
         "title": "Pure x Holic: Junketsu Otome to Kon`in Kankei!? The Animation"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "퓨어 홀릭 ~순결한 처녀와 결혼하게 된다고!?~"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ピュアホリック ～純潔乙女と婚姻カンケイ！？～ THE ANIMATION"
@@ -526018,6 +526008,11 @@
         "title": "Sare Tsuma wa Ubawaretai"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "네토라레 아내는 빼앗기고 싶다"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "サレ妻は奪われたい"
@@ -538671,6 +538666,31 @@
         "type": 4,
         "language": "ja",
         "title": "SHISHIGARI"
+      }
+    ]
+  },
+  {
+    "id": 20345,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shishite Ikiru SSS-kyuu Hunter"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "SSS-Class Revival Hunter"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "SSS급 죽어야 사는 헌터"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "死して生きるSSS級ハンター"
       }
     ]
   },
