@@ -67095,7 +67095,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Anette-san to Liliana-san The Animation"
+        "title": "Annet-san to Liliana-san The Animation"
       },
       {
         "type": 2,
@@ -67135,7 +67135,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Tonari no Ie no Anette-san The Animation"
+        "title": "Tonari no Ie no Annet-san The Animation"
       },
       {
         "type": 2,
@@ -102689,6 +102689,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "My Next Life as a Villainess – Wie überlebe ich in einem Dating-Game?"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "My Next Life as a Villainess: All Routes Lead to Doom!"
       },
@@ -106277,6 +106282,11 @@
   {
     "id": 19576,
     "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Balala The Fairies: Star Fate Butterfly Awakening"
+      },
       {
         "type": 1,
         "language": "x-zht",
@@ -244660,6 +244670,21 @@
     ]
   },
   {
+    "id": 20346,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "EAT-MAN The Over Order"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Eat-Man: The Over Order"
+      }
+    ]
+  },
+  {
     "id": 1115,
     "titles": [
       {
@@ -309413,11 +309438,6 @@
         "title": "Koukaku Kidoutai (2026)"
       },
       {
-        "type": 2,
-        "language": "en",
-        "title": "The Ghost in the Shell"
-      },
-      {
         "type": 4,
         "language": "fr",
         "title": "The Ghost in the Shell"
@@ -309425,6 +309445,16 @@
       {
         "type": 4,
         "language": "de",
+        "title": "The Ghost in the Shell"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Ghost in the Shell"
+      },
+      {
+        "type": 4,
+        "language": "it",
         "title": "The Ghost in the Shell"
       },
       {
@@ -375751,6 +375781,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Ji Jia Shou Shen Zhi Baolie Feiche"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Opti-Morphs"
       },
       {
         "type": 4,
@@ -460966,6 +461001,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Mofusand"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "mofusand animation"
       }
     ]
   },
@@ -564481,21 +564521,6 @@
         "type": 1,
         "language": "x-jat",
         "title": "Thunderbolt Fantasy: Seiyuu Genka"
-      }
-    ]
-  },
-  {
-    "id": 18574,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "ThunderCats"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "サンダーキャッツ"
       }
     ]
   },
