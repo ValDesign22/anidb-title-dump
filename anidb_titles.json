@@ -151135,6 +151135,36 @@
     ]
   },
   {
+    "id": 20271,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Cai Shen Dou Zhan Long"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Caishen Dou Zhanlong"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "God of Wealth Dou Zhanlong"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Golden Curse"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "财神窦占龙"
+      }
+    ]
+  },
+  {
     "id": 647,
     "titles": [
       {
@@ -151176,31 +151206,6 @@
         "type": 4,
         "language": "ja",
         "title": "めい・king"
-      }
-    ]
-  },
-  {
-    "id": 20271,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Caishen Dou Zhanlong"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "God of Wealth Dou Zhanlong"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Golden Curse"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "财神窦占龙"
       }
     ]
   },
@@ -160426,6 +160431,41 @@
         "type": 4,
         "language": "ja",
         "title": "牧場の少女カトリ"
+      }
+    ]
+  },
+  {
+    "id": 20221,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Catastrophic Necromancer"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Necromancer: I Am A Disaster"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Necromancer: I Am the Scourge"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Si Ling Fashi! Wo Ji Shi Tianzai"
+      },
+      {
+        "type": 2,
+        "language": "zh",
+        "title": "全民转职：死灵法师！我即是天灾"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "死灵法师！我即是天灾"
       }
     ]
   },
@@ -238348,9 +238388,19 @@
     "id": 20185,
     "titles": [
       {
+        "type": 2,
+        "language": "en",
+        "title": "Dragon Heart: Adventures Beyond This World"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Dragon Heart: Reikai Tanbouki"
+      },
+      {
+        "type": 2,
+        "language": "x-unk",
+        "title": "Happy Science Movie 10"
       },
       {
         "type": 4,
@@ -250113,9 +250163,19 @@
         "title": "Eiga Sore Ike! Anpanman: Pantan to Yakusoku no Hoshi"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Go! Anpanman: Pantan and the Promised Star"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "えいがそれいけ! アンパンマン パンタンと約束の星"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "映画それいけ！アンパンマン パンタンと約束の星"
       }
     ]
   },
@@ -259971,6 +260031,41 @@
         "type": 4,
         "language": "ja",
         "title": "永久少年 NEXT STAGE"
+      }
+    ]
+  },
+  {
+    "id": 20219,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Eternal God Emperor"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "God of Eternity"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Wan Gu Shen Di"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wangu Shen Di"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "万古神帝"
+      },
+      {
+        "type": 2,
+        "language": "zh",
+        "title": "萬古神帝"
       }
     ]
   },
@@ -277471,6 +277566,36 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "狐妖小红娘9 沐天城篇"
+      }
+    ]
+  },
+  {
+    "id": 18928,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Fox Spirit Matchmaker Season 13"
+      },
+      {
+        "type": 3,
+        "language": "en",
+        "title": "fsm s13"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Hu Yao Xiao Hongniang: Huang Feng Ling Pian"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Huyao Xiao Hongniang 13: Huang Feng Ling Pian"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "狐妖小红娘 黄风岭篇"
       }
     ]
   },
@@ -311936,26 +312061,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "天荒战神"
-      }
-    ]
-  },
-  {
-    "id": 20219,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "God of Eternity"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Wangu Shen Di"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "万古神帝"
       }
     ]
   },
@@ -353061,21 +353166,6 @@
         "type": 4,
         "language": "zh",
         "title": "虎王归来"
-      }
-    ]
-  },
-  {
-    "id": 18928,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Hu Yao Xiao Hongniang: Huang Feng Ling Pian"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "狐妖小红娘 黄风岭篇"
       }
     ]
   },
@@ -428213,6 +428303,11 @@
         "title": "Liu Xing Huan Jian"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "The Meteor Magic Sword"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "流星幻剑"
@@ -473951,26 +474046,6 @@
         "type": 4,
         "language": "ja",
         "title": "死妹人形"
-      }
-    ]
-  },
-  {
-    "id": 20221,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Necromancer: I Am the Scourge"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Si Ling Fashi! Wo Ji Shi Tianzai"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "死灵法师！我即是天灾"
       }
     ]
   },
