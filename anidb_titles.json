@@ -250445,6 +250445,21 @@
     ]
   },
   {
+    "id": 20347,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Eiga Uchuu Nanchara Kotetsu-kun: Ukkari Detekita Uchuujin o Sagase!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "映画 宇宙なんちゃら こてつくん うっかり出てきた宇宙人を探せ!"
+      }
+    ]
+  },
+  {
     "id": 6453,
     "titles": [
       {
@@ -289418,6 +289433,11 @@
         "title": "Ganbare Goemon: Chikyuu Kyuushutsu Daisakusen"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Ganbare Goemon: Earth Rescue Operation"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "がんばれゴエモン 地球救出大作戦"
@@ -289431,6 +289451,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Ganbare Goemon: Jigen Jou no Akumu"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Ganbare Goemon: Nightmare in the Dimensional Castle"
       },
       {
         "type": 4,
@@ -475150,31 +475175,6 @@
     ]
   },
   {
-    "id": 11258,
-    "titles": [
-      {
-        "type": 2,
-        "language": "ja",
-        "title": "Netora Serare"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Netoraserare"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "네토라세라레"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ネトラセラレ"
-      }
-    ]
-  },
-  {
     "id": 7578,
     "titles": [
       {
@@ -475246,6 +475246,26 @@
         "type": 4,
         "language": "ja",
         "title": "寝取られた爆乳妻たち2"
+      }
+    ]
+  },
+  {
+    "id": 11258,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Netoraserare"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "네토라세라레"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ネトラセラレ"
       }
     ]
   },
