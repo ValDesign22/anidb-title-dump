@@ -151218,6 +151218,11 @@
         "title": "Calabash Brothers"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Gourd Brothers"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Hulu Xiongdi"
@@ -218424,6 +218429,11 @@
       },
       {
         "type": 4,
+        "language": "cs",
+        "title": "Záblesky zítřka"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "二十世紀電氣目録-ユーレカ・エヴリカ-"
       }
@@ -247321,11 +247331,6 @@
         "type": 4,
         "language": "en",
         "title": "Magical Girl Lyrical Nanoha Exceeds: Gun Blaze Vengeance"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Mahou Shoujo Lyrical Nanoha EXCEEDS - Gun Blaze Vengeance"
       },
       {
         "type": 1,
@@ -295016,6 +295021,11 @@
         "type": 4,
         "language": "ja",
         "title": "劇場版 異世界かるてっと ~あなざーわーるど~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "劇場版 異世界四重奏 ～Another World～"
       },
       {
         "type": 2,
@@ -371149,6 +371159,11 @@
       },
       {
         "type": 2,
+        "language": "x-unk",
+        "title": "Shi Wangzhe A? Di Wu Ji: Feng Wu Leiting Chang`an Juan"
+      },
+      {
+        "type": 2,
         "language": "x-zht",
         "title": "Shi Wangzhe A? Season 5"
       },
@@ -371596,6 +371611,11 @@
         "type": 4,
         "language": "ja",
         "title": "異世界かるてっと3"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "異世界四重奏 3"
       }
     ]
   },
@@ -481780,6 +481800,36 @@
     ]
   },
   {
+    "id": 11972,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Nu Wa Cheng Zhang Ri Ji"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Nuwa Cheng Zhang Riji"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Nuwa Chengzhang Riji"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Nuwa`s Diary"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "女娲成长日记"
+      }
+    ]
+  },
+  {
     "id": 16591,
     "titles": [
       {
@@ -482286,26 +482336,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "女神有点灵"
-      }
-    ]
-  },
-  {
-    "id": 11972,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Nuwa Chengzhang Riji"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Nuwa`s Diary"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "女娲成长日记"
       }
     ]
   },
@@ -503166,6 +503196,11 @@
         "type": 2,
         "language": "en",
         "title": "Pokemon: Wild Card"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Pokemon: Wildcard"
       }
     ]
   },
@@ -523456,6 +523491,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "天才麻将少女 全国篇"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "天才麻將少女 全國篇"
       }
     ]
   },
@@ -537281,6 +537321,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "新网球王子 U-17 WORLD CUP"
+      }
+    ]
+  },
+  {
+    "id": 20348,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shin Tennis no Ouji-sama: U-17 World Cup - Kesshou Member Ketteisen"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Prince of Tennis II: U-17 World Cup Finals Members Decisive Match"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦"
       }
     ]
   },
