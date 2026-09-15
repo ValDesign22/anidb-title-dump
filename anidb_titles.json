@@ -281245,6 +281245,21 @@
     ]
   },
   {
+    "id": 20350,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Funsou Deshitara Hatta Made"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "紛争でしたら八田まで"
+      }
+    ]
+  },
+  {
     "id": 20030,
     "titles": [
       {
@@ -282616,6 +282631,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Futari wa Pretty Cure"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Jesteśmy Pretty Cure"
       },
       {
         "type": 3,
@@ -294891,6 +294911,21 @@
         "type": 4,
         "language": "ja",
         "title": "劇場版アイドリッシュセブン LIVE 4bit BEYOND THE PERiOD"
+      }
+    ]
+  },
+  {
+    "id": 20349,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Idolmaster: SideM Fantastic Battle Fes - Who goes first"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版 アイドルマスター SideM F＠NTASTIC BATTLE FES ～Who goes first～"
       }
     ]
   },
@@ -326380,6 +326415,21 @@
     ]
   },
   {
+    "id": 20351,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Haha Da Maoxian"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "哈哈大冒险"
+      }
+    ]
+  },
+  {
     "id": 9385,
     "titles": [
       {
@@ -333284,6 +333334,11 @@
       },
       {
         "type": 2,
+        "language": "x-jat",
+        "title": "Harlock Saga: Niibarungu no Yubiwa"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "Harlock Saga: The Ring of the Nibelung"
       },
@@ -333296,6 +333351,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Herlock Saga"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Herlock Saga: Nibelung no Yubiwa"
       },
       {
         "type": 4,
@@ -335581,6 +335641,21 @@
         "type": 4,
         "language": "ja",
         "title": "核晶少年"
+      }
+    ]
+  },
+  {
+    "id": 20352,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "He Nu`er De Richang"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "和女儿的日常"
       }
     ]
   },
@@ -340116,6 +340191,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "白浊之村"
+      }
+    ]
+  },
+  {
+    "id": 20353,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Hen Chun Hen Aimei"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "很纯很暧昧"
       }
     ]
   },
@@ -353198,6 +353288,11 @@
         "title": "Hu wang gui lai"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Tiger Returns"
+      },
+      {
         "type": 4,
         "language": "zh",
         "title": "虎王归来"
@@ -353460,6 +353555,21 @@
     ]
   },
   {
+    "id": 20354,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Hua Kai Zhang Meili"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "花开张美丽"
+      }
+    ]
+  },
+  {
     "id": 17184,
     "titles": [
       {
@@ -353580,6 +353690,21 @@
       {
         "type": 2,
         "language": "x-unk",
+        "title": "黄历师"
+      }
+    ]
+  },
+  {
+    "id": 20355,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Huang Li Shi"
+      },
+      {
+        "type": 4,
+        "language": "zh",
         "title": "黄历师"
       }
     ]
@@ -376321,6 +376446,11 @@
         "type": 2,
         "language": "en",
         "title": "The Sword Immortal is Here 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Sword Immortal Is Here S2"
       },
       {
         "type": 2,
@@ -584316,6 +584446,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Yoroi Shin Den Samurai Troopers (2026)"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Yoroi Shin Den Samurai Troopers Part 2"
       },
       {
         "type": 4,
