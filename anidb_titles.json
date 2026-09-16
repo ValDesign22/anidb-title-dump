@@ -7395,6 +7395,26 @@
     ]
   },
   {
+    "id": 19586,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "#I`m Looking for a Zombie"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "#Zombie Sagashitemasu"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "#ゾンビさがしてます"
+      }
+    ]
+  },
+  {
     "id": 17297,
     "titles": [
       {
@@ -7446,21 +7466,6 @@
         "type": 2,
         "language": "en",
         "title": "Kanagawa Elves"
-      }
-    ]
-  },
-  {
-    "id": 19586,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "#Zombie Sagashitemasu"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "#ゾンビさがしてます"
       }
     ]
   },
@@ -25228,6 +25233,11 @@
         "title": "Romelia War Chronicle"
       },
       {
+        "type": 4,
+        "language": "en",
+        "title": "Romelia War Chronicle"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "Romélia War Chronicle: The Count’s Daughter Rallies an Army in the Wake of Mankind’s Victory"
@@ -33618,7 +33628,7 @@
     "id": 19201,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "A Tale of the Secret Saint"
       },
@@ -35683,9 +35693,14 @@
     "id": 19777,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "A Wild Last Boss Appeared! (2026)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "A Wild Last Boss Appeared! Season 2"
       },
       {
         "type": 1,
@@ -85858,9 +85873,14 @@
     "id": 19070,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World (2026)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World Season 3"
       },
       {
         "type": 1,
@@ -205826,6 +205846,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Dark Machine the Animation"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Dark Machine the Animation"
       }
     ]
   },
@@ -236383,7 +236408,7 @@
         "title": "Doumo, Suki na Hito ni Horegusuri o Irai Sareta Majo Desu."
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!"
       },
@@ -261258,9 +261283,9 @@
     "id": 19650,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
-        "title": "Even Though I`m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé"
+        "title": "Even Though I`m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiance"
       },
       {
         "type": 3,
@@ -280995,6 +281020,21 @@
     ]
   },
   {
+    "id": 20375,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Funbarus"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ふんばるず"
+      }
+    ]
+  },
+  {
     "id": 19924,
     "titles": [
       {
@@ -299336,6 +299376,11 @@
         "type": 4,
         "language": "ja",
         "title": "劇場版 少女☆歌劇 レヴュースタァライト"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "劇場版 少女☆歌劇Revue Starlight"
       }
     ]
   },
@@ -333595,6 +333640,21 @@
     ]
   },
   {
+    "id": 20374,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Haru to Gen: 70-sai, Hajimete no Kosodate"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ハルとゲン ~70歳, はじめての子育て~"
+      }
+    ]
+  },
+  {
     "id": 9029,
     "titles": [
       {
@@ -352208,13 +352268,13 @@
     "id": 19621,
     "titles": [
       {
-        "type": 2,
-        "language": "en",
+        "type": 1,
+        "language": "x-jat",
         "title": "Hotel Inhumans (2026)"
       },
       {
-        "type": 1,
-        "language": "x-jat",
+        "type": 4,
+        "language": "en",
         "title": "Hotel Inhumans (2026)"
       },
       {
@@ -354441,6 +354501,51 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "火力少年王3"
+      }
+    ]
+  },
+  {
+    "id": 20356,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Huoli Shaonian Wang 3: Xuji"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "火力少年王3续集"
+      }
+    ]
+  },
+  {
+    "id": 20357,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Huoli Shaonian Wang: Chuanqi Zaixian"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "火力少年王之传奇再现"
+      }
+    ]
+  },
+  {
+    "id": 20358,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Huoli Shaonian Wang: Chuanqi Zaixian: Xuji"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "火力少年王之传奇再现续集"
       }
     ]
   },
@@ -376580,6 +376685,21 @@
     ]
   },
   {
+    "id": 20360,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jian Yu Yuanzheng: Insomnia De Naxie Shier"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "剑与远征-伊索米亚的那些事儿"
+      }
+    ]
+  },
+  {
     "id": 18893,
     "titles": [
       {
@@ -376631,6 +376751,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "姜子牙"
+      }
+    ]
+  },
+  {
+    "id": 20359,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jiangnan"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "江南"
       }
     ]
   },
@@ -377713,6 +377848,16 @@
         "title": "Jingling Meng Xie Luo Li"
       },
       {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Jingling Meng Yeloli"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Fairy Dream of Yeloli"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "精灵梦叶罗丽"
@@ -377821,6 +377966,111 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "精灵梦叶罗丽 第8季"
+      }
+    ]
+  },
+  {
+    "id": 20362,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jingling Meng Yeloli Di 10 Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "精灵梦叶罗丽 第10季"
+      }
+    ]
+  },
+  {
+    "id": 20363,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jingling Meng Yeloli Di 11 Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "精灵梦叶罗丽 第11季"
+      }
+    ]
+  },
+  {
+    "id": 20364,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jingling Meng Yeloli Di 11 Ji Xia"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "精灵梦叶罗丽 第11季 下"
+      }
+    ]
+  },
+  {
+    "id": 20361,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jingling Meng Yeloli Di 9 Ji: Ni Wang Zhi Zhan"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "精灵梦叶罗丽 第9季 逆亡之战"
+      }
+    ]
+  },
+  {
+    "id": 20371,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jingling Meng Yeloli x Bing Lianhua"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "精灵梦叶罗丽X冰莲花"
+      }
+    ]
+  },
+  {
+    "id": 20370,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jingling Meng Yeloli x Guang Fuchen"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "精灵梦叶罗丽X光浮尘"
+      }
+    ]
+  },
+  {
+    "id": 20366,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jingling Meng Yeloli x Jin Huaguan"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "精灵梦叶罗丽X金花冠"
       }
     ]
   },
@@ -378195,6 +378445,21 @@
     ]
   },
   {
+    "id": 20372,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jiu Jiu Ba Shi Yi"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "九九八十一"
+      }
+    ]
+  },
+  {
     "id": 17601,
     "titles": [
       {
@@ -378336,6 +378601,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "九州缥缈录"
+      }
+    ]
+  },
+  {
+    "id": 20373,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jixian Chengshi"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "极限城市"
       }
     ]
   },
@@ -385046,6 +385326,21 @@
         "type": 4,
         "language": "ja",
         "title": "怪獣8号 鳴海の平日"
+      }
+    ]
+  },
+  {
+    "id": 20376,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Kaiju Yi Zuo Shan 2"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "开局一座山 2"
       }
     ]
   },
@@ -437424,6 +437719,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Magic Knight Rayearth (2026)"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "魔法騎士レイアース (2026)"
       }
@@ -438025,6 +438325,11 @@
       {
         "type": 1,
         "language": "x-jat",
+        "title": "Magical Explorer"
+      },
+      {
+        "type": 4,
+        "language": "en",
         "title": "Magical Explorer"
       },
       {
@@ -445247,6 +445552,11 @@
   {
     "id": 19831,
     "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Mamono Kurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru"
+      },
       {
         "type": 1,
         "language": "x-jat",
@@ -455023,7 +455333,7 @@
         "title": "Mezametara Saikyou Soubi to Uchuusen Mochi Datta no de, Ikkodate Mezashite Youhei to Shite Jiyuu ni Ikitai"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
       },
@@ -515994,6 +516304,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "少女☆歌劇 Revue Starlight RONDO·RONDO·RONDO"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド"
       }
@@ -530593,7 +530908,7 @@
         "title": "sekamajo"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The World`s Strongest Witch"
       },
@@ -537463,9 +537778,9 @@
         "title": "Shin Tennis no Ouji-sama: U-17 World Cup - Kesshou Member Ketteisen"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
-        "title": "The Prince of Tennis II: U-17 World Cup Finals Members Decisive Match"
+        "title": "The Prince of Tennis II: U-17 World Cup - Final Member Selection Match"
       },
       {
         "type": 4,
@@ -543518,7 +543833,7 @@
     "id": 19942,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "So What`s Wrong with Getting Reborn as a Goblin?"
       },
@@ -573253,6 +573568,11 @@
         "title": "ウマ娘 プリティーダービー Road to the Top"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "賽馬娘 Pretty Derby ROAD TO THE TOP"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "赛马娘 Pretty Derby 巅峰之路"
@@ -573281,6 +573601,11 @@
         "type": 4,
         "language": "ja",
         "title": "ウマ娘 プリティーダービー 新時代の扉"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "賽馬娘Pretty Derby：新時代之門"
       }
     ]
   },
@@ -573306,6 +573631,11 @@
         "type": 4,
         "language": "ja",
         "title": "ウマ娘 プリティーダービー Season 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "賽馬娘 Pretty Derby 第二季"
       },
       {
         "type": 4,
@@ -576210,6 +576540,11 @@
       {
         "type": 1,
         "language": "x-jat",
+        "title": "Vertex Force"
+      },
+      {
+        "type": 4,
+        "language": "en",
         "title": "Vertex Force"
       },
       {
@@ -583616,6 +583951,66 @@
         "type": 4,
         "language": "ja",
         "title": "YELL [エール]"
+      }
+    ]
+  },
+  {
+    "id": 20369,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yeloli: Jin Liu Xin"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "叶罗丽金鎏心"
+      }
+    ]
+  },
+  {
+    "id": 20365,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yeloli: Shijian Yu"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "叶罗丽时间雨"
+      }
+    ]
+  },
+  {
+    "id": 20367,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yelolii: Luolimo Shui Yu"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "叶罗丽默水语"
+      }
+    ]
+  },
+  {
+    "id": 20368,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Yelolii: Yue Ling Shi"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "叶罗丽月灵石"
       }
     ]
   },
