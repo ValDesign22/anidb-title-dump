@@ -44760,56 +44760,6 @@
     ]
   },
   {
-    "id": 318,
-    "titles": [
-      {
-        "type": 4,
-        "language": "de",
-        "title": "After Rabbit"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Angel`s Egg"
-      },
-      {
-        "type": 2,
-        "language": "es",
-        "title": "El Huevo del Ángel"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "In The Aftermath"
-      },
-      {
-        "type": 4,
-        "language": "fr",
-        "title": "L`œuf de l`ange"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Tenshi no Tamago"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "TnT ova"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "天使のたまご"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "天使之卵"
-      }
-    ]
-  },
-  {
     "id": 14386,
     "titles": [
       {
@@ -68035,6 +67985,56 @@
     ]
   },
   {
+    "id": 318,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Angel`s Egg"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Angel`s Egg"
+      },
+      {
+        "type": 2,
+        "language": "es",
+        "title": "El Huevo del Ángel"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "In The Aftermath"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "L`œuf de l`ange"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tenshi no Tamago"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "TnT ova"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "天使のたまご"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "天使之卵"
+      }
+    ]
+  },
+  {
     "id": 3655,
     "titles": [
       {
@@ -75906,6 +75906,26 @@
         "type": 4,
         "language": "ja",
         "title": "蒼き伝説 シュート! (1994)"
+      }
+    ]
+  },
+  {
+    "id": 20379,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Aoki Denshou: Welsh & Shedar"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Azure Legend: Welsh & Shedar"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "蒼き伝承 ウェルシュ＆シェダー"
       }
     ]
   },
@@ -133928,6 +133948,11 @@
         "title": "Il mago pancione Etcì"
       },
       {
+        "type": 4,
+        "language": "pt",
+        "title": "O Génio Desastrado"
+      },
+      {
         "type": 2,
         "language": "pt-BR",
         "title": "O Gênio Maluco"
@@ -166206,6 +166231,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "超神游戏"
+      }
+    ]
+  },
+  {
+    "id": 20381,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Chao Shenxueyuan"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "超神学院"
       }
     ]
   },
@@ -240598,6 +240638,11 @@
         "title": "Drowning Sorrows in Raging Fire"
       },
       {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Lie Huo Jiao Chou"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Liehuo Jiao Chou"
@@ -293941,6 +293986,11 @@
         "type": 4,
         "language": "ja",
         "title": "劇場短編マクロスfrontier~時の迷宮~"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "超時空要塞F～時間的迷宮～"
       }
     ]
   },
@@ -294561,6 +294611,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Haikyuu!!: Gomi Suteba no Kessen"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "劇場版 排球少年!! 垃圾場的決戰"
       },
       {
         "type": 4,
@@ -295563,6 +295618,11 @@
         "title": "극장판 마크로스 Δ 격정의 왈큐레"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "劇場版 超時空要塞Δ 激情的女武神"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "劇場版マクロスΔ[デルタ] 激情のワルキューレ"
@@ -295586,6 +295646,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Macross: Gekijouban Macross Delta: Zettai Live!!!!!!"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "劇場版 超時空要塞Δ 絕對LIVE!!!!!!"
       },
       {
         "type": 4,
@@ -295646,6 +295711,11 @@
         "type": 4,
         "language": "ja",
         "title": "劇場版 マクロスF 虚空歌姫~イツワリノウタヒメ~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "劇場版超時空要塞F～虛空歌姬～"
       }
     ]
   },
@@ -295681,6 +295751,11 @@
         "type": 4,
         "language": "ja",
         "title": "劇場版 マクロスF 恋離飛翼~サヨナラノツバサ~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "劇場版超時空要塞F～戀離飛翼～"
       }
     ]
   },
@@ -314641,6 +314716,11 @@
         "type": 2,
         "language": "x-zht",
         "title": "Kung Fu Liao Li Niang"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Kungfu Cooking Girls"
       },
       {
         "type": 4,
@@ -353738,6 +353818,11 @@
         "title": "Huang Li Shi"
       },
       {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Huangli Shi"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Li Shi"
@@ -356405,7 +356490,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Wo shi xue xiao wei yi de ren lei"
+        "title": "Wo Shi Xue Xiao Wei Yi de Ren Lei"
       },
       {
         "type": 2,
@@ -412584,6 +412669,11 @@
       },
       {
         "type": 2,
+        "language": "en",
+        "title": "Kuiba the Last"
+      },
+      {
+        "type": 2,
         "language": "x-zht",
         "title": "Zuihou De Kuiba"
       },
@@ -412666,6 +412756,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "魁拔之殊途"
+      }
+    ]
+  },
+  {
+    "id": 20377,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Kuiba: Shu Tu - Xiangsheng Pian"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "魁拔之殊途 相生篇"
       }
     ]
   },
@@ -417380,6 +417485,36 @@
     ]
   },
   {
+    "id": 20378,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "La La La De Ma Xi Ya Dierji"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "啦啦啦德玛西亚 第二季"
+      }
+    ]
+  },
+  {
+    "id": 20380,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "La La La De Ma Xi Ya Disanji"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "啦啦啦德玛西亚 第三季"
+      }
+    ]
+  },
+  {
     "id": 2899,
     "titles": [
       {
@@ -420200,6 +420335,36 @@
     ]
   },
   {
+    "id": 20383,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Lang Lang Shan Xiao Yaoguai"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "浪浪山小妖怪"
+      }
+    ]
+  },
+  {
+    "id": 20382,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Lang Lang Shaonu Lan"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "狼狼少女蓝"
+      }
+    ]
+  },
+  {
     "id": 16845,
     "titles": [
       {
@@ -420211,6 +420376,81 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "兰亭小精灵"
+      }
+    ]
+  },
+  {
+    "id": 11230,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Lao Fu Zi Shui Hu Chuan"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Laofuzi Shui Hu Chuan"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Loufuji Seui Fu Chyun"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Old Master Q: Water Tiger"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "老夫子水虎傳"
+      }
+    ]
+  },
+  {
+    "id": 11298,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Lao Fu Zi: Xiao Shui Hu Chuan Qi"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Laofuzi Zhi Xiao Shui Hu Chuanqi"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Laofuzi: Xiao Shui Hu Chuanqi"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Loufuji Ji Siu Seui Fu Chyunkei"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Loufuji: Siu Seui Fu Chyunkei"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Old Master Q and Little Ocean Tiger"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "老夫子之小水虎传奇"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "老夫子之小水虎傳奇"
       }
     ]
   },
@@ -420296,71 +420536,6 @@
         "type": 4,
         "language": "zh",
         "title": "老夫子反斗偵探"
-      }
-    ]
-  },
-  {
-    "id": 11230,
-    "titles": [
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Laofuzi Shui Hu Chuan"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Loufuji Seui Fu Chyun"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Old Master Q: Water Tiger"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "老夫子水虎傳"
-      }
-    ]
-  },
-  {
-    "id": 11298,
-    "titles": [
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Laofuzi Zhi Xiao Shui Hu Chuanqi"
-      },
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Laofuzi: Xiao Shui Hu Chuanqi"
-      },
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Loufuji Ji Siu Seui Fu Chyunkei"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Loufuji: Siu Seui Fu Chyunkei"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Old Master Q and Little Ocean Tiger"
-      },
-      {
-        "type": 4,
-        "language": "zh",
-        "title": "老夫子之小水虎传奇"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "老夫子之小水虎傳奇"
       }
     ]
   },
@@ -426370,6 +426545,36 @@
     ]
   },
   {
+    "id": 20385,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Liaotian Qun De Richang Shenghuo"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "聊天群的日常生活"
+      }
+    ]
+  },
+  {
+    "id": 20384,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Liaozhai: Lanre Si"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "聊斋：兰若寺"
+      }
+    ]
+  },
+  {
     "id": 19538,
     "titles": [
       {
@@ -428781,6 +428986,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "流星幻剑"
+      }
+    ]
+  },
+  {
+    "id": 20386,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Liu Yao"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "六爻"
       }
     ]
   },
@@ -431586,6 +431806,11 @@
         "type": 2,
         "language": "en",
         "title": "Love Story of Cat Spirit"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Mao Yao De Huo Han"
       },
       {
         "type": 1,
@@ -434465,6 +434690,21 @@
     ]
   },
   {
+    "id": 20387,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Lutu Weiji! Sheng Freya Hao Tebie Shijian"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "旅途危機！聖芙蕾雅號特別事件"
+      }
+    ]
+  },
+  {
     "id": 19534,
     "titles": [
       {
@@ -435458,6 +435698,11 @@
         "title": "Ma Ma Mi Ya"
       },
       {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Mama Mi Ya"
+      },
+      {
         "type": 4,
         "language": "zh",
         "title": "妈妈咪鸭"
@@ -435906,6 +436151,11 @@
         "type": 3,
         "language": "zh-Hans",
         "title": "超时空要塞Frontier"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "超時空要塞F"
       },
       {
         "type": 4,
@@ -458340,6 +458590,21 @@
     ]
   },
   {
+    "id": 20388,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Mingwang Huan Shi Lu"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "明王幻世录"
+      }
+    ]
+  },
+  {
     "id": 18697,
     "titles": [
       {
@@ -460981,6 +461246,36 @@
         "type": 4,
         "language": "zh",
         "title": "莫莫"
+      }
+    ]
+  },
+  {
+    "id": 20393,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Mo You Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "魔游纪"
+      }
+    ]
+  },
+  {
+    "id": 20394,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Mo You Ji: Rengong Zhineng Fuzhu Pian"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "魔游纪 人工智能辅助篇"
       }
     ]
   },
@@ -471105,6 +471400,21 @@
     ]
   },
   {
+    "id": 20392,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Nan Hong"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "难哄"
+      }
+    ]
+  },
+  {
     "id": 4143,
     "titles": [
       {
@@ -472381,6 +472691,21 @@
         "type": 4,
         "language": "ja",
         "title": "難船ス物語 第二篇 海賊船"
+      }
+    ]
+  },
+  {
+    "id": 20391,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Nanyou Zong Zai Xiuluochang"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "男友总在修罗场"
       }
     ]
   },
@@ -486176,6 +486501,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Saan T Loufuji"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Shan T Lao Fu Zi"
       },
       {
         "type": 2,
@@ -507261,6 +507591,21 @@
         "type": 4,
         "language": "ja",
         "title": "プロ野球を10倍楽しく見る方法PART2"
+      }
+    ]
+  },
+  {
+    "id": 20390,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Pro, Pro, Pro!!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Pro,Pro,Pro!!"
       }
     ]
   },
@@ -554015,6 +554360,21 @@
     ]
   },
   {
+    "id": 20389,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Tai Lao Niangniang Yu baicha Xianzi"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "太姥娘娘与白茶仙子"
+      }
+    ]
+  },
+  {
     "id": 16875,
     "titles": [
       {
@@ -561459,7 +561819,7 @@
       },
       {
         "type": 1,
-        "language": "zh",
+        "language": "x-zht",
         "title": "Wangu Zhizun: Li Yunxiao Zhuan"
       },
       {
