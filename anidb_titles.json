@@ -338,7 +338,7 @@
         "title": "龍與虎"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "龙与虎"
       },
@@ -24663,7 +24663,7 @@
         "title": "異世界迷宮でハーレムを"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hant",
         "title": "異世界迷宮裡的後宮生活"
       }
@@ -29730,7 +29730,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Fanren Xiuxian Chuan: Feng Qi Tian Nan"
+        "title": "Fanren Xiuxian Zhuan: Feng Qi Tian Nan"
       },
       {
         "type": 4,
@@ -29755,7 +29755,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Fanren Xiuxian Chuan: Feng Qi Tian Nan Er"
+        "title": "Fanren Xiu Xian Chuan: Feng Qi Tian Nan Er"
       },
       {
         "type": 4,
@@ -29820,12 +29820,12 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Fanren Xiu Xian Chuan: Di San Ji"
+        "title": "Fanren Xiu Xian Chuan: Xinghai Feichi"
       },
       {
         "type": 4,
         "language": "zh-Hans",
-        "title": "凡人修仙传 第三季"
+        "title": "凡人修仙传 星海飞驰"
       }
     ]
   },
@@ -29920,12 +29920,12 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Fanren Xiu Xian Chuan: Xinghai Feichi Pian Xuzhang"
+        "title": "Fanren Xiu Xian Chuan: Xinghai Feichi Xuzhang"
       },
       {
         "type": 4,
         "language": "zh-Hans",
-        "title": "凡人修仙传 星海飞驰篇 序章"
+        "title": "凡人修仙传 星海飞驰 序章"
       }
     ]
   },
@@ -91708,7 +91708,7 @@
         "title": "アスラクライン"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "机巧魔神"
       }
@@ -91903,7 +91903,7 @@
         "title": "宙のまにまに"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "浪漫追星社"
       }
@@ -122478,11 +122478,6 @@
         "title": "My Senior Brother is Too Steady: Fan Year"
       },
       {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Shixiong A Shixiong 3"
-      },
-      {
         "type": 2,
         "language": "x-zht",
         "title": "Shixiong A Shixiong 3rd Season"
@@ -122491,6 +122486,11 @@
         "type": 2,
         "language": "x-zht",
         "title": "Shixiong A Shixiong Di San Ji"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shixiong A Shixiong Nian Fan"
       },
       {
         "type": 2,
@@ -122520,7 +122520,7 @@
       {
         "type": 4,
         "language": "zh-Hans",
-        "title": "师兄啊师兄 第三季"
+        "title": "师兄啊师兄年番"
       }
     ]
   },
@@ -127678,7 +127678,7 @@
         "title": "黑執事"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "黑执事"
       },
@@ -146628,7 +146628,7 @@
         "title": "スチームボーイ"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "蒸汽男孩"
       }
@@ -162625,7 +162625,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Jigoku Shoujo Futakomori"
+        "title": "Jigoku Shoujo: Futagomori"
       },
       {
         "type": 3,
@@ -162680,7 +162680,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "地獄少女二籠"
+        "title": "地獄少女 二籠"
       }
     ]
   },
@@ -193408,7 +193408,7 @@
         "title": "かんなぎ"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "神薙"
       },
@@ -198808,7 +198808,7 @@
         "title": "ดีเอ็นแองเจิ้ล"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "天使怪盗"
       }
@@ -204313,14 +204313,14 @@
         "title": "danmachi s4p2"
       },
       {
-        "type": 3,
+        "type": 2,
         "language": "x-jat",
-        "title": "danmachi s5"
+        "title": "DanMachi Season 4 Part 2"
       },
       {
         "type": 2,
         "language": "x-jat",
-        "title": "DanMachi Season 4 Part 2"
+        "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth IV - Fuka Fumi Yaku Wazawai-hen"
       },
       {
         "type": 1,
@@ -204334,13 +204334,18 @@
       },
       {
         "type": 2,
-        "language": "x-unk",
+        "language": "x-jat",
         "title": "Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka: Familia Myth Season 4 Part 2"
       },
       {
         "type": 4,
         "language": "en",
         "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV (2023)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV: Deep Chapter - Calamity Arc"
       },
       {
         "type": 4,
@@ -204351,6 +204356,11 @@
         "type": 4,
         "language": "ja",
         "title": "ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH IV (2023)"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "ダンジョンに出会いを求めるのは間違っているだろうかIV 深章 厄災篇"
       },
       {
         "type": 2,
@@ -204787,6 +204797,11 @@
   {
     "id": 18267,
     "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "danmachi s5"
+      },
       {
         "type": 2,
         "language": "en",
@@ -216333,7 +216348,7 @@
         "title": "Sengoku Basara: Samurai Kings"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "战国BASARA"
       },
@@ -227955,7 +227970,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Jigoku Shoujo Mitsuganae"
+        "title": "Jigoku Shoujo: Mitsuganae"
       },
       {
         "type": 3,
@@ -228005,7 +228020,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "地獄少女三鼎"
+        "title": "地獄少女 三鼎"
       }
     ]
   },
@@ -230508,7 +230523,7 @@
         "title": "少女前線"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "少女前线"
       }
@@ -251565,7 +251580,7 @@
       {
         "type": 4,
         "language": "zh-Hans",
-        "title": "若能與你共乘海浪之上"
+        "title": "若能与你共乘海浪之上"
       }
     ]
   },
@@ -264480,12 +264495,12 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "You Shou Yan 2"
+        "title": "You Shou Yan (2023)"
       },
       {
         "type": 4,
         "language": "zh-Hans",
-        "title": "有兽焉 第二季"
+        "title": "有兽焉 (2023)"
       }
     ]
   },
@@ -273560,7 +273575,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Wuhang Zhanshen"
+        "title": "Wuxing Zhanshen"
       },
       {
         "type": 4,
@@ -273583,11 +273598,6 @@
         "title": "Five Element God of War 2nd Season"
       },
       {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Wuhang Zhanshen 2"
-      },
-      {
         "type": 2,
         "language": "x-zht",
         "title": "Wuhang Zhanshen 2nd Season"
@@ -273596,6 +273606,11 @@
         "type": 2,
         "language": "x-zht",
         "title": "Wuhang Zhanshen Di Er Ji"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wuxing Zhanshen 2"
       },
       {
         "type": 4,
@@ -277480,11 +277495,6 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Hu Yao Xiao Hongniang (2024)"
-      },
-      {
-        "type": 2,
-        "language": "x-zht",
         "title": "Hu Yao Xiao Hongniang: Jing Hua Yuan Pian"
       },
       {
@@ -277493,9 +277503,9 @@
         "title": "狐妖小红娘  镜花缘篇"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
-        "title": "狐妖小红娘 (2024)"
+        "title": "狐妖小红娘 镜花缘篇"
       },
       {
         "type": 2,
@@ -277503,7 +277513,7 @@
         "title": "狐妖小红娘·镜花缘篇"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "zh-Hans",
         "title": "狐妖小红娘12 镜花缘篇"
       }
@@ -277553,12 +277563,12 @@
         "title": "Hu Yao Xiao Hongniang: Liang Sheng Hua Pian"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "狐妖小红娘 两生花篇"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "zh-Hans",
         "title": "狐妖小红娘10 两生花篇"
       }
@@ -277593,29 +277603,19 @@
         "title": "foxspirit11"
       },
       {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Hu Yao Xiao Hongniang Di Shiyi Ji"
-      },
-      {
         "type": 2,
         "language": "x-zht",
         "title": "Hu Yao Xiao Hongniang Season 11"
       },
       {
-        "type": 2,
+        "type": 1,
         "language": "x-zht",
         "title": "Hu Yao Xiao Hongniang: Wu Mu Pian"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "狐妖小红娘 无暮篇"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "狐妖小红娘 第十一季"
       },
       {
         "type": 2,
@@ -277623,7 +277623,7 @@
         "title": "狐妖小红娘·无暮篇"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "zh-Hans",
         "title": "狐妖小红娘11 无暮篇"
       }
@@ -277645,15 +277645,15 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Hu Yao Xiao Hongniang: Mu Tiancheng Pian"
+        "title": "Hu Yao Xiao Hongniang: Mutian Cheng Pian"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "狐妖小红娘 沐天城篇"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "zh-Hans",
         "title": "狐妖小红娘9 沐天城篇"
       }
@@ -284173,7 +284173,7 @@
         "title": "風都探偵"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "风都侦探"
       }
@@ -284628,7 +284628,7 @@
         "title": "机动战士高达 水星的魔女"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "机动战士高达：水星的魔女"
       },
@@ -284638,7 +284638,7 @@
         "title": "機動戦士ガンダム 水星の魔女"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hant",
         "title": "機動戰士鋼彈 水星的魔女"
       }
@@ -301378,7 +301378,7 @@
         "title": "ゲンシケン"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "现视研"
       },
@@ -302943,7 +302943,7 @@
         "title": "月面兎兵器ミーナ"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "月面兔兵器米娜"
       }
@@ -330038,7 +330038,7 @@
         "title": "半妖の夜叉姫 弐の章"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "半妖的夜叉姬 第二季"
       }
@@ -330463,7 +330463,7 @@
         "title": "花咲くいろは"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "花开伊吕波"
       },
@@ -342608,7 +342608,7 @@
         "title": "ひだまりスケッチ"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "向阳素描"
       }
@@ -349905,41 +349905,6 @@
     ]
   },
   {
-    "id": 14145,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Hong Mao Lan Tu Qi Xia Chuan"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Hongmao and Lantu: Legend of Seven Swordsmen"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Howie & Landau: Seven Chivalrous Biography"
-      },
-      {
-        "type": 2,
-        "language": "x-unk",
-        "title": "Rainbow Cat And Blue Rabbit: Legend of Seven Swordsmen"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Rainbow Cat And Blue Rabbit: Seven Chivalrous Biography"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "虹猫蓝兔七侠传"
-      }
-    ]
-  },
-  {
     "id": 14154,
     "titles": [
       {
@@ -349981,6 +349946,41 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "虹猫蓝兔七侠 外传"
+      }
+    ]
+  },
+  {
+    "id": 14145,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Hong Mao Lan Tu Qi Xia Zhuan"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Hongmao and Lantu: Legend of Seven Swordsmen"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Howie & Landau: Seven Chivalrous Biography"
+      },
+      {
+        "type": 2,
+        "language": "x-unk",
+        "title": "Rainbow Cat And Blue Rabbit: Legend of Seven Swordsmen"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Rainbow Cat And Blue Rabbit: Seven Chivalrous Biography"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "虹猫蓝兔七侠传"
       }
     ]
   },
@@ -351048,7 +351048,7 @@
         "title": "境界線上のホライゾン"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "境界线上的地平线"
       }
@@ -353425,7 +353425,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Hu wang gui lai"
+        "title": "Hu Wang Gui Lai"
       },
       {
         "type": 2,
@@ -356663,9 +356663,14 @@
         "title": "I Became a Legend After My 10 Year-Long Last Stand"
       },
       {
-        "type": 1,
+        "type": 2,
         "language": "x-jat",
         "title": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natte Ita."
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Koko wa Ore ni Makasete Saki ni Ike to Itte kara Juunen ga Tattara Densetsu ni Natte Ita."
       },
       {
         "type": 3,
@@ -357643,7 +357648,7 @@
         "title": "Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta."
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "点满农民相关技能后，不知为何就变强了。"
       },
@@ -357653,7 +357658,7 @@
         "title": "農民関連のスキルばっか上げてたら何故か強くなった."
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hant",
         "title": "點滿農民相關技能後，不知為何就變強了。"
       }
@@ -361358,7 +361363,7 @@
         "title": "ゼノグラシア"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "偶像大师 Xenoglossia"
       }
@@ -374530,7 +374535,7 @@
       {
         "type": 2,
         "language": "en",
-        "title": "Jade Dynasty 2"
+        "title": "Jade Dynasty (2024)"
       },
       {
         "type": 2,
@@ -374545,7 +374550,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Zhu Xian 2"
+        "title": "Zhu Xian (2024)"
       },
       {
         "type": 2,
@@ -374563,14 +374568,14 @@
         "title": "Zhuxian (2024)"
       },
       {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "诛仙 (2024)"
+      },
+      {
         "type": 2,
         "language": "zh-Hans",
         "title": "诛仙 第2季"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "诛仙 第二季"
       }
     ]
   },
@@ -384913,7 +384918,7 @@
         "title": "怪談レストラン"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "怪谈餐馆"
       }
@@ -392218,7 +392223,7 @@
         "title": "可愛いだけじゃない式守さん"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "式守同学不只可爱而已"
       },
@@ -420540,6 +420545,21 @@
     ]
   },
   {
+    "id": 20400,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Laon-ui Namja"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "라온의 남자"
+      }
+    ]
+  },
+  {
     "id": 15124,
     "titles": [
       {
@@ -437113,7 +437133,7 @@
         "title": "メイドインアビス 烈日の黄金郷"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hant",
         "title": "來自深淵 烈日的黃金鄉"
       },
@@ -445563,7 +445583,7 @@
         "title": "継母の連れ子が元カノだった"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hant",
         "title": "繼母的拖油瓶是我的前女友"
       },
@@ -450328,14 +450348,9 @@
         "title": "Mayo elle Otokonoko"
       },
       {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Mayoelle Otokonoko"
-      },
-      {
         "type": 1,
         "language": "x-jat",
-        "title": "Mayoeru Otokonoko"
+        "title": "Mayoelle Otokonoko"
       },
       {
         "type": 2,
@@ -453243,14 +453258,14 @@
         "title": "Odrodzony jako galaretaㅤ - Sezon 4"
       },
       {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Tensei Shitara Slime Datta Ken (2026)"
-      },
-      {
         "type": 2,
         "language": "x-jat",
         "title": "Tensei Shitara Slime Datta Ken 4th Season"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tensei Shitara Slime Datta Ken Dai 4 Ki"
       },
       {
         "type": 2,
@@ -453258,9 +453273,19 @@
         "title": "Tensei Shitara Slime Datta Ken S4"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tensei Shitara Slime Datta Ken S4 Part 1"
+      },
+      {
         "type": 3,
         "language": "x-jat",
         "title": "TenSura S4"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "TenSura S4P1"
       },
       {
         "type": 4,
@@ -453290,7 +453315,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "転生したらスライムだった件 (2026)"
+        "title": "転生したらスライムだった件 第4期"
       }
     ]
   },
@@ -461573,11 +461598,6 @@
         "title": "女性向游戏世界对路人角色很不友好"
       },
       {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "女性向遊戲世界對路人角色很不友好"
-      },
-      {
         "type": 4,
         "language": "zh-Hant",
         "title": "女性向遊戲世界對路人角色很不友好"
@@ -467328,11 +467348,6 @@
         "title": "無職転生II ~異世界行ったら本気だす~"
       },
       {
-        "type": 2,
-        "language": "zh-Hant",
-        "title": "無職轉生～到了異世界就拿出真本事 第二季"
-      },
-      {
         "type": 4,
         "language": "zh-Hant",
         "title": "無職轉生～到了異世界就拿出真本事～ 第二季"
@@ -468908,7 +468923,7 @@
         "title": "うちの師匠はしっぽがない"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "我家师傅没有尾巴"
       },
@@ -482945,6 +482960,21 @@
     ]
   },
   {
+    "id": 20395,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Nuo Ya Dongwu Zhansuo Donghua Xiao Juchang"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "諾亞動物診所病歷記錄簿"
+      }
+    ]
+  },
+  {
     "id": 8910,
     "titles": [
       {
@@ -485603,7 +485633,7 @@
         "title": "我が家のお稲荷さま."
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "我家有个狐仙大人"
       }
@@ -498145,6 +498175,21 @@
     ]
   },
   {
+    "id": 20397,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Peng Ran Xindong"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "怦然心动"
+      }
+    ]
+  },
+  {
     "id": 10500,
     "titles": [
       {
@@ -509940,6 +509985,21 @@
     ]
   },
   {
+    "id": 20396,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Qiaohu Tansuo Qimiao Shijie"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "巧虎探索奇妙世界"
+      }
+    ]
+  },
+  {
     "id": 18128,
     "titles": [
       {
@@ -510475,6 +510535,36 @@
     ]
   },
   {
+    "id": 20398,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Qingwa Wangguo: Jixian Yundong"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "青蛙王国之极限运动"
+      }
+    ]
+  },
+  {
+    "id": 20399,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Qingwa Wangguo: Qihuan Nuwang Lixian"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "青蛙王国之奇幻女王历险"
+      }
+    ]
+  },
+  {
     "id": 19653,
     "titles": [
       {
@@ -510761,6 +510851,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Quanzhi Gaoshou Q"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Quanzhi Gaoshou: Rongyao Xiao Juchang"
       },
       {
         "type": 2,
@@ -518176,11 +518271,6 @@
         "type": 4,
         "language": "ja",
         "title": "ロウきゅーぶ!"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "萝球社!"
       },
       {
         "type": 4,
@@ -553315,12 +553405,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Sword Gai The Animation Part II"
+        "title": "Sword Gai The Animation (2018)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "ソードガイ The Animation PartII"
+        "title": "ソードガイ The Animation (2018)"
       },
       {
         "type": 2,
@@ -558338,6 +558428,11 @@
         "title": "Tefuda ga Oome no Victoria"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tefuda ga Oume no Victoria"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Victoria of Many Faces"
@@ -559768,14 +559863,14 @@
     "id": 20052,
     "titles": [
       {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Tensei Shitara Slime Datta Ken (2027)"
-      },
-      {
         "type": 2,
         "language": "x-jat",
         "title": "Tensei Shitara Slime Datta Ken 4th Season Part 2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tensei Shitara Slime Datta Ken Dai 4 Ki (2027)"
       },
       {
         "type": 2,
@@ -559788,6 +559883,11 @@
         "title": "TenSura S4 Part 2"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "TenSura S4P2"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "That Time I Got Reincarnated as a Slime (2027)"
@@ -559795,7 +559895,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "転生したらスライムだった件 (2027)"
+        "title": "転生したらスライムだった件 第4期 (2027)"
       }
     ]
   },
