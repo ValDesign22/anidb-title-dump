@@ -89069,6 +89069,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "小書痴的下剋上 為了成為圖書管理員不擇手段！領主的養女"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "本好きの下剋上 司書になるためには手段を選んでいられません 領主の養女"
       }
@@ -273573,6 +273578,11 @@
         "title": "Five Elements God of War"
       },
       {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Wuhang Zhanshen"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Wuxing Zhanshen"
@@ -273596,6 +273606,11 @@
         "type": 2,
         "language": "en",
         "title": "Five Element God of War 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Wuhang Zhanshen 2"
       },
       {
         "type": 2,
@@ -278776,6 +278791,11 @@
         "type": 4,
         "language": "ja",
         "title": "葬送のフリーレン (2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "葬送的芙莉莲 第二季"
       }
     ]
   },
@@ -533525,6 +533545,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "sin 七大罪"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "sin 七大罪"
       },
       {
