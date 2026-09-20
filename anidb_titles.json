@@ -20106,6 +20106,11 @@
         "type": 4,
         "language": "ja",
         "title": "劇場版 とある魔術の禁書目録[インデックス] エンデュミオンの奇蹟"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "魔法禁書目錄劇場版－安迪米昂的奇蹟－"
       }
     ]
   },
@@ -52301,6 +52306,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "我的英雄学院"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我的英雄學院"
       }
     ]
   },
@@ -107833,6 +107843,11 @@
         "title": "BanG Dream! 少女乐团派对！"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "BanG Dream！Girls Band Party!☆PICO"
+      },
+      {
         "type": 4,
         "language": "ko",
         "title": "뱅드림 걸즈 밴드 파티 피코"
@@ -108276,6 +108291,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "因为不是真正的伙伴而被逐出勇者队伍，流落到边境展开慢活人生 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 第二季"
       },
       {
         "type": 3,
@@ -156104,6 +156124,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "庫洛魔法使 透明牌篇"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "魔卡少女樱 CLEAR CARD篇"
       }
@@ -200450,6 +200475,26 @@
     ]
   },
   {
+    "id": 20406,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Daemons of the Shadow Realm 2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yomi no Tsugai 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "黄泉のツガイ 2"
+      }
+    ]
+  },
+  {
     "id": 11601,
     "titles": [
       {
@@ -204456,6 +204501,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "剑姬神圣谭 在地下城寻求邂逅是否搞错了什么 外传"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "在地下城尋求邂逅是否搞錯了什麼 外傳 劍姬神聖譚"
       },
       {
         "type": 4,
@@ -210356,21 +210406,6 @@
         "type": 4,
         "language": "ja",
         "title": "片田舎のおっさん, 剣聖になるII"
-      }
-    ]
-  },
-  {
-    "id": 20342,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "De Ji Kyaratto Kurisumasu Supesharu"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Di Gi Charat Christmas Special"
       }
     ]
   },
@@ -260774,6 +260809,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "劇場版 吹響吧！上低音號～想傳達的旋律～"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "劇場版 響け! ユーフォニアム~届けたいメロディ~"
       },
@@ -288220,6 +288260,56 @@
     ]
   },
   {
+    "id": 1305,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Galaxy Warring State Chronicle Rai"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ginga Sengoku Gun Yuuden Rai"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Ginga Sengoku Gun`yūden Rai"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "rai"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Rai: Galactic Civil War Chronicle"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Thunder Jet"
+      },
+      {
+        "type": 4,
+        "language": "ar",
+        "title": "هزيم الرعد"
+      },
+      {
+        "type": 2,
+        "language": "th",
+        "title": "ไร ซามูไรอวกาศ"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "銀河戦国群雄伝ライ"
+      }
+    ]
+  },
+  {
     "id": 2822,
     "titles": [
       {
@@ -288796,6 +288886,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "没有辣妹会对阿宅温柔！？"
+      }
+    ]
+  },
+  {
+    "id": 20402,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gals` Fiction The Animation"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ギャルズフィクション THE ANIMATION"
       }
     ]
   },
@@ -307765,46 +307870,6 @@
     ]
   },
   {
-    "id": 1305,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Ginga Sengoku Gun Yuuden Rai"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "rai"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Rai: Galactic Civil War Chronicle"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Thunder Jet"
-      },
-      {
-        "type": 4,
-        "language": "ar",
-        "title": "هزيم الرعد"
-      },
-      {
-        "type": 2,
-        "language": "th",
-        "title": "ไร ซามูไรอวกาศ"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "銀河戦国群雄伝ライ"
-      }
-    ]
-  },
-  {
     "id": 797,
     "titles": [
       {
@@ -318706,6 +318771,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "灰色:幻影扳机"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "灰色：幻影扳機"
       }
     ]
   },
@@ -342508,6 +342578,11 @@
         "title": "吹响吧！上低音号 第三季"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "吹響吧！上低音號 久美子三年級篇"
+      },
+      {
         "type": 2,
         "language": "ja",
         "title": "響け! ユーフォニアム 久美子3年生編"
@@ -343411,6 +343486,11 @@
         "type": 4,
         "language": "ja",
         "title": "ハイスクールDxD BorN"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "惡魔高校 D×D BorN"
       }
     ]
   },
@@ -378766,6 +378846,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "咒术回战 死灭回游 前篇"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "咒術迴戰 死滅迴游 前篇"
       }
     ]
   },
@@ -379506,6 +379591,21 @@
         "type": 4,
         "language": "ja",
         "title": "女生徒"
+      }
+    ]
+  },
+  {
+    "id": 20403,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Josemaru"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "じょせまる"
       }
     ]
   },
@@ -386306,6 +386406,21 @@
         "type": 4,
         "language": "ja",
         "title": "火事と子馬"
+      }
+    ]
+  },
+  {
+    "id": 20401,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kajitsu The Animation"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "夏日 The Animation"
       }
     ]
   },
@@ -428936,6 +429051,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "小魔女学园 魔法游行"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "小魔女學園 魔法遊行"
       }
     ]
   },
@@ -453336,6 +453456,11 @@
         "type": 4,
         "language": "ja",
         "title": "転生したらスライムだった件 第4期"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "關於我轉生變成史萊姆這檔事 第四季"
       }
     ]
   },
@@ -475506,6 +475631,26 @@
         "type": 4,
         "language": "ja",
         "title": "ね子とま太"
+      }
+    ]
+  },
+  {
+    "id": 20404,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Neko to Ryuu (2027)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Cat and the Dragon (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "猫と竜 (2027)"
       }
     ]
   },
@@ -537845,6 +537990,21 @@
     ]
   },
   {
+    "id": 20405,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shin Oishinbo"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "新 美味しんぼ"
+      }
+    ]
+  },
+  {
     "id": 7095,
     "titles": [
       {
@@ -537960,17 +538120,17 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Shin Samurai-den Yaiba 2"
+        "title": "Shin Samurai-den Yaiba (2027)"
       },
       {
         "type": 2,
         "language": "en",
-        "title": "Yaiba: Samurai Legend 2"
+        "title": "Yaiba: Samurai Legend (2027)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "真･侍伝 YAIBA 2"
+        "title": "真･侍伝 YAIBA (2027)"
       }
     ]
   },
