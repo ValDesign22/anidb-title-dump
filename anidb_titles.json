@@ -69121,6 +69121,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "动画锻炼！EX"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "動畫鍛鍊！EX"
       }
     ]
   },
@@ -128633,6 +128638,11 @@
     "id": 16705,
     "titles": [
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "BLACK ROCK SHOOTER DAWN FALL"
+      },
+      {
         "type": 4,
         "language": "pl",
         "title": "Black Rock Shooter: Apokalipsa"
@@ -183043,6 +183053,16 @@
         "title": "Mouse Cursor de Genjitsu o Sousa Dekiru You ni Natta no de, Onnanoko o Ippai Click Shima~su"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Now That I Can Control Reality With A Mouse Cursor, I’m Gonna Click Away On The Girls!"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Now That I Can Control the Real World With My Mouse Cursor, I Click On a Lot of Girls."
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "マウスカーソルで現実を操作できるようになったので, 女の子をいっぱいクリックしまーす"
@@ -215571,6 +215591,11 @@
         "type": 4,
         "language": "ja",
         "title": "鬼滅の刃 兄妹の絆"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "鬼滅之刃 兄妹之絆"
       }
     ]
   },
@@ -283275,6 +283300,26 @@
     ]
   },
   {
+    "id": 20407,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den (2027)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~ (2027)"
+      }
+    ]
+  },
+  {
     "id": 10404,
     "titles": [
       {
@@ -347686,6 +347731,16 @@
         "type": 1,
         "language": "x-jat",
         "title": "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Lonely Snow Widow and the Cursed Ring"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Shy Snow Woman and the Cursed Ring"
       },
       {
         "type": 4,
@@ -509001,6 +509056,11 @@
         "type": 4,
         "language": "ja",
         "title": "ぷにるはかわいいスライム (2025)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "噗妮露是可愛史萊姆 第二季"
       }
     ]
   },
@@ -523446,6 +523506,11 @@
         "type": 4,
         "language": "ja",
         "title": "斉木楠雄のΨ難 (2018)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "齊木楠雄的災難 第二季"
       },
       {
         "type": 4,
