@@ -9930,16 +9930,16 @@
       {
         "type": 4,
         "language": "ja",
+        "title": "100%"
+      },
+      {
+        "type": 6,
+        "language": "ja",
         "title": "100%[A Hundred Percents]"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "A Hundred Percents"
-      },
-      {
-        "type": 2,
-        "language": "en",
         "title": "A Hundred Percents"
       }
     ]
@@ -114638,7 +114638,7 @@
         "title": "Beat Shot!!"
       },
       {
-        "type": 2,
+        "type": 5,
         "language": "ja",
         "title": "ビートショット!!"
       }
@@ -136428,12 +136428,12 @@
         "title": "나와 그녀(여의사)의 진찰일지"
       },
       {
-        "type": 4,
+        "type": 6,
         "language": "ja",
         "title": "ボクと彼女[女医]の診察日誌 THE ANIMATION"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "ja",
         "title": "ボクと彼女の診察日誌 THE ANIMATION"
       }
@@ -136488,12 +136488,12 @@
         "title": "나와 그녀의 연수일지"
       },
       {
-        "type": 4,
+        "type": 6,
         "language": "ja",
         "title": "ボクと彼女[ナース]の研修日誌 THE ANIMATION"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "ja",
         "title": "ボクと彼女の研修日誌 THE ANIMATION"
       }
@@ -146505,6 +146505,11 @@
       {
         "type": 4,
         "language": "ja",
+        "title": "蟲師"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "蟲師"
       }
     ]
@@ -212725,7 +212730,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "神聖昂燐ダクリュオン・ルナ"
+        "title": "神聖昂燐ダクリュオン・ルナ 〜堕聖母誕生〜"
       }
     ]
   },
@@ -232760,7 +232765,7 @@
       {
         "type": 2,
         "language": "x-jat",
-        "title": "Doraemon: Nobita to Ginga Chotokkyu"
+        "title": "Doraemon: Nobita to Ginga Choutokkyuu"
       },
       {
         "type": 1,
@@ -232780,7 +232785,12 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "ドラえもん のび太と銀河超特急(エクスプレス)"
+        "title": "ドラえもん のび太と銀河超特急"
+      },
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "ドラえもん のび太と銀河超特急[エクスプレス]"
       },
       {
         "type": 4,
@@ -264908,7 +264918,7 @@
         "title": "프레임 암즈 걸"
       },
       {
-        "type": 2,
+        "type": 5,
         "language": "ja",
         "title": "フレームアームズ・ガール"
       },
@@ -316851,6 +316861,26 @@
         "type": 4,
         "language": "ja",
         "title": "ぐらんぶる Season 3"
+      }
+    ]
+  },
+  {
+    "id": 20408,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Grand Blue Dreaming Season 4"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Grand Blue Season 4"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ぐらんぶる Season 4"
       }
     ]
   },
@@ -464720,7 +464750,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Motto To Love-Ru: Trouble"
+        "title": "Motto To Love-Ru"
       },
       {
         "type": 4,
@@ -464744,6 +464774,11 @@
       },
       {
         "type": 4,
+        "language": "ja",
+        "title": "もっとTo LOVEる"
+      },
+      {
+        "type": 6,
         "language": "ja",
         "title": "もっとTo LOVEる -とらぶる-"
       },
@@ -467211,6 +467246,11 @@
         "type": 4,
         "language": "ja",
         "title": "蟲師 続章 鈴の雫"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "蟲師 續章 鈴之雫"
       }
     ]
   },
@@ -467316,6 +467356,11 @@
         "type": 4,
         "language": "ja",
         "title": "蟲師 続章"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "蟲師 續章"
       }
     ]
   },
@@ -467431,6 +467476,11 @@
         "type": 4,
         "language": "ja",
         "title": "蟲師 特別篇 日蝕む翳"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "蟲師 蝕日之翳"
       }
     ]
   },
@@ -509163,7 +509213,7 @@
         "title": "Какавида"
       },
       {
-        "type": 2,
+        "type": 5,
         "language": "ja",
         "title": "ピューパ"
       }
@@ -566595,7 +566645,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "To Love-Ru: Trouble"
+        "title": "To Love-Ru"
       },
       {
         "type": 4,
@@ -566609,6 +566659,11 @@
       },
       {
         "type": 4,
+        "language": "ja",
+        "title": "To LOVEる"
+      },
+      {
+        "type": 6,
         "language": "ja",
         "title": "To LOVEる -とらぶる-"
       },
@@ -566638,7 +566693,7 @@
         "title": "Любовь и прочие неприятности"
       },
       {
-        "type": 2,
+        "type": 5,
         "language": "ja",
         "title": "とらぶる"
       },
@@ -566668,14 +566723,14 @@
         "title": "tlr ova"
       },
       {
+        "type": 1,
+        "language": "x-jat",
+        "title": "To Love-Ru (2009)"
+      },
+      {
         "type": 2,
         "language": "x-jat",
         "title": "To Love-Ru OVA"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "To Love-Ru: Trouble (2009)"
       },
       {
         "type": 4,
@@ -566683,9 +566738,14 @@
         "title": "To LOVE루 -트러블- OVA"
       },
       {
-        "type": 4,
+        "type": 6,
         "language": "ja",
         "title": "To LOVEる -とらぶる- (2009)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "To LOVEる (2009)"
       },
       {
         "type": 3,
@@ -566715,7 +566775,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "To Love-Ru: Trouble - Multiplication - Mae kara Ushiro kara"
+        "title": "To Love-Ru: Multiplication - Mae kara Ushiro kara"
       },
       {
         "type": 2,
@@ -566728,9 +566788,14 @@
         "title": "To LOVE루 -트러블- Multiplication ~앞에서 뒤에서~"
       },
       {
-        "type": 4,
+        "type": 6,
         "language": "ja",
         "title": "To LOVEる -とらぶる- Multiplication ~前から後ろから~"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "To LOVEる Multiplication ~前から後ろから~"
       },
       {
         "type": 4,
@@ -566755,7 +566820,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "To Love-Ru: Trouble - Darkness 2nd"
+        "title": "To Love-Ru: Darkness 2nd"
       },
       {
         "type": 4,
@@ -566768,9 +566833,14 @@
         "title": "To LOVE루 -트러블- 다크니스 2nd"
       },
       {
-        "type": 4,
+        "type": 6,
         "language": "ja",
         "title": "To LOVEる -とらぶる- ダークネス2nd"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "To LOVEる ダークネス2nd"
       },
       {
         "type": 3,
@@ -566810,7 +566880,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "To Love-Ru: Trouble - Darkness"
+        "title": "To Love-Ru: Darkness"
       },
       {
         "type": 4,
@@ -566823,9 +566893,14 @@
         "title": "To LOVE루 -트러블- 다크니스"
       },
       {
-        "type": 4,
+        "type": 6,
         "language": "ja",
         "title": "To LOVEる -とらぶる- ダークネス"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "To LOVEる ダークネス"
       },
       {
         "type": 3,
@@ -566850,7 +566925,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "To Love-Ru: Trouble - Darkness OAD"
+        "title": "To Love-Ru: Darkness OAD"
       },
       {
         "type": 4,
@@ -566860,7 +566935,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "To LOVEる -とらぶる- ダークネス OAD"
+        "title": "To LOVEる ダークネス OAD"
       },
       {
         "type": 3,
