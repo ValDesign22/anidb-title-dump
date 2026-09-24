@@ -24049,13 +24049,13 @@
     "titles": [
       {
         "type": 4,
-        "language": "de",
+        "language": "en",
         "title": "A Gatherer`s Adventure in Isekai"
       },
       {
         "type": 4,
-        "language": "en",
-        "title": "A Gatherer`s Adventure in Isekai"
+        "language": "de",
+        "title": "Das Reisetagebuch des Sammlers"
       },
       {
         "type": 1,
@@ -25336,6 +25336,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Awajima Hyakkei"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Сто видов Авадзимы"
       },
       {
         "type": 4,
@@ -117083,7 +117088,7 @@
         "title": "구름의 저편, 약속의 장소"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "云之彼端, 约定的地方"
       },
@@ -182468,6 +182473,11 @@
         "title": "CotE s1"
       },
       {
+        "type": 2,
+        "language": "pt",
+        "title": "Turma de Elite"
+      },
+      {
         "type": 3,
         "language": "en",
         "title": "Youjitsu"
@@ -210418,7 +210428,7 @@
         "title": "De campesino cuarentón a espadachín legendario II"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "From Old Country Bumpkin to Master Swordsman II"
       },
@@ -279135,6 +279145,26 @@
     ]
   },
   {
+    "id": 20411,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "From Old Country Bumpkin to Master Swordsman III"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Katainaka no Ossan, Kensei ni Naru III"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "片田舎のおっさん, 剣聖になるIII"
+      }
+    ]
+  },
+  {
     "id": 19896,
     "titles": [
       {
@@ -279146,6 +279176,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S Rank Cheat Majutsushi Bouken Roku"
+      },
+      {
+        "type": 2,
+        "language": "pl",
+        "title": "Z cienia do potęgi: Drugie odrodzenie Bezużytecznego Mędrca"
       },
       {
         "type": 4,
@@ -285183,7 +285218,7 @@
         "title": "기동전사 건담 더블오 2기"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "机动战士高达00第二季"
       },
@@ -294974,6 +295009,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "吹响吧! 上低音号~誓言的终章~"
+      },
+      {
+        "type": 2,
         "language": "zh-Hans",
         "title": "吹响吧！上低音号~誓言的终曲~"
       }
@@ -333653,14 +333693,14 @@
         "title": "Harlock Saga: The Ring of the Nibelung - The Rhein Gold"
       },
       {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Herlock Saga"
-      },
-      {
         "type": 2,
         "language": "x-jat",
         "title": "Herlock Saga: Nibelung no Yubiwa"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Herlock Saga: Nibelung no Yubiwa - Rhein no Ougon"
       },
       {
         "type": 4,
@@ -336783,7 +336823,7 @@
         "title": "てんちそうぞうデザインぶ"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "天地创造设计部"
       },
@@ -347465,7 +347505,7 @@
       {
         "type": 4,
         "language": "zh-Hans",
-        "title": "一人之下5 决战！碧游村"
+        "title": "一人之下5 决战! 碧游村"
       }
     ]
   },
@@ -390001,6 +390041,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kanojo Saimin"
+      },
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "OVA 彼女催眠"
       },
       {
         "type": 2,
@@ -473313,7 +473358,7 @@
         "title": "ナルト 少年篇"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "火影忍者"
       }
@@ -478626,21 +478671,6 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "春宵苦短，少女前進吧！"
-      }
-    ]
-  },
-  {
-    "id": 18416,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Night Life"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Yoasobi Gurashi"
       }
     ]
   },
@@ -484861,6 +484891,21 @@
         "type": 4,
         "language": "ja",
         "title": "おデブ悪女に転生したら, なぜかラスボス王子様に執着されています"
+      }
+    ]
+  },
+  {
+    "id": 20410,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Odekake Hololive"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "おでかけホロライブ"
       }
     ]
   },
@@ -493565,6 +493610,26 @@
     ]
   },
   {
+    "id": 20409,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Otonari no Nie"
+      },
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "OVA お隣の贄"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "お隣の贄"
+      }
+    ]
+  },
+  {
     "id": 18235,
     "titles": [
       {
@@ -493918,7 +493983,7 @@
         "title": "国王排名"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hant",
         "title": "國王排名"
       },
@@ -496378,7 +496443,7 @@
         "title": "ぱにぽにだっしゅ!"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "不可思议的教室"
       }
@@ -530368,7 +530433,7 @@
         "title": "قرار مجلس الطلبة"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "zh-Hans",
         "title": "学生会的一己之见"
       },
@@ -541560,12 +541625,12 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Shu Ling Ji 3"
+        "title": "Shu Ling Ji (2022)"
       },
       {
         "type": 4,
         "language": "zh-Hans",
-        "title": "书灵记 第三季"
+        "title": "书灵记 (2022)"
       }
     ]
   },
@@ -543761,6 +543826,31 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "斩神之凡尘神域Ⅱ"
+      }
+    ]
+  },
+  {
+    "id": 20412,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Slay the Gods: The Dead of Cangnan"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhan Shen: Fanchen Shenyu - The Dead of Cangnan"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "斩神之凡尘神域 THE DEAD OF CANGNAN"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "斩神之凡尘神域剧场版 沧南之殇"
       }
     ]
   },
@@ -565485,7 +565575,7 @@
       {
         "type": 4,
         "language": "en",
-        "title": "There Was a Cute Girl in the Hero`s Party, so I Tried Confessing to Her"
+        "title": "There Was a Cute Girl in the Hero`s Party, So I Tried Confessing to Her"
       },
       {
         "type": 3,
