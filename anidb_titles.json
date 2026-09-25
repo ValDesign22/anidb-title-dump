@@ -13033,6 +13033,11 @@
     "id": 19324,
     "titles": [
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "29 歲單身中堅冒險家的日常"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "29-sai Dokushin Chuuken Boukensha no Nichijou"
@@ -79484,6 +79489,11 @@
       },
       {
         "type": 2,
+        "language": "x-unk",
+        "title": "Around 40 Kenja no Isekai Seikatsu Nikki"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "The Diary of a Middle-Aged Sage`s Carefree Life in Another World"
       },
@@ -139320,6 +139330,81 @@
     ]
   },
   {
+    "id": 16752,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Book of Spirits"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shu Ling Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "书灵记"
+      }
+    ]
+  },
+  {
+    "id": 16753,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Book of Spirits 2"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shu Ling Ji (2020)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "书灵记 (2020)"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "书灵记 第二季"
+      }
+    ]
+  },
+  {
+    "id": 17426,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Book of Spirits 3"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shu Ling Ji (2022)"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Shu Ling Ji 3"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Shu Ling Ji 3rd Season"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "书灵记 (2022)"
+      }
+    ]
+  },
+  {
     "id": 12817,
     "titles": [
       {
@@ -169554,8 +169639,18 @@
       },
       {
         "type": 2,
+        "language": "pl",
+        "title": "Mój tata jest bohaterem, mama duchem, a ja się odrodziłam"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "Reincarnated as the Daughter of the Legendary Hero and the Queen of Spirits"
+      },
+      {
+        "type": 2,
+        "language": "pl",
+        "title": "Tata to bohater, mama to duch, a ja jestem reinkarnantką"
       },
       {
         "type": 4,
@@ -175651,6 +175746,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "超时空要塞 可曾记得爱"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "超時空要塞 愛‧還記得嗎"
       },
       {
         "type": 4,
@@ -263563,6 +263663,11 @@
         "title": "Fate/kaleid liner 魔法少女☆伊莉雅"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Fate/kaleid liner 魔法少女☆伊莉雅"
+      },
+      {
         "type": 3,
         "language": "x-jat",
         "title": "fk"
@@ -263633,6 +263738,11 @@
         "title": "Fate/kaleid liner 魔法少女☆伊莉雅 2wei!"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Fate/kaleid liner 魔法少女☆伊莉雅 2wei!"
+      },
+      {
         "type": 3,
         "language": "x-jat",
         "title": "fk 2"
@@ -263686,6 +263796,11 @@
         "type": 4,
         "language": "ja",
         "title": "Fate/kaleid liner プリズマ☆イリヤ 2wei Herz!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Fate/kaleid liner 魔法少女☆伊莉雅 2wei Herz!"
       },
       {
         "type": 4,
@@ -263746,6 +263861,11 @@
         "type": 2,
         "language": "ja",
         "title": "Fate/kaleid liner プリズマ☆イリヤ プリズマ☆イリヤ ドライ!!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Fate/kaleid liner 魔法少女☆伊莉雅 3rei!!"
       },
       {
         "type": 4,
@@ -268296,6 +268416,11 @@
         "type": 2,
         "language": "x-jat",
         "title": "Fate: Fate/Grand Order: Zettai Majuu Sensen Babylonia"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Fate/Grand Order - 絕對魔獸戰線巴比倫尼亞 -"
       },
       {
         "type": 4,
@@ -288626,6 +288751,11 @@
         "type": 2,
         "language": "en",
         "title": "Please Tell Me! Galko-chan"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Расскажи нам, Гяруко!"
       },
       {
         "type": 2,
@@ -376855,6 +376985,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Sword Immortal Is Here"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "The Sword Fairy Is Here"
       },
       {
@@ -376885,7 +377020,7 @@
       {
         "type": 2,
         "language": "en",
-        "title": "The Sword Immortal is Here 2nd Season"
+        "title": "Sword Immortal Is Here 2nd Season"
       },
       {
         "type": 2,
@@ -453685,6 +453820,21 @@
     ]
   },
   {
+    "id": 20414,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Meitantei Conan: 30-gou Satsujin Jiken"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "名探偵コナン 30号殺人事件"
+      }
+    ]
+  },
+  {
     "id": 6242,
     "titles": [
       {
@@ -499825,6 +499975,26 @@
     ]
   },
   {
+    "id": 20413,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Phantom Busters"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Phantom Busters"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ファントムバスターズ"
+      }
+    ]
+  },
+  {
     "id": 2017,
     "titles": [
       {
@@ -524626,6 +524796,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "天才麻将少女"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "天才麻將少女"
       }
     ]
   },
@@ -524666,6 +524841,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "天才麻将少女 阿知贺篇 episode of side-A"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "天才麻將少女 阿知賀編"
       }
     ]
   },
@@ -541585,56 +541765,6 @@
     ]
   },
   {
-    "id": 16752,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Shu Ling Ji"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "书灵记"
-      }
-    ]
-  },
-  {
-    "id": 16753,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Shu Ling Ji (2020)"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "书灵记 (2020)"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "书灵记 第二季"
-      }
-    ]
-  },
-  {
-    "id": 17426,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Shu Ling Ji (2022)"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "书灵记 (2022)"
-      }
-    ]
-  },
-  {
     "id": 18197,
     "titles": [
       {
@@ -543841,6 +543971,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Zhan Shen: Fanchen Shenyu - The Dead of Cangnan"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Zhan Shen: Fanchen Shenyu Movie - Cangnan Zhi Shang"
       },
       {
         "type": 4,
