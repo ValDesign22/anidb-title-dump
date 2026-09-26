@@ -49220,21 +49220,6 @@
     ]
   },
   {
-    "id": 20337,
-    "titles": [
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "Ai no Yakusoku"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Ai no Yakusoku"
-      }
-    ]
-  },
-  {
     "id": 17400,
     "titles": [
       {
@@ -111753,11 +111738,6 @@
         "title": "Battle Through the Heavens Special II - Song of Desert"
       },
       {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Dou Po Cang Qiong: Tebie Pian 2 - Sha Zhi Lan Ge"
-      },
-      {
         "type": 2,
         "language": "x-zht",
         "title": "Dou Po Cangqiong 2: Tebie Pian - Sha Zhi Lan Ge"
@@ -111766,6 +111746,11 @@
         "type": 2,
         "language": "en",
         "title": "Dou po Cangqiong 2nd Season: Song of Desert"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Dou Po Cangqiong: Tebie Pian 2 - Sha Zhi Lan Ge"
       },
       {
         "type": 2,
@@ -235285,7 +235270,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Dou Po Cang Qiong: Q Ban Xiao Juchang"
+        "title": "Dou Po Cangqiong: Q Ban Xiao Juchang"
       },
       {
         "type": 4,
@@ -235300,7 +235285,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Dou Po Cang Qiong: Q Ban Xiao Juchang 2"
+        "title": "Dou Po Cangqiong: Q Ban Xiao Juchang 2"
       },
       {
         "type": 4,
@@ -239521,6 +239506,26 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "畫完這個再去死"
+      }
+    ]
+  },
+  {
+    "id": 20417,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Draw This, Then Die! 2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kore Kaite Shine 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "これ描いて死ね 2"
       }
     ]
   },
@@ -255061,6 +255066,26 @@
         "type": 4,
         "language": "ja",
         "title": "妖精姫レーン"
+      }
+    ]
+  },
+  {
+    "id": 20415,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Elf-sensei no Toilet wa Doko Desuka?"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Where Is the Elf Teacher`s Toilet?"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "エルフ先生のトイレはどこですか?"
       }
     ]
   },
@@ -303278,11 +303303,6 @@
     "id": 4177,
     "titles": [
       {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Getsumen To Heiki Mina"
-      },
-      {
         "type": 2,
         "language": "x-jat",
         "title": "Getsumen Usagi Heiki Miina"
@@ -303290,6 +303310,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Getsumento Heiki Mina"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
         "title": "Getsumento Heiki Mina"
       },
       {
@@ -338160,6 +338185,26 @@
     ]
   },
   {
+    "id": 20418,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing - S-Class Dungeon Conquest Arc"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru - S-kyuu Dungeon Kouryaku Hen"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ヘルモード ~やり込み好きのゲーマーは廃設定の異世界で無双する~ S級ダンジョン攻略編"
+      }
+    ]
+  },
+  {
     "id": 17231,
     "titles": [
       {
@@ -364480,7 +364525,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Ikuiku Succubus Saikyouiku"
+        "title": "Iku Iku Succubus Saikyouiku"
       },
       {
         "type": 2,
@@ -420815,7 +420860,17 @@
       {
         "type": 2,
         "language": "x-zht",
+        "title": "Lao Fu Zi: Shui hu zhuan"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
         "title": "Laofuzi Shui Hu Chuan"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Lo Fu Chi sui foo chuen"
       },
       {
         "type": 1,
@@ -420823,9 +420878,19 @@
         "title": "Loufuji Seui Fu Chyun"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Old Master Q: Water Margin"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Old Master Q: Water Tiger"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "七彩卡通老夫子：水虎傳"
       },
       {
         "type": 4,
@@ -463710,12 +463775,17 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Ququ Bucai, Zaixia Yeguai Di Er Ji"
+        "title": "Ququ Bucai, Zaixia Yeguai 2"
       },
       {
         "type": 4,
         "language": "zh-Hans",
-        "title": "区区不才，在下野怪 第二季"
+        "title": "区区不才, 在下野怪 2"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "区区不才, 在下野怪 第二季"
       }
     ]
   },
@@ -543110,16 +543180,6 @@
     ]
   },
   {
-    "id": 20338,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "SINoALICE: Ichiban Saigo no Monogatari"
-      }
-    ]
-  },
-  {
     "id": 269,
     "titles": [
       {
@@ -560413,6 +560473,11 @@
         "title": "Tensei Shitara Slime Datta Ken 4th Season Part 2"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tensei Shitara Slime Datta Ken 4th Season Part 3"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Tensei Shitara Slime Datta Ken Dai 4 Ki (2027)"
@@ -560441,6 +560506,26 @@
         "type": 4,
         "language": "ja",
         "title": "転生したらスライムだった件 第4期 (2027)"
+      }
+    ]
+  },
+  {
+    "id": 20416,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tensei Shitara Slime Datta Ken: Clayman Revenge"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "That Time I Got Reincarnated as a Slime: Clayman Revenge"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "転生したらスライムだった件 クレイマンREVENGE"
       }
     ]
   },
