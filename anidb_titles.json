@@ -5604,6 +5604,11 @@
       },
       {
         "type": 2,
+        "language": "es",
+        "title": "Re:Zero - Empezar de cero en un mundo diferente (2020)"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "Re:Zero - Starting Life in Another World - Season 2"
       },
@@ -5726,6 +5731,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "Re: 从零开始的异世界生活 第二季 后半部分"
+      },
+      {
+        "type": 2,
+        "language": "es",
+        "title": "Re:Zero - Empezar de cero en un mundo diferente (2021)"
       },
       {
         "type": 4,
@@ -6796,6 +6806,21 @@
         "type": 2,
         "language": "ja",
         "title": "フェイト/ステイナイト (2015)"
+      }
+    ]
+  },
+  {
+    "id": 20419,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "[Watashi no Ofuru de Waruin dakedo] to Okaasama (Heroine) ni Torimaki wo Oshitsukerare, Totsuida Henkyou demo Yome Atsukai Saremasen ga, Okage de Jiyuu ni Ikiraremasu!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "【私のおふるで悪いんだけど】とお母様(ヒロイン)に取り巻きを押し付けられ、嫁いだ辺境でも嫁扱いされませんが、おかげで自由に生きれます！"
       }
     ]
   },
@@ -12540,7 +12565,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "2002-nen Harmoni Ondo"
+        "title": "2002-nen Halmeoni Ondo"
       },
       {
         "type": 5,
@@ -12548,9 +12573,14 @@
         "title": "2002ねんハルモニおんど"
       },
       {
-        "type": 4,
+        "type": 6,
         "language": "ja",
         "title": "2002年ばあちゃん[ハルモニ]音頭"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "2002年ばあちゃん音頭"
       }
     ]
   },
@@ -35716,6 +35746,11 @@
         "type": 2,
         "language": "en",
         "title": "A Wild Last Boss Appeared! Season 2"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "A Wild Last Boss Appeared! Staffel 2"
       },
       {
         "type": 1,
@@ -93693,7 +93728,7 @@
         "title": "I Picked Up An Attribute Collection"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "I Picked Up Lots of Attributes"
       },
@@ -184248,14 +184283,14 @@
     "id": 19757,
     "titles": [
       {
-        "type": 2,
-        "language": "en",
-        "title": "Code Geass: Aspar the Star Chaser"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Code Geass: Hoshi Oi no Aspar"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Code Geass: Star Chaser Aspal"
       },
       {
         "type": 4,
@@ -456118,6 +456153,11 @@
         "title": "Mezametara Saikyou Soubi to Uchuusen Mochi Datta no de, Ikkodate Mezashite Youhei to Shite Jiyuu ni Ikitai"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Mezameza"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
@@ -456126,6 +456166,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "saikyou uchuusen"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "めざめざ"
       },
       {
         "type": 3,
@@ -490746,6 +490791,11 @@
         "type": 4,
         "language": "ja",
         "title": "ユメミル, アニメ onちゃん"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "ユメミル, アニメ「onちゃん」"
       }
     ]
   },
@@ -494661,6 +494711,11 @@
         "type": 4,
         "language": "en",
         "title": "Overgeared"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tempal - Item no Chikara"
       },
       {
         "type": 1,
@@ -514953,6 +515008,11 @@
         "title": "Re: 从零开始的异世界生活 第三季"
       },
       {
+        "type": 2,
+        "language": "es",
+        "title": "Re:Zero - Empezar de cero en un mundo diferente (2024)"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Re:Zero - Starting Life in Another World (2024)"
@@ -515117,6 +515177,11 @@
   {
     "id": 19242,
     "titles": [
+      {
+        "type": 2,
+        "language": "es",
+        "title": "Re:Zero - Empezar de cero en un mundo diferente (2026)"
+      },
       {
         "type": 4,
         "language": "en",
@@ -560473,14 +560538,14 @@
         "title": "Tensei Shitara Slime Datta Ken 4th Season Part 2"
       },
       {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Tensei Shitara Slime Datta Ken 4th Season Part 3"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Tensei Shitara Slime Datta Ken Dai 4 Ki (2027)"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tensei Shitara Slime Datta Ken Dai 4 Ki Dai 3 Cour"
       },
       {
         "type": 2,
@@ -560506,6 +560571,11 @@
         "type": 4,
         "language": "ja",
         "title": "転生したらスライムだった件 第4期 (2027)"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "転生したらスライムだった件 第4期 第3クール"
       }
     ]
   },
