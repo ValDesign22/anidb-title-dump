@@ -35743,14 +35743,14 @@
         "title": "A Wild Last Boss Appeared! (2026)"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "A Wild Last Boss Appeared! (2026)"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "A Wild Last Boss Appeared! Season 2"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "A Wild Last Boss Appeared! Staffel 2"
       },
       {
         "type": 1,
@@ -85951,6 +85951,11 @@
         "type": 2,
         "language": "en",
         "title": "As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World Season 3"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "As a Reincarnated Aristocrat, I`ll Use My Appraisal Skill to Rise in the World Staffel 3"
       },
       {
         "type": 1,
@@ -296420,6 +296425,26 @@
     ]
   },
   {
+    "id": 20420,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Mairimashita! Iruma-kun"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Welcome to Demon School! Iruma-kun the Movie"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版 魔入りました! 入間くん"
+      }
+    ]
+  },
+  {
     "id": 12033,
     "titles": [
       {
@@ -455170,6 +455195,21 @@
     ]
   },
   {
+    "id": 20421,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mera x Death: Shinigami to Boku no Ijou na Koi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "メラ×デス 死神と僕の異常な恋"
+      }
+    ]
+  },
+  {
     "id": 13768,
     "titles": [
       {
@@ -467998,9 +468038,49 @@
         "title": "Mushoku Tensei: Jobless Reincarnation Season 3"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "mushokutensei s3p1"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "無職転生III ~異世界行ったら本気だす~"
+      }
+    ]
+  },
+  {
+    "id": 20422,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu (2027)"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Mushoku Tensei: Jobless Reincarnation Season 3 (2027)"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "mushokutensei s3p2"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "無職転生 ~異世界行ったら本気だす~ 第3期 第2クール"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "無職転生III ~異世界行ったら本気だす~ (2027)"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "無職転生III ~異世界行ったら本気だす~ 第2クール"
       }
     ]
   },
