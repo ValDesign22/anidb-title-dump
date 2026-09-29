@@ -66010,6 +66010,46 @@
     ]
   },
   {
+    "id": 3404,
+    "titles": [
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Android Girl Arisa"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Arisa"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Moke Moke Taishou Dendo Musume Arisa"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Moke Moke Taishou Dendou Musume Arisa"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Mokemoke Taishou Dendou Musume Arisa"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "내사랑 아리사"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "もけもけ大正電動娘ARISA"
+      }
+    ]
+  },
+  {
     "id": 980,
     "titles": [
       {
@@ -66471,46 +66511,6 @@
         "type": 4,
         "language": "ja",
         "title": "姉汁 THE ANIMATION ~白川三姉妹におまかせ~"
-      }
-    ]
-  },
-  {
-    "id": 18174,
-    "titles": [
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Ane Joku Tsukushi"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "I`ll do my best to humiliate my sister"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Shijoku Zukushi"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shijokuzukushi"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "누나모욕～미끄러지는 누나의 체액～"
-      },
-      {
-        "type": 2,
-        "language": "ja",
-        "title": "姉○尽くし"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "姉辱尽くし"
       }
     ]
   },
@@ -67086,6 +67086,21 @@
         "type": 4,
         "language": "ja",
         "title": "Anemone"
+      }
+    ]
+  },
+  {
+    "id": 20424,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Anemone (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "姉モネ"
       }
     ]
   },
@@ -81971,46 +81986,6 @@
         "type": 2,
         "language": "ja",
         "title": "ネオ・ヒロイック・ファンタジア アリオン"
-      }
-    ]
-  },
-  {
-    "id": 3404,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Arisa"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Moke Moke Taishou Dendo Musume Arisa"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Moke Moke Taishou Dendou Musume Arisa"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "Mokemoke Taisho Dendo Musume Arisa"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Mokemoke Taishou Dendou Musume Arisa"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "내사랑 아리사"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "もけもけ大正電動娘ARISA"
       }
     ]
   },
@@ -152785,7 +152760,7 @@
       {
         "type": 4,
         "language": "en",
-        "title": "Campfire Cooking in Another World with My Absurd Skills"
+        "title": "Campfire Cooking in Another World with My Absurd Skill"
       },
       {
         "type": 4,
@@ -233854,11 +233829,6 @@
       },
       {
         "type": 2,
-        "language": "x-jat",
-        "title": "Doraemon: Nobita no Uchukosenso"
-      },
-      {
-        "type": 2,
         "language": "en",
         "title": "Doraemon: Nobita`s Little Space War"
       },
@@ -237875,36 +237845,6 @@
     ]
   },
   {
-    "id": 19614,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Dr. Stone S4"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Dr. Stone Season 4 Part 3"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Dr. Stone: Science Future (2026)"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Dr. Stone: Science Future (2026)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "Dr.STONE SCIENCE FUTURE (2026)"
-      }
-    ]
-  },
-  {
     "id": 18336,
     "titles": [
       {
@@ -237971,6 +237911,31 @@
         "type": 4,
         "language": "ja",
         "title": "Dr.STONE SCIENCE FUTURE (2025)"
+      }
+    ]
+  },
+  {
+    "id": 19614,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Dr. Stone Season 4 Part 3"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Dr. Stone: Science Future (2026)"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Dr. Stone: Science Future (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Dr.STONE SCIENCE FUTURE (2026)"
       }
     ]
   },
@@ -245395,12 +245360,12 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "SWORD ART ONLINE Unanswered//butterfly"
+        "title": "Unanswered//butterfly SWORD ART ONLINE"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Sword Art Online: Unanswered//Butterfly"
+        "title": "Unanswered//Butterfly: Sword Art Online"
       }
     ]
   },
@@ -253369,11 +253334,6 @@
       },
       {
         "type": 4,
-        "language": "fr",
-        "title": "Little Nemo"
-      },
-      {
-        "type": 4,
         "language": "de",
         "title": "Little Nemo - Abenteuer im Schlummerland"
       },
@@ -253381,6 +253341,11 @@
         "type": 4,
         "language": "en",
         "title": "Little Nemo: Adventures in Slumberland"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Little Nemo: les Aventures au pays de Slumberland"
       },
       {
         "type": 4,
@@ -262096,6 +262061,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "大家集合！Falcom学园"
+      }
+    ]
+  },
+  {
+    "id": 20423,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Everyone`s Darling Has a Secret"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Houkago no Idol ni wa Himitsu ga Aru"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "放課後のアイドルには秘密がある"
       }
     ]
   },
@@ -309848,11 +309833,6 @@
         "title": "Girls und Panzer - MLLSD"
       },
       {
-        "type": 2,
-        "language": "en",
-        "title": "Girls und Panzer das Finale: Part 5"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Girls und Panzer: Motto Love Love Sakusen Desu!"
@@ -315118,11 +315098,6 @@
         "title": "Gong Fu Liaoli Niang"
       },
       {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Kung Fu Cooking Girls"
-      },
-      {
         "type": 2,
         "language": "x-zht",
         "title": "Kung Fu Liao Li Niang"
@@ -315131,6 +315106,11 @@
         "type": 2,
         "language": "en",
         "title": "Kungfu Cooking Girls"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Kungfu Liaoli Niang"
       },
       {
         "type": 4,
@@ -315728,14 +315708,9 @@
     "id": 1865,
     "titles": [
       {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Gosenzo-sama Banbanzai!"
-      },
-      {
         "type": 1,
         "language": "x-jat",
-        "title": "Gosenzosama Banbanzai!"
+        "title": "Gosenzo-sama Banbanzai!"
       },
       {
         "type": 4,
@@ -336019,18 +335994,8 @@
       },
       {
         "type": 4,
-        "language": "zh",
-        "title": "旋风管家 OVA"
-      },
-      {
-        "type": 4,
         "language": "zh-Hans",
         "title": "旋风管家 泳装篇"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "旋风管家ova"
       }
     ]
   },
@@ -355008,14 +354973,9 @@
     "id": 18011,
     "titles": [
       {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Huo Feng Liao Yuan"
-      },
-      {
         "type": 1,
         "language": "x-zht",
-        "title": "The Ravages of Time"
+        "title": "Huo Feng Liao Yuan"
       },
       {
         "type": 2,
@@ -358931,6 +358891,41 @@
         "type": 3,
         "language": "ja",
         "title": "歴悪"
+      }
+    ]
+  },
+  {
+    "id": 18174,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "I`ll do my best to humiliate my sister"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Shijoku Zukushi"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shijokuzukushi"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "누나모욕～미끄러지는 누나의 체액～"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "姉○尽くし"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "姉辱尽くし"
       }
     ]
   },
@@ -395880,7 +395875,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem"
+        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishin Shishi e no Chinkonka"
       },
       {
         "type": 2,
@@ -414913,11 +414908,6 @@
         "title": "Shinigami Bocchan to Kuro Maid"
       },
       {
-        "type": 3,
-        "language": "x-jat",
-        "title": "shinmaid"
-      },
-      {
         "type": 4,
         "language": "en",
         "title": "The Duke of Death and His Maid"
@@ -417266,6 +417256,41 @@
         "type": 2,
         "language": "zh-Hant",
         "title": "我喜歡的女孩忘記戴眼鏡"
+      }
+    ]
+  },
+  {
+    "id": 13325,
+    "titles": [
+      {
+        "type": 2,
+        "language": "es",
+        "title": "La chica satélite y el chico vaca"
+      },
+      {
+        "type": 2,
+        "language": "x-unk",
+        "title": "Ooleebyeol ilhowa eollugso"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Satellite Girl and Milk Cow"
+      },
+      {
+        "type": 2,
+        "language": "x-kot",
+        "title": "Ulibyeol Ilhowa Eollugso"
+      },
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Uribyeol ilhowa ulrookso"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "우리별 일호와 얼룩소"
       }
     ]
   },
@@ -425745,26 +425770,6 @@
     ]
   },
   {
-    "id": 8602,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Lesbian Citizen Naoko-san (2012)"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Yuri Seijin Naoko-san (2012)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "百合星人ナオコサン (2012)"
-      }
-    ]
-  },
-  {
     "id": 799,
     "titles": [
       {
@@ -427161,6 +427166,31 @@
         "type": 2,
         "language": "ja",
         "title": "ライアーゲーム"
+      }
+    ]
+  },
+  {
+    "id": 20426,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "LIAR GAME 2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Liar Game 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Liar Game 2"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "ライアーゲーム 2"
       }
     ]
   },
@@ -434355,7 +434385,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Lupin Sansei: Lupin wa Ima mo Moete Iru ka?"
+        "title": "Lupin Sansei: Lupin wa Ima mo Moete Iruka?"
       },
       {
         "type": 2,
@@ -439790,6 +439820,26 @@
     ]
   },
   {
+    "id": 17839,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Magical Girl Raising Project Restart"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mahou Shoujo Ikusei Keikaku Restart"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔法少女育成計画 restart"
+      }
+    ]
+  },
+  {
     "id": 10461,
     "titles": [
       {
@@ -442206,21 +442256,6 @@
         "type": 4,
         "language": "ja",
         "title": "魔法少女ダイアナ"
-      }
-    ]
-  },
-  {
-    "id": 17839,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Mahou Shoujo Ikusei Keikaku Restart"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "魔法少女育成計画 restart"
       }
     ]
   },
@@ -468028,14 +468063,14 @@
         "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu"
       },
       {
+        "type": 4,
+        "language": "en",
+        "title": "Mushoku Tensei III: Jobless Reincarnation"
+      },
+      {
         "type": 2,
         "language": "x-jat",
         "title": "Mushoku Tensei S3"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Mushoku Tensei: Jobless Reincarnation Season 3"
       },
       {
         "type": 3,
@@ -468060,7 +468095,7 @@
       {
         "type": 4,
         "language": "en",
-        "title": "Mushoku Tensei: Jobless Reincarnation Season 3 (2027)"
+        "title": "Mushoku Tensei III: Jobless Reincarnation (2027)"
       },
       {
         "type": 3,
@@ -469153,6 +469188,11 @@
         "title": "Vigilante - Boku no Hero Academia Illegals S2"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Vigilante: Boku no Hero Academia Illegals - Aizawa Gakusei Hen"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Vigilante: Boku no Hero Academia Illegals (2026)"
@@ -469166,6 +469206,11 @@
         "type": 4,
         "language": "ja",
         "title": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- (2026)"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 相澤学生編"
       }
     ]
   },
@@ -487380,7 +487425,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Omae, Tanuki ni Naranee ka?"
+        "title": "Omae, Tanuki ni Naraneeka?"
       },
       {
         "type": 4,
@@ -490185,7 +490230,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Oniisan... Ohitori desu ka?"
+        "title": "Onii-san... Ohitori Desuka?"
       },
       {
         "type": 2,
@@ -491156,36 +491201,6 @@
         "type": 4,
         "language": "ja",
         "title": "大きな古時計"
-      }
-    ]
-  },
-  {
-    "id": 13325,
-    "titles": [
-      {
-        "type": 2,
-        "language": "x-unk",
-        "title": "Ooleebyeol ilhowa eollugso"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "The Satellite Girl and Milk Cow"
-      },
-      {
-        "type": 2,
-        "language": "x-kot",
-        "title": "Ulibyeol Ilhowa Eollugso"
-      },
-      {
-        "type": 1,
-        "language": "x-kot",
-        "title": "Uribyeol ilhowa ulrookso"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "우리별 일호와 얼룩소"
       }
     ]
   },
@@ -508730,7 +508745,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Watashi o Center ni Suru to Chikaimasu ka?"
+        "title": "Watashi o Center ni Suru to Chikaimasuka?"
       },
       {
         "type": 3,
@@ -514759,6 +514774,11 @@
       },
       {
         "type": 4,
+        "language": "es",
+        "title": "Re:Zero - Empezar de cero en un mundo diferente"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Re:Zero - Starting Life in Another World"
       },
@@ -514766,11 +514786,6 @@
         "type": 4,
         "language": "de",
         "title": "Re:Zero - Starting Life in Another World"
-      },
-      {
-        "type": 4,
-        "language": "es",
-        "title": "Re:Zero -Empezar de cero en un mundo diferente-"
       },
       {
         "type": 4,
@@ -516506,6 +516521,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Tensei Shitara Ken Deshita II"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tensei shitara Ken deshita S2"
       },
       {
         "type": 4,
@@ -527573,11 +527593,6 @@
         "title": "sao4 part 2"
       },
       {
-        "type": 2,
-        "language": "x-unk",
-        "title": "Sword Art Online: Alicization - War of Underworld - The Last Season"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Sword Art Online: Alicization - War of Underworld (2020)"
@@ -527613,7 +527628,7 @@
         "title": "刀剑神域 Alicization War of Underworld 后半部"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "zh-Hant",
         "title": "刀劍神域 Alicization War of Underworld -THE LAST SEASON-"
       }
@@ -538993,6 +539008,11 @@
         "title": "Shin Tennis no Ouji-sama: U-17 World Cup - Kesshou Member Ketteisen"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "The Prince of Tennis II - U-17 World Cup Final Member Selection Match"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "The Prince of Tennis II: U-17 World Cup - Final Member Selection Match"
@@ -548398,14 +548418,14 @@
         "title": "Space Symphony Maetel Galaxy Express 999 Outside"
       },
       {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Space Symphony Maetel: Ginga Tetsudou 999 Gaiden"
-      },
-      {
         "type": 2,
         "language": "en",
         "title": "Space Symphony Maetel: The Legend of Galaxy Express"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Uchuu Koukyoushi Maetel: Ginga Tetsudou 999 Gaiden"
       },
       {
         "type": 4,
@@ -566680,7 +566700,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Time Bokan: Gyakushuu no San-Okunin"
+        "title": "Time Bokan: Gyakushuu no San Akunin"
       },
       {
         "type": 4,
@@ -574991,6 +575011,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "马娘摇曳"
+      }
+    ]
+  },
+  {
+    "id": 20425,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Umayuru: Full Gate!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "うまゆるふるげ〜と!"
       }
     ]
   },
@@ -588576,6 +588611,21 @@
         "type": 4,
         "language": "ja",
         "title": "ゆるゆり なちゅやちゅみ!"
+      }
+    ]
+  },
+  {
+    "id": 8602,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yuri Seijin Naoko-san (2012)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "百合星人ナオコサン (2012)"
       }
     ]
   },
