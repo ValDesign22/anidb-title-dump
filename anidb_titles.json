@@ -56345,6 +56345,21 @@
     ]
   },
   {
+    "id": 20427,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Akuryou Taisan! Onegai! Iro Kamisama"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "悪霊退散! おねが～い! 色神様"
+      }
+    ]
+  },
+  {
     "id": 17937,
     "titles": [
       {
@@ -351494,6 +351509,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "境界線上的地平線"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "境界线上的地平线"
       }
@@ -351556,6 +351576,11 @@
         "type": 4,
         "language": "ja",
         "title": "境界線上のホライゾン II"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "境界線上的地平線 第二季"
       },
       {
         "type": 4,
@@ -385111,6 +385136,11 @@
         "type": 4,
         "language": "ja",
         "title": "かぐや様は告らせたい 大人への階段"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "輝夜姬想讓人告白 邁向大人的階梯"
       },
       {
         "type": 4,
@@ -512316,6 +512346,21 @@
         "type": 2,
         "language": "en",
         "title": "Route 20: Galactic Airport Pilot Film"
+      }
+    ]
+  },
+  {
+    "id": 20428,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ra/Radio Noise * Planet"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ラ/ラジオノイズ ＊ プラネット"
       }
     ]
   },
