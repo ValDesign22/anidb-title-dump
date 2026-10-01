@@ -19763,6 +19763,11 @@
     "id": 19159,
     "titles": [
       {
+        "type": 4,
+        "language": "en",
+        "title": "A Certain Dark Item"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "A Certain Item of the Dark Side"
@@ -174538,7 +174543,7 @@
         "title": "Chou Jun! Choujou-senpai"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Super Psychic Policeman Chojo"
       },
@@ -203830,6 +203835,31 @@
     ]
   },
   {
+    "id": 20081,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Dandivine"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Juuou Bushin Dandivine"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Juuou Mujin Dandivine"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "獣王武神ダンデヴァイン"
+      }
+    ]
+  },
+  {
     "id": 919,
     "titles": [
       {
@@ -207796,6 +207826,31 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "末日曙光"
+      }
+    ]
+  },
+  {
+    "id": 20429,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Daxia Shou Mu Ren"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Gravekeeper of Great Xia"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Guardian of Daxia"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "大夏守墓人"
       }
     ]
   },
@@ -279178,7 +279233,7 @@
     "id": 19953,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "From Far Away"
       },
@@ -280673,7 +280728,7 @@
     "id": 19822,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Full Clearing Another World Under a Goddess with Zero Believers"
       },
@@ -351633,7 +351688,7 @@
     "id": 19754,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Horror Collector"
       },
@@ -382665,26 +382720,6 @@
     ]
   },
   {
-    "id": 20081,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Juuou Bushin Dandivine"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Juuou Mujin Dandivine"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "獣王武神ダンデヴァイン"
-      }
-    ]
-  },
-  {
     "id": 19995,
     "titles": [
       {
@@ -391990,12 +392025,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Kashita Maryoku wa \"Ribobarai\" de Kyousei Choushuu: Youzumi to Party Tsuihou Sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku o Un`you Shite Saikyou o Mezasu."
+        "title": "Kashita Maryoku wa \"Revo-barai\" de Kyousei Choushuu: Youzumi to Party Tsuihou Sareta Ore wa, Kawaii Support Yousei to Issho ni Toritateta Maryoku o Un`you Shite Saikyou o Mezasu."
       },
       {
         "type": 2,
         "language": "en",
-        "title": "Magic Repo Man: Dumped by My Party, I’ll Cash In with a Cute Support Fairy to Become the Strongest!"
+        "title": "Magic Repo Man: Dumped by My Party, I`ll Cash In with a Cute Support Fairy to Become the Strongest!"
       },
       {
         "type": 4,
@@ -392786,6 +392821,21 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "我家女友可不止可爱呢"
+      }
+    ]
+  },
+  {
+    "id": 20430,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kawaisouni! Theater"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "可哀想に！劇場"
       }
     ]
   },
@@ -404746,6 +404796,26 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "黑化吧！聖女大人"
+      }
+    ]
+  },
+  {
+    "id": 20433,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kizu Darake Seijo yori Houfuku o Komete Season 2"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "With Vengeance, Sincerely, Your Broken Saintess Season 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "傷だらけ聖女より報復をこめて Season2"
       }
     ]
   },
@@ -438665,6 +438735,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "斯特拉的魔法"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "斯特拉的魔法"
       }
     ]
@@ -483574,6 +483649,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "NUKITASHI 住在拔作島上的我該如何是好？"
+      },
+      {
+        "type": 4,
         "language": "de",
         "title": "Nukitashi: Welcome to Love Island!"
       },
@@ -484931,6 +485011,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "天才少爷"
+      }
+    ]
+  },
+  {
+    "id": 20434,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Obocchama-kun Reborn"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "おぼっちゃまくん REBORN"
       }
     ]
   },
@@ -516563,6 +516658,11 @@
         "title": "Reincarnated as a Sword II"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Reincarnated as a Sword Season 2"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Tensei Shitara Ken Deshita II"
@@ -530700,6 +530800,26 @@
     ]
   },
   {
+    "id": 20432,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Seirei Gensouki 3"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Seirei Gensouki: Spirit Chronicles 3"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "精霊幻想記3"
+      }
+    ]
+  },
+  {
     "id": 19926,
     "titles": [
       {
@@ -533661,6 +533781,11 @@
         "type": 4,
         "language": "ja",
         "title": "閃乱カグラ"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "閃亂神樂"
       },
       {
         "type": 4,
@@ -540081,6 +540206,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Shiotaiou no Satou-san ga Ore ni dake Amai"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Cold Sato-san Is Only Sweet to Me"
       },
       {
         "type": 2,
@@ -566275,6 +566405,26 @@
     ]
   },
   {
+    "id": 20431,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Thunder 3 (2027)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Thunder 3 (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "サンダー3 (2027)"
+      }
+    ]
+  },
+  {
     "id": 11917,
     "titles": [
       {
@@ -570353,7 +570503,7 @@
     "id": 19795,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Tougen Anki: Nikko Kegon Falls Arc"
       },
