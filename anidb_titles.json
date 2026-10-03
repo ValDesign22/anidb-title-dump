@@ -7653,6 +7653,11 @@
         "title": "公主大人“拷问”的时间到了"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "公主殿下，「拷問」的時間到了"
+      },
+      {
         "type": 2,
         "language": "zh-Hant",
         "title": "公主殿下，的時間到了"
@@ -7686,6 +7691,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "himegou2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "公主殿下，「拷問」的時間到了 第二季"
       },
       {
         "type": 4,
@@ -18270,6 +18280,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "9-nine- 支配者的王冠"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "9-nine- 支配者的王冠"
       },
       {
@@ -56404,6 +56419,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "反派千金等級99～我是隱藏頭目但不是魔王～"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "悪役令嬢レベル99 ~私は裏ボスですが魔王ではありません~"
       }
@@ -64706,6 +64726,11 @@
         "type": 4,
         "language": "ja",
         "title": "自称悪役令嬢な婚約者の観察記録."
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "自稱惡役千金的未婚妻觀察紀錄。"
       }
     ]
   },
@@ -77891,6 +77916,16 @@
         "type": 2,
         "language": "en",
         "title": "Apothecary Diaries Season 3"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Diários de uma Apotecária (2026)"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "Diários de uma Apotecária S3"
       },
       {
         "type": 1,
@@ -106876,6 +106911,11 @@
         "type": 4,
         "language": "ja",
         "title": "ボールパークでつかまえて!"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "來到棒球場捕捉我吧!"
       },
       {
         "type": 4,
@@ -179768,6 +179808,11 @@
         "title": "Sekrety Cichej Wiedźmy"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Silent Witch 沉默魔女的祕密"
+      },
+      {
         "type": 2,
         "language": "zh-Hans",
         "title": "Silent Witch 沉默魔女的秘密"
@@ -187876,6 +187921,11 @@
         "type": 4,
         "language": "ja",
         "title": "ヒロインたるもの! ~嫌われヒロインと内緒のお仕事~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "成為女主角！~被討厭的女主角和秘密的工作~"
       },
       {
         "type": 2,
@@ -200174,13 +200224,63 @@
       },
       {
         "type": 2,
+        "language": "en",
+        "title": "Spare Me, Great Lord! Season 2"
+      },
+      {
+        "type": 2,
         "language": "zh-Hans",
         "title": "大王饶命 2"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "大王饶命 第2季"
       },
       {
         "type": 4,
         "language": "zh-Hans",
         "title": "大王饶命 第二季"
+      }
+    ]
+  },
+  {
+    "id": 20439,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Da Wang Rao Ming 3"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Dawang Raoming 3"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Spare Me, Great Lord! 3rd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Spare Me, Great Lord! Season 3"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "大王饶命 第3季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "大王饶命 第三季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "大王饶命3"
       }
     ]
   },
@@ -204506,6 +204606,11 @@
         "type": 4,
         "language": "ja",
         "title": "キミと越えて恋になる"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "跨越種族與你相戀"
       }
     ]
   },
@@ -289264,6 +289369,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "哪裡有溫柔對待阿宅的辣妹！？"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "没有辣妹会对阿宅温柔！？"
       }
@@ -315724,6 +315834,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "受到猩猩之神庇佑的大小姐受到王立騎士團寵愛"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "受到猩猩之神庇护的大小姐在皇家骑士团受到宠爱"
       },
@@ -327271,6 +327386,11 @@
         "type": 4,
         "language": "ja",
         "title": "灰原くんの強くて青春ニューゲーム"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "灰原同學重返過去，開啟所向無敵的第二輪青春遊戲"
       },
       {
         "type": 4,
@@ -366921,6 +367041,11 @@
         "type": 4,
         "language": "ja",
         "title": "うるわしの宵の月"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "皎潔深宵之月"
       }
     ]
   },
@@ -390769,6 +390894,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "最強的職業不是勇者也不是賢者好像是鑑定士（暫定）的樣子"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "最强的职业不是勇者也不是贤者好像是鉴定士(伪)的样子"
       },
@@ -395980,7 +396110,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishin Shishi e no Chinkonka"
+        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishin Shishi e no Requiem"
       },
       {
         "type": 2,
@@ -396001,6 +396131,11 @@
         "type": 4,
         "language": "ja",
         "title": "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌"
+      },
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌[れくいえむ]"
       },
       {
         "type": 2,
@@ -402414,6 +402549,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "可以幫忙洗乾淨嗎？"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "綺麗にしてもらえますか."
       },
@@ -403121,6 +403261,11 @@
         "type": 4,
         "language": "ja",
         "title": "きのこいぬ"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "菇狗"
       }
     ]
   },
@@ -413681,6 +413826,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "夜樱家的大作战"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "夜櫻家大作戰"
       }
     ]
   },
@@ -460926,6 +461076,11 @@
         "type": 4,
         "language": "ja",
         "title": "夜桜さんちの大作戦 (2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "夜櫻家大作戰 第二季"
       }
     ]
   },
@@ -562746,6 +562901,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "重启人生的千金小姐正在攻略龙帝陛下"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "重啟人生的千金小姐正在攻略龍帝陛下"
       }
     ]
   },
@@ -563401,6 +563561,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "偶像大师百万现场！"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "偶像大師 百萬人演唱會！"
       },
       {
         "type": 2,
@@ -570612,6 +570777,11 @@
   {
     "id": 19795,
     "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tougen Anki - Nikko Kegon no Taki-hen"
+      },
       {
         "type": 4,
         "language": "en",
