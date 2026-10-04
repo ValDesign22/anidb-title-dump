@@ -3879,6 +3879,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "再得一勝！"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "再得一胜！"
       }
@@ -4440,7 +4445,7 @@
       {
         "type": 2,
         "language": "en",
-        "title": "Book Girl Memories"
+        "title": "Book Girl: Memoire"
       },
       {
         "type": 1,
@@ -6939,6 +6944,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "物語系列 第外季＆第怪季"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "物语系列 第外季&第怪季"
       }
@@ -7498,14 +7508,14 @@
     "id": 17229,
     "titles": [
       {
+        "type": 1,
+        "language": "x-jat",
+        "title": "#Sekai ga Horobiru Mae ni Kimi ni Aitai"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "#セカイが滅びる前にキミに会いたい"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Sekai ga Horobiru Mae ni Kimi ni Aitai"
       },
       {
         "type": 4,
@@ -33701,6 +33711,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Tensei Shita Daiseijo wa, Seijo de Aru Koto o Hitakakusu"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu"
       },
       {
         "type": 4,
@@ -77934,6 +77949,11 @@
       },
       {
         "type": 4,
+        "language": "es",
+        "title": "Los diarios de la boticaria Temporada 3"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "The Apothecary Diaries (2026)"
       },
@@ -87388,6 +87408,11 @@
         "title": "北海道辣妹贼拉可爱"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "北海道辣妹金古錐"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "道産子ギャルはなまらめんこい"
@@ -89211,6 +89236,26 @@
         "type": 4,
         "language": "ja",
         "title": "本好きの下剋上 司書になるためには手段を選んでいられません ユストクスの下町潜入大作戦 / コリンナ様のお宅訪問"
+      }
+    ]
+  },
+  {
+    "id": 20443,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Ascendance of a Bookworm: Founder of the Royal Academy`s So-Called Library Committee"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Kizoku-in no Jishou Tosho Iin"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "本好きの下剋上 司書になるためには手段を選んでいられません 貴族院の自称図書委員"
       }
     ]
   },
@@ -92466,6 +92511,11 @@
         "type": 4,
         "language": "ja",
         "title": "とんがり帽子のアトリエ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "魔法帽的工作室"
       }
     ]
   },
@@ -100805,6 +100855,21 @@
     ]
   },
   {
+    "id": 20446,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Backstage at Oushun Academy"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Oushun Jogakuin no Danyuu"
+      }
+    ]
+  },
+  {
     "id": 9431,
     "titles": [
       {
@@ -101951,6 +102016,11 @@
         "type": 2,
         "language": "en",
         "title": "Fairies Album 3"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "百妖譜　第３期"
       },
       {
         "type": 4,
@@ -107980,12 +108050,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "BanG Dream! Girls Band Party! 5th Anniversary Animation: Circle Thanks Party!"
+        "title": "Bang Dream! Girls Band Party! 5th Anniversary Animation: Circle Thanks Party!"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "バンドリ! ガールズバンドパーティ! 5th Anniversary Animation -CiRCLE THANKS PARTY!-"
+        "title": "BanG Dream! ガールズバンドパーティ! 5th Anniversary Animation -CiRCLE THANKS PARTY!-"
       }
     ]
   },
@@ -113413,9 +113483,19 @@
         "title": "Black Clover 2nd Season"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Black Clover S2"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Black Clover Second Season"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Black Clover Staffel 2"
       },
       {
         "type": 4,
@@ -120470,7 +120550,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Si Hai Jing Qi 2nd Season"
+        "title": "Si Hai Jing Qi Di Er Ji"
       },
       {
         "type": 4,
@@ -133880,6 +133960,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "GOOD NIGHT WORLD"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "GOOD NIGHT WORLD"
       },
       {
@@ -166246,6 +166331,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "不擅吸血的吸血鬼"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "不擅吸血的吸血鬼"
       }
     ]
   },
@@ -188858,6 +188948,11 @@
         "title": "FAIRY TAIL 100 YEARS QUEST"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "FAIRY TAIL 魔導少年 百年任務"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Fairy Tail: 100 Years Quest"
@@ -200190,6 +200285,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Master`s Mercy"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Spare me oh great lord"
       },
       {
@@ -200256,6 +200356,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Dawang Raoming 3"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Master`s Mercy 3"
       },
       {
         "type": 2,
@@ -210469,6 +210574,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "DDDD 惡魔的破壞"
+      },
+      {
+        "type": 4,
         "language": "pl",
         "title": "Dead Dead Demon’s Dededede Destruction (Web)"
       },
@@ -213931,6 +214041,26 @@
         "type": 2,
         "language": "ja",
         "title": "デリバリーちんこを頼みたいお姉さん"
+      }
+    ]
+  },
+  {
+    "id": 20447,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Delivery Kitten Unyan"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Koneko no Haitatsuin Uunyan"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "子猫の配達員うーにゃん"
       }
     ]
   },
@@ -223341,6 +223471,11 @@
         "type": 4,
         "language": "ja",
         "title": "薬屋のひとりごと (2025)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "藥師少女的獨語 第二季"
       }
     ]
   },
@@ -223821,6 +223956,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "我，不是说了能力要平均值么！"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我不是說了能力要平均值嗎？"
       },
       {
         "type": 4,
@@ -232465,7 +232605,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "ドラえもん のび太とアニマル惑星"
+        "title": "映画ドラえもん のび太とアニマル惑星"
       }
     ]
   },
@@ -234546,6 +234686,26 @@
         "type": 4,
         "language": "ja",
         "title": "奴隷介護"
+      }
+    ]
+  },
+  {
+    "id": 20445,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Dorei kara no Kitai to Hyouka no Sei de Sakushu Dekinai no Da ga"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "I Can`t Exploit It Because of the Expectations and Evaluation from Slaves"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "奴隷からの期待と評価のせいで搾取できないのだが"
       }
     ]
   },
@@ -237566,6 +237726,11 @@
         "type": 4,
         "language": "ja",
         "title": "Dr.STONE NEW WORLD"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Dr.STONE 新石紀 第三季"
       },
       {
         "type": 4,
@@ -251726,6 +251891,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "英雄传说 闪之轨迹 Northern War"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "英雄傳說 閃之軌跡：北方戰役"
       }
     ]
   },
@@ -275201,6 +275371,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "为了在异世界也能抚摸毛茸茸而努力"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "為了在異世界也能撫摸毛茸茸而努力"
       },
       {
         "type": 4,
@@ -306734,13 +306909,13 @@
       },
       {
         "type": 4,
-        "language": "zh-Hant",
-        "title": "东京喰种:re 第二季"
+        "language": "ja",
+        "title": "東京喰種:re (2018)"
       },
       {
         "type": 4,
-        "language": "ja",
-        "title": "東京喰種:re (2018)"
+        "language": "zh-Hant",
+        "title": "東京喰種：re 第二季"
       }
     ]
   },
@@ -312031,6 +312206,11 @@
         "type": 4,
         "language": "ja",
         "title": "戦隊大失格 (2025)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "戰隊大失格 第二季"
       }
     ]
   },
@@ -319335,7 +319515,7 @@
       {
         "type": 4,
         "language": "zh-Hant",
-        "title": "灰色：幻影扳機 Stargazer"
+        "title": "灰色：幻影扳機 動畫版"
       }
     ]
   },
@@ -321026,6 +321206,11 @@
         "type": 4,
         "language": "ru",
         "title": "Мой глупый первый друг"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "不知內情的轉學生不管三七二十一纏了上來。"
       },
       {
         "type": 4,
@@ -328330,12 +328515,42 @@
     ]
   },
   {
+    "id": 10803,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Haiyore! Nyaruko-san F"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "기어와라! 냐루코양 F"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "潜行吧！奈亚子F"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "襲來！美少女邪神 F"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "這いよれ! ニャル子さんF"
+      }
+    ]
+  },
+  {
     "id": 7316,
     "titles": [
       {
         "type": 3,
         "language": "x-jat",
-        "title": "Haiyore! Nyaruko-san\tOVA (2010)"
+        "title": "Haiyore! Nyaruko-san OVA (2010)"
       },
       {
         "type": 1,
@@ -328365,7 +328580,7 @@
       {
         "type": 3,
         "language": "x-jat",
-        "title": "Haiyore! Nyaruko-san\tTV (2010)"
+        "title": "Haiyore! Nyaruko-san TV (2010)"
       },
       {
         "type": 2,
@@ -328391,36 +328606,6 @@
         "type": 4,
         "language": "ja",
         "title": "這いよる!ニャルアニ リメンバー・マイ・ラブ(クラフト先生)"
-      }
-    ]
-  },
-  {
-    "id": 10803,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Haiyore! Nyaruko-san F"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "기어와라! 냐루코양 F"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "潜行吧！奈亚子F"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "襲來！美少女邪神 F"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "這いよれ! ニャル子さんF"
       }
     ]
   },
@@ -346896,6 +347081,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "雏子的笔记"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "雛子的筆記"
       }
     ]
   },
@@ -377460,11 +377650,6 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Jian Yu Fengyun 3rd Season"
-      },
-      {
-        "type": 2,
-        "language": "x-zht",
         "title": "Jian Yu Fengyun Di San Ji"
       },
       {
@@ -403678,9 +403863,14 @@
     "id": 5676,
     "titles": [
       {
-        "type": 1,
+        "type": 2,
         "language": "x-jat",
         "title": "Kirepapa"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kirepapa."
       },
       {
         "type": 2,
@@ -403688,9 +403878,14 @@
         "title": "Красив баща"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "ja",
         "title": "キレパパ"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "キレパパ."
       }
     ]
   },
@@ -407381,6 +407576,26 @@
         "type": 4,
         "language": "ja",
         "title": "こちらたまご応答ねがいます"
+      }
+    ]
+  },
+  {
+    "id": 20448,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kochira, Shuumatsu Teitai Iinkai."
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "This Is the End Stagnation Committee."
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "こちら, 終末停滞委員会."
       }
     ]
   },
@@ -429420,6 +429635,46 @@
     ]
   },
   {
+    "id": 20264,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Little Mouse`s Red Vest"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Nezumi-kun no Chokki"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ねずみくんのチョッキ"
+      }
+    ]
+  },
+  {
+    "id": 20440,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Little Mouse`s Red Vest (2026)"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Nezumi-kun no Chokki (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ねずみくんのチョッキ (2026)"
+      }
+    ]
+  },
+  {
     "id": 9363,
     "titles": [
       {
@@ -438886,6 +439141,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "魔法制造者 ~异世界魔法的制作方法~"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "魔法製造者 ～異世界魔法的製作方法～"
       }
     ]
   },
@@ -463870,7 +464130,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "MonHun Nikki Girigiri Airu Mura: Airu Kiki Ippatsu"
+        "title": "MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu"
       },
       {
         "type": 4,
@@ -469558,11 +469818,6 @@
         "title": "My Heroic Husband: Dragon and Snake Chapter"
       },
       {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Zhui Xu 2"
-      },
-      {
         "type": 2,
         "language": "x-zht",
         "title": "Zhui Xu 2nd Season"
@@ -469573,9 +469828,14 @@
         "title": "Zhui Xu Di Er Ji"
       },
       {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhui Xu: Long She Pian"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
-        "title": "赘婿 第二季"
+        "title": "赘婿 龍蛇篇"
       },
       {
         "type": 2,
@@ -470386,6 +470646,26 @@
         "type": 1,
         "language": "x-jat",
         "title": "My Song"
+      }
+    ]
+  },
+  {
+    "id": 20444,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "My Sweet Marriage to My Ex-Nemesis"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Soshiki no Shukuteki to Kekkon Shitara Mecha Amai"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "組織の宿敵と結婚したらめちゃ甘い"
       }
     ]
   },
@@ -471961,6 +472241,36 @@
         "type": 4,
         "language": "ja",
         "title": "なま LO Re: ふらちもの THE ANIMATION"
+      }
+    ]
+  },
+  {
+    "id": 19308,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Nama-Anaru"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Seitokai ni mo Ana wa Aru!"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "There Is Also a Hole in the Student Organization!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "生徒会にも穴はある!"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "生穴る"
       }
     ]
   },
@@ -478135,21 +478445,6 @@
     ]
   },
   {
-    "id": 20264,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Nezumi-kun no Chokki"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ねずみくんのチョッキ"
-      }
-    ]
-  },
-  {
     "id": 10401,
     "titles": [
       {
@@ -479601,6 +479896,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "与猫共度的夜晚"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "今晚有貓伴身邊"
       },
       {
         "type": 4,
@@ -489395,6 +489695,26 @@
     ]
   },
   {
+    "id": 19524,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ONE PIECE HEROINES"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "One Piece Heroines"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "One Piece: Heroines"
+      }
+    ]
+  },
+  {
     "id": 18968,
     "titles": [
       {
@@ -489406,26 +489726,6 @@
         "type": 4,
         "language": "ja",
         "title": "SPECIAL EDITED VERSION『ONE PIECE』魚人島編"
-      }
-    ]
-  },
-  {
-    "id": 19524,
-    "titles": [
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ONE PIECE novel HEROINES"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "One Piece Novel Heroines"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "One Piece: Heroines"
       }
     ]
   },
@@ -494745,6 +495045,21 @@
     ]
   },
   {
+    "id": 20442,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Oushun Jogakuen no Danyuu"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "桜春女学院の男優"
+      }
+    ]
+  },
+  {
     "id": 8273,
     "titles": [
       {
@@ -496846,6 +497161,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Pan Dorobou"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "PANDOROBO"
       },
       {
         "type": 4,
@@ -505705,6 +506025,21 @@
     ]
   },
   {
+    "id": 20452,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Pop Pap Polters"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ポップパップポルターズ"
+      }
+    ]
+  },
+  {
     "id": 18510,
     "titles": [
       {
@@ -509966,6 +510301,21 @@
         "type": 4,
         "language": "ja",
         "title": "ぷにるんず ぷに3"
+      }
+    ]
+  },
+  {
+    "id": 20451,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Punirunes: Puni 4"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ぷにるんず ぷに4"
       }
     ]
   },
@@ -515663,6 +516013,11 @@
         "title": "Re：从零开始的异世界生活 第四季"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Re：從零開始的異世界生活 第四季"
+      },
+      {
         "type": 3,
         "language": "x-jat",
         "title": "rezero4"
@@ -519100,7 +519455,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Tai Yi Xian Mo Lu Zhi Ling Fei Ji"
+        "title": "Tai Yi Xian Mo Lu: Ling Fei Ji"
       },
       {
         "type": 4,
@@ -519120,7 +519475,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Tai Yi Xian Mo Lu Zhi Ling Fei Ji II"
+        "title": "Tai Yi Xian Mo Lu: Ling Fei Ji II"
       },
       {
         "type": 4,
@@ -519140,7 +519495,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Tai Yi Xian Mo Lu Zhi Ling Fei Ji III"
+        "title": "Tai Yi Xian Mo Lu: Ling Fei Ji III"
       },
       {
         "type": 4,
@@ -522215,7 +522570,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Ryoujoku Famiresu Choukyou Menu"
+        "title": "Ryoujoku Famires Choukyou Menu"
       },
       {
         "type": 2,
@@ -531276,26 +531631,6 @@
         "type": 4,
         "language": "ja",
         "title": "生徒会の一存"
-      }
-    ]
-  },
-  {
-    "id": 19308,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Seitokai ni mo Ana wa Aru!"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "There Is Also a Hole in the Student Organization!"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "生徒会にも穴はある!"
       }
     ]
   },
@@ -540845,6 +541180,21 @@
     ]
   },
   {
+    "id": 20441,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shirotan"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "しろたん"
+      }
+    ]
+  },
+  {
     "id": 13377,
     "titles": [
       {
@@ -545041,6 +545391,11 @@
         "type": 4,
         "language": "ja",
         "title": "スロウスタート"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "慢活開始"
       }
     ]
   },
@@ -548355,7 +548710,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Uchuu Senkan Yamato 3"
+        "title": "Uchuu Senkan Yamato III"
       },
       {
         "type": 4,
@@ -549976,6 +550331,11 @@
         "type": 4,
         "language": "ja",
         "title": "SPY×FAMILY (2025)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "SPY×FAMILY 間諜家家酒 Season 3"
       },
       {
         "type": 4,
@@ -558505,6 +558865,21 @@
     ]
   },
   {
+    "id": 20450,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Tanuki to Kitsune (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "タヌキとキツネ (2026)"
+      }
+    ]
+  },
+  {
     "id": 7636,
     "titles": [
       {
@@ -564515,7 +564890,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Zhen Wu Dianfeng 2nd Season"
+        "title": "Zhen Wu Dianfeng Di Er Ji"
       },
       {
         "type": 4,
@@ -564535,7 +564910,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Zhen Wu Dianfeng 3rd Season"
+        "title": "Zhen Wu Dianfeng Di San Ji"
       },
       {
         "type": 4,
@@ -578576,6 +578951,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "冰海战记 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "海盜戰記 第二季"
       }
     ]
   },
@@ -581770,7 +582150,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Xiao Kadou Zhao Mama"
+        "title": "Xiao Kedou Zhao Mama"
       },
       {
         "type": 4,
@@ -589385,6 +589765,21 @@
     ]
   },
   {
+    "id": 20449,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yuruyuru Zukan"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ゆるゆる図鑑"
+      }
+    ]
+  },
+  {
     "id": 10113,
     "titles": [
       {
@@ -590550,21 +590945,6 @@
     ]
   },
   {
-    "id": 18338,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Zhen Dao Ge 2nd Season"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "枕刀歌 第二季"
-      }
-    ]
-  },
-  {
     "id": 19915,
     "titles": [
       {
@@ -590576,6 +590956,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "枕刀歌 第三季"
+      }
+    ]
+  },
+  {
+    "id": 18338,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhen Dao Ge Di Er Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "枕刀歌 第二季"
       }
     ]
   },
