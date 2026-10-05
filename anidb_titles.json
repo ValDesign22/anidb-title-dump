@@ -1103,6 +1103,11 @@
         "title": "Campione! Matsurowanu Kamigami to Kamigoroshi no Maou"
       },
       {
+        "type": 2,
+        "language": "uk",
+        "title": "Кампіоне!"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "カンピオーネ! ~まつろわぬ神々と神殺しの魔王~"
@@ -3911,6 +3916,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "「只能触摸一分钟哦...」合租房的秘密规则。"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "「只讓你摸1分鐘哦…」分租雅房不能說的祕密規定。"
       },
       {
         "type": 2,
@@ -14474,6 +14484,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "銀魂 3年Z班銀八老師"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "銀魂 3年Z組銀八先生"
       },
@@ -19376,6 +19391,11 @@
         "type": 4,
         "language": "en",
         "title": "Snow White with the Red Hair"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Рудоволоса Білосніжка"
       },
       {
         "type": 4,
@@ -25415,6 +25435,11 @@
       {
         "type": 4,
         "language": "ja",
+        "title": "淡島百景"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "淡島百景"
       }
     ]
@@ -31824,6 +31849,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "獻祭公主與獸王"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "祭品公主与兽之王"
       },
@@ -33126,6 +33156,111 @@
         "type": 1,
         "language": "x-jat",
         "title": "A Song for You! You? You!!"
+      }
+    ]
+  },
+  {
+    "id": 18338,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "A Song of Sword as Pillow 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "On The Edge 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Song of the Bladesman Ⅱ"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Zhen Dao Ge 2: Jiangjun Xie Yin"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Zhen Dao Ge 2nd Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhen Dao Ge Di Er Ji"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "枕刀歌 第2季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "枕刀歌 第二季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "枕刀歌2：将军卸印"
+      }
+    ]
+  },
+  {
+    "id": 19915,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "A Song of Sword as Pillow 3rd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "On The Edge 3rd Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Song of the Bladesman Ⅲ"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Zhen Dao Ge 3"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Zhen Dao Ge 3: Gucheng Bi Xue"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Zhen Dao Ge 3rd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Zhen Dao Ge Di San Ji"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "枕刀歌 第3季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "枕刀歌 第三季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "枕刀歌3：孤城闭雪"
       }
     ]
   },
@@ -38973,6 +39108,11 @@
         "title": "Absolute Duo"
       },
       {
+        "type": 4,
+        "language": "uk",
+        "title": "Абсолютний Дует"
+      },
+      {
         "type": 2,
         "language": "ru",
         "title": "Абсолютный дуэт"
@@ -39866,6 +40006,11 @@
         "type": 2,
         "language": "zh",
         "title": "后宮露營"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "後宮露營！"
       }
     ]
   },
@@ -43101,6 +43246,11 @@
         "type": 4,
         "language": "ja",
         "title": "大人にゃ恋の仕方がわからねぇ!"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "成年人不懂如何戀愛！"
       }
     ]
   },
@@ -47233,6 +47383,11 @@
         "title": "Red Eyes Sword - Akame ga Kill"
       },
       {
+        "type": 4,
+        "language": "uk",
+        "title": "Убивця Акаме!"
+      },
+      {
         "type": 2,
         "language": "ru",
         "title": "Убийца Акаме"
@@ -50206,6 +50361,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "草莓哀歌~散漫嚣张的妹妹与无法释怀的哥哥~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "草莓哀歌～私生活放縱的乾妹妹與難以割捨的哥哥～"
       }
     ]
   },
@@ -53711,6 +53871,11 @@
         "type": 2,
         "language": "ru",
         "title": "Рассвет Йоны"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Світанкова Йона"
       },
       {
         "type": 2,
@@ -61773,6 +61938,11 @@
         "title": "Великолепный парк Амаги"
       },
       {
+        "type": 4,
+        "language": "uk",
+        "title": "Розкішний парк Амаґі"
+      },
+      {
         "type": 3,
         "language": "ko",
         "title": "아마기"
@@ -62928,6 +63098,11 @@
         "title": "The Ambition of Oda Nobuna"
       },
       {
+        "type": 4,
+        "language": "uk",
+        "title": "Амбіції Оди Нобуни"
+      },
+      {
         "type": 2,
         "language": "bg",
         "title": "Великите подвизи на Ода Нобуна"
@@ -63125,6 +63300,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "和雨．和你"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "和雨．和你"
       },
       {
@@ -74223,6 +74403,11 @@
     "id": 19318,
     "titles": [
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Ao Ashi S2"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Ao Ashi Season 2"
@@ -74858,7 +75043,7 @@
         "title": "Ao no Hako (2026)"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Blue Box (2026)"
       },
@@ -79851,6 +80036,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "洗屋先生！～我和那家伙在女浴池！？"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "洗浴先生！～我和那傢伙在女浴池！？～"
       }
     ]
   },
@@ -81518,6 +81708,11 @@
         "title": "Ария на Аления куршум"
       },
       {
+        "type": 4,
+        "language": "uk",
+        "title": "Багряна куля Арія"
+      },
+      {
         "type": 2,
         "language": "fa",
         "title": "آریا، مهمات سرخ"
@@ -82236,6 +82431,11 @@
         "type": 4,
         "language": "ja",
         "title": "有栖川煉ってホントは女なんだよね."
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "有栖川煉其實是個女生吧。"
       }
     ]
   },
@@ -84934,6 +85134,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "阿魯斯的巨獸"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "阿鲁斯的巨兽"
       }
@@ -85511,6 +85716,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "某天早上变成人头麦克风的我君的人生"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "被夾在百合之間。我在某個早上變成人頭麥克風的人生"
       }
     ]
   },
@@ -87036,6 +87246,11 @@
         "type": 4,
         "language": "ja",
         "title": "現実主義勇者の王国再建記"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "現實主義勇者的王國重建記"
       }
     ]
   },
@@ -87106,6 +87321,11 @@
         "type": 2,
         "language": "zh-Hant",
         "title": "現實主義勇者的王國重建記 2"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "現實主義勇者的王國重建記 第二季"
       }
     ]
   },
@@ -91838,6 +92058,11 @@
         "title": "Асура Краин"
       },
       {
+        "type": 4,
+        "language": "uk",
+        "title": "Плач Асури"
+      },
+      {
         "type": 2,
         "language": "ru",
         "title": "Плач Асуры"
@@ -92431,6 +92656,11 @@
         "type": 4,
         "language": "en",
         "title": "Atelier Escha & Logy: Alchemists of the Dusk Sky"
+      },
+      {
+        "type": 4,
+        "language": "es",
+        "title": "Atelier Escha & Logy: Los alquimistas del cielo"
       },
       {
         "type": 1,
@@ -94869,6 +95099,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "BanG Dream! Ave Mujica"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "颂乐人偶"
       }
@@ -96841,6 +97076,11 @@
         "type": 4,
         "language": "en",
         "title": "Ayaka"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "AYAKA -綾島奇譚-"
       },
       {
         "type": 2,
@@ -101101,6 +101341,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Bad Girl"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Bad Girl 不良少女"
       },
       {
         "type": 2,
@@ -120548,9 +120793,24 @@
         "title": "Beyond the Ocean 2"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Beyond the Ocean 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Si Hai Jing Qi 2nd Season"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Si Hai Jing Qi Di Er Ji"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "四海鲸骑 第2季"
       },
       {
         "type": 4,
@@ -120721,6 +120981,11 @@
         "type": 2,
         "language": "x-zht",
         "title": "Guangyin Zhi Wai 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Guangyin Zhi Wai Di Er Ji"
       },
       {
         "type": 2,
@@ -127736,6 +128001,11 @@
         "type": 4,
         "language": "ru",
         "title": "Чёрная Пуля"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Чорна куля"
       },
       {
         "type": 4,
@@ -140616,6 +140886,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "上伊那牡丹，酒醉身姿似百合花般"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "上伊那牡丹，醉姿如百合"
       }
     ]
   },
@@ -150216,6 +150491,11 @@
         "type": 3,
         "language": "en",
         "title": "cxcxc"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Клятий Курйозний Кубик"
       },
       {
         "type": 2,
@@ -165511,6 +165791,11 @@
         "type": 4,
         "language": "ja",
         "title": "チェンソーマン 総集篇"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "鏈鋸人 總集篇"
       }
     ]
   },
@@ -177004,6 +177289,11 @@
       },
       {
         "type": 4,
+        "language": "uk",
+        "title": "Хромований Реґіос"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "鋼殻のレギオス"
       },
@@ -185466,6 +185756,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Colours"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "COLOURS"
       }
     ]
   },
@@ -195401,6 +195696,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "与游戏中心的少女异文化交流的故事"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "遊樂場少女的異文化交流"
       }
     ]
   },
@@ -202333,6 +202633,11 @@
         "title": "Date a Live"
       },
       {
+        "type": 4,
+        "language": "uk",
+        "title": "Побачення з життям"
+      },
+      {
         "type": 2,
         "language": "ru",
         "title": "Рандеву с жизнью"
@@ -206554,6 +206859,11 @@
       },
       {
         "type": 2,
+        "language": "x-jat",
+        "title": "Dark Summoner to Dekiteiru"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "I`m Dating a Dark Summoner"
       },
@@ -208480,6 +208790,11 @@
       {
         "type": 4,
         "language": "ja",
+        "title": "義妹生活"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "義妹生活"
       }
     ]
@@ -213253,6 +213568,11 @@
         "title": "デキちゃうまで婚"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "做到懷孕為止的婚姻"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "定孕成婚"
@@ -214081,6 +214401,36 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "三角洲：造物主玩家"
+      }
+    ]
+  },
+  {
+    "id": 20453,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Delta to Gamma no Rigakubu Note"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "rigakubu"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Science Notes by Delta and Gamma"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "デルタとガンマの理学部ノート"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "理学部"
       }
     ]
   },
@@ -228886,6 +229236,11 @@
         "type": 4,
         "language": "ja",
         "title": "大きい女の子は好きですか?"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "這樣高大的女孩子你喜歡嗎？"
       }
     ]
   },
@@ -248181,6 +248536,11 @@
         "type": 4,
         "language": "ja",
         "title": "エグミレガシー"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "哎咕島消失的舔甜歌姬"
       }
     ]
   },
@@ -252616,6 +252976,11 @@
         "type": 2,
         "language": "ru",
         "title": "Подручный бездарной Луизы"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Фамільяр Нулізи"
       },
       {
         "type": 4,
@@ -261945,6 +262310,41 @@
     ]
   },
   {
+    "id": 19308,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Even the Student Council Has Its Holes"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Nama-Anaru"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Seitokai ni mo Ana wa Aru!"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "There Is Also a Hole in the Student Organization!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "生徒会にも穴はある!"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "生穴る"
+      }
+    ]
+  },
+  {
     "id": 19650,
     "titles": [
       {
@@ -264553,6 +264953,11 @@
         "title": "fsn1"
       },
       {
+        "type": 4,
+        "language": "uk",
+        "title": "Доля/ніч битви"
+      },
+      {
         "type": 2,
         "language": "ru",
         "title": "Судьба: Ночь Схватки"
@@ -266541,6 +266946,11 @@
         "type": 4,
         "language": "ja",
         "title": "じょしおちっ! ~2階から女の子が... 降ってきた!?~"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "天降女子！～有女孩從2樓掉了下來！？～"
       },
       {
         "type": 4,
@@ -268606,6 +269016,11 @@
         "type": 4,
         "language": "en",
         "title": "Fate/Strange Fake"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Fate/strange Fake"
       },
       {
         "type": 3,
@@ -283196,6 +283611,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "恋爱没法用双子除尽"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "雙生戀情密不可分"
       }
     ]
   },
@@ -284551,6 +284971,11 @@
         "type": 4,
         "language": "ja",
         "title": "夫婦交歓~戻れない夜~"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "夫婦交歡～回不去的夜晚～"
       }
     ]
   },
@@ -286556,6 +286981,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "搞笑漫画日和GO"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "搞笑漫畫日和GO"
       }
     ]
   },
@@ -290035,6 +290465,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "王子的本命是反派大小姐"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
         "title": "王子的本命是反派大小姐"
       }
     ]
@@ -302771,6 +303206,11 @@
         "type": 4,
         "language": "ja",
         "title": "幻日のヨハネ -SUNSHINE in the MIRROR-"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "幻日夜羽 -鏡中暉光-"
       }
     ]
   },
@@ -304166,26 +304606,6 @@
         "type": 4,
         "language": "ko",
         "title": "그 여름"
-      }
-    ]
-  },
-  {
-    "id": 19021,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-kot",
-        "title": "Geu Yeoreum (2023)"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "The Summer (2023)"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "그 여름 (2023)"
       }
     ]
   },
@@ -321296,6 +321716,11 @@
         "type": 4,
         "language": "ja",
         "title": "ギルティホール"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "罪惡大廳"
       }
     ]
   },
@@ -330473,6 +330898,11 @@
         "title": "ハミダシクリエイティブ"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "常軌脫離creative"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "常轨脱离"
@@ -336743,6 +337173,11 @@
         "title": "Healer Girl"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "Healer Girl"
+      },
+      {
         "type": 3,
         "language": "x-jat",
         "title": "hg"
@@ -338686,6 +339121,11 @@
         "type": 4,
         "language": "ja",
         "title": "地獄先生ぬ~べ~ (2025)"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "靈異教師神眉 (2025)"
       }
     ]
   },
@@ -341318,9 +341758,14 @@
         "title": "Henkei Sakuhin Dai 1-ban"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Metamorphose Works No.1"
+      },
+      {
         "type": 4,
         "language": "ja",
-        "title": "変形作品第１番"
+        "title": "変形作品 第１番"
       }
     ]
   },
@@ -341333,9 +341778,14 @@
         "title": "Henkei Sakuhin Dai 2-ban"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Metamorphose Works No.2"
+      },
+      {
         "type": 4,
         "language": "ja",
-        "title": "変形作品第２番"
+        "title": "変形作品 第２番"
       }
     ]
   },
@@ -353218,6 +353668,11 @@
         "title": "Hotel Inhumans (2026)"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Hotel Inhumans S2"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ホテル・インヒューマンズ (2026)"
@@ -358146,6 +358601,11 @@
         "type": 4,
         "language": "ja",
         "title": "漣蒼士に純潔を捧ぐ"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "為漣蒼士獻上處女"
       }
     ]
   },
@@ -364656,6 +365116,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "真・一骑当千"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "真‧一騎當千"
       }
     ]
   },
@@ -368331,6 +368796,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "不动声色的柏田与喜形于色的太田"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "不動聲色的柏田與喜形於色的太田"
       },
       {
         "type": 4,
@@ -375918,6 +376388,11 @@
         "title": "雀魂 KANG!!"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "雀魂 KANG!!"
+      },
+      {
         "type": 2,
         "language": "zh-Hans",
         "title": "雀魂 杠！！"
@@ -375941,6 +376416,11 @@
         "type": 4,
         "language": "ja",
         "title": "じゃんたま PONG☆"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "雀魂 PONG☆"
       }
     ]
   },
@@ -377645,7 +378125,17 @@
       {
         "type": 2,
         "language": "x-zht",
+        "title": "Jian Yu Feng Yun 3rd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
         "title": "Jian Yu Fengyun 3"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Jian Yu Fengyun 3rd Season"
       },
       {
         "type": 1,
@@ -383803,6 +384293,11 @@
         "title": "Zenmonogatari"
       },
       {
+        "type": 4,
+        "language": "ko",
+        "title": "모노가타리 시리즈: 세컨드 시즌"
+      },
+      {
         "type": 2,
         "language": "ja",
         "title": "傾物語"
@@ -386216,6 +386711,11 @@
         "type": 4,
         "language": "ja",
         "title": "怪獣8号"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "怪獸8號"
       }
     ]
   },
@@ -386256,6 +386756,11 @@
         "type": 4,
         "language": "ja",
         "title": "怪獣8号 (2025)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "怪獸8號 第二季"
       }
     ]
   },
@@ -386296,6 +386801,11 @@
         "type": 4,
         "language": "ja",
         "title": "怪獣8号 第1期総集編"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "怪獸8號：Misson Recon"
       }
     ]
   },
@@ -386611,6 +387121,11 @@
         "type": 4,
         "language": "ja",
         "title": "大雪海のカイナ"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "大雪海的凱納"
       },
       {
         "type": 2,
@@ -388634,6 +389149,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "神之塔 -Tower of God- 第二季"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "神之塔 (2024)"
       },
@@ -390181,6 +390701,11 @@
         "type": 4,
         "language": "ja",
         "title": "艦これ いつかあの海で"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "艦隊Collection 總有一天，在那片海"
       }
     ]
   },
@@ -390656,6 +391181,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "kanotomo"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "My Girlfriend`s Friend"
       },
       {
         "type": 3,
@@ -392369,6 +392899,11 @@
       },
       {
         "type": 2,
+        "language": "x-jat",
+        "title": "Kashita Maryoku wa Revo Barai de Kyousei Choushuu"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "Magic Repo Man: Dumped by My Party, I`ll Cash In with a Cute Support Fairy to Become the Strongest!"
       },
@@ -392795,17 +393330,32 @@
     ]
   },
   {
-    "id": 11183,
+    "id": 12872,
     "titles": [
       {
-        "type": 1,
+        "type": 2,
         "language": "x-jat",
         "title": "Katsura Hime"
       },
       {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shikisai Manga no Dekiru Made"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Making of a Color Animation"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "カツラ姫"
+      },
+      {
         "type": 4,
         "language": "ja",
-        "title": "かつら姫"
+        "title": "色彩漫画の出來る迄"
       }
     ]
   },
@@ -392866,6 +393416,11 @@
         "type": 3,
         "language": "ja",
         "title": "まほあく"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "曾經、魔法少女和邪惡相互為敵。"
       },
       {
         "type": 2,
@@ -399641,6 +400196,11 @@
         "type": 4,
         "language": "en",
         "title": "Unbreakable Machine-Doll"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Незламна машинна лялька"
       },
       {
         "type": 2,
@@ -407535,6 +408095,36 @@
     ]
   },
   {
+    "id": 20448,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "kochimatsu"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kochira, Shuumatsu Teitai Iinkai."
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "This Is the End Stagnation Committee."
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "こちまつ"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "こちら, 終末停滞委員会."
+      }
+    ]
+  },
+  {
     "id": 11825,
     "titles": [
       {
@@ -407576,26 +408166,6 @@
         "type": 4,
         "language": "ja",
         "title": "こちらたまご応答ねがいます"
-      }
-    ]
-  },
-  {
-    "id": 20448,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kochira, Shuumatsu Teitai Iinkai."
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "This Is the End Stagnation Committee."
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "こちら, 終末停滞委員会."
       }
     ]
   },
@@ -410316,6 +410886,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "这个世界漏洞百出"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "這個世界漏洞百出"
       }
     ]
   },
@@ -410886,6 +411461,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "冰之城墙"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "冰之城牆"
       },
       {
         "type": 4,
@@ -412856,6 +413436,11 @@
         "type": 4,
         "language": "el",
         "title": "Ο Σαμάνος Πρίγκιπας"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Король шаманів"
       },
       {
         "type": 4,
@@ -426321,6 +426906,11 @@
         "type": 4,
         "language": "ja",
         "title": "嘆きの亡霊は引退したい (2025)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "嘆氣的亡靈想隱退 第二季"
       }
     ]
   },
@@ -430458,6 +431048,11 @@
         "title": "Love Live! Superstar!! Season 3"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "LoveLive! SuperStar!! 第三季"
+      },
+      {
         "type": 3,
         "language": "x-jat",
         "title": "yuigaoka3"
@@ -431041,6 +431636,11 @@
         "type": 4,
         "language": "ru",
         "title": "Владыка волшебных стрел и девы войны"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Повелитель стріл та Діва Війни"
       },
       {
         "type": 2,
@@ -433411,6 +434011,11 @@
         "type": 4,
         "language": "ru",
         "title": "Моя любовь к Ямаде 999 уровня"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "和山田談場Lv999的戀愛"
       },
       {
         "type": 4,
@@ -441194,6 +441799,11 @@
       },
       {
         "type": 4,
+        "language": "uk",
+        "title": "Магічні війни"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "魔法战争"
       },
@@ -447376,6 +447986,26 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "漫画家与助手"
+      }
+    ]
+  },
+  {
+    "id": 20454,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Manchuria Opium Squad"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Manshuu Ahen Squad"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "満州アヘンスクワッド"
       }
     ]
   },
@@ -456798,6 +457428,11 @@
         "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Saikyosoubi"
+      },
+      {
         "type": 3,
         "language": "x-jat",
         "title": "saikyou uchuusen"
@@ -463286,6 +463921,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "我的幸福婚姻 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我的幸福婚約 第二季"
       }
     ]
   },
@@ -469896,6 +470536,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "我家的英雄"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我家的英雄"
       }
     ]
   },
@@ -470661,6 +471306,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Soshiki no Shukuteki to Kekkon Shitara Mecha Amai"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "soshishuku"
       },
       {
         "type": 4,
@@ -471539,6 +472189,11 @@
       },
       {
         "type": 2,
+        "language": "zh-Hant",
+        "title": "少女如草花綻放"
+      },
+      {
+        "type": 2,
         "language": "zh-Hans",
         "title": "少女如草花绽放"
       },
@@ -472241,36 +472896,6 @@
         "type": 4,
         "language": "ja",
         "title": "なま LO Re: ふらちもの THE ANIMATION"
-      }
-    ]
-  },
-  {
-    "id": 19308,
-    "titles": [
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "Nama-Anaru"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Seitokai ni mo Ana wa Aru!"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "There Is Also a Hole in the Student Organization!"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "生徒会にも穴はある!"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "生穴る"
       }
     ]
   },
@@ -475606,6 +476231,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "nogenora"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Без гри нема життя"
       },
       {
         "type": 2,
@@ -486736,6 +487366,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "埃及神明们的日常 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "突然降臨的埃及神 第二季"
       }
     ]
   },
@@ -488321,6 +488956,11 @@
         "type": 4,
         "language": "ja",
         "title": "僧侶と交わる色欲の夜に..."
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "與僧侶交合的色慾之夜…"
       }
     ]
   },
@@ -489711,21 +490351,6 @@
         "type": 4,
         "language": "en",
         "title": "One Piece: Heroines"
-      }
-    ]
-  },
-  {
-    "id": 18968,
-    "titles": [
-      {
-        "type": 1,
-        "language": "en",
-        "title": "One Piece Log: Fish-Man Island Saga"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "SPECIAL EDITED VERSION『ONE PIECE』魚人島編"
       }
     ]
   },
@@ -494661,6 +495286,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "关于邻家的天使大人不知不觉把我惯成了废人这档子事 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "關於我在無意間被隔壁的天使變成廢柴這件事 2"
       }
     ]
   },
@@ -495335,6 +495965,41 @@
     ]
   },
   {
+    "id": 15274,
+    "titles": [
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "Over Flow"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Overflow"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Overflow"
+      },
+      {
+        "type": 4,
+        "language": "es-419",
+        "title": "Overflow: Desbordándose"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "오버플로우"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "おーばーふろぉ"
+      }
+    ]
+  },
+  {
     "id": 10816,
     "titles": [
       {
@@ -495411,36 +496076,6 @@
         "type": 4,
         "language": "ja",
         "title": "OVER THE RAINBOW"
-      }
-    ]
-  },
-  {
-    "id": 15274,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Overflow"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Overflow"
-      },
-      {
-        "type": 4,
-        "language": "es-419",
-        "title": "Overflow: Desbordándose"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "오버플로우"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "おーばーふろぉ"
       }
     ]
   },
@@ -495761,6 +496396,11 @@
         "type": 2,
         "language": "ru",
         "title": "Последний Серафим"
+      },
+      {
+        "type": 4,
+        "language": "uk",
+        "title": "Серафим кінця"
       },
       {
         "type": 4,
@@ -505700,6 +506340,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "碰之道"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "碰之道"
       }
     ]
@@ -519354,6 +519999,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "RINKAI！女子競輪"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "リンカイ!"
       }
@@ -528104,6 +528754,11 @@
       },
       {
         "type": 4,
+        "language": "uk",
+        "title": "Мистецтво Меча Онлайн"
+      },
+      {
+        "type": 4,
         "language": "he",
         "title": "אומנות החרב אונליין"
       },
@@ -528886,6 +529541,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "佐佐木与文鸟小哔"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "佐佐木與文鳥小嗶"
       }
     ]
   },
@@ -531115,6 +531775,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "相反的你和我"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "相反的你和我"
       }
     ]
@@ -533801,6 +534466,11 @@
         "type": 2,
         "language": "ja",
         "title": "戦国妖狐 世直し姉弟編"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "戰國妖狐"
       }
     ]
   },
@@ -538595,26 +539265,6 @@
     ]
   },
   {
-    "id": 12872,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shikisai Manga no Dekiru Made"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Making of a Color Animation"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "色彩漫画の出來る迄"
-      }
-    ]
-  },
-  {
     "id": 15592,
     "titles": [
       {
@@ -542673,6 +543323,11 @@
         "title": "Showtime! Uta no Onee-san Datte Shitai"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "ShowTime！～唱歌的大姐姐也想做"
+      },
+      {
         "type": 2,
         "language": "ko",
         "title": "쇼타임! ~노래 선생님도 하고 싶어~"
@@ -542701,6 +543356,16 @@
         "type": 1,
         "language": "x-jat",
         "title": "Showtime! Uta no Onee-san Datte Shitai 2"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "ShowTime！～唱歌的大姐姐也想做 第二季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "Showtime！姊姊帶你一起動 2"
       },
       {
         "type": 2,
@@ -543471,6 +544136,11 @@
         "type": 2,
         "language": "ja",
         "title": "SHY 東京奪還編"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "SHY 靦腆英雄 第二季"
       },
       {
         "type": 2,
@@ -551493,6 +552163,11 @@
         "title": "Strike the Blood"
       },
       {
+        "type": 4,
+        "language": "uk",
+        "title": "Опір крові"
+      },
+      {
         "type": 2,
         "language": "ru",
         "title": "Удар крови"
@@ -556491,6 +557166,11 @@
         "type": 2,
         "language": "ja",
         "title": "大正偽りブラヰダル～身代わり花嫁と軍服の猛愛"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "大正虛假新娘～替身新娘與軍人的猛烈熱愛"
       }
     ]
   },
@@ -564046,6 +564726,11 @@
         "type": 2,
         "language": "ja",
         "title": "アイドルマスター シャイニーカラーズ 2nd season"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "偶像大師 閃耀色彩 第二季"
       }
     ]
   },
@@ -564863,7 +565548,7 @@
     "id": 18340,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Peak of True Martial Arts"
       },
@@ -564883,9 +565568,14 @@
     "id": 18341,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Peak of True Martial Arts 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Zhen Wu Dianfeng 2nd Season"
       },
       {
         "type": 1,
@@ -564903,9 +565593,14 @@
     "id": 18342,
     "titles": [
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Peak of True Martial Arts 3rd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Zhen Wu Dianfeng 3rd Season"
       },
       {
         "type": 1,
@@ -569588,6 +570283,11 @@
         "title": "Токийские вороны"
       },
       {
+        "type": 2,
+        "language": "uk",
+        "title": "Токійські Ворони"
+      },
+      {
         "type": 4,
         "language": "ko",
         "title": "도쿄 레이븐즈"
@@ -571020,6 +571720,11 @@
       {
         "type": 4,
         "language": "ja",
+        "title": "杜子春"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "杜子春"
       }
     ]
@@ -576319,6 +577024,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "UniteUp! 眾星齊聚"
+      },
+      {
+        "type": 4,
         "language": "ru",
         "title": "Объединяйтесь!"
       }
@@ -577576,6 +578286,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "宇崎学妹想要玩! 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "宇崎學妹想要玩！第二季"
       }
     ]
   },
@@ -577626,6 +578341,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "旋涡"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "漩渦 Uzumaki"
       }
     ]
   },
@@ -581311,6 +582031,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "我们不可能成为恋人！绝对不行。 （※似乎可行？）～Next Shine～"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我們不可能成為戀人！絕對不行。（※似乎可行？）～NextShine～"
       }
     ]
   },
@@ -590941,36 +591666,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "战斗吧歌姬！ 第一季"
-      }
-    ]
-  },
-  {
-    "id": 19915,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Zhen Dao Ge 3"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "枕刀歌 第三季"
-      }
-    ]
-  },
-  {
-    "id": 18338,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Zhen Dao Ge Di Er Ji"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "枕刀歌 第二季"
       }
     ]
   },
