@@ -10966,6 +10966,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "十二国记"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "十二國記"
       }
     ]
   },
@@ -74396,6 +74401,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "青之芦苇"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "青之蘆葦"
       }
     ]
   },
@@ -77361,6 +77371,21 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "凹凸世界REBORN 先行集"
+      }
+    ]
+  },
+  {
+    "id": 20455,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "AOTU Shijie REBORN: Di Yi Pianzhang Monu Xianjing"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "凹凸世界REBORN 第一篇章 魔女陷阱"
       }
     ]
   },
@@ -86185,7 +86210,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Tensei Kizoku, Kantei Skill de Nariagaru (2024)"
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru Dai 2 Ki"
       },
       {
         "type": 2,
@@ -86195,7 +86220,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "転生貴族, 鑑定スキルで成り上がる (2024)"
+        "title": "転生貴族, 鑑定スキルで成り上がる 第2期"
       },
       {
         "type": 4,
@@ -86225,12 +86250,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Tensei Kizoku, Kantei Skill de Nariagaru (2026)"
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru Dai 3 Ki"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "転生貴族, 鑑定スキルで成り上がる (2026)"
+        "title": "転生貴族, 鑑定スキルで成り上がる 第3期"
       }
     ]
   },
@@ -148841,6 +148866,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "醜男真戰士"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "醜男真戰士"
       }
     ]
   },
@@ -183201,6 +183231,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "欢迎来到实力至上主义教室 第四季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "歡迎來到實力至上主義的教室 第四季 2年級篇 第一學期"
       }
     ]
   },
@@ -183241,6 +183276,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "CotE s2"
+      },
+      {
+        "type": 2,
+        "language": "pt",
+        "title": "Turma de Elite 2.ª Temporada"
       },
       {
         "type": 3,
@@ -221405,6 +221445,26 @@
     ]
   },
   {
+    "id": 20414,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Detective Conan: The Counterfeit Crime Case of Ultra 30"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Meitantei Conan: 30 Gou Satsujin Jiken"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "名探偵コナン 30号殺人事件"
+      }
+    ]
+  },
+  {
     "id": 15999,
     "titles": [
       {
@@ -226941,6 +227001,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "数码宝贝幽灵游戏"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "數碼寶貝 幽靈遊戲"
       }
     ]
   },
@@ -237371,6 +237436,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Doumo, Suki na Hito ni Horegusuri o Irai Sareta Majo Desu."
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu."
       },
       {
         "type": 4,
@@ -279960,7 +280030,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Kanata Kara"
+        "title": "Kanata kara"
       },
       {
         "type": 4,
@@ -281116,6 +281186,11 @@
         "type": 4,
         "language": "ja",
         "title": "藤本タツキ17-26"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "藤本樹 17-26"
       }
     ]
   },
@@ -296596,6 +296671,11 @@
         "type": 4,
         "language": "ja",
         "title": "劇場版 艦これ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "劇場版 艦隊Collection"
       },
       {
         "type": 2,
@@ -373341,6 +373421,11 @@
         "type": 4,
         "language": "ja",
         "title": "戦隊レッド 異世界で冒険者になる"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "紅戰士在異世界成了冒險者"
       },
       {
         "type": 4,
@@ -455170,21 +455255,6 @@
     ]
   },
   {
-    "id": 20414,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Meitantei Conan: 30-gou Satsujin Jiken"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "名探偵コナン 30号殺人事件"
-      }
-    ]
-  },
-  {
     "id": 6242,
     "titles": [
       {
@@ -457771,6 +457841,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "鹿乃子乃子乃子虎视眈眈"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "鹿乃子乃子乃子虎視眈眈"
       },
       {
         "type": 2,
@@ -479128,6 +479203,11 @@
         "title": "Токийско чудовище"
       },
       {
+        "type": 4,
+        "language": "uk",
+        "title": "Токійський ґуль"
+      },
+      {
         "type": 2,
         "language": "fa",
         "title": "آزارگر توکیو"
@@ -482466,6 +482546,11 @@
         "type": 4,
         "language": "ja",
         "title": "ニワトリ・ファイター"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "雞鬥士"
       }
     ]
   },
@@ -565841,6 +565926,26 @@
         "type": 2,
         "language": "ko",
         "title": "레이프맨"
+      }
+    ]
+  },
+  {
+    "id": 20456,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Record of a Fallen Vampire"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Vampire Juuji-kai"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ヴァンパイア十字界"
       }
     ]
   },
