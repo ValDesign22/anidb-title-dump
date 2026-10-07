@@ -19416,6 +19416,11 @@
         "type": 4,
         "language": "ja",
         "title": "赤髪の白雪姫 Snow White with the Red Hair"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "赤髮白雪姬"
       }
     ]
   },
@@ -19466,6 +19471,11 @@
         "type": 4,
         "language": "ja",
         "title": "赤髪の白雪姫 Snow White with the Red Hair (2016)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "赤髮白雪姬 第二季"
       }
     ]
   },
@@ -55881,6 +55891,11 @@
         "type": 4,
         "language": "ja",
         "title": "旦那が何を言っているかわからない件 2スレ目"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "關於聽不懂老公在說什麼這件事 第二季"
       }
     ]
   },
@@ -110519,6 +110534,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "灌籃高手"
+      },
+      {
+        "type": 4,
         "language": "zh",
         "title": "男兒當入樽"
       }
@@ -111803,6 +111823,16 @@
     "id": 19951,
     "titles": [
       {
+        "type": 4,
+        "language": "de",
+        "title": "Battle Spirits [Re] ZEKKAI NO KU"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Battle Spirits [Re] Zekkai no Ku"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Battle Spirits [Re] Zekkai no Kuu"
@@ -111811,6 +111841,11 @@
         "type": 4,
         "language": "ja",
         "title": "Battle Spirits [Re] 絶界の空"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Battle Spirits Re - Zekkai no Kuu"
       }
     ]
   },
@@ -148496,6 +148531,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "灼眼的夏娜"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "灼眼的夏娜"
       }
     ]
   },
@@ -148631,6 +148671,11 @@
         "type": 4,
         "language": "ja",
         "title": "灼眼のシャナII[Second]"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "灼眼的夏娜 II"
       },
       {
         "type": 2,
@@ -175013,6 +175058,11 @@
         "title": "Chou Jun! Choujou-senpai"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Choujun! Choujou-senpai"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "Super Psychic Policeman Chojo"
@@ -178666,6 +178716,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Chuanyue Huoxian: Youling Jihua"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "CrossFire: Project Ghost"
       },
       {
         "type": 4,
@@ -198485,21 +198540,6 @@
     ]
   },
   {
-    "id": 1527,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Cyborg 009"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "サイボーグ009"
-      }
-    ]
-  },
-  {
     "id": 2242,
     "titles": [
       {
@@ -198610,6 +198650,21 @@
     ]
   },
   {
+    "id": 2204,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Cyborg 009"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "サイボーグ009"
+      }
+    ]
+  },
+  {
     "id": 12277,
     "titles": [
       {
@@ -198700,22 +198755,17 @@
     ]
   },
   {
-    "id": 2204,
+    "id": 1527,
     "titles": [
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Cyborg 009 (1966)"
-      },
-      {
-        "type": 2,
-        "language": "x-unk",
-        "title": "Saibôgu 009"
+        "title": "Cyborg 009 (1968)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "サイボーグ009 (1966)"
+        "title": "サイボーグ009 (1968)"
       }
     ]
   },
@@ -202611,6 +202661,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "美少女死神 还我H之魂!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "美少女死神 還我H之魂!"
       }
     ]
   },
@@ -233980,17 +234035,17 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Doraemon: Nobita to Fushigi Kaze Tsukai"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ドラえもん のび太とふしぎ風使い"
+        "title": "Eiga Doraemon: Nobita to Fushigi Kaze Tsukai"
       },
       {
         "type": 4,
         "language": "zh-Hans",
         "title": "哆啦A梦 大雄与风之使者"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "映画ドラえもん のび太とふしぎ風使い"
       }
     ]
   },
@@ -284383,6 +284438,11 @@
         "title": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Хоть я и бездарная злодейка: Сказка о том, как бабочка и крыса поменялись местами в девичьем дворе"
+      },
+      {
         "type": 3,
         "language": "ja",
         "title": "ふつつか"
@@ -300706,6 +300766,11 @@
         "type": 4,
         "language": "ja",
         "title": "劇場版 灼眼のシャナ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "劇場版 灼眼的夏娜"
       }
     ]
   },
@@ -301264,11 +301329,16 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "刀剑神域进击篇: 无星之夜"
+      },
+      {
+        "type": 4,
         "language": "zh-Hant",
         "title": "刀劍神域劇場版－Progressive－無星夜的詠嘆調"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "zh-Hans",
         "title": "剧场版 刀剑神域 进击篇 无星之夜的咏叹调"
       },
@@ -304206,6 +304276,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "真实之泪"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "真實之淚"
       }
     ]
   },
@@ -320811,6 +320886,11 @@
         "type": 4,
         "language": "ja",
         "title": "ガンスリンガー ガール -IL TEATRINO- OVA"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "神槍少女 -IL TEATRINO- OVA"
       }
     ]
   },
@@ -320866,6 +320946,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "神枪少女 -IL TEATRINO-"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "神槍少女 -IL TEATRINO-"
       }
     ]
   },
@@ -336235,7 +336320,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Hateshi Naki Scarlet"
+        "title": "Hateshinaki Scarlet"
       },
       {
         "type": 4,
@@ -362266,6 +362351,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "偶像事变"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "偶像選舉"
       }
     ]
   },
@@ -362796,6 +362886,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "偶像大师 Xenoglossia"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "偶像大師 XENOGLOSSIA"
       }
     ]
   },
@@ -366156,6 +366251,11 @@
         "type": 4,
         "language": "ja",
         "title": "寄生獣 セイの格率"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "寄生獸：生命的準則"
       }
     ]
   },
@@ -367131,6 +367231,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "最近, 妹妹的样子有点怪?"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "最近，妹妹的樣子有點怪？"
       }
     ]
   },
@@ -369521,6 +369626,11 @@
         "type": 2,
         "language": "ja",
         "title": "イングレス"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "虛擬入口"
       }
     ]
   },
@@ -379093,7 +379203,7 @@
         "title": "Jing Cui Xian Zun"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "The Tale of The Spirit Stone"
       },
@@ -379108,7 +379218,7 @@
     "id": 18396,
     "titles": [
       {
-        "type": 1,
+        "type": 2,
         "language": "x-zht",
         "title": "Jing Cui Xian Zun 2"
       },
@@ -379118,9 +379228,19 @@
         "title": "Jing Cui Xian Zun Part 2"
       },
       {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jing Cui Xian Zun Xia"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "The Tale of The Spirit Stone 2"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Tale of The Spirit Stone Part 2"
       },
       {
         "type": 4,
@@ -405625,6 +405745,11 @@
       {
         "type": 2,
         "language": "zh-Hans",
+        "title": "舞伎家的料理人"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "舞伎家的料理人"
       },
       {
@@ -467026,6 +467151,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "阿松"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "阿松"
       }
     ]
   },
@@ -483111,6 +483241,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "农林"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "農林"
       }
     ]
   },
@@ -504028,6 +504163,11 @@
         "title": "planetarian ~星の人~"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "planetarian ～星之人～"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Planetarian: Hoshi no Hito"
@@ -504056,6 +504196,11 @@
         "type": 4,
         "language": "ko",
         "title": "Planetarian ~작은 별의 꿈~"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "planetarian ～星之夢～"
       },
       {
         "type": 1,
@@ -520881,6 +521026,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "蔷薇少女 序曲"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "薔薇少女 ～序曲～"
       }
     ]
   },
@@ -536944,6 +537094,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "灼眼的夏娜 III Final"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "灼眼的夏娜III -Final-"
       }
@@ -536990,6 +537145,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "灼眼的夏娜S"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "灼眼的夏娜S"
       }
     ]
@@ -575420,12 +575580,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Uchuu Senkan Yamato (Shinsaku Anime Eizou)"
+        "title": "Uchuu Senkan Yamato Root 2199"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "宇宙戦艦ヤマト (新作アニメ映像)"
+        "title": "宇宙戦艦ヤマト√2199"
       }
     ]
   },
