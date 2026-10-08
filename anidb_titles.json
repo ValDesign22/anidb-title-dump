@@ -19415,6 +19415,11 @@
       {
         "type": 4,
         "language": "ja",
+        "title": "赤髪の白雪姫"
+      },
+      {
+        "type": 6,
+        "language": "ja",
         "title": "赤髪の白雪姫 Snow White with the Red Hair"
       },
       {
@@ -19469,6 +19474,11 @@
       },
       {
         "type": 4,
+        "language": "ja",
+        "title": "赤髪の白雪姫 (2016)"
+      },
+      {
+        "type": 6,
         "language": "ja",
         "title": "赤髪の白雪姫 Snow White with the Red Hair (2016)"
       },
@@ -19816,6 +19826,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "人马小姐不迷茫"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "半獸人的煩惱"
       }
     ]
   },
@@ -22026,6 +22041,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "暗黑破坏神在身边"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "暗黑破壞神在身邊。"
       }
     ]
   },
@@ -52858,9 +52878,14 @@
         "title": "赤发白雪姬 OAD"
       },
       {
-        "type": 4,
+        "type": 6,
         "language": "ja",
         "title": "赤髪の白雪姫 Snow White with the Red Hair なんでもない宝物, この頁"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "赤髪の白雪姫 なんでもない宝物, この頁"
       }
     ]
   },
@@ -59038,6 +59063,11 @@
         "title": "ALICE or ALICE"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "ALICE OR ALICE～妹控哥哥與雙胞胎妹妹～"
+      },
+      {
         "type": 4,
         "language": "ko",
         "title": "앨리스 or 앨리스"
@@ -62456,6 +62486,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "蓝海少女 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "藍海少女 第二季"
       }
     ]
   },
@@ -69605,6 +69640,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "Anima Yell!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "Anima Yell!"
       },
       {
@@ -79876,6 +79916,11 @@
         "type": 4,
         "language": "en",
         "title": "The Daily Life of a Middle-Aged Online Shopper in Another World"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Жизнь сорокалетнего мужчины в другом мире"
       },
       {
         "type": 4,
@@ -170938,6 +170983,11 @@
         "title": "Chii Fuyo"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "The Exiled Cheating Magician Enjoys an Unrestrained Second Life. I Can Give \"Strengthening Points\" Not Only to Weapons, But Also to Everything, and I Can Unlock the Effect at Any Time of My Will, But are the Rest Okay?"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life"
@@ -179566,6 +179616,11 @@
         "type": 4,
         "language": "ja",
         "title": "厨病激発ボーイ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "廚病激發BOY"
       }
     ]
   },
@@ -195485,6 +195540,11 @@
       {
         "type": 4,
         "language": "ja",
+        "title": "異国迷路のクロワーゼ The Animation"
+      },
+      {
+        "type": 6,
+        "language": "ja",
         "title": "異国迷路のクロワーゼ The Animation La croisée dans un labyrinthe étranger"
       },
       {
@@ -204470,6 +204530,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Dandivine"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "Dandivine"
       },
       {
@@ -223823,6 +223888,11 @@
         "title": "Записки аптекаря"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Монолог фармацевта"
+      },
+      {
         "type": 4,
         "language": "th",
         "title": "สืบคดีปริศนา หมอยาตำรับโคมแดง"
@@ -223921,6 +223991,11 @@
         "type": 2,
         "language": "bg",
         "title": "Дневниците на билкарката 2"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Монолог фармацевта 2"
       },
       {
         "type": 4,
@@ -239469,6 +239544,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "龍先生，想要買個家。"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "龙先生，想要买个家"
       },
@@ -243715,6 +243795,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "流汗吧！健身少女"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "流汗吧！健身少女"
       }
     ]
@@ -278576,6 +278661,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "写真女友"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "戀曲寫真"
       }
     ]
   },
@@ -320928,12 +321018,17 @@
         "title": "Gunslinger Girl: Il Teatrino"
       },
       {
+        "type": 4,
+        "language": "ja",
+        "title": "GUNSLINGER GIRL. -IL TEATRINO-"
+      },
+      {
         "type": 2,
         "language": "ru",
         "title": "Школа убийц: Театр марионеток"
       },
       {
-        "type": 4,
+        "type": 2,
         "language": "ja",
         "title": "ガンスリンガー ガール -IL TEATRINO-"
       },
@@ -332741,6 +332836,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "半田君"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "半田君"
       }
     ]
   },
@@ -335893,6 +335993,11 @@
         "title": "はしよか"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "一直跑下去真的是太好了。"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "能继续奔跑下去真是太好了。"
@@ -337446,6 +337551,31 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "你看起来很好吃"
+      }
+    ]
+  },
+  {
+    "id": 1786,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Heart Cocktail"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tabako Ippon no Story: Heart Cocktail"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "たばこ1本のストーリー ハートカクテル"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ハートカクテル"
       }
     ]
   },
@@ -348371,6 +348501,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "一个人的○○小日子"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "一個人的○○小日子"
       }
     ]
   },
@@ -354011,6 +354146,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Houkago Kitaku Biyori"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Walking Home with You"
       },
       {
         "type": 4,
@@ -393336,6 +393476,21 @@
         "type": 4,
         "language": "ja",
         "title": "かたすみの鱗"
+      }
+    ]
+  },
+  {
+    "id": 20457,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kataude"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "片腕"
       }
     ]
   },
@@ -432906,6 +433061,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "品酒要在成为夫妻后"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "品酒要在成為夫妻後"
       }
     ]
   },
@@ -433826,6 +433986,11 @@
         "type": 4,
         "language": "ja",
         "title": "立花館To Lieあんぐる"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "立花館戀愛三角關係"
       },
       {
         "type": 4,
@@ -440663,6 +440828,11 @@
         "title": "마법소녀 나"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "老子是魔法少女"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "魔法少女 俺"
@@ -443485,7 +443655,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "ネギま!? 夏 スペシャル"
+        "title": "ネギま!? 夏 スペシャル!?"
       },
       {
         "type": 2,
@@ -472901,6 +473071,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "实况主的逃脱游戏【直播中】"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "實況主的逃脫遊戲【直播中】"
       }
     ]
   },
@@ -474264,6 +474439,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "七大罪 眾神的逆鱗"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "七大罪 诸神的逆鳞"
       }
@@ -474321,6 +474501,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "七大罪 愤怒的审判"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "七大罪 憤怒的審判"
       }
     ]
   },
@@ -492914,7 +493099,7 @@
       },
       {
         "type": 4,
-        "language": "x-unk",
+        "language": "zh-Hant",
         "title": "Orange 橘色奇蹟"
       },
       {
@@ -529800,6 +529985,11 @@
       {
         "type": 2,
         "language": "x-jat",
+        "title": "Sasaki to Pii-chan S2"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
         "title": "Sasaki to Pii-chan Season 2"
       },
       {
@@ -547776,6 +547966,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "天空与海洋之间"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "天空與海洋之間"
       }
     ]
   },
@@ -556400,21 +556595,6 @@
     ]
   },
   {
-    "id": 1786,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Tabako Ippon no Story: Heart Cocktail"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "たばこ1本のストーリー ハートカクテル"
-      }
-    ]
-  },
-  {
     "id": 13854,
     "titles": [
       {
@@ -559763,6 +559943,11 @@
         "title": "Tantei wa Mou, Shinde Iru. Season 2"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tantei wa Mou, Shindeiru. S2"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "The Detective Is Already Dead Season 2"
@@ -560486,6 +560671,11 @@
         "type": 4,
         "language": "ja",
         "title": "徒然チルドレン"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "徒然喜歡你"
       }
     ]
   },
@@ -574691,6 +574881,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "侧车搭档"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "側車搭檔"
       }
     ]
   },
