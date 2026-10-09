@@ -18383,6 +18383,11 @@
         "title": "91 Days"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "91 Days"
+      },
+      {
         "type": 2,
         "language": "ru",
         "title": "91 день"
@@ -53618,6 +53623,11 @@
         "title": "夕阳染红的街道"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "夕陽染紅的坡道"
+      },
+      {
         "type": 2,
         "language": "zh-Hans",
         "title": "茜色坂道 夕阳染红的坡道.染红的街道"
@@ -73991,6 +74001,11 @@
         "type": 4,
         "language": "ja",
         "title": "対魔導学園35試験小隊"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "對魔導學園35試驗小隊"
       }
     ]
   },
@@ -85301,6 +85316,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "亚尔斯兰战记 风尘乱舞"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "亞爾斯蘭戰記 風塵亂舞"
       }
     ]
   },
@@ -85361,6 +85381,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "亚尔斯兰战记"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "亞爾斯蘭戰記"
       },
       {
         "type": 2,
@@ -92116,6 +92141,111 @@
         "type": 2,
         "language": "ja",
         "title": "ASUKA日本の歴史"
+      }
+    ]
+  },
+  {
+    "id": 18522,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Asura (2024)"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Kuang Wang"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Westward - The Mad King"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Westward: Asura"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xi Xing Ji: Kuang Wang"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xixing Ji: Kuang Wang"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "狂王"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "狂王Asura"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "西行纪之狂王"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "龙神万相之狂王"
+      }
+    ]
+  },
+  {
+    "id": 20458,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Asura 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Asura S2"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Kuang Wang 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Kuang Wang 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Kuang Wang Di Er Ji"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "狂王 第2季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "狂王 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "狂王2"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "龙神万相之狂王2"
       }
     ]
   },
@@ -107371,6 +107501,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "舞动青春"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "舞動青春"
       }
     ]
   },
@@ -109506,6 +109641,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "元气囝仔"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "元氣囝仔"
       }
     ]
   },
@@ -113341,6 +113481,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "舞兵器舞乱伎"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "舞武器舞亂伎"
       }
     ]
   },
@@ -118791,6 +118936,11 @@
         "type": 3,
         "language": "zh-Hans",
         "title": "剑风传奇"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "烙印勇士"
       }
     ]
   },
@@ -136326,6 +136476,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "关于我女友是个一本正经的碧池这件事"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我的女友是個過度認真的處女 Bitch"
       }
     ]
   },
@@ -162891,6 +163046,11 @@
         "type": 3,
         "language": "ja",
         "title": "チェンクロ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "鎖鏈戰記 赫克瑟塔斯之光"
       },
       {
         "type": 4,
@@ -197345,6 +197505,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Fate/Apocrypha"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "Fate/Apocrypha"
       },
       {
@@ -232841,6 +233006,11 @@
         "type": 4,
         "language": "ja",
         "title": "刀使ノ巫女 刻みし一閃の燈火"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "馭刀巫女 刻印一閃的燈火"
       }
     ]
   },
@@ -252944,6 +253114,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "琴之森 2018"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "钢琴之森"
       }
@@ -262491,11 +262666,6 @@
         "type": 1,
         "language": "x-jat",
         "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai"
       },
       {
         "type": 2,
@@ -318006,6 +318176,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "满月之战"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "滿月之戰"
       }
     ]
   },
@@ -332959,6 +333134,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "羽球戰爭！"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "轻羽飞扬！"
       }
@@ -339235,6 +339415,11 @@
       {
         "type": 4,
         "language": "ja",
+        "title": "地獄少女 宵伽"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "地獄少女 宵伽"
       }
     ]
@@ -349698,6 +349883,11 @@
         "title": "世紀末オカルト学院"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "世紀末超自然學院"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "世纪末超自然学院"
@@ -356018,6 +356208,11 @@
         "title": "Hundred"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Hundred 百武裝戰記"
+      },
+      {
         "type": 2,
         "language": "ru",
         "title": "Сотня"
@@ -357411,6 +357606,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Hyouken no Majutsushi ga Sekai o Suberu II"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Hyouken no Majutsushi ga Sekai wo Suberu S2"
       },
       {
         "type": 4,
@@ -366534,6 +366734,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "ISLAND"
+      },
+      {
+        "type": 4,
         "language": "ru",
         "title": "Остров"
       },
@@ -367441,6 +367646,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "我喜欢的是妹妹但不是妹妹"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我喜歡的妹妹不是妹妹"
       }
     ]
   },
@@ -385009,6 +385219,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "正確的卡多"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "正解するカド"
       }
@@ -392649,6 +392864,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "傀儡馬戲團"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "魔偶马戏团"
       }
@@ -393386,6 +393606,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "迷你刀使"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "迷你馭刀巫女"
       }
     ]
   },
@@ -396321,6 +396546,11 @@
         "type": 2,
         "language": "ja",
         "title": "軒轅剣・蒼き曜"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "軒轅劍 蒼之曜"
       },
       {
         "type": 4,
@@ -443334,6 +443564,11 @@
       },
       {
         "type": 2,
+        "language": "zh-Hant",
+        "title": "魔法使的條件 夏日的天空"
+      },
+      {
+        "type": 2,
         "language": "zh-Hans",
         "title": "魔法使的注意事项~夏之空~"
       },
@@ -454286,6 +454521,11 @@
         "type": 2,
         "language": "en",
         "title": "Nomad - Megalo Box 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "NOMAD MEGALOBOX 機甲拳擊 第二季"
       },
       {
         "type": 4,
@@ -466506,6 +466746,11 @@
         "type": 2,
         "language": "ja",
         "title": "憂国のモリアーティ(2クール目)"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "憂國的莫里亞蒂 後半"
       }
     ]
   },
@@ -484181,6 +484426,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "野良和皇女和流浪猫之心"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "野良與皇女與流浪貓之心"
       }
     ]
   },
@@ -563368,6 +563618,11 @@
         "title": "Tetsuryo! Meet with Tetsudou Musume"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tetsuryou! Meet with Tetsudou Musume"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "てつりょー! meet with 鉄道むすめ"
@@ -566961,36 +567216,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "西行纪"
-      }
-    ]
-  },
-  {
-    "id": 18522,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Westward - The Mad King"
-      },
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Xi Xing Ji: Kuang Wang"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Xixing Ji: Kuang Wang"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "狂王Asura"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "西行纪之狂王"
       }
     ]
   },
@@ -579841,6 +580066,11 @@
         "type": 4,
         "language": "en",
         "title": "Venus Versus Virus"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "Venus Versus Virus 除魔維納斯"
       },
       {
         "type": 2,
