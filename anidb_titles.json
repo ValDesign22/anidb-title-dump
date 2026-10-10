@@ -54199,6 +54199,11 @@
       },
       {
         "type": 4,
+        "language": "en",
+        "title": "Red Riding Hood: A Detective Story"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "赤ずきん, 旅の途中で死体と出会う."
       }
@@ -119115,17 +119120,17 @@
       {
         "type": 2,
         "language": "en",
-        "title": "Berserk of Gluttony 2"
+        "title": "Berserk of Gluttony Season 2"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Boushoku no Berserk 2"
+        "title": "Boushoku no Berserk Season 2"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "暴食のベルセルク 2"
+        "title": "暴食のベルセルク Season 2"
       }
     ]
   },
@@ -201184,8 +201189,18 @@
       },
       {
         "type": 2,
+        "language": "x-zht",
+        "title": "大主宰 年番2"
+      },
+      {
+        "type": 2,
         "language": "zh-Hans",
         "title": "大主宰 第二季"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "大主宰2"
       },
       {
         "type": 4,
@@ -236911,6 +236926,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Doukyo Shite Iru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase Desu"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "My Sword Saint Master Is Too Cute to Live With!"
       },
       {
         "type": 4,
@@ -354865,6 +354885,36 @@
     ]
   },
   {
+    "id": 20461,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "How I Became King by Eating Monsters"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "monniku"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Monster no Niku o Kutte Itara Oui ni Tsuita Ken"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "モンスターの肉を食っていたら王位に就いた件"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "モン肉"
+      }
+    ]
+  },
+  {
     "id": 19999,
     "titles": [
       {
@@ -361068,7 +361118,7 @@
         "title": "Nyuugaku Youhei"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Teenage Mercenary"
       },
@@ -384105,7 +384155,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Juurin Oukoku"
+        "title": "Juurin Oukoku: Elf Oukoku wa Kyodai Naedoko ni"
       },
       {
         "type": 2,
@@ -384115,7 +384165,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "蹂躙王国"
+        "title": "蹂躙王国 ~エルフ王国は巨大苗床に~"
       }
     ]
   },
@@ -417854,6 +417904,11 @@
       },
       {
         "type": 2,
+        "language": "pt",
+        "title": "Nia Liston, a Menina Implacável"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "Nia Liston: The Merciless Maiden"
       },
@@ -432235,7 +432290,7 @@
       {
         "type": 4,
         "language": "uk",
-        "title": "Повелитель стріл та Діва Війни"
+        "title": "Король Магічних Стріл та Ванадіс"
       },
       {
         "type": 2,
@@ -526235,6 +526290,31 @@
     ]
   },
   {
+    "id": 20459,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Saikon Shounin o Youkyuushimasu"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Remarried Empress"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "재혼 황후"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "再婚承認を要求します"
+      }
+    ]
+  },
+  {
     "id": 18210,
     "titles": [
       {
@@ -537740,6 +537820,31 @@
     ]
   },
   {
+    "id": 19263,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "shanfro 3"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Shangri-La Frontier (2027)"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "シャングリラ・フロンティア ~クソゲーハンター, 神ゲーに挑まんとす~ (2027)"
+      }
+    ]
+  },
+  {
     "id": 6267,
     "titles": [
       {
@@ -537796,26 +537901,6 @@
         "type": 4,
         "language": "ja",
         "title": "シャングリラ"
-      }
-    ]
-  },
-  {
-    "id": 19263,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Shangri-La Frontier (2027)"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su (2027)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "シャングリラ・フロンティア ~クソゲーハンター, 神ゲーに挑まんとす~ (2027)"
       }
     ]
   },
@@ -564261,6 +564346,31 @@
         "type": 4,
         "language": "ja",
         "title": "ブラッディ・メアリー"
+      }
+    ]
+  },
+  {
+    "id": 20460,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "The Boxer"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Boxer"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "더 복서"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ザ・ボクサー"
       }
     ]
   },
