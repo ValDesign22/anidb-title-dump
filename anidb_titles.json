@@ -221753,6 +221753,11 @@
         "title": "Detective Conan: The Counterfeit Crime Case of Ultra 30"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "Detektiv Conan: The Counterfeit Crime Case of Ultra 30"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Meitantei Conan: 30 Gou Satsujin Jiken"
@@ -239046,6 +239051,21 @@
         "type": 4,
         "language": "ja",
         "title": "Dr.STONE SCIENCE FUTURE (2026)"
+      }
+    ]
+  },
+  {
+    "id": 20462,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Dr. Stone: Terraforming"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Dr.STONE TERRAFORMING"
       }
     ]
   },
@@ -278076,6 +278096,11 @@
         "type": 4,
         "language": "en",
         "title": "Paw & Palaces"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Paw and Palaces"
       },
       {
         "type": 2,
@@ -453195,6 +453220,21 @@
     ]
   },
   {
+    "id": 20465,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mazenchu"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "マゼンチュ"
+      }
+    ]
+  },
+  {
     "id": 16084,
     "titles": [
       {
@@ -475866,6 +475906,21 @@
         "type": 4,
         "language": "ja",
         "title": "NARUTO×UT"
+      }
+    ]
+  },
+  {
+    "id": 20464,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "NARUTO x NINKŪ"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Naruto x Ninkuu"
       }
     ]
   },
@@ -591371,6 +591426,21 @@
         "type": 4,
         "language": "ja",
         "title": "夕の魔法"
+      }
+    ]
+  },
+  {
+    "id": 20463,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yuu-san chi! from Yuu-hachi"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ゆうさんち！from 遊ハち"
       }
     ]
   },
