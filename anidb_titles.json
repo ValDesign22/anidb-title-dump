@@ -13185,6 +13185,11 @@
       {
         "type": 2,
         "language": "zh-Hant",
+        "title": "雙戀 Alternative"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
         "title": "雙戀2"
       }
     ]
@@ -29693,6 +29698,11 @@
         "title": "Misanthropic Teacher in Demi-Human Classroom."
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Я стал учителем в школе монстров!"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "人外教室の人間嫌い教師"
@@ -38135,6 +38145,11 @@
       {
         "type": 4,
         "language": "fr",
+        "title": "Astro Boy"
+      },
+      {
+        "type": 4,
+        "language": "cs",
         "title": "Astro Boy"
       },
       {
@@ -64983,6 +64998,11 @@
         "title": "Observation Records of My Fiancee: The Misadventures of a Self-Proclaimed Villainess"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Дневник наблюдений за моей невестой, провозгласившей себя злодейкой"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "自称恶役大小姐的婚约者观察记录。"
@@ -89508,6 +89528,11 @@
         "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Ryoushu no Youjo"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Революция книжного червя: Приёмная дочь лорда"
+      },
+      {
         "type": 4,
         "language": "ar",
         "title": "هيمنة عثة كتب: ابنة أرشيدوق بالتبني"
@@ -100746,6 +100771,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "巴比伦"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "巴比倫"
       }
     ]
   },
@@ -185933,6 +185963,11 @@
         "title": "Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Проект «Мир»: Сломанный мир и непоющая Мику"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "剧场版 世界计画 破碎的世界与无法歌唱的未来"
@@ -187846,6 +187881,11 @@
         "type": 4,
         "language": "ja",
         "title": "犬と猫どっちも飼ってると毎日たのしい"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "貓狗的爆笑同居生活"
       }
     ]
   },
@@ -188291,6 +188331,11 @@
         "type": 2,
         "language": "ja",
         "title": "CONCEPTION 俺の子供を産んでくれ!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Conception 產子救世錄"
       },
       {
         "type": 2,
@@ -199573,6 +199618,11 @@
         "title": "キミキス pure rouge"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "君吻"
+      },
+      {
         "type": 2,
         "language": "zh-Hans",
         "title": "君吻 ~ Pure Rouge"
@@ -209124,6 +209174,11 @@
       },
       {
         "type": 2,
+        "language": "ru",
+        "title": "Жизнь с моей сводной сестрой"
+      },
+      {
+        "type": 2,
         "language": "zh-Hans",
         "title": "义妹生活"
       },
@@ -216131,6 +216186,11 @@
         "type": 4,
         "language": "ja",
         "title": "魔王様, リトライ!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "魔王陛下，RETRY！"
       }
     ]
   },
@@ -218251,6 +218311,11 @@
         "type": 4,
         "language": "ja",
         "title": "電波的な彼女"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "電波系彼女"
       }
     ]
   },
@@ -239458,8 +239523,18 @@
     "id": 19859,
     "titles": [
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Dragon Ball Super - Beerus"
+      },
+      {
         "type": 1,
         "language": "x-jat",
+        "title": "Dragon Ball Super: Beerus"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "Dragon Ball Super: Beerus"
       },
       {
@@ -258661,6 +258736,11 @@
         "type": 2,
         "language": "en",
         "title": "Release That Witch"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Освободите эту ведьму"
       },
       {
         "type": 4,
@@ -284081,6 +284161,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "双恋"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "雙戀"
       }
     ]
   },
@@ -294186,6 +294271,11 @@
         "type": 4,
         "language": "en",
         "title": "Gunsmith Cats"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Кошки-Оружейницы"
       },
       {
         "type": 2,
@@ -308701,6 +308791,11 @@
         "type": 4,
         "language": "en",
         "title": "Pseudo Harem"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Псевдогарем"
       },
       {
         "type": 4,
@@ -327689,6 +327784,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "H2O 赤砂印記"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "H2O 赤砂的印记"
       },
@@ -329576,6 +329676,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "第一次的辣妹"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "辣妹與我的第一次"
       }
     ]
   },
@@ -331760,6 +331865,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "半妖的夜叉姬 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "半妖的夜叉姬 第二季"
       }
     ]
@@ -338371,6 +338481,11 @@
         "type": 4,
         "language": "ja",
         "title": "天地創造デザイン部"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "天地創造設計部"
       }
     ]
   },
@@ -359936,6 +360051,11 @@
         "type": 4,
         "language": "ja",
         "title": "俺がお嬢様学校に「庶民サンプル」としてゲッツされた件"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我被綁架到貴族女校當「庶民樣本」"
       },
       {
         "type": 4,
@@ -391065,6 +391185,51 @@
     ]
   },
   {
+    "id": 19293,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "kanachoro"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kanan-sama wa Akumade Choroi"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Mistress Kanan Is Devilishly Easy"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Mistress Kanan Is Devilishly Easy"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "카난 님은 초보 악마"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "カナン様はあくまでチョロい"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "容易對付的惡魔大人"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "迦楠大人的白给是恶魔级"
+      }
+    ]
+  },
+  {
     "id": 12492,
     "titles": [
       {
@@ -391111,46 +391276,6 @@
         "type": 2,
         "language": "zh-Hant",
         "title": "卡娜筆記"
-      }
-    ]
-  },
-  {
-    "id": 19293,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kanan-sama wa Akumade Choroi"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "Mistress Kanan Is Devilishly Easy"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Mistress Kanan Is Devilishly Easy"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "카난 님은 초보 악마"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "カナン様はあくまでチョロい"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "容易對付的惡魔大人"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "迦楠大人的白给是恶魔级"
       }
     ]
   },
@@ -392231,6 +392356,11 @@
         "type": 4,
         "language": "en",
         "title": "The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Похоже, сильнейшая профессия — это не герой или мудрец, а (временный) инспектор?"
       },
       {
         "type": 4,
@@ -393543,7 +393673,7 @@
         "title": "Kashita Maryoku wa Revo Barai de Kyousei Choushuu"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Magic Repo Man: Dumped by My Party, I`ll Cash In with a Cute Support Fairy to Become the Strongest!"
       },
@@ -394581,6 +394711,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "kayakowa"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Каечке не страно"
       },
       {
         "type": 4,
@@ -401171,6 +401306,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Mata Korosarete Shimatta no Desu ne, Tantei-sama"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "matakoro"
       },
       {
         "type": 4,
@@ -408141,6 +408281,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "小萝莉的时间2学期OVA"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "萌少女的戀愛時光 2 學期 OVA"
       }
     ]
   },
@@ -411916,6 +412061,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Kono Yo no Hate de Koi o Utau Shoujo Yu-no"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "YU-NO 在這世界盡頭詠唱愛的少女"
       },
       {
         "type": 4,
@@ -417936,6 +418086,11 @@
         "type": 2,
         "language": "en",
         "title": "Nia Liston: The Merciless Maiden"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Безжалостная леди Ниа Листон: Единственная в своём роде история воительницы-богоубийцы, перевоплотившейся в болезненную аристократку"
       },
       {
         "type": 4,
@@ -445788,6 +445943,11 @@
         "title": "Welcome to Demon School! Iruma-kun Staffel 4"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Добро пожаловать в ад, Ирума! (2026)"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "魔入りました! 入間くん (2026)"
@@ -447141,6 +447301,11 @@
         "type": 2,
         "language": "en",
         "title": "Toooooo Many Losing Heroines!"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Слишком много проигравших героинь!"
       },
       {
         "type": 4,
@@ -455793,6 +455958,11 @@
         "title": "Коли я переродився слизом (2026)"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "О моём перерождении в слизь. (2026)"
+      },
+      {
         "type": 4,
         "language": "ko",
         "title": "전생했더니 슬라임이었던 건에 대하여 4기"
@@ -462454,6 +462624,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "單色小姐 第二季"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "黑白小姐 第二季"
       }
@@ -462481,6 +462656,11 @@
         "type": 4,
         "language": "ja",
         "title": "ミス・モノクローム -The Animation- 3"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "單色小姐 第三季"
       },
       {
         "type": 4,
@@ -480996,6 +481176,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "暗夜第六感 2041"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "暗夜第六感 2041"
       }
     ]
   },
@@ -487561,6 +487746,11 @@
         "type": 4,
         "language": "en",
         "title": "That Time I Got Reincarnated as a Slime (2021 Part 2)"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "О моём перерождении в слизь. (2021 часть 2)"
       },
       {
         "type": 4,
@@ -495414,6 +495604,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "裏世界遠足"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "里世界郊游"
       }
@@ -502561,6 +502756,11 @@
         "type": 2,
         "language": "ja",
         "title": "ピアシェーヴォレ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "舌尖上的義大利"
       }
     ]
   },
@@ -514276,6 +514476,11 @@
         "type": 4,
         "language": "ja",
         "title": "ロザリオとバンパイア"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "十字架+吸血姬"
       },
       {
         "type": 2,
@@ -526999,6 +527204,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "最遊記 RELOAD BLAST"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "最遊記RELOAD BLAST"
       }
@@ -532571,6 +532781,11 @@
         "type": 4,
         "language": "en",
         "title": "You and I Are Polar Opposites"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Ты и я — полные противоположности"
       },
       {
         "type": 4,
@@ -568343,6 +568558,11 @@
         "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku Shite Mita."
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "В команде героя была милая девушка, так что я признался ей"
+      },
+      {
         "type": 4,
         "language": "ko",
         "title": "용사 파티에 귀여운 애가 있어서, 고백해봤다."
@@ -575984,6 +576204,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "詩片"
+      },
+      {
+        "type": 4,
         "language": "zh",
         "title": "诗片"
       },
@@ -579941,6 +580166,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "梵蒂冈奇迹调查官"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "梵諦岡奇蹟調查官"
       }
     ]
   },
@@ -580016,6 +580246,11 @@
         "type": 4,
         "language": "ja",
         "title": "VTuberなんだが配信切り忘れたら伝説になってた"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Витубер: Я стала популярной после того, как забыла выключить стрим"
       },
       {
         "type": 2,
@@ -580271,6 +580506,11 @@
         "type": 4,
         "language": "en",
         "title": "Vertex Force"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Vroom Force"
       },
       {
         "type": 4,
@@ -581456,6 +581696,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "任性HighSpec"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "任性學園 HIGH SPEC"
       }
     ]
   },
@@ -587486,6 +587731,11 @@
         "type": 4,
         "language": "ja",
         "title": "八十亀ちゃんかんさつにっき 2さつめ"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "八十龜醬觀察日記 第二季"
       }
     ]
   },
