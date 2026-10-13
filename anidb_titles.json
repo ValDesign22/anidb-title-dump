@@ -58126,6 +58126,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "发条精灵战记 天镜的极北之星"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "發條精靈戰記 天鏡的極北之星"
       }
     ]
   },
@@ -63061,6 +63066,11 @@
         "type": 4,
         "language": "ja",
         "title": "超可動ガール1/6"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "超可動女孩 1/6"
       }
     ]
   },
@@ -75736,6 +75746,71 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "青春豬頭少年不會夢到紅書包女孩"
+      }
+    ]
+  },
+  {
+    "id": 18300,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "aobuta season 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Rascal Does Not Dream of Bunny Girl Senpai Season 2"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Rascal Does Not Dream of Santa Claus"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Rascal Does Not Dream of Santa Claus"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Seishun Buta Yarou Series: Daigakusei Hen"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Seishun Buta Yarou wa Santa Claus no Yume o Minai"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "青春ブタ野郎シリーズ 大学生編"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "青春ブタ野郎はサンタクロースの夢を見ない"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "青春猪头少年不会梦到圣诞服女郎"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "青春笨蛋少年不做圣诞服女郎的梦"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "青春豬頭少年不會夢到聖誕服女郎"
       }
     ]
   },
@@ -133262,6 +133337,11 @@
   {
     "id": 16053,
     "titles": [
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "BLUE REFLECTION : 澪"
+      },
       {
         "type": 1,
         "language": "x-jat",
@@ -263328,6 +263408,11 @@
         "title": "みんな集まれ! ファルコム学園"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "大家集合！Falcom 學園"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "大家集合！Falcom学园"
@@ -266590,6 +266675,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "Fairy gone"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "Fairy gone"
       },
       {
@@ -290161,6 +290251,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "告诉我！辣妹子酱"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "百無禁忌！女高中生私房話"
       }
     ]
   },
@@ -425525,6 +425620,46 @@
     ]
   },
   {
+    "id": 11186,
+    "titles": [
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Le Typhon de Noruda"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Taifu no Noruda"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Taifuu no Noruda"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Typhoon no Noruda"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Typhoon Noruda"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "태풍의 노루다"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "台風のノルダ"
+      }
+    ]
+  },
+  {
     "id": 10285,
     "titles": [
       {
@@ -476561,6 +476696,11 @@
         "type": 4,
         "language": "ja",
         "title": "夏目友人帳 伍"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "夏目友人帳 伍"
       }
     ]
   },
@@ -476610,6 +476750,11 @@
       {
         "type": 4,
         "language": "ja",
+        "title": "夏目友人帳 陸"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "夏目友人帳 陸"
       }
     ]
@@ -476710,6 +476855,11 @@
       {
         "type": 4,
         "language": "ja",
+        "title": "夏目友人帳 肆"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "夏目友人帳 肆"
       }
     ]
@@ -476816,6 +476966,11 @@
         "type": 4,
         "language": "ja",
         "title": "夏目友人帳 参"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "夏目友人帳 參"
       }
     ]
   },
@@ -476891,6 +477046,11 @@
         "type": 4,
         "language": "ja",
         "title": "続 夏目友人帳"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "續 夏目友人帳"
       },
       {
         "type": 4,
@@ -485625,6 +485785,26 @@
     ]
   },
   {
+    "id": 20466,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Nue no Onmyouji"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Nue`s Exorcist"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "鵺の陰陽師"
+      }
+    ]
+  },
+  {
     "id": 13119,
     "titles": [
       {
@@ -488581,6 +488761,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "我家有个狐仙大人"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我家有個狐仙大人"
       }
     ]
   },
@@ -502384,6 +502569,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "夢幻之星 Online 2"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "梦幻之星online2"
       }
@@ -512056,6 +512246,11 @@
         "type": 4,
         "language": "ja",
         "title": "プラオレ!~PRIDE OF ORANGE~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "橘色榮耀！"
       }
     ]
   },
@@ -516711,66 +516906,6 @@
         "type": 4,
         "language": "ja",
         "title": "青春ブタ野郎はディアフレンドの夢を見ない"
-      }
-    ]
-  },
-  {
-    "id": 18300,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Rascal Does Not Dream of Bunny Girl Senpai Season 2"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "Rascal Does Not Dream of Santa Claus"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Rascal Does Not Dream of Santa Claus"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Seishun Buta Yarou Series: Daigakusei Hen"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Seishun Buta Yarou wa Santa Claus no Yume o Minai"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai"
-      },
-      {
-        "type": 2,
-        "language": "ja",
-        "title": "青春ブタ野郎シリーズ 大学生編"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "青春ブタ野郎はサンタクロースの夢を見ない"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "青春猪头少年不会梦到圣诞服女郎"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "青春笨蛋少年不做圣诞服女郎的梦"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "青春豬頭少年不會夢到聖誕服女郎"
       }
     ]
   },
@@ -557795,41 +557930,6 @@
     ]
   },
   {
-    "id": 11186,
-    "titles": [
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Taifu no Noruda"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Taifuu no Noruda"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Typhoon no Noruda"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Typhoon Noruda"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "태풍의 노루다"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "台風のノルダ"
-      }
-    ]
-  },
-  {
     "id": 931,
     "titles": [
       {
@@ -562771,6 +562871,11 @@
         "type": 4,
         "language": "ja",
         "title": "天華百剣 ~めいじ館へようこそ!~"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "天華百劍 ～歡迎來到明治館！～"
       }
     ]
   },
