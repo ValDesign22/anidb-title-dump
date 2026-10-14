@@ -2319,6 +2319,11 @@
       },
       {
         "type": 2,
+        "language": "zh-Hant",
+        "title": "180秒能讓你的耳朵幸福嗎？"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "Can I Make Your Ears Happy in 180 Seconds?"
       }
@@ -19871,6 +19876,16 @@
         "type": 4,
         "language": "ja",
         "title": "とある暗部の少女共棲"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "暗部共生少女"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "某暗部的少女共栖"
       }
     ]
   },
@@ -33906,6 +33921,16 @@
         "type": 4,
         "language": "ja",
         "title": "転生した大聖女は, 聖女であることをひた隠す"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "轉生後的大聖女，極力隱瞞聖女的身分"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "转生后的大圣女，极力隐瞒圣女的身分"
       }
     ]
   },
@@ -45076,6 +45101,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "放学后骰子俱乐部"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "放學後桌遊俱樂部"
       },
       {
         "type": 4,
@@ -74536,6 +74566,16 @@
         "type": 4,
         "language": "ja",
         "title": "アオアシ Season2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "青之芦苇 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "青之蘆葦 第二季"
       }
     ]
   },
@@ -89635,6 +89675,31 @@
     ]
   },
   {
+    "id": 20443,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Ascendance of a Bookworm S5"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Ascendance of a Bookworm: Founder of the Royal Academy`s So-Called Library Committee"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Kizoku-in no Jishou Tosho Iin"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "本好きの下剋上 司書になるためには手段を選んでいられません 貴族院の自称図書委員"
+      }
+    ]
+  },
+  {
     "id": 15300,
     "titles": [
       {
@@ -89671,26 +89736,6 @@
         "type": 4,
         "language": "ja",
         "title": "本好きの下剋上 司書になるためには手段を選んでいられません ユストクスの下町潜入大作戦 / コリンナ様のお宅訪問"
-      }
-    ]
-  },
-  {
-    "id": 20443,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Ascendance of a Bookworm: Founder of the Royal Academy`s So-Called Library Committee"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen - Kizoku-in no Jishou Tosho Iin"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "本好きの下剋上 司書になるためには手段を選んでいられません 貴族院の自称図書委員"
       }
     ]
   },
@@ -100199,6 +100244,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "大運動會 ReSTART！"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "搏斗运动员们 大运动会 重启！"
       }
@@ -103756,6 +103806,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "怪物之子"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "怪物的孩子"
       }
     ]
   },
@@ -107466,6 +107521,11 @@
         "type": 4,
         "language": "ja",
         "title": "しにがみのバラッド."
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "死神的歌謠"
       },
       {
         "type": 2,
@@ -171279,6 +171339,16 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "被放逐的作弊賦予魔術師享受隨心所欲的第二人生。"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する. ~俺は武器だけじゃなく, あらゆるものに『強化ポイント』を付与できるし, 俺の意思でいつでも効果を解除できるけど, 残った人たち大丈夫?~"
       }
@@ -175396,6 +175466,16 @@
         "type": 4,
         "language": "ja",
         "title": "超巡! 超条先輩"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "超巡！超条前辈"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "超巡！超條前輩"
       }
     ]
   },
@@ -204859,8 +204939,18 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "兽王武神丹帝拜恩"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "獣王武神ダンデヴァイン"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "獸王武神丹帝拜恩"
       }
     ]
   },
@@ -207147,6 +207237,11 @@
   {
     "id": 18777,
     "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Dark Machine - The Animation"
+      },
       {
         "type": 4,
         "language": "ja",
@@ -222731,6 +222826,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "恶魔幸存者2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "惡魔求生者2"
       }
     ]
   },
@@ -237933,6 +238033,16 @@
         "title": "どうも, 好きな人に惚れ薬を依頼された魔女です."
       },
       {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "你好，我是受心上人所托来做恋爱药的魔女。"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "你好，身為魔女的我，被心上人委託製作迷情藥"
+      },
+      {
         "type": 3,
         "language": "ja",
         "title": "惚れ魔女"
@@ -241731,6 +241841,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "宅饮"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "居家飲酒趣"
       }
     ]
   },
@@ -242451,6 +242566,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "迷宫塔 ～乌鲁克之剑～"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "迷宮塔～烏魯克之劍～"
       },
       {
         "type": 2,
@@ -262914,6 +263034,16 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "学生会也有洞！"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "學生會也有洞！"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "生徒会にも穴はある!"
       },
@@ -262951,6 +263081,16 @@
         "type": 4,
         "language": "ja",
         "title": "弱気MAX令嬢なのに, 辣腕婚約者様の賭けに乗ってしまった"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "极致软弱千金小姐，不小心答应了精明未婚夫的赌局"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "極致軟弱千金小姐，不小心答應了精明未婚夫的賭局"
       }
     ]
   },
@@ -273911,6 +274051,16 @@
         "type": 4,
         "language": "ja",
         "title": "ホタルの嫁入り"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "萤火虫的出嫁"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "螢火蟲的出嫁"
       }
     ]
   },
@@ -280564,8 +280714,18 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "來自遠方"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "彼方から"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "来自远方"
       }
     ]
   },
@@ -314829,6 +314989,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "哥吉拉：奇異點"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "哥斯拉：奇异点"
       }
@@ -335719,6 +335884,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "春 & 夏推理事件簿"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "春&夏推理事件簿～春太与千夏的青春～"
       }
@@ -336496,6 +336666,11 @@
         "type": 4,
         "language": "ja",
         "title": "旗揚! けものみち"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "萌獸寵物店"
       }
     ]
   },
@@ -349021,6 +349196,16 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "初瓣"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "初瓣"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "女優大試煉"
       }
     ]
   },
@@ -349706,6 +349891,21 @@
         "type": 4,
         "language": "ja",
         "title": "ヒトヅマライフ ワンタイムギャル"
+      }
+    ]
+  },
+  {
+    "id": 20467,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hitozuma to Netorare Ryokou"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "人妻と寝取られ旅行"
       }
     ]
   },
@@ -350636,6 +350836,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "京都寺町三条商店街的福尔摩斯"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "京都寺町三條商店街的福爾摩斯"
       }
     ]
   },
@@ -354726,6 +354931,11 @@
         "type": 4,
         "language": "ja",
         "title": "夏色の砂時計"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "夏色的砂時計"
       }
     ]
   },
@@ -381358,6 +381568,11 @@
         "title": "Joker Game"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "JOKER GAME"
+      },
+      {
         "type": 2,
         "language": "bg",
         "title": "Джокер"
@@ -389926,6 +390141,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "神之塔"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "神之塔 -Tower of God-"
       }
     ]
   },
@@ -393774,6 +393994,16 @@
       },
       {
         "type": 4,
+        "language": "zh-Hans",
+        "title": "用【循环利息】强制收回借出的魔力"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "用【循環利息】強制收回借出的魔力"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "貸した魔力は【リボ払い】で強制徴収~用済みとパーティー追放された俺は, 可愛いサポート妖精と一緒に取り立てた魔力を運用して最強を目指す.~"
       }
@@ -394151,6 +394381,11 @@
         "type": 4,
         "language": "ja",
         "title": "活撃/刀剣乱舞"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "活擊 刀劍亂舞"
       }
     ]
   },
@@ -407073,6 +407308,11 @@
         "title": "Trinity Blood (Кровь Триединства)"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "Trinity Blood 聖魔之血"
+      },
+      {
         "type": 4,
         "language": "hu",
         "title": "Vér és kereszt"
@@ -417501,6 +417741,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "紧扣的星星"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "緊扣的星星"
       }
     ]
   },
@@ -418186,6 +418431,16 @@
         "type": 4,
         "language": "ru",
         "title": "Безжалостная леди Ниа Листон: Единственная в своём роде история воительницы-богоубийцы, перевоплотившейся в болезненную аристократку"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "亂世千金倪亞．利斯頓 轉生為嬌弱千金的弒神武人華麗無雙錄"
       },
       {
         "type": 4,
@@ -437916,6 +438171,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "玛莉亚†狂热"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "瑪莉亞†狂熱"
       }
     ]
   },
@@ -440691,6 +440951,16 @@
         "type": 4,
         "language": "ja",
         "title": "魔法騎士レイアース (2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "魔法騎士雷阿斯 (2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "魔法骑士雷阿斯 (2026)"
       }
     ]
   },
@@ -441311,6 +441581,16 @@
         "type": 4,
         "language": "ja",
         "title": "マジカル★エクスプローラー"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "魔法★探险家"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "魔法★探險家"
       }
     ]
   },
@@ -442426,6 +442706,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "魔术学姐"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "魔術學姐"
       }
     ]
   },
@@ -451924,6 +452209,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "真白之音"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "纯白之音"
       }
@@ -458448,6 +458738,16 @@
         "title": "めざめざ"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "一覺醒來就有了最強裝備跟太空船 決定以自家獨棟建築為目標當傭兵自由過活"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "一觉醒来就有了最强装备跟太空船 决定以自家独栋建筑为目标当佣兵自由过活"
+      },
+      {
         "type": 3,
         "language": "ja",
         "title": "最強宇宙船"
@@ -458951,6 +459251,11 @@
         "type": 4,
         "language": "ja",
         "title": "お見合い相手は教え子, 強気な, 問題児."
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "相親對象是我教的強勢問題兒。"
       }
     ]
   },
@@ -460391,6 +460696,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "御神乐学园组曲"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "御神樂學園組曲"
       }
     ]
   },
@@ -465274,6 +465584,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "桃之劍"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "桃剑"
       }
@@ -468748,6 +469063,11 @@
         "title": "Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara The Animation"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "무자각인 소꿉친구와 시험 삼아서 섹스해봤더니"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "無自覚な幼馴染と興味本位でヤってみたら THE ANIMATION"
@@ -470156,6 +470476,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "虫之歌"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "蟲之歌"
       }
     ]
   },
@@ -479029,6 +479354,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "網路勝利組"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "网络胜利组"
       }
@@ -484369,6 +484699,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "信長之槍"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "信长之枪"
       }
@@ -489106,6 +489441,16 @@
         "type": 4,
         "language": "ja",
         "title": "おじさんはカワイイものがお好き."
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "大叔喜欢可爱小玩意"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "大叔喜歡可愛小玩意"
       }
     ]
   },
@@ -534706,6 +535051,16 @@
         "type": 4,
         "language": "ja",
         "title": "世界最強の魔女, 始めました"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "世界最強的魔女，就此開始"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "世界最强的魔女，就此开始"
       }
     ]
   },
@@ -534990,6 +535345,11 @@
       {
         "type": 4,
         "language": "ko",
+        "title": "SELECTION PROJECT"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "SELECTION PROJECT"
       },
       {
@@ -536320,6 +536680,11 @@
       {
         "type": 4,
         "language": "ja",
+        "title": "川柳少女"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "川柳少女"
       }
     ]
@@ -541601,6 +541966,16 @@
         "type": 4,
         "language": "ja",
         "title": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "新網球王子 U-17 WORLD CUP 世界盃決賽成員決定戰"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "新网球王子 U-17 世界杯 决赛成员选拔赛"
       }
     ]
   },
@@ -542631,6 +543006,16 @@
         "type": 3,
         "language": "ja",
         "title": "しおあま"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "冷淡的佐藤同学只对我撒娇"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "冷淡的佐藤同學只對我撒嬌"
       },
       {
         "type": 4,
@@ -544766,6 +545151,16 @@
         "type": 4,
         "language": "ja",
         "title": "朱色の仮面"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "朱色假面"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "朱色假面"
       }
     ]
   },
@@ -547686,6 +548081,16 @@
         "type": 4,
         "language": "ja",
         "title": "転生ゴブリンだけど質問ある?"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "轉生哥布林有問題嗎？"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "转生哥布林有问题吗？"
       }
     ]
   },
@@ -551131,6 +551536,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "草莓狂热"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "草莓狂熱"
       }
     ]
   },
@@ -559559,6 +559969,11 @@
       },
       {
         "type": 2,
+        "language": "zh-Hant",
+        "title": "時空幻境 深淵傳奇"
+      },
+      {
+        "type": 2,
         "language": "zh-Hans",
         "title": "深渊传说"
       }
@@ -560656,6 +561071,16 @@
         "type": 4,
         "language": "en",
         "title": "The Detective Is Already Dead Season 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "侦探已经死了。 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "偵探已經，死了。Season 2"
       },
       {
         "type": 4,
@@ -564086,6 +564511,16 @@
         "type": 4,
         "language": "ja",
         "title": "てつりょー! meet with 鉄道むすめ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "鐵旅！meet with 鐵道少女"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "铁旅！meet with 铁道少女"
       }
     ]
   },
@@ -569671,6 +570106,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "时间旅行少女～真理、和花与8名科学家～"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "時間旅行少女"
       }
     ]
   },
@@ -578449,6 +578889,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "URAHARA"
+      },
+      {
+        "type": 4,
         "language": "ko",
         "title": "우라하라"
       }
@@ -580621,6 +581066,16 @@
         "type": 4,
         "language": "ja",
         "title": "バーテックスフォース"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "至高之力"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "至高之力"
       }
     ]
   },
