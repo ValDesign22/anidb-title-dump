@@ -33913,11 +33913,6 @@
         "title": "Tensei Shita Daiseijo wa, Seijo de Aru Koto o Hitakakusu"
       },
       {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu"
-      },
-      {
         "type": 4,
         "language": "ja",
         "title": "転生した大聖女は, 聖女であることをひた隠す"
@@ -45826,6 +45821,11 @@
         "type": 4,
         "language": "ja",
         "title": "エア・ギア"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "飛輪少年"
       },
       {
         "type": 2,
@@ -58650,7 +58650,7 @@
       {
         "type": 2,
         "language": "en",
-        "title": "Alibaba and the Forty Theives"
+        "title": "Alibaba and the Forty Thieves"
       },
       {
         "type": 4,
@@ -59096,6 +59096,11 @@
         "type": 2,
         "language": "ja",
         "title": "劇場版ハートの国のアリス"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "心之國的愛麗絲"
       }
     ]
   },
@@ -64436,6 +64441,11 @@
         "type": 2,
         "language": "uk",
         "title": "Сутінкова дівчина х Амнезія"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "黃昏乙女×失憶幽靈"
       },
       {
         "type": 4,
@@ -73361,6 +73371,11 @@
         "type": 4,
         "language": "en",
         "title": "Another World (2025)"
+      },
+      {
+        "type": 2,
+        "language": "x-unk",
+        "title": "Sai Ngoi (2025)"
       },
       {
         "type": 1,
@@ -218816,6 +218831,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "传说中的勇者传说"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "傳說的勇者的傳說"
       }
     ]
   },
@@ -285171,6 +285191,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "普通女高中生要做当地偶像"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "普通女高中生要做當地偶像"
       }
     ]
   },
@@ -285196,6 +285221,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "普通女高中生要做当地偶像OVA"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "普通女高中生要做當地偶像 OVA"
       }
     ]
   },
@@ -355620,6 +355650,51 @@
     ]
   },
   {
+    "id": 5133,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-unk",
+        "title": "https://www.imdb.com/title/tt1804031/?ref_=fn_t_1"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Isamu the Wilderness Boy"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kouya no Shounen Isamu"
+      },
+      {
+        "type": 4,
+        "language": "it",
+        "title": "Sam, il ragazzo del West"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Rough and Ready Cowboy"
+      },
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "Willie Boy"
+      },
+      {
+        "type": 2,
+        "language": "fr",
+        "title": "Willy Boy"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "荒野の少年イサム"
+      }
+    ]
+  },
+  {
     "id": 18905,
     "titles": [
       {
@@ -361496,6 +361571,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "魔法少女什么的已经够了啦。第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "魔法少女什麼的已經夠了啦 第二季"
       }
     ]
   },
@@ -374030,46 +374110,6 @@
     ]
   },
   {
-    "id": 5133,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Isamu the Wilderness Boy"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kouya no Shounen Isamu"
-      },
-      {
-        "type": 4,
-        "language": "it",
-        "title": "Sam, il ragazzo del West"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Rough and Ready Cowboy"
-      },
-      {
-        "type": 4,
-        "language": "fr",
-        "title": "Willie Boy"
-      },
-      {
-        "type": 2,
-        "language": "fr",
-        "title": "Willy Boy"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "荒野の少年イサム"
-      }
-    ]
-  },
-  {
     "id": 12562,
     "titles": [
       {
@@ -374475,6 +374515,11 @@
       {
         "type": 4,
         "language": "ja",
+        "title": "異世界食堂"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "異世界食堂"
       }
     ]
@@ -411251,6 +411296,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "小森同学拒绝不了！"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "小森同學拒絕不了！"
       }
     ]
   },
@@ -466644,12 +466694,12 @@
       },
       {
         "type": 1,
-        "language": "x-jat",
+        "language": "x-zht",
         "title": "Yaoguai Mingdan 2nd Season"
       },
       {
         "type": 4,
-        "language": "ja",
+        "language": "zh-Hans",
         "title": "妖怪名单第2季"
       }
     ]
@@ -510553,6 +510603,11 @@
         "title": "Saiyuki: Tessen Koushu no Maki"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Saiyuuki: Tessen Koushu no Maki"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Tie Shan Gongzhu"
@@ -529448,6 +529503,11 @@
         "title": "San San Di Ezuoju Chufang"
       },
       {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Sansan de Ezuoju Chufang"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "三三的恶作剧厨房"
@@ -529746,6 +529806,21 @@
         "type": 4,
         "language": "ja",
         "title": "三国志"
+      }
+    ]
+  },
+  {
+    "id": 20470,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Sanguo de Xingkong"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "三国的星空"
       }
     ]
   },
@@ -538611,6 +538686,21 @@
         "type": 4,
         "language": "ja",
         "title": "シャングリラ・フロンティア ~クソゲーハンター, 神ゲーに挑まんとす~ (2027)"
+      }
+    ]
+  },
+  {
+    "id": 20469,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shanghai Gushi"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "上海故事"
       }
     ]
   },
@@ -548674,6 +548764,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "超級索尼子"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "超级索尼子"
       }
@@ -555856,6 +555951,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "本田小狼与我"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "本田小狼與我"
       }
     ]
   },
@@ -591626,6 +591726,21 @@
         "type": 4,
         "language": "ja",
         "title": "夢見童子"
+      }
+    ]
+  },
+  {
+    "id": 20468,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yumene Connect"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ゆめねこねくと"
       }
     ]
   },
