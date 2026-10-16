@@ -95201,6 +95201,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "魔力女仆真幌"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "魔力女管家"
       }
     ]
   },
@@ -165653,6 +165658,11 @@
         "title": "Shen Diao Xia Lu II: Xie Dan Qi Jing"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Shin Chou Kyou Ryo: Condor Hero II"
+      },
+      {
         "type": 4,
         "language": "zh",
         "title": "神鵰俠侶 II 襄陽風雲"
@@ -173896,6 +173906,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "Chiramune S2"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Chitose Is in the Ramune Bottle (2026)"
       },
       {
         "type": 1,
@@ -203645,6 +203660,21 @@
     ]
   },
   {
+    "id": 20478,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Dali Si Rizhi 3"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "大理寺日志 第3季"
+      }
+    ]
+  },
+  {
     "id": 1468,
     "titles": [
       {
@@ -219106,11 +219136,6 @@
         "type": 2,
         "language": "x-jat",
         "title": "Shikkakumon no Saikyou Kenja"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Shikkakumon no Saikyoukenja"
       },
       {
         "type": 2,
@@ -356390,6 +356415,21 @@
     ]
   },
   {
+    "id": 20473,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Huhuan Shaonu Te Bie Pian: Xiang Zuo de Shi Daodi Shi Shenme"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "呼唤少女 特别篇 想做的事到底是什么"
+      }
+    ]
+  },
+  {
     "id": 15829,
     "titles": [
       {
@@ -435553,6 +435593,11 @@
         "title": "Luck & Logic"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Luck & Logic"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Luck and Logic"
@@ -444181,6 +444226,11 @@
         "type": 4,
         "language": "ja",
         "title": "まほろまてぃっく Automatic Maiden ~もっと美しいもの~"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "魔力女管家 ～更美麗的事物～"
       }
     ]
   },
@@ -444221,6 +444271,11 @@
         "type": 4,
         "language": "ja",
         "title": "まほろまてぃっく ただいま◇おかえり"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "魔力女管家 特別篇 我回來了◆歡迎回家"
       },
       {
         "type": 4,
@@ -538605,26 +538660,6 @@
     ]
   },
   {
-    "id": 16041,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Shan He Jian Xin"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Thousand Autumns"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "山河剑心"
-      }
-    ]
-  },
-  {
     "id": 14766,
     "titles": [
       {
@@ -538761,6 +538796,26 @@
         "type": 4,
         "language": "ja",
         "title": "シャングリラ"
+      }
+    ]
+  },
+  {
+    "id": 16041,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shanhe Jian Xin"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Thousand Autumns"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "山河剑心"
       }
     ]
   },
@@ -538931,6 +538986,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "少年白马醉春风 第二季"
+      }
+    ]
+  },
+  {
+    "id": 20471,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shaonian Ge Xing: Nanming Li Huo"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "少年歌行之南明离火"
       }
     ]
   },
@@ -539891,6 +539961,21 @@
         "type": 1,
         "language": "zh-Hans",
         "title": "Shi Hang"
+      }
+    ]
+  },
+  {
+    "id": 20472,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shi Shaoxia Ganjue Hao Gudan"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "石少侠感觉好孤单"
       }
     ]
   },
@@ -543589,6 +543674,11 @@
       },
       {
         "type": 2,
+        "language": "x-zht",
+        "title": "Shishang Zui Qiang Nan Zhujue"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "The Strongest Male Hero Ever"
       },
@@ -545341,6 +545431,21 @@
         "type": 4,
         "language": "ja",
         "title": "シュンマオ物語 タオタオ"
+      }
+    ]
+  },
+  {
+    "id": 20474,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Shuo Feng: Po Zhen Zi"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "朔风—破阵子"
       }
     ]
   },
@@ -561973,6 +562078,11 @@
         "title": "Te Ke Dong Ji Pian"
       },
       {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Ti Ke: Dong Ji Pian"
+      },
+      {
         "type": 4,
         "language": "zh",
         "title": "缇可 冬季篇"
@@ -565970,17 +566080,17 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "The Fable 2"
+        "title": "The Fable (2027)"
       },
       {
         "type": 2,
         "language": "en",
-        "title": "The Fable 2"
+        "title": "The Fable (2027)"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "ザ・ファブル 2"
+        "title": "ザ・ファブル (2027)"
       }
     ]
   },
@@ -582820,6 +582930,21 @@
     ]
   },
   {
+    "id": 20475,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Waluolan Xiao Zhen"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "瓦洛兰小镇"
+      }
+    ]
+  },
+  {
     "id": 8385,
     "titles": [
       {
@@ -582996,6 +583121,36 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "万界仙踪 第五季"
+      }
+    ]
+  },
+  {
+    "id": 20476,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wan Jie Zhizun"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "万界至尊"
+      }
+    ]
+  },
+  {
+    "id": 20477,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wan Jie Zhizun Di Er Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "万界至尊 第二季"
       }
     ]
   },
