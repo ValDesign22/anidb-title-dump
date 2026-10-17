@@ -21023,6 +21023,11 @@
         "title": "チャイニーズ・ゴースト・ストーリー スーシン"
       },
       {
+        "type": 2,
+        "language": "ja",
+        "title": "チャイニーズゴーストストーリー小倩"
+      },
+      {
         "type": 4,
         "language": "zh-Hant",
         "title": "小倩"
@@ -22781,6 +22786,26 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "君望永远"
+      }
+    ]
+  },
+  {
+    "id": 15199,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "A Fairy Tales of Tibet"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xiao Zhuoma"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "小卓玛"
       }
     ]
   },
@@ -171353,6 +171378,11 @@
         "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life o Ouka Suru. Ore wa Buki dake Janaku,  Arayuru Mono ni \"Kyouka Point\" o Fuyo Dekirushi, Ore no Ishi de Itsu demo Kouka o Kaijo Dekiru Kedo, Nokotta Hitotachi Daijoubu?"
@@ -173870,6 +173900,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Chitose Is in the Ramune Bottle"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "Chitose Is in the Ramune Bottle"
       },
       {
@@ -200865,41 +200900,6 @@
     ]
   },
   {
-    "id": 15514,
-    "titles": [
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Da Li Si Rizhi"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Dali Si Rizhi"
-      },
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Dalisi Rizhi"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Journal of Dali Temple"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "White Cat Legend"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "大理寺日志"
-      }
-    ]
-  },
-  {
     "id": 17853,
     "titles": [
       {
@@ -200913,14 +200913,14 @@
         "title": "Dali Si Rizhi 2"
       },
       {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Dali Si Rizhi Er"
-      },
-      {
         "type": 2,
         "language": "x-zht",
         "title": "Dalisi Rizhi 2"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Dalisi Rizhi Er"
       },
       {
         "type": 2,
@@ -200956,6 +200956,56 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "大理寺日志第二季"
+      }
+    ]
+  },
+  {
+    "id": 20478,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Da Li Si Rizhi 3rd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Dali Si Rizhi 3"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Dalisi Rizhi 3"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Journal of Dali Temple 3"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "White Cat Legend Season 3"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "大理寺日志 叁"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "大理寺日志 第3季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "大理寺日志 第三季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "大理寺日志3"
       }
     ]
   },
@@ -203660,17 +203710,27 @@
     ]
   },
   {
-    "id": 20478,
+    "id": 15514,
     "titles": [
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Dali Si Rizhi 3"
+        "title": "Dalisi Rizhi"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Journal of Dali Temple"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "White Cat Legend"
       },
       {
         "type": 4,
         "language": "zh-Hans",
-        "title": "大理寺日志 第3季"
+        "title": "大理寺日志"
       }
     ]
   },
@@ -207466,11 +207526,6 @@
         "type": 1,
         "language": "x-jat",
         "title": "Dark Summoner to Dekite Iru"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Dark Summoner to Dekiteiru"
       },
       {
         "type": 2,
@@ -242799,6 +242854,16 @@
       },
       {
         "type": 2,
+        "language": "x-zht",
+        "title": "Dushi Gu Xian Yi"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Dushi Guxianyi"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "Immortal Doctor In Modern City"
       },
@@ -242816,6 +242881,36 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "都市古仙医"
+      }
+    ]
+  },
+  {
+    "id": 20487,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Du Shi Gu Xian Yi 2nd Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Dushi Gu Xian Yi 2nd Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Dushi Gu Xian Yi Di 2 Ji"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Urban Miracle Doctor Season 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "都市古仙医 第2季"
       }
     ]
   },
@@ -334410,6 +334505,26 @@
     ]
   },
   {
+    "id": 20480,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Happy Kanako`s Killer Life"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shiawase Kanako no Koroshiya Seikatsu"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "幸せカナコの殺し屋生活"
+      }
+    ]
+  },
+  {
     "id": 8244,
     "titles": [
       {
@@ -361221,6 +361336,11 @@
         "type": 2,
         "language": "en",
         "title": "I`m Joybo OVA"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Wo Shi Jiang Xiaobai Episode 13"
       },
       {
         "type": 2,
@@ -426738,6 +426858,11 @@
         "title": "Legend of Soldier"
       },
       {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xiao Bing Chuanqi"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Xiaobing Chuanqi"
@@ -458828,6 +458953,11 @@
         "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!"
+      },
+      {
         "type": 2,
         "language": "x-jat",
         "title": "Saikyosoubi"
@@ -464854,6 +464984,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs"
+      },
+      {
+        "type": 4,
         "language": "ru",
         "title": "В симуляторе свиданий: Нелёгкая жизнь мобов в мире отомэ-игр"
       },
@@ -464901,6 +465036,11 @@
         "type": 4,
         "language": "en",
         "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs 2"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs Staffel 2"
       },
       {
         "type": 3,
@@ -497683,6 +497823,11 @@
         "title": "Overgeared"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "Overgeared"
+      },
+      {
         "type": 2,
         "language": "x-jat",
         "title": "Tempal - Item no Chikara"
@@ -519436,6 +519581,11 @@
         "type": 2,
         "language": "en",
         "title": "Reincarnated as a Sword Season 2"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "tenken s2"
       },
       {
         "type": 1,
@@ -561321,6 +561471,16 @@
         "type": 4,
         "language": "ja",
         "title": "タヌキとキツネ (2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "小狸猫与小狐狸"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "小狸貓和小狐狸"
       }
     ]
   },
@@ -585370,6 +585530,21 @@
     ]
   },
   {
+    "id": 20479,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wo Jia Yezhu Hui Zuo Yao"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "我家业主会作妖"
+      }
+    ]
+  },
+  {
     "id": 20227,
     "titles": [
       {
@@ -585396,6 +585571,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "我是不白吃"
+      }
+    ]
+  },
+  {
+    "id": 20482,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wo Yeye"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "我爷爷"
       }
     ]
   },
@@ -585915,6 +586105,21 @@
     ]
   },
   {
+    "id": 20481,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wu Di de Zuqiu"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "吴狄的足球"
+      }
+    ]
+  },
+  {
     "id": 16498,
     "titles": [
       {
@@ -586026,6 +586231,36 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "巫人神傳說"
+      }
+    ]
+  },
+  {
+    "id": 20484,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wu Sheng Guan Gong"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "武圣关公"
+      }
+    ]
+  },
+  {
+    "id": 20483,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wu Tian Yu Shang 2035"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "无天于上2035"
       }
     ]
   },
@@ -586978,6 +587213,11 @@
         "title": "Xiao Bei Liu Lang Ji"
       },
       {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xiao Bei Liulang Ji"
+      },
+      {
         "type": 4,
         "language": "ar",
         "title": "كيتي بي"
@@ -586986,6 +587226,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "小贝流浪记"
+      }
+    ]
+  },
+  {
+    "id": 20486,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xiao Cangshu Di Di de Chi Bo Richang"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "小仓鼠笛笛的吃播日常"
       }
     ]
   },
@@ -587050,6 +587305,21 @@
     ]
   },
   {
+    "id": 20485,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xiao Lin Kung Fu"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "笑林功夫"
+      }
+    ]
+  },
+  {
     "id": 14834,
     "titles": [
       {
@@ -587096,21 +587366,6 @@
         "type": 4,
         "language": "zh",
         "title": "小太極"
-      }
-    ]
-  },
-  {
-    "id": 15199,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Xiao Zhuoma"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "小卓玛"
       }
     ]
   },
@@ -591850,6 +592105,31 @@
     ]
   },
   {
+    "id": 20468,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "yumeconne"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yumene Connect"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "ゆめこね"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ゆめねこねくと"
+      }
+    ]
+  },
+  {
     "id": 9392,
     "titles": [
       {
@@ -591881,21 +592161,6 @@
         "type": 4,
         "language": "ja",
         "title": "夢見童子"
-      }
-    ]
-  },
-  {
-    "id": 20468,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Yumene Connect"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ゆめねこねくと"
       }
     ]
   },
