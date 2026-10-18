@@ -9916,6 +9916,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "我立于百万生命之上 第二季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "我立於百萬生命之上 第二季"
       }
     ]
   },
@@ -16411,6 +16416,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "七大罪 圣战的预兆"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "七大罪 聖戰的預兆"
       }
     ]
   },
@@ -19051,6 +19061,31 @@
         "type": 4,
         "language": "ja",
         "title": "骨嚙み"
+      }
+    ]
+  },
+  {
+    "id": 15125,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "A Blind Girl and Two Foxes"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Mang Nu Yu Huli"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Blind Girl and the Foxes"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "盲女与狐狸"
       }
     ]
   },
@@ -22778,6 +22813,11 @@
         "title": "你所期望的永远"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "你所期望的永遠"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "君が望む永遠"
@@ -24436,6 +24476,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "大图书馆的牧羊人"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "大圖書館的牧羊人"
       }
     ]
   },
@@ -27416,6 +27461,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "寻找失去的未来"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "尋找失去的未來"
       }
     ]
   },
@@ -37286,6 +37336,16 @@
         "type": 4,
         "language": "ja",
         "title": "エイリアン9"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "校園外星人"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "異形特攻學園"
       }
     ]
   },
@@ -40330,6 +40390,11 @@
       {
         "type": 4,
         "language": "zh",
+        "title": "加速世界 INFINITE BURST"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "加速世界 INFINITE BURST"
       }
     ]
@@ -71351,6 +71416,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "动画同好会"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "動畫同好會"
       }
     ]
   },
@@ -73376,6 +73446,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Another World"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "ANOTHER WORLD"
       },
       {
         "type": 4,
@@ -117479,6 +117554,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "龍與雀斑公主"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "龙与雀斑公主"
       }
@@ -134656,6 +134736,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "亡念的扎穆德"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "亡念的札姆德"
       }
     ]
   },
@@ -165285,6 +165370,11 @@
       {
         "type": 4,
         "language": "zh",
+        "title": "Code Geass 復活的魯路修"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "Code Geass 復活的魯路修"
       },
       {
@@ -200983,6 +201073,11 @@
         "title": "The Journal of Dali Temple 3"
       },
       {
+        "type": 4,
+        "language": "en",
+        "title": "White Cat Legend 3"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "White Cat Legend Season 3"
@@ -205306,6 +205401,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "弹丸论破3 -The End of 希望之峰学园- 希望篇"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "槍彈辯駁3 The End of 希望峰學園 希望篇"
       }
     ]
   },
@@ -228203,6 +228303,11 @@
         "title": "Dimension W"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Dimension W 維度戰記"
+      },
+      {
         "type": 2,
         "language": "bg",
         "title": "Измерение W"
@@ -241141,6 +241246,36 @@
         "type": 4,
         "language": "ja",
         "title": "Dream"
+      }
+    ]
+  },
+  {
+    "id": 16692,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Dream Academy Season 5"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Menghuan Shuyuan Di Wu Ji"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Menghuan Shuyuan: Kexue Xiao Jizhe"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "梦幻书院 第五季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "梦幻书院之科学小记者"
       }
     ]
   },
@@ -261696,6 +261831,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "这个丑陋与美丽的世界"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "醜陋美世界"
       }
     ]
   },
@@ -277379,6 +277519,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "鋼之鍊金術師 嘆息之丘的聖星"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "钢之炼金术师 叹息之丘的圣星"
       }
@@ -290461,6 +290606,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "伽利略少女"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "伽利略少女"
       }
     ]
   },
@@ -295996,6 +296146,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "剧偶像"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "演劇偶像"
       }
     ]
   },
@@ -305254,6 +305409,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "星期一的豐滿 第二季"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "月曜日のたわわ2"
       }
@@ -312821,6 +312981,11 @@
         "type": 2,
         "language": "ja",
         "title": "星の声"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "星之聲"
       }
     ]
   },
@@ -315026,6 +315191,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "狼神隐"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "神秘大失蹤"
       },
       {
         "type": 4,
@@ -322801,6 +322971,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "豹头王传说"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "豹頭王傳奇"
       }
     ]
   },
@@ -334226,6 +334401,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "向阳素描×蜂窝"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "向陽素描×蜂窩"
       }
     ]
   },
@@ -339534,6 +339714,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "平家物語"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "平家物语"
       }
@@ -342236,6 +342421,11 @@
         "type": 4,
         "language": "it",
         "title": "Hello World"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "HELLO WORLD"
       },
       {
         "type": 4,
@@ -344966,6 +345156,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "向阳素描"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "向陽素描"
       }
     ]
   },
@@ -345001,6 +345196,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "向阳素描 沙英・寻 毕业篇"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "向陽素描 沙英．尋 畢業篇"
       }
     ]
   },
@@ -345046,6 +345246,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "向阳素描×365"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "向陽素描×365"
       }
     ]
   },
@@ -345086,6 +345291,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "向阳素描×☆☆☆"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "向陽素描×☆☆☆"
       }
     ]
   },
@@ -345131,6 +345341,11 @@
         "type": 6,
         "language": "ja",
         "title": "ひだまりスケッチxSP[すぺっしゃる]"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "向陽素描×SP"
       }
     ]
   },
@@ -354706,6 +354921,11 @@
         "type": 4,
         "language": "ja",
         "title": "蛍火の杜へ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "螢火之森"
       }
     ]
   },
@@ -372326,6 +372546,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "犬神同学和猫山同学"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "犬神同學與貓山同學"
       }
     ]
   },
@@ -390916,6 +391141,11 @@
         "type": 2,
         "language": "zh",
         "title": "神是中學生"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "神樣中學生"
       }
     ]
   },
@@ -399251,6 +399481,11 @@
         "type": 2,
         "language": "ru",
         "title": "Беспокойные сердца OVA"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "你所期望的永遠 ~Next Season~"
       },
       {
         "type": 4,
@@ -415240,6 +415475,21 @@
     ]
   },
   {
+    "id": 20493,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Kuaile Xing Mao"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "快乐星猫"
+      }
+    ]
+  },
+  {
     "id": 16674,
     "titles": [
       {
@@ -419956,6 +420206,11 @@
         "type": 4,
         "language": "ja",
         "title": "龍の歯医者"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "龍的牙醫"
       },
       {
         "type": 4,
@@ -426475,7 +426730,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Xing Chen Bian"
+        "title": "Xingchen  Bian"
       },
       {
         "type": 2,
@@ -427306,6 +427561,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Leiting Shiming Lianhe Xingdong"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Thunder Mission"
       },
       {
         "type": 4,
@@ -428726,6 +428986,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "夏日大作战"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "夏日大作戰"
       }
     ]
   },
@@ -429676,6 +429941,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Liar Game"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "LIAR GAME - 詐欺遊戲"
       },
       {
         "type": 2,
@@ -432904,6 +433174,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "長騎美眉"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "长骑美眉"
       }
@@ -433701,6 +433976,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "失忆煽动WIXOSS"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "失憶煽動WIXOSS"
       }
     ]
   },
@@ -449550,26 +449830,6 @@
     ]
   },
   {
-    "id": 15125,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Mang Nu Yu Huli"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Blind Girl and the Foxes"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "盲女与狐狸"
-      }
-    ]
-  },
-  {
     "id": 8579,
     "titles": [
       {
@@ -452296,6 +452556,11 @@
         "type": 4,
         "language": "ja",
         "title": "ましろ色シンフォニー -The color of lovers-"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "純白交響曲"
       },
       {
         "type": 4,
@@ -455189,6 +455454,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "最強學生會長"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "最强会长黑神"
       }
@@ -456156,6 +456426,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Mei Ying Dai Leyuan"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Mein Family Daily"
       },
       {
         "type": 4,
@@ -457631,26 +457906,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "梦幻书院 第四季"
-      }
-    ]
-  },
-  {
-    "id": 16692,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Menghuan Shuyuan Di Wu Ji"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "梦幻书院 第五季"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "梦幻书院之科学小记者"
       }
     ]
   },
@@ -460686,6 +460941,11 @@
         "type": 4,
         "language": "ja",
         "title": "俺物語!!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "俺物語！！"
       },
       {
         "type": 4,
@@ -468791,6 +469051,11 @@
         "type": 4,
         "language": "ja",
         "title": "ラーメン大好き小泉さん"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "愛吃拉麵的小泉同學"
       },
       {
         "type": 4,
@@ -479806,6 +480071,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "捏造陷阱"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "捏造陷阱 -NTR-"
       }
     ]
   },
@@ -486543,6 +486813,11 @@
         "title": "Null & Peta"
       },
       {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "Null & Peta"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Null Peta"
@@ -487486,6 +487761,11 @@
         "type": 2,
         "language": "ja",
         "title": "オカルティック・ナイン"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "超自然9人組"
       },
       {
         "type": 4,
@@ -515799,6 +516079,11 @@
       },
       {
         "type": 2,
+        "language": "zh-Hant",
+        "title": "翼神世音"
+      },
+      {
+        "type": 2,
         "language": "zh",
         "title": "翼神传说"
       },
@@ -515846,6 +516131,11 @@
         "type": 4,
         "language": "ja",
         "title": "ラーゼフォン 多元変奏曲"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "翼神世音 多元變奏曲"
       },
       {
         "type": 4,
@@ -516151,6 +516441,11 @@
         "type": 2,
         "language": "en",
         "title": "Rainbow Sea"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xing You Ji"
       },
       {
         "type": 1,
@@ -522161,6 +522456,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "萝球社！"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "蘿球社！"
       }
     ]
   },
@@ -522226,6 +522526,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "萝球社！SS"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "蘿球社！SS"
       }
     ]
   },
@@ -558241,6 +558546,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "暗与帽子与书之旅人"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "闇與帽子與書的旅人"
       }
     ]
   },
@@ -559571,6 +559881,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "情热传说 The X"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "時空幻境 熱情傳奇 THE X"
       }
     ]
   },
@@ -560426,6 +560741,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "宵星传说～首鸣～"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "時空幻境 宵星傳奇〜The First Strike〜"
       }
     ]
   },
@@ -560501,6 +560821,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "情热传说 the X 第二季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "時空幻境 熱情傳奇 THE X 第二季"
       }
     ]
   },
@@ -560536,6 +560861,11 @@
         "type": 4,
         "language": "ja",
         "title": "テイルズ オブ ゼスティリア ~導師の夜明け~"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "時空幻境 熱情傳奇 ～導師的黎明～"
       }
     ]
   },
@@ -582761,6 +583091,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "若叶女孩"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "若葉女孩"
       }
     ]
   },
@@ -587395,6 +587730,36 @@
     ]
   },
   {
+    "id": 20494,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xin Weiqi Shaonian"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "新围棋少年"
+      }
+    ]
+  },
+  {
+    "id": 20489,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xin Xiyou Lixian Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "新西游历险记"
+      }
+    ]
+  },
+  {
     "id": 16438,
     "titles": [
       {
@@ -587411,6 +587776,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "星骸骑士 下半季"
+      }
+    ]
+  },
+  {
+    "id": 20492,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xing Mao Li Xian Ji Shu Fa Pian"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "星猫历险记之书法篇"
       }
     ]
   },
@@ -587441,6 +587821,51 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "星游记之风暴法米拉"
+      }
+    ]
+  },
+  {
+    "id": 20488,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xing You Ji: Fengbao Famila 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "星游记之风暴法米拉2"
+      }
+    ]
+  },
+  {
+    "id": 20491,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xing Yuan Zhi Jing"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "星渊之境"
+      }
+    ]
+  },
+  {
+    "id": 20490,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xingji Biaoche Wang"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "星际飚车王"
       }
     ]
   },
@@ -591221,6 +591646,11 @@
         "type": 4,
         "language": "ja",
         "title": "遊☆戯☆王 THE DARK SIDE OF DIMENSIONS"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "遊戲王 次元的黑暗面"
       }
     ]
   },
