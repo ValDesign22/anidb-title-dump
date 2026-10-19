@@ -7461,6 +7461,11 @@
         "type": 4,
         "language": "ja",
         "title": "#ゾンビさがしてます"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "#尋找殭屍中"
       }
     ]
   },
@@ -25466,6 +25471,11 @@
         "type": 4,
         "language": "ja",
         "title": "ロメリア戦記"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "羅梅莉亞戰記"
       }
     ]
   },
@@ -32201,6 +32211,11 @@
         "type": 4,
         "language": "ja",
         "title": "帰還者の魔法は特別です (2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "重生者的魔法一定要特別 第二季"
       }
     ]
   },
@@ -36076,6 +36091,11 @@
         "type": 4,
         "language": "ja",
         "title": "野生のラスボスが現れた! (2026)"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "野生的大魔王出現了！第2季"
       }
     ]
   },
@@ -65681,6 +65701,11 @@
         "type": 4,
         "language": "ja",
         "title": "天は赤い河のほとり"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "赤河戀影"
       }
     ]
   },
@@ -114286,6 +114311,11 @@
         "type": 4,
         "language": "ja",
         "title": "ブラッククローバー 2nd Season"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "黑色五葉草 Season 2"
       }
     ]
   },
@@ -118151,6 +118181,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Beng Huai Xing He"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Beng Huai Xinghe"
       },
       {
         "type": 2,
@@ -150866,6 +150901,11 @@
         "type": 1,
         "language": "x-kot",
         "title": "Byeolnala Samchongsa"
+      },
+      {
+        "type": 2,
+        "language": "de",
+        "title": "Die 3 Musketiere im Weltraum"
       },
       {
         "type": 4,
@@ -184321,6 +184361,11 @@
         "type": 4,
         "language": "ja",
         "title": "マウスカーソルで現実を操作できるようになったので, 女の子をいっぱいクリックしまーす"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "滑鼠游標好像變得能操控現實，那我要點瘋狂點擊女孩子"
       }
     ]
   },
@@ -207636,6 +207681,11 @@
         "type": 4,
         "language": "ja",
         "title": "ダークサモナーとデキている"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "與暗黑召喚師秘密戀愛中"
       }
     ]
   },
@@ -239936,6 +239986,11 @@
         "type": 4,
         "language": "ja",
         "title": "ドラゴンボール超 ビルス"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "七龍珠超：比魯斯"
       }
     ]
   },
@@ -282511,6 +282566,11 @@
         "type": 4,
         "language": "ja",
         "title": "信者ゼロの女神サマと始める異世界攻略"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "和沒有信徒的女神大人一起攻略異世界"
       }
     ]
   },
@@ -286576,6 +286636,11 @@
         "type": 4,
         "language": "ja",
         "title": "FX戦士くるみちゃん"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "FX戰士久留美"
       }
     ]
   },
@@ -334693,9 +334758,19 @@
         "title": "Happy Kanako`s Killer Life"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "kanakoro"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Shiawase Kanako no Koroshiya Seikatsu"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "カナコロ"
       },
       {
         "type": 4,
@@ -350193,6 +350268,11 @@
         "title": "The Shy Snow Woman and the Cursed Ring"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "不擅交際的未亡人雪女與詛咒戒指"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪"
@@ -355016,6 +355096,11 @@
         "type": 4,
         "language": "ja",
         "title": "ホテル・インヒューマンズ (2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "殺手旅店 第2季"
       }
     ]
   },
@@ -392703,6 +392788,11 @@
         "title": "カノトモ"
       },
       {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "女友的朋友"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "彼女の友達"
@@ -407321,6 +407411,11 @@
         "type": 4,
         "language": "ja",
         "title": "傷だらけ聖女より報復をこめて Season2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "黑化吧！聖女大人 第二季"
       }
     ]
   },
@@ -413086,6 +413181,11 @@
         "type": 4,
         "language": "en",
         "title": "The Ramparts of Ice (2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "冰之城牆 第2季"
       },
       {
         "type": 4,
@@ -427221,6 +427321,11 @@
         "type": 1,
         "language": "x-zht",
         "title": "Piaomiao Jian Xian Chuan"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Piaomiao Jian Xian Zhuan"
       },
       {
         "type": 4,
@@ -442746,6 +442851,11 @@
         "type": 4,
         "language": "ja",
         "title": "魔法少女育成計画 restart"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "魔法少女育成計畫 restart"
       }
     ]
   },
@@ -451696,6 +451806,11 @@
         "type": 4,
         "language": "ja",
         "title": "マロニエ王国の七人の騎士"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "七葉樹王國的七名騎士"
       }
     ]
   },
@@ -486840,6 +486955,26 @@
     ]
   },
   {
+    "id": 20495,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Null Meta"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Nurumeta"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ぬるめた"
+      }
+    ]
+  },
+  {
     "id": 10899,
     "titles": [
       {
@@ -513959,6 +514094,11 @@
       },
       {
         "type": 2,
+        "language": "x-zht",
+        "title": "Qiche Ren Zongdongyuan"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "The Autobots"
       },
@@ -519901,6 +520041,11 @@
         "type": 4,
         "language": "ja",
         "title": "転生したら剣でしたII"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "轉生就是劍 第二季"
       },
       {
         "type": 4,
@@ -531666,6 +531811,11 @@
         "type": 4,
         "language": "ja",
         "title": "佐々木とピーちゃん Season 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "佐佐木與文鳥小嗶 Season 2"
       }
     ]
   },
@@ -537316,6 +537466,11 @@
         "type": 2,
         "language": "ja",
         "title": "戦車椅子"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "戰車椅子-TANK CHAIR-"
       }
     ]
   },
