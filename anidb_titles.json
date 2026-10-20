@@ -207678,6 +207678,11 @@
         "title": "I`m Dating a Dark Summoner"
       },
       {
+        "type": 2,
+        "language": "pt",
+        "title": "Namoro com uma Invocadora das Trevas"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ダークサモナーとデキている"
@@ -303575,6 +303580,21 @@
     ]
   },
   {
+    "id": 20496,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gelpiyo (2026)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ゲルぴよ (2026)"
+      }
+    ]
+  },
+  {
     "id": 14359,
     "titles": [
       {
@@ -354961,6 +354981,11 @@
         "type": 2,
         "language": "en",
         "title": "Into the Forest of Fireflies` Light"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "To the Forest of Firefly Lights"
       },
       {
         "type": 4,
