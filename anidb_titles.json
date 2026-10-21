@@ -7080,6 +7080,21 @@
     ]
   },
   {
+    "id": 20497,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "「アニメガタリ」×「攻殻機動隊 新劇場版」コラボ映像"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Animegatari x Koukaku Kidoutai Collab Eizou"
+      }
+    ]
+  },
+  {
     "id": 1028,
     "titles": [
       {
@@ -183818,6 +183833,11 @@
         "title": "cote s3"
       },
       {
+        "type": 2,
+        "language": "pt",
+        "title": "Turma de Elite 3.ª Temporada"
+      },
+      {
         "type": 3,
         "language": "x-jat",
         "title": "youjitsu s3"
@@ -184346,6 +184366,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Mouse Cursor de Genjitsu o Sousa Dekiru You ni Natta no de, Onnanoko o Ippai Click Shima~su"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu"
       },
       {
         "type": 2,
@@ -287430,6 +287455,21 @@
     ]
   },
   {
+    "id": 20498,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "G2.5"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "G2.5"
+      }
+    ]
+  },
+  {
     "id": 108,
     "titles": [
       {
@@ -305111,6 +305151,11 @@
         "type": 2,
         "language": "en",
         "title": "Suikoden: The Anime"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "幻想水浒传"
       },
       {
         "type": 4,
@@ -388140,6 +388185,11 @@
       {
         "type": 4,
         "language": "en",
+        "title": "Kaiju Girl Caramelise"
+      },
+      {
+        "type": 4,
+        "language": "de",
         "title": "Kaiju Girl Caramelise"
       },
       {
