@@ -126840,6 +126840,21 @@
     ]
   },
   {
+    "id": 20499,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Bishoujo Senshi Sailor Moon S: Kotaete Moon Call!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "美少女戦士セーラームーンS こたえてムーンコール!"
+      }
+    ]
+  },
+  {
     "id": 2540,
     "titles": [
       {
@@ -279830,6 +279845,56 @@
     ]
   },
   {
+    "id": 18928,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Fox Spirit Matchmaker 13th Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Fox Spirit Matchmaker Season 13"
+      },
+      {
+        "type": 3,
+        "language": "en",
+        "title": "fsm s13"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Hu Yao Xiao Hongniang: Huang Feng Ling Pian"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Huyao Xiao Hongniang 13: Huang Feng Ling Pian"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Huyao Xiao Hongniang 13th Season"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "狐妖小红娘 第十三季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "狐妖小红娘 黄风岭篇"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "狐妖小红娘13 黄风岭篇"
+      }
+    ]
+  },
+  {
     "id": 16616,
     "titles": [
       {
@@ -279856,36 +279921,6 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "狐妖小红娘9 沐天城篇"
-      }
-    ]
-  },
-  {
-    "id": 18928,
-    "titles": [
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Fox Spirit Matchmaker Season 13"
-      },
-      {
-        "type": 3,
-        "language": "en",
-        "title": "fsm s13"
-      },
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Hu Yao Xiao Hongniang: Huang Feng Ling Pian"
-      },
-      {
-        "type": 2,
-        "language": "x-zht",
-        "title": "Huyao Xiao Hongniang 13: Huang Feng Ling Pian"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "狐妖小红娘 黄风岭篇"
       }
     ]
   },
@@ -282601,6 +282636,11 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "和沒有信徒的女神大人一起攻略異世界"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "和没有信徒的女神大人一起攻略异世界"
       }
     ]
   },
@@ -302726,6 +302766,11 @@
         "type": 4,
         "language": "ja",
         "title": "劇場版 転生したらスライムだった件 蒼海の涙編"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "劇場版 關於我轉生變成史萊姆這檔事 蒼海之淚篇"
       }
     ]
   },
@@ -555021,6 +555066,11 @@
         "type": 4,
         "language": "ja",
         "title": "スティール・ボール・ラン ジョジョの奇妙な冒険"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "飆馬野郎 JOJO 的奇妙冒險"
       }
     ]
   },
@@ -579114,6 +579164,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "悠哉賽馬娘"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "马娘摇曳"
       }
@@ -579131,6 +579186,11 @@
         "type": 4,
         "language": "ja",
         "title": "うまゆるふるげ〜と!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "悠哉賽馬娘Full Gate！"
       }
     ]
   },
