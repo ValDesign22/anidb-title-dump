@@ -32139,6 +32139,11 @@
       },
       {
         "type": 4,
+        "language": "th",
+        "title": "กาดำแห่งวังชั้นใน"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "后宫之乌"
       },
@@ -251048,6 +251053,11 @@
         "title": "Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsu"
       },
       {
+        "type": 3,
+        "language": "x-jat",
+        "title": "konosuba movie"
+      },
+      {
         "type": 4,
         "language": "pt",
         "title": "Konosuba: A Bênção de Deus Para Este Maravilhoso Mundo! - Lenda Carmesim"
@@ -279876,6 +279886,11 @@
         "type": 2,
         "language": "x-zht",
         "title": "Huyao Xiao Hongniang 13th Season"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "狐妖小红娘 第13季"
       },
       {
         "type": 2,
@@ -399403,6 +399418,11 @@
     "id": 20085,
     "titles": [
       {
+        "type": 4,
+        "language": "en",
+        "title": "KERORO"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Keroro Gunsou (2026)"
@@ -419103,7 +419123,7 @@
         "title": "Nia Liston, a Menina Implacável"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "Nia Liston: The Merciless Maiden"
       },
@@ -470468,6 +470488,11 @@
         "title": "Muramata-san no Aijou"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "무라마타 씨의 애정"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "村又さんの愛情"
@@ -486701,6 +486726,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "NTR Kishi"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "NTR 기사"
       },
       {
         "type": 4,
@@ -593501,6 +593531,16 @@
         "type": 1,
         "language": "x-jat",
         "title": "Yuu-san chi! from Yuu-hachi"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Yuusanchi! from Yuu-hachi"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Yuusanchi! from Yuuhachi"
       },
       {
         "type": 4,
