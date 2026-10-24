@@ -207728,6 +207728,11 @@
         "title": "Namoro com uma Invocadora das Trevas"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Я встречаюсь с тёмным призывателем"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ダークサモナーとデキている"
@@ -288981,6 +288986,11 @@
         "type": 2,
         "language": "en",
         "title": "King of Classroom, Yamazaki"
+      },
+      {
+        "type": 4,
+        "language": "es-419",
+        "title": "Yamazaki, el Rey de la Clase"
       },
       {
         "type": 4,
@@ -414265,6 +414275,26 @@
     ]
   },
   {
+    "id": 20500,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Koukaku Kidoutai (Shinsaku Animation)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Ghost in the Shell (New Animation)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "攻殻機動隊 (新作アニメーション)"
+      }
+    ]
+  },
+  {
     "id": 18316,
     "titles": [
       {
@@ -456140,6 +456170,11 @@
       {
         "type": 2,
         "language": "x-jat",
+        "title": "Rockman Hoshi ni Negai wo"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
         "title": "Rockman OVA"
       },
       {
@@ -496433,6 +496468,11 @@
         "title": "Oshiri Tantei (2024)"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Oshiri Tantei Season 8"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "おしりたんてい (2024)"
@@ -496448,9 +496488,34 @@
         "title": "Oshiri Tantei (2025)"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Oshiri Tantei Season 9"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "おしりたんてい (2025)"
+      }
+    ]
+  },
+  {
+    "id": 20501,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Oshiri Tantei (2026)"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Oshiri Tantei Season 10"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "おしりたんてい (2026)"
       }
     ]
   },
