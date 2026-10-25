@@ -21680,11 +21680,6 @@
       {
         "type": 3,
         "language": "x-jat",
-        "title": "hojo mahou"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
         "title": "Hojomaho"
       },
       {
@@ -21701,11 +21696,6 @@
         "type": 4,
         "language": "ja",
         "title": "味方が弱すぎて補助魔法に徹していた宮廷魔法師, 追放されて最強を目指す"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "補助魔法"
       },
       {
         "type": 4,
@@ -28938,11 +28928,6 @@
         "title": "Buchigire Reijou wa Houfuku o Chikaimashita. Madousho no Chikara de Sokoku o Tatakitsubushimasu"
       },
       {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Buchigire Reijou wa Houfuku wo Chikaimashita"
-      },
-      {
         "type": 4,
         "language": "ja",
         "title": "ブチ切れ令嬢は報復を誓いました. ~魔導書の力で祖国を叩き潰します~"
@@ -30331,6 +30316,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "hanaroku"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Hanarokushou ga Akeru Hi ni"
       },
       {
         "type": 4,
@@ -80173,11 +80163,6 @@
     "id": 20020,
     "titles": [
       {
-        "type": 3,
-        "language": "x-jat",
-        "title": "arafo kenja"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Arafoo Kenja no Isekai Seikatsu Nikki"
@@ -80191,11 +80176,6 @@
         "type": 2,
         "language": "en",
         "title": "The Diary of a Middle-Aged Sage`s Carefree Life in Another World"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "アラフォー賢者"
       },
       {
         "type": 4,
@@ -116541,11 +116521,6 @@
         "type": 3,
         "language": "x-jat",
         "title": "shinnoseijo"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "真の聖女"
       },
       {
         "type": 4,
@@ -194553,6 +194528,11 @@
         "title": "Crayon Shin-chan the Movie: Spooky! My Yokai Vacation"
       },
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Crayon Shin-chan: Kikikaikai! Ora no Youkai Bake-shon"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Eiga Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation"
@@ -219906,6 +219886,11 @@
         "type": 4,
         "language": "en",
         "title": "Scum`s Wish"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Тайные желания отвергнутых"
       },
       {
         "type": 4,
@@ -263413,6 +263398,11 @@
         "title": "Even the Student Council Has Its Holes"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "Even the Student Council Has Its Holes"
+      },
+      {
         "type": 3,
         "language": "x-jat",
         "title": "Nama-Anaru"
@@ -263458,19 +263448,9 @@
         "title": "Even Though I`m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiance"
       },
       {
-        "type": 3,
-        "language": "x-jat",
-        "title": "yowaki max"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Yowaki Max Reijou na no ni, Ratsuwan Kon`yakusha-sama no Kake ni Notte Shimatta"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "弱気MAX"
       },
       {
         "type": 4,
@@ -285460,6 +285440,71 @@
     ]
   },
   {
+    "id": 19226,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Futsuka"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Хоть я и бездарная злодейка: Сказка о том, как бабочка и крыса поменялись местами в девичьем дворе"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "我是不才惡女"
+      }
+    ]
+  },
+  {
+    "id": 20407,
+    "titles": [
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Futsuka S2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den (2027)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~ (2027)"
+      }
+    ]
+  },
+  {
     "id": 18717,
     "titles": [
       {
@@ -285486,76 +285531,6 @@
         "type": 2,
         "language": "ja",
         "title": "祓魔少女シャルロット"
-      }
-    ]
-  },
-  {
-    "id": 19226,
-    "titles": [
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "futsutsuka"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Futsutsuka na Akujo dewa Gozaimasu ga"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court"
-      },
-      {
-        "type": 2,
-        "language": "ru",
-        "title": "Хоть я и бездарная злодейка: Сказка о том, как бабочка и крыса поменялись местами в девичьем дворе"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "ふつつか"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "恶女不才，请多关照 ～雏宫蝶鼠换身传～"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hant",
-        "title": "我是不才惡女"
-      }
-    ]
-  },
-  {
-    "id": 20407,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den (2027)"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court (2027)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~ (2027)"
       }
     ]
   },
@@ -292663,9 +292638,24 @@
     "id": 19356,
     "titles": [
       {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Ganso! Bandori-chan"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "GANSO! BanG Dream Chan"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Ganso! Bang Dream-chan"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "GansoBDC"
       },
       {
         "type": 2,
@@ -297826,6 +297816,26 @@
         "type": 4,
         "language": "ja",
         "title": "劇場版 陰の実力者になりたくて! 残響編"
+      }
+    ]
+  },
+  {
+    "id": 19776,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Kaijuu 8 Gou"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Kaiju No. 8 the Movie"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版 怪獣8号"
       }
     ]
   },
@@ -313603,19 +313613,9 @@
         "title": "Go with the Clouds, North-by-Northwest"
       },
       {
-        "type": 3,
-        "language": "x-jat",
-        "title": "hokuhokusei"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Hokuhokusei ni Kumori to Yuke"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "北北西"
       },
       {
         "type": 4,
@@ -322163,6 +322163,16 @@
         "title": "One Slash Through The Heavens"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "One Slash to Cleave the Heavens"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "One Slash to the Heavens"
+      },
+      {
         "type": 1,
         "language": "x-zht",
         "title": "Yi Zhan Cangqiong"
@@ -323071,6 +323081,11 @@
         "type": 4,
         "language": "ja",
         "title": "ギルティホール"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "ギルティホール〜教え子しか指名できない店〜"
       },
       {
         "type": 2,
@@ -333006,6 +333021,11 @@
         "type": 2,
         "language": "en",
         "title": "Hana-Kimi Season 2"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Hana-Kimi Staffel 2"
       },
       {
         "type": 1,
@@ -371128,6 +371148,11 @@
         "title": "淫狱团地"
       },
       {
+        "type": 2,
+        "language": "ja",
+        "title": "淫獄団地"
+      },
+      {
         "type": 4,
         "language": "zh-Hant",
         "title": "淫獄團地"
@@ -388570,21 +388595,6 @@
     ]
   },
   {
-    "id": 19776,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kaijuu 8 Gou Kanketsuhen"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "怪獣8号 完結編"
-      }
-    ]
-  },
-  {
     "id": 17369,
     "titles": [
       {
@@ -393316,61 +393326,6 @@
         "type": 4,
         "language": "ja",
         "title": "かんすけさんとふしぎな自転車"
-      }
-    ]
-  },
-  {
-    "id": 19667,
-    "titles": [
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "kanteishi (kari)"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii Desu yo?"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!"
-      },
-      {
-        "type": 2,
-        "language": "ru",
-        "title": "Похоже, сильнейшая профессия — это не герой или мудрец, а (временный) инспектор?"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "최강의 직업은 용사도 현자도 아닌 감정사(임시)인 것 같은데요?"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "最強の職業は勇者でも賢者でもなく鑑定士 (仮) らしいですよ?"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "最強的職業不是勇者也不是賢者好像是鑑定士（暫定）的樣子"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "最强的职业不是勇者也不是贤者好像是鉴定士(伪)的样子"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "鑑定士（仮）"
       }
     ]
   },
@@ -410288,11 +410243,6 @@
     "id": 19815,
     "titles": [
       {
-        "type": 3,
-        "language": "x-jat",
-        "title": "koi shita hito wa"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Koi Shita Hito wa, Imouto no Kawari ni Shindekure to Itta."
@@ -410301,11 +410251,6 @@
         "type": 2,
         "language": "en",
         "title": "The Person I Loved Asked Me to Die in My Sister`s Stead"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "恋した人は"
       },
       {
         "type": 4,
@@ -419159,6 +419104,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "Nia Liston: The Merciless Maiden"
+      },
+      {
+        "type": 4,
         "language": "ru",
         "title": "Безжалостная леди Ниа Листон: Единственная в своём роде история воительницы-богоубийцы, перевоплотившейся в болезненную аристократку"
       },
@@ -420221,6 +420171,11 @@
         "type": 4,
         "language": "ru",
         "title": "Моя возлюбленная забыла очки"
+      },
+      {
+        "type": 4,
+        "language": "th",
+        "title": "สาวลืมแว่นแสนวุ่นละมุนรัก"
       },
       {
         "type": 4,
@@ -460883,11 +460838,6 @@
     "id": 20180,
     "titles": [
       {
-        "type": 3,
-        "language": "x-jat",
-        "title": "migawari reijou"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Migawari Reijou o Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai Deshita"
@@ -460911,11 +460861,6 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "拯救替身千金的是冷酷無情冰之王子的愛"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "身代わり令嬢"
       },
       {
         "type": 4,
@@ -469878,11 +469823,6 @@
     "id": 19485,
     "titles": [
       {
-        "type": 3,
-        "language": "x-jat",
-        "title": "mujikaku seijo"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara o Tarenagasu"
@@ -469906,11 +469846,6 @@
         "type": 2,
         "language": "en",
         "title": "The Oblivious Saint Can`t Contain Her Power: Forget My Sister! Turns Out I Was the Real Saint All Along!"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "無自覚聖女"
       },
       {
         "type": 4,
@@ -470411,61 +470346,6 @@
         "type": 4,
         "language": "ko",
         "title": "무녀도"
-      }
-    ]
-  },
-  {
-    "id": 16100,
-    "titles": [
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Murabito A"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei Suru"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "The Greatest Demon Lord Is Reborn as a Typical Nobody"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Greatest Maou Is Reborn to Get Friends"
-      },
-      {
-        "type": 4,
-        "language": "ru",
-        "title": "Величайший владыка демонов переродился никем"
-      },
-      {
-        "type": 2,
-        "language": "ru",
-        "title": "Величайший повелитель демонов перерождается как типичное ничтожество"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "史上最強の大魔王, 村人Aに転生する"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "史上最強大魔王轉生為村民A"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "史上最强大魔王重生为村民A"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hant",
-        "title": "史上最强大魔王重生为村民甲"
       }
     ]
   },
@@ -488828,11 +488708,6 @@
     "id": 19981,
     "titles": [
       {
-        "type": 3,
-        "language": "x-jat",
-        "title": "odebu akujo"
-      },
-      {
         "type": 1,
         "language": "x-jat",
         "title": "Odebu Akujo ni Tensei Shitara, Nazeka Last Boss Ouji-sama ni Shuuchaku Sarete Imasu"
@@ -488841,11 +488716,6 @@
         "type": 2,
         "language": "en",
         "title": "The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "おデブ悪女"
       },
       {
         "type": 4,
@@ -525818,11 +525688,6 @@
         "title": "從 0 位居民開始的邊境領主大人"
       },
       {
-        "type": 3,
-        "language": "ja",
-        "title": "領民0"
-      },
-      {
         "type": 4,
         "language": "ja",
         "title": "領民0人スタートの辺境領主様"
@@ -528156,6 +528021,51 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "最强王者的第二人生 第二季"
+      }
+    ]
+  },
+  {
+    "id": 19667,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii Desu yo?"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Похоже, сильнейшая профессия — это не герой или мудрец, а (временный) инспектор?"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "최강의 직업은 용사도 현자도 아닌 감정사(임시)인 것 같은데요?"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "最強の職業は勇者でも賢者でもなく鑑定士 (仮) らしいですよ?"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "最強的職業不是勇者也不是賢者好像是鑑定士（暫定）的樣子"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "最强的职业不是勇者也不是贤者好像是鉴定士(伪)的样子"
       }
     ]
   },
@@ -531939,6 +531849,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "Sasaki and Peeps"
+      },
+      {
+        "type": 4,
         "language": "id",
         "title": "Sasaki dan Pipi"
       },
@@ -531996,6 +531911,11 @@
         "type": 4,
         "language": "en",
         "title": "Sasaki and Peeps Season 2"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Sasaki and Peeps Staffel 2"
       },
       {
         "type": 1,
@@ -534213,6 +534133,11 @@
         "title": "You and I Are Polar Opposites"
       },
       {
+        "type": 4,
+        "language": "de",
+        "title": "You and I Are Polar Opposites"
+      },
+      {
         "type": 2,
         "language": "ru",
         "title": "Ты и я — полные противоположности"
@@ -534256,6 +534181,11 @@
         "type": 2,
         "language": "en",
         "title": "You and I Are Polar Opposites Season 2"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "You and I Are Polar Opposites: Staffel 2"
       },
       {
         "type": 4,
@@ -541741,6 +541671,56 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "时间囚徒之迷雾"
+      }
+    ]
+  },
+  {
+    "id": 16100,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei Suru"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Greatest Demon Lord Is Reborn as a Typical Nobody"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Greatest Maou Is Reborn to Get Friends"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Величайший владыка демонов переродился никем"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Величайший повелитель демонов перерождается как типичное ничтожество"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "史上最強の大魔王, 村人Aに転生する"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "史上最強大魔王轉生為村民A"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "史上最强大魔王重生为村民A"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hant",
+        "title": "史上最强大魔王重生为村民甲"
       }
     ]
   },
