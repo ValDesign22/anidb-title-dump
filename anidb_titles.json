@@ -108875,21 +108875,6 @@
     ]
   },
   {
-    "id": 19918,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Bang Dream! It`s MyGo!!!!! / Ave Mujica"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "BanG Dream! It`s MyGO!!!!! / Ave Mujica"
-      }
-    ]
-  },
-  {
     "id": 19733,
     "titles": [
       {
@@ -108916,6 +108901,21 @@
         "type": 4,
         "language": "ja",
         "title": "BanG Dream! Morfonication"
+      }
+    ]
+  },
+  {
+    "id": 19918,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Bang Dream! MyGo!!!!! // Ave Mujica"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "BanG Dream! MyGO!!!!! // Ave Mujica"
       }
     ]
   },
@@ -241826,6 +241826,26 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "梦色蛋糕师"
+      }
+    ]
+  },
+  {
+    "id": 20503,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Dreaming of a Whale"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kujira o Yumemu"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "鯨を夢む"
       }
     ]
   },
@@ -398020,6 +398040,21 @@
     ]
   },
   {
+    "id": 20502,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kenja Time no Sukkiri Hitozuma Boukenki"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "賢者タイムのスッキリ人妻冒険記"
+      }
+    ]
+  },
+  {
     "id": 7720,
     "titles": [
       {
@@ -403456,6 +403491,26 @@
         "type": 3,
         "language": "zh-Hans",
         "title": "你我战 第二季"
+      }
+    ]
+  },
+  {
+    "id": 20504,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen Season III"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Our Last Crusade or the Rise of a New World Season III"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "キミと僕の最後の戦場, あるいは世界が始まる聖戦 season III"
       }
     ]
   },
