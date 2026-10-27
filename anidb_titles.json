@@ -53894,6 +53894,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "Akane-banashi"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "あかね噺"
       },
@@ -249441,6 +249446,11 @@
         "type": 4,
         "language": "ja",
         "title": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "魔法少女奈葉 EXCEEDS Gun Blaze Vengeance"
       }
     ]
   },
@@ -263466,6 +263476,11 @@
         "type": 4,
         "language": "en",
         "title": "Even Though I`m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiance"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Even Though I`m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé"
       },
       {
         "type": 1,
@@ -374873,6 +374888,11 @@
         "title": "Isekai Office Worker: The Other World`s Books Depend on the Bean Counter"
       },
       {
+        "type": 3,
+        "language": "ja",
+        "title": "いせしゃち"
+      },
+      {
         "type": 4,
         "language": "zh-Hans",
         "title": "异世界的安泰全看社畜"
@@ -433635,7 +433655,7 @@
       {
         "type": 4,
         "language": "uk",
-        "title": "Король Магічних Стріл та Ванадіс"
+        "title": "Лорд Марксмен і Ванадіс"
       },
       {
         "type": 2,
@@ -534246,6 +534266,11 @@
         "type": 4,
         "language": "ja",
         "title": "正反対な君と僕 (2026)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "相反的你和我 第二季"
       }
     ]
   },
@@ -562206,6 +562231,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Tanuki to Kitsune (2026)"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Tanuki to Kitsune (TV)"
       },
       {
         "type": 4,
