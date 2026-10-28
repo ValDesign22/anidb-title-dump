@@ -1509,7 +1509,7 @@
       },
       {
         "type": 2,
-        "language": "zh-Hans",
+        "language": "zh-Hant",
         "title": "再見了，橡果兄弟！"
       },
       {
@@ -36093,6 +36093,11 @@
         "title": "A Wild Last Boss Appeared! Season 2"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Yasei no Last Boss ga Arawareta 2nd Season"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Yasei no Last Boss ga Arawareta! (2026)"
@@ -52214,7 +52219,7 @@
       },
       {
         "type": 4,
-        "language": "zh",
+        "language": "zh-Hans",
         "title": "爱幽的密室"
       }
     ]
@@ -58550,7 +58555,7 @@
       {
         "type": 2,
         "language": "en",
-        "title": "Welcome! to the forest of lewd elves"
+        "title": "Welcome! to the Forest of Lewd Elves"
       },
       {
         "type": 1,
@@ -198514,7 +198519,7 @@
     "titles": [
       {
         "type": 1,
-        "language": "x-jat",
+        "language": "x-kot",
         "title": "Curucuru and Friends"
       },
       {
@@ -243346,6 +243351,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "平行世界物语"
+      }
+    ]
+  },
+  {
+    "id": 20505,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Dual Shadow: Precure Villain Heroines"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "デュアルシャドウ~Precure Villain Heroines~"
       }
     ]
   },
@@ -334765,7 +334785,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Happa no Leaf monogatari"
+        "title": "Happa no Leaf Monogatari"
       },
       {
         "type": 4,
@@ -420808,12 +420828,12 @@
         "title": "Lagrange: The Flower of Rin-ne"
       },
       {
-        "type": 3,
+        "type": 1,
         "language": "x-jat",
         "title": "Rinne no Lagrange"
       },
       {
-        "type": 1,
+        "type": 6,
         "language": "x-jat",
         "title": "Rinne no Lagrange: Flower Declaration of Your Heart"
       },
@@ -420824,6 +420844,11 @@
       },
       {
         "type": 4,
+        "language": "ja",
+        "title": "輪廻のラグランジェ"
+      },
+      {
+        "type": 6,
         "language": "ja",
         "title": "輪廻のラグランジェ Flower declaration of your heart"
       },
@@ -422710,12 +422735,22 @@
       {
         "type": 1,
         "language": "x-jat",
+        "title": "Rinne no Lagrange Season 2"
+      },
+      {
+        "type": 6,
+        "language": "x-jat",
         "title": "Rinne no Lagrange: Flower Declaration of Your Heart - Season 2"
+      },
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "輪廻のラグランジェ Flower declaration of your heart season2"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "輪廻のラグランジェ Flower declaration of your heart season2"
+        "title": "輪廻のラグランジェ season2"
       },
       {
         "type": 4,
@@ -422733,14 +422768,24 @@
         "title": "Lagrange: The Flower of Rin-ne – Kamogawa Days"
       },
       {
-        "type": 1,
+        "type": 6,
         "language": "x-jat",
         "title": "Rinne no Lagrange: Flower Declaration of Your Heart - Kamogawa Days"
       },
       {
-        "type": 4,
+        "type": 1,
+        "language": "x-jat",
+        "title": "Rinne no Lagrange: Kamogawa Days"
+      },
+      {
+        "type": 6,
         "language": "ja",
         "title": "輪廻のラグランジェ Flower declaration of your heart 鴨川デイズ"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "輪廻のラグランジェ 鴨川デイズ"
       }
     ]
   },
@@ -427033,11 +427078,6 @@
         "title": "Xingchen  Bian"
       },
       {
-        "type": 2,
-        "language": "zh",
-        "title": "Xingchen Bian"
-      },
-      {
         "type": 4,
         "language": "zh",
         "title": "星辰变"
@@ -427060,6 +427100,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Stellar Transformation 6th Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Stellar Transformation Season 6"
       },
       {
@@ -427068,7 +427113,7 @@
         "title": "Xing Chen Bian 6"
       },
       {
-        "type": 1,
+        "type": 2,
         "language": "x-zht",
         "title": "Xing Chen Bian Di Liu Ji"
       },
@@ -427076,6 +427121,11 @@
         "type": 2,
         "language": "x-zht",
         "title": "Xingchen Bian 6th Season"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xingchen Bian Di Liu Ji"
       },
       {
         "type": 4,
@@ -427110,6 +427160,11 @@
       {
         "type": 2,
         "language": "en",
+        "title": "Stellar Transformation Final Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
         "title": "Stellar Transformation Season 7"
       },
       {
@@ -427123,7 +427178,7 @@
         "title": "Xing Chen Bian 7th Season"
       },
       {
-        "type": 1,
+        "type": 2,
         "language": "x-zht",
         "title": "Xing Chen Bian Di Qi Ji"
       },
@@ -427138,9 +427193,19 @@
         "title": "Xingchen Bian 7th Season"
       },
       {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xingchen Bian Di Qi Ji"
+      },
+      {
         "type": 2,
         "language": "x-zht",
         "title": "Xingchen Bian: Tianzun Zhi Zhan"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Xingchen Bian: Zuizhong Ji"
       },
       {
         "type": 2,
@@ -497990,7 +498055,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Oushun Jogakuen no Danyuu"
+        "title": "Oushun Jogakuin no Danyuu"
       },
       {
         "type": 4,
@@ -555333,14 +555398,14 @@
         "title": "Stellar Transformation Season 4"
       },
       {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Xing Chen Bian (2022)"
-      },
-      {
         "type": 2,
         "language": "en",
         "title": "Xing Chen Bian Season 4"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xingchen Bian (2022)"
       },
       {
         "type": 2,
@@ -555370,7 +555435,7 @@
       {
         "type": 1,
         "language": "x-zht",
-        "title": "Xing Chen Bian Di Wu Ji"
+        "title": "Xingchen Bian Di Wu Ji"
       },
       {
         "type": 2,
