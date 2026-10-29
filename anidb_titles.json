@@ -36610,6 +36610,21 @@
     ]
   },
   {
+    "id": 16668,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "A-Shuai Di 2 Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "阿衰 第2季"
+      }
+    ]
+  },
+  {
     "id": 16669,
     "titles": [
       {
@@ -36651,21 +36666,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "阿衰 第5季"
-      }
-    ]
-  },
-  {
-    "id": 16668,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "A-Shuai Di Er Ji"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "阿衰 第二季"
       }
     ]
   },
@@ -125101,6 +125101,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "冰火魔厨 第二季"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "冰火魔厨2"
       }
     ]
   },
@@ -157475,21 +157480,6 @@
     ]
   },
   {
-    "id": 20003,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Cardfight!! Vanguard (2027)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "カードファイト!! ヴァンガード (2027)"
-      }
-    ]
-  },
-  {
     "id": 8974,
     "titles": [
       {
@@ -157956,6 +157946,21 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "卡片戰鬥!! 先導者 OverDress 第二季"
+      }
+    ]
+  },
+  {
+    "id": 20003,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Cardfight!! Vanguard: Veil Lift"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "カードファイト!! ヴァンガード  ベールリフト"
       }
     ]
   },
@@ -422000,6 +422005,21 @@
     ]
   },
   {
+    "id": 20507,
+    "titles": [
+      {
+        "type": 4,
+        "language": "fr",
+        "title": "La tortue rouge"
+      },
+      {
+        "type": 1,
+        "language": "en",
+        "title": "The red turtle"
+      }
+    ]
+  },
+  {
     "id": 13439,
     "titles": [
       {
@@ -498281,6 +498301,26 @@
         "type": 2,
         "language": "ko",
         "title": "더럽혀진 그녀"
+      }
+    ]
+  },
+  {
+    "id": 20506,
+    "titles": [
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "OVA さくら裂ク 散ル花びら"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sakura Saku Chiru Hanabira"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "さくら裂ク 散ル花びら"
       }
     ]
   },
