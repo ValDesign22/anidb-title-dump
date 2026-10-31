@@ -267930,6 +267930,66 @@
     ]
   },
   {
+    "id": 19730,
+    "titles": [
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Falha no Medidor do Amor da Marika"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Marika-chan no Koukando wa Bukkowarete Iru"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Marika-chan no Koukando wa Bukkowareteiru"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Marika`s Love Meter Malfunction"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "marikowa"
+      },
+      {
+        "type": 2,
+        "language": "pt",
+        "title": "O Medidor do Amor da Marika Apresenta Falhas"
+      },
+      {
+        "type": 2,
+        "language": "pt-BR",
+        "title": "O Medidor do Amor da Marika Apresenta Falhas"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Уровень симпатии Марики ненормально высокий"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "茉莉花ちゃんの好感度はぶっ壊れている"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "茉莉花同學的好感度壞得很徹底"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "茉莉花酱的好感度正在崩坏"
+      }
+    ]
+  },
+  {
     "id": 8230,
     "titles": [
       {
@@ -451626,51 +451686,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "玛丽与伽利 ver 2.0"
-      }
-    ]
-  },
-  {
-    "id": 19730,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Marika-chan no Koukando wa Bukkowarete Iru"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Marika-chan no Koukando wa Bukkowareteiru"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Marika`s Love Meter Malfunction"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "marikowa"
-      },
-      {
-        "type": 2,
-        "language": "ru",
-        "title": "Уровень симпатии Марики ненормально высокий"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "茉莉花ちゃんの好感度はぶっ壊れている"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "茉莉花同學的好感度壞得很徹底"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "茉莉花酱的好感度正在崩坏"
       }
     ]
   },
