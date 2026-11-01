@@ -75160,21 +75160,6 @@
     ]
   },
   {
-    "id": 18429,
-    "titles": [
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "Ao no Exorcist: Kuro no Iede"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Blue Exorcist: Runaway Kuro"
-      }
-    ]
-  },
-  {
     "id": 18278,
     "titles": [
       {
@@ -118888,11 +118873,6 @@
         "title": "Tensei Shitara Slime Datta Ken: Coleus no Yume"
       },
       {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Tensei Shitara Slime Datta Ken: Corius no Yume"
-      },
-      {
         "type": 3,
         "language": "x-jat",
         "title": "TenSura ona"
@@ -153046,6 +153026,11 @@
         "type": 4,
         "language": "pl",
         "title": "Zew nocy Sezon 2"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Песнь ночных сов 2"
       },
       {
         "type": 4,
@@ -257060,21 +257045,6 @@
     ]
   },
   {
-    "id": 18239,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "エルフェンリート 通り雨にて 或いは、少女はいかにしてその心情に至ったか?（REGENSCHAUER）"
-      }
-    ]
-  },
-  {
     "id": 1340,
     "titles": [
       {
@@ -347330,6 +347300,26 @@
     ]
   },
   {
+    "id": 20510,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hiiragi-san Chi no Kyuuketsu Jijou"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Hiragi-san`s House of Vampires"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "柊さんちの吸血事情"
+      }
+    ]
+  },
+  {
     "id": 9284,
     "titles": [
       {
@@ -370085,6 +370075,21 @@
     ]
   },
   {
+    "id": 20508,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Inaka no Hitozuma-tachi The Animation"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "田舎の人妻たち THE ANIMATION"
+      }
+    ]
+  },
+  {
     "id": 9536,
     "titles": [
       {
@@ -375746,6 +375751,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Isshiki-san wa Koi o Shiritai."
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Isshiki-san Wants to Know About Love"
       },
       {
         "type": 4,
@@ -386470,6 +386480,11 @@
       {
         "type": 4,
         "language": "zh-Hans",
+        "title": "魔法使的新娘 等待繁星之人"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
         "title": "魔法使的新娘 等待繁星之人"
       }
     ]
@@ -414396,21 +414411,6 @@
         "type": 4,
         "language": "ja",
         "title": "攻殻機動隊 (新作アニメーション)"
-      }
-    ]
-  },
-  {
-    "id": 18316,
-    "titles": [
-      {
-        "type": 1,
-        "language": "en",
-        "title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Section 9 Science File: Tachikoma na Hibi"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Section 9 Science File: Tachikoma na Hibi"
       }
     ]
   },
@@ -449425,6 +449425,21 @@
     ]
   },
   {
+    "id": 20509,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mama Bokkui"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ママぼっくい"
+      }
+    ]
+  },
+  {
     "id": 13887,
     "titles": [
       {
@@ -452101,6 +452116,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Marronnier Oukoku no Shichinin no Kishi"
+      },
+      {
+        "type": 4,
+        "language": "cs",
+        "title": "Sedmero rytířů Království Marronnier"
       },
       {
         "type": 2,
@@ -462356,6 +462376,11 @@
         "type": 4,
         "language": "ja",
         "title": "みなみけ"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "南家三姊妹"
       },
       {
         "type": 2,
@@ -524481,6 +524506,26 @@
         "type": 4,
         "language": "ja",
         "title": "ロマンチカ クロック"
+      }
+    ]
+  },
+  {
+    "id": 20511,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Romelia Senki (2027)"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Romelia War Chronicle (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ロメリア戦記 (2027)"
       }
     ]
   },
