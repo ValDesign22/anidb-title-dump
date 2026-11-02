@@ -184106,6 +184106,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "大剑"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "獵魔戰記"
       }
     ]
   },
@@ -207698,7 +207703,7 @@
         "title": "Dark Summoner to Dekite Iru"
       },
       {
-        "type": 2,
+        "type": 4,
         "language": "en",
         "title": "I`m Dating a Dark Summoner"
       },
@@ -382631,6 +382636,11 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "军火女王2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "軍火女王 PERFECT ORDER"
       }
     ]
   },
@@ -589576,6 +589586,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "中国奇谭2"
+      }
+    ]
+  },
+  {
+    "id": 20512,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yappari Umi ga Suki"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "やっぱり海が好き"
       }
     ]
   },
