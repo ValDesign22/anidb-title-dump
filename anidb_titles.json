@@ -135405,6 +135405,26 @@
     ]
   },
   {
+    "id": 20513,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Bocchi the Rock! the Movie: Footprints of the Stars"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Eiga Bocchi the Rock! Hoshi no Ashiato"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "映画ぼっち・ざ・ろっく! 星のあしあと"
+      }
+    ]
+  },
+  {
     "id": 7443,
     "titles": [
       {
@@ -171525,7 +171545,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life o Ouka Suru. Ore wa Buki dake Janaku,  Arayuru Mono ni \"Kyouka Point\" o Fuyo Dekirushi, Ore no Ishi de Itsu demo Kouka o Kaijo Dekiru Kedo, Nokotta Hitotachi Daijoubu?"
+        "title": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life o Ouka Suru. Ore wa Buki dake Janaku, Arayuru Mono ni \"Kyouka Point\" o Fuyo Dekirushi, Ore no Ishi de Itsu demo Kouka o Kaijo Dekiru Kedo, Nokotta Hitotachi Daijoubu?"
       },
       {
         "type": 3,
@@ -212009,6 +212029,11 @@
     "titles": [
       {
         "type": 4,
+        "language": "pt-BR",
+        "title": "De Caipira a Mestre Espadachim 2"
+      },
+      {
+        "type": 4,
         "language": "es",
         "title": "De campesino cuarentón a espadachín legendario II"
       },
@@ -214306,6 +214331,41 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "防御全开"
+      }
+    ]
+  },
+  {
+    "id": 19298,
+    "titles": [
+      {
+        "type": 4,
+        "language": "pt-BR",
+        "title": "Defesa Territorial Descomplicada pelo Lorde Otimista: Magia de Produção Transforma uma Vila Sem Nome na Cidade Fortificada Mais Forte"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisan-kei Majutsu de Namonaki Mura o Saikyou no Jousai Toshi ni"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "お気楽領主の楽しい領地防衛~生産系魔術で名もなき村を最強の城塞都市に~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "安逸領主的愉快領地防衛～用生產系魔術將無名村改造成最強要塞都市～"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "安逸领主的愉快领地防卫～以生产系魔术将无名小村打造成最强要塞都市～"
       }
     ]
   },
@@ -245293,6 +245353,11 @@
         "title": "KanoKari"
       },
       {
+        "type": 4,
+        "language": "pt-BR",
+        "title": "Namorada de Aluguel"
+      },
+      {
         "type": 2,
         "language": "es",
         "title": "Novia De Alquiler"
@@ -245364,6 +245429,11 @@
       },
       {
         "type": 4,
+        "language": "pt-BR",
+        "title": "Namorada de Aluguel 2"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Rent-a-Girlfriend (2022)"
       },
@@ -245419,6 +245489,11 @@
       },
       {
         "type": 4,
+        "language": "pt-BR",
+        "title": "Namorada de Aluguel 3"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Rent-a-Girlfriend (2023)"
       },
@@ -245469,6 +245544,11 @@
       },
       {
         "type": 4,
+        "language": "pt-BR",
+        "title": "Namorada de Aluguel 4"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Rent-a-Girlfriend (2025)"
       },
@@ -245511,6 +245591,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "KanoKari 5"
+      },
+      {
+        "type": 4,
+        "language": "pt-BR",
+        "title": "Namorada de Aluguel 5"
       },
       {
         "type": 4,
@@ -246741,36 +246826,6 @@
         "type": 4,
         "language": "ja",
         "title": "じょしラク!"
-      }
-    ]
-  },
-  {
-    "id": 19298,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisan-kei Majutsu de Namonaki Mura o Saikyou no Jousai Toshi ni"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "お気楽領主の楽しい領地防衛~生産系魔術で名もなき村を最強の城塞都市に~"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "安逸領主的愉快領地防衛～用生產系魔術將無名村改造成最強要塞都市～"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "安逸领主的愉快领地防卫～以生产系魔术将无名小村打造成最强要塞都市～"
       }
     ]
   },
@@ -379095,6 +379150,26 @@
     ]
   },
   {
+    "id": 20514,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Jewel Catch! Teenieping"
+      },
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Jewel Star Catch! Tiniping"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "쥬얼스타 캐치! 티니핑"
+      }
+    ]
+  },
+  {
     "id": 6444,
     "titles": [
       {
@@ -393186,6 +393261,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "KanoKari 6"
+      },
+      {
+        "type": 4,
+        "language": "pt-BR",
+        "title": "Namorada de Aluguel 6"
       },
       {
         "type": 2,
@@ -419252,11 +419332,6 @@
   {
     "id": 19865,
     "titles": [
-      {
-        "type": 2,
-        "language": "ja",
-        "title": "Kyouran Reijou Nia Liston"
-      },
       {
         "type": 1,
         "language": "x-jat",
