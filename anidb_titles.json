@@ -60525,11 +60525,6 @@
       {
         "type": 2,
         "language": "x-jat",
-        "title": "Luminous Witches"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
         "title": "Ongakutai Witches"
       },
       {
@@ -282773,6 +282768,11 @@
         "title": "Full Clearing Another World Under a Goddess with Zero Believers"
       },
       {
+        "type": 2,
+        "language": "ja",
+        "title": "Shinja Zero"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku"
@@ -328992,6 +328992,11 @@
   {
     "id": 14535,
     "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Hachi-nan tte, Sore wa Nai deshou!"
+      },
       {
         "type": 2,
         "language": "x-jat",
@@ -401760,6 +401765,21 @@
     ]
   },
   {
+    "id": 20517,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kiiroi Kaiyou Kishoudai"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "黄色い海洋気象台"
+      }
+    ]
+  },
+  {
     "id": 12105,
     "titles": [
       {
@@ -436981,6 +437001,31 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "罗小黑战记 众生之门篇"
+      }
+    ]
+  },
+  {
+    "id": 20516,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Luo Xiaohei Zhanji (2026)"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Luo Xiaohei Zhanji: Xueqian Pian"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "罗小黑战记 (2026)"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "罗小黑战记 学前篇"
       }
     ]
   },
@@ -536253,6 +536298,11 @@
         "title": "sekamajo"
       },
       {
+        "type": 2,
+        "language": "ja",
+        "title": "Sekamajo"
+      },
+      {
         "type": 4,
         "language": "en",
         "title": "The World`s Strongest Witch"
@@ -541286,6 +541336,26 @@
         "type": 4,
         "language": "ja",
         "title": "しあわせってなあに"
+      }
+    ]
+  },
+  {
+    "id": 20515,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Shiba Inu Rooms"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shiba-tsuki Bukken"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "シバつき物件"
       }
     ]
   },
@@ -565916,6 +565986,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "铁旅！meet with 铁道少女"
+      }
+    ]
+  },
+  {
+    "id": 20518,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Teuligkeol Manhwadongsan"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "트릭컬 만화동산"
       }
     ]
   },
