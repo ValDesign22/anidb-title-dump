@@ -185480,7 +185480,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Code Geass: Hoshi Oi no Aspar"
+        "title": "Code Geass: Hoshi Oi no Aspal"
       },
       {
         "type": 2,
@@ -235936,6 +235936,21 @@
         "type": 4,
         "language": "ja",
         "title": "ドラミちゃん ミニドラSOS!!!"
+      }
+    ]
+  },
+  {
+    "id": 20520,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Doraon Yeongung Hong Gildong"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "돌아온 영웅 홍길동"
       }
     ]
   },
@@ -476925,6 +476940,21 @@
     ]
   },
   {
+    "id": 20519,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Nanjung Ilgi"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "난중일기"
+      }
+    ]
+  },
+  {
     "id": 224,
     "titles": [
       {
@@ -523868,6 +523898,11 @@
         "title": "Βολτάρ ο αήττητος"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "로보트 태권 V"
+      },
+      {
         "type": 4,
         "language": "ko",
         "title": "로보트 태권브이"
@@ -538225,6 +538260,21 @@
     ]
   },
   {
+    "id": 20522,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Seonhwagongjuwa Son Ogong"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "선화공주와 손오공"
+      }
+    ]
+  },
+  {
     "id": 12732,
     "titles": [
       {
@@ -550025,6 +550075,21 @@
     ]
   },
   {
+    "id": 20523,
+    "titles": [
+      {
+        "type": 2,
+        "language": "x-kot",
+        "title": "Son O-gong gwa Byeoldeul-ui Jeonjaeng"
+      },
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Son Ogong gwa Byeoldeul-ui Jeonjaeng"
+      }
+    ]
+  },
+  {
     "id": 10134,
     "titles": [
       {
@@ -552725,6 +552790,26 @@
     ]
   },
   {
+    "id": 20525,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Space Gandam V"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Space Gundam V"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "스페이스 간담 V"
+      }
+    ]
+  },
+  {
     "id": 17774,
     "titles": [
       {
@@ -553241,6 +553326,26 @@
         "type": 4,
         "language": "ja",
         "title": "スパイラル・オーヴァ"
+      }
+    ]
+  },
+  {
+    "id": 20521,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Spirit Circle"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Spirit Circle"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "スピリットサークル"
       }
     ]
   },
@@ -557381,6 +557486,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "超级恋人 第二季"
+      }
+    ]
+  },
+  {
+    "id": 20524,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Super Majingga 3"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "슈퍼 마징가 3"
       }
     ]
   },
@@ -578871,6 +578991,36 @@
         "type": 4,
         "language": "ko",
         "title": "우주전사 홍길동"
+      }
+    ]
+  },
+  {
+    "id": 20526,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Ujudaejang Aekkunun"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "우주대장 애꾸눈"
+      }
+    ]
+  },
+  {
+    "id": 20527,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Ujusonyeon Kaesi"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "우주소년 캐시"
       }
     ]
   },
