@@ -140870,6 +140870,26 @@
     ]
   },
   {
+    "id": 20528,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Booty Royale: Never Go Down Without a Fight!"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hagure Idol Jigoku Hen"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "はぐれアイドル地獄変"
+      }
+    ]
+  },
+  {
     "id": 5760,
     "titles": [
       {
@@ -152411,6 +152431,66 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "财神窦占龙"
+      }
+    ]
+  },
+  {
+    "id": 20529,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Caihong Huwei Dui"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Rainbow Crew"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "彩虹护卫队"
+      }
+    ]
+  },
+  {
+    "id": 20530,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Caihong Huwei Dui 2: Xing Bao Nengliang"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Rainbow Crew 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "彩虹护卫队2星宝能量"
+      }
+    ]
+  },
+  {
+    "id": 20531,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Caihong Huwei Dui 3: Shengxiao Xing Bao"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Rainbow Crew 3: Zodiac StarPets"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "彩虹护卫队3生肖星宝"
       }
     ]
   },
@@ -270011,6 +270091,11 @@
         "type": 4,
         "language": "ja",
         "title": "異世界のんびり農家2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "異世界悠閒農家 2"
       }
     ]
   },
@@ -344565,6 +344650,21 @@
     ]
   },
   {
+    "id": 20532,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Heukkkokdujanggun"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "흙꼭두장군"
+      }
+    ]
+  },
+  {
     "id": 13112,
     "titles": [
       {
@@ -406911,6 +407011,16 @@
         "type": 2,
         "language": "x-jat",
         "title": "Sono Kisekae Ningyou wa Koi o Suru 2"
+      },
+      {
+        "type": 4,
+        "language": "ru",
+        "title": "Любовь с иголочки (2025)"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Эта фарфоровая кукла влюбилась 2"
       },
       {
         "type": 4,
@@ -537491,6 +537601,11 @@
         "type": 2,
         "language": "en",
         "title": "The Thousand Noble Musketeers"
+      },
+      {
+        "type": 4,
+        "language": "ar",
+        "title": "الفرسان النبلاء"
       },
       {
         "type": 4,
