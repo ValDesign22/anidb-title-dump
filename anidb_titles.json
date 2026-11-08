@@ -78498,8 +78498,18 @@
         "title": "Diários de uma Apotecária (2026)"
       },
       {
+        "type": 4,
+        "language": "pt",
+        "title": "Diários de uma Apotecária (2026)"
+      },
+      {
         "type": 2,
         "language": "pt-BR",
+        "title": "Diários de uma Apotecária S3"
+      },
+      {
+        "type": 2,
+        "language": "pt",
         "title": "Diários de uma Apotecária S3"
       },
       {
@@ -218178,6 +218188,11 @@
         "title": "Demons` Crest"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Devils` Crest"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "デモンズ・クレスト"
@@ -224876,6 +224891,61 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "藥師少女的獨語 第二季"
+      }
+    ]
+  },
+  {
+    "id": 19671,
+    "titles": [
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Diários de uma Apotecária (2027)"
+      },
+      {
+        "type": 2,
+        "language": "x-unk",
+        "title": "Diários de uma Apotecária S4"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kusuriya no Hitorigoto (2027)"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Apothecary Diaries (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "薬屋のひとりごと (2027)"
+      }
+    ]
+  },
+  {
+    "id": 19670,
+    "titles": [
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Diários de uma Apotecária: O Filme - O Tesouro da Imperatriz Falecida"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Kusuriya no Hitorigoto: Bouhi no Hihou"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Apothecary Diaries the Movie: The Deceased Empress` Treasure"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版 薬屋のひとりごと 亡妃の秘宝"
       }
     ]
   },
@@ -271311,6 +271381,11 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "水果篮子(2019)"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "魔法水果籃 (2019)"
       }
     ]
   },
@@ -298281,26 +298356,6 @@
         "type": 2,
         "language": "ja",
         "title": "黒子のバスケ EXTRA GAME"
-      }
-    ]
-  },
-  {
-    "id": 19670,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Gekijouban Kusuriya no Hitorigoto: Bouhi no Hihou"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "The Apothecary Diaries the Movie: The Deceased Empress` Treasure"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "劇場版 薬屋のひとりごと 亡妃の秘宝"
       }
     ]
   },
@@ -418605,26 +418660,6 @@
     ]
   },
   {
-    "id": 19671,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Kusuriya no Hitorigoto (2027)"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "The Apothecary Diaries (2027)"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "薬屋のひとりごと (2027)"
-      }
-    ]
-  },
-  {
     "id": 154,
     "titles": [
       {
@@ -446754,6 +446789,11 @@
       },
       {
         "type": 4,
+        "language": "zh-Hant",
+        "title": "魔法科高中的劣等生 第三季"
+      },
+      {
+        "type": 4,
         "language": "ja",
         "title": "魔法科高校の劣等生 (2024)"
       },
@@ -446806,6 +446846,11 @@
         "type": 4,
         "language": "de",
         "title": "The Irregular at Magic High School: Reminiscence Arc"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "魔法科高中的劣等生 追憶篇"
       },
       {
         "type": 4,
@@ -501476,6 +501521,21 @@
         "type": 3,
         "language": "ja",
         "title": "パラライ"
+      }
+    ]
+  },
+  {
+    "id": 20534,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Paradox Live THE MOVIE"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Paradox Live the Movie"
       }
     ]
   },
@@ -566233,6 +566293,11 @@
         "title": "Teuligkeol Manhwadongsan"
       },
       {
+        "type": 2,
+        "language": "x-kot",
+        "title": "Teurigkeol Manhwadongsan"
+      },
+      {
         "type": 4,
         "language": "ko",
         "title": "트릭컬 만화동산"
@@ -570841,6 +570906,26 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "身為魔族的我 想向勇者小隊的可愛女孩告白"
+      }
+    ]
+  },
+  {
+    "id": 20533,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "There Was a Cute Girl in the Hero`s Party, So I Tried Confessing to Her 2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku Shite Mita. 2"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "勇者パーティーにかわいい子がいたので, 告白してみた. 2"
       }
     ]
   },
