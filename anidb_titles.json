@@ -302655,6 +302655,26 @@
     ]
   },
   {
+    "id": 20536,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Gekijouban Spy x Family"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Spy x Family the Movie"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "劇場版 SPY×FAMILY"
+      }
+    ]
+  },
+  {
     "id": 17785,
     "titles": [
       {
@@ -498550,26 +498570,6 @@
     ]
   },
   {
-    "id": 19514,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "OVA Sister Breeder"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "OVA シスターブリーダー"
-      },
-      {
-        "type": 2,
-        "language": "ko",
-        "title": "시스터 브리더"
-      }
-    ]
-  },
-  {
     "id": 19313,
     "titles": [
       {
@@ -498681,6 +498681,31 @@
         "type": 4,
         "language": "ja",
         "title": "さくら裂ク 散ル花びら"
+      }
+    ]
+  },
+  {
+    "id": 19514,
+    "titles": [
+      {
+        "type": 6,
+        "language": "ja",
+        "title": "OVA シスターブリーダー"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sister Breeder"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "시스터 브리더"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "シスターブリーダー"
       }
     ]
   },
@@ -554296,6 +554321,36 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "间谍过家家 第三季"
+      }
+    ]
+  },
+  {
+    "id": 20535,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Spy x Family (2027)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Spy x Family (2027)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Spy x Family S4"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Spy x Family Season 4"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "SPY×FAMILY (2027)"
       }
     ]
   },
