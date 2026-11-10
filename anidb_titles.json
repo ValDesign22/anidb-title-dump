@@ -174220,6 +174220,21 @@
     ]
   },
   {
+    "id": 20538,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Chiring Chiring Secret Jouju"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "치링치링 시크릿 쥬쥬"
+      }
+    ]
+  },
+  {
     "id": 15088,
     "titles": [
       {
@@ -351870,6 +351885,21 @@
     ]
   },
   {
+    "id": 20537,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hololive Alternative Dawn Blue"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ホロライブ・オルタナティブ DAWN BLUE"
+      }
+    ]
+  },
+  {
     "id": 2209,
     "titles": [
       {
@@ -430615,21 +430645,6 @@
       {
         "type": 4,
         "language": "zh-Hans",
-        "title": "两不疑 第二季"
-      }
-    ]
-  },
-  {
-    "id": 18025,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Liang Bu Yi Season 2"
-      },
-      {
-        "type": 4,
-        "language": "ja",
         "title": "两不疑 第二季"
       }
     ]
@@ -513293,6 +513308,11 @@
         "title": "PSYЯEN"
       },
       {
+        "type": 4,
+        "language": "hi",
+        "title": "साइरेन"
+      },
+      {
         "type": 2,
         "language": "ja",
         "title": "サイレン"
@@ -534176,6 +534196,51 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "仙迹寻踪"
+      }
+    ]
+  },
+  {
+    "id": 20540,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Secret Jouju: Byeol-ui Boseog"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "시크릿쥬쥬 별의 보석"
+      }
+    ]
+  },
+  {
+    "id": 20539,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Secret Jouju: Byeorui Yeosin"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "시크릿 쥬쥬 별의 여신"
+      }
+    ]
+  },
+  {
+    "id": 20541,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Secret Jouju: Magical Harmony"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "시크릿 쥬쥬: 마법의 하모니"
       }
     ]
   },
