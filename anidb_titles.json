@@ -50948,6 +50948,11 @@
     "id": 19306,
     "titles": [
       {
+        "type": 4,
+        "language": "en",
+        "title": "Aikatsu! x PriPara THE MOVIE  A Miraculous Meeting!"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Aikatsu! x PriPara the Movie: Deai no Kiseki!"
@@ -186466,6 +186471,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Gekijouban Project Sekai: Kowareta Sekai to Utaenai Miku"
+      },
+      {
+        "type": 4,
+        "language": "pt",
+        "title": "Palco Colorido! O Filme: Uma Miku Que Não Sabe Cantar"
       },
       {
         "type": 2,
@@ -359169,6 +359179,11 @@
       },
       {
         "type": 4,
+        "language": "hi",
+        "title": "आइसब्लेड जादूगर दुनिया पर राज करेगा"
+      },
+      {
+        "type": 4,
         "language": "zh-Hans",
         "title": "冰剑的魔术师将要统一世界"
       },
@@ -359201,6 +359216,11 @@
         "type": 4,
         "language": "en",
         "title": "The Iceblade Sorcerer Shall Rule the World II"
+      },
+      {
+        "type": 4,
+        "language": "hi",
+        "title": "आइसब्लेड जादूगर दुनिया पर राज करेगा 2"
       },
       {
         "type": 4,
@@ -418673,6 +418693,11 @@
         "title": "Kusunoki no Bannin"
       },
       {
+        "type": 4,
+        "language": "pt",
+        "title": "O Guardião da Árvore de Cânfora"
+      },
+      {
         "type": 2,
         "language": "en",
         "title": "The Camphorwood Custodian"
@@ -472675,6 +472700,26 @@
     ]
   },
   {
+    "id": 20543,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "My Death Flags Show No Sign of Ending"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Ore no Shibou Flag ga Todomaru Tokoro o Shiranai"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "俺の死亡フラグが留まるところを知らない"
+      }
+    ]
+  },
+  {
     "id": 13647,
     "titles": [
       {
@@ -474996,6 +475041,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Nagachichi Nagai-san The Animation"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "나가치치 나가이 씨 The Animation"
       },
       {
         "type": 4,
@@ -487476,6 +487526,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Nuki Nuki Zupposism"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "누키누키 푹 박는 주의"
       },
       {
         "type": 4,
@@ -534200,6 +534255,21 @@
     ]
   },
   {
+    "id": 20542,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Secret Jouju: Best Friends"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "시크릿 쥬쥬 베스트 프렌즈"
+      }
+    ]
+  },
+  {
     "id": 20540,
     "titles": [
       {
@@ -567570,6 +567640,26 @@
     ]
   },
   {
+    "id": 20544,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The Dragon Next Door"
+      },
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Yongisanda"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "용이산다"
+      }
+    ]
+  },
+  {
     "id": 7209,
     "titles": [
       {
@@ -596236,6 +596326,11 @@
         "type": 4,
         "language": "ja",
         "title": "ゾンビランドサガ ゆめぎんがパラダイス"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "佐賀偶像是傳奇 夢幻銀河樂園"
       }
     ]
   },
