@@ -193448,6 +193448,11 @@
         "title": "Crayon Shin-Chan Movie: Action Kamen vs Haigure Devil"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Crayon Shin-chan the Movie: Action Kamen VS Leotard Devil"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Crayon Shin-chan: Action Kamen vs Haigure Maou"
@@ -279991,21 +279996,6 @@
         "type": 2,
         "language": "zh-Hans",
         "title": "功夫四侠2"
-      }
-    ]
-  },
-  {
-    "id": 12940,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Four Youth"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "四式青春"
       }
     ]
   },
@@ -476876,6 +476866,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "七海的堤可"
+      }
+    ]
+  },
+  {
+    "id": 20545,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Nanatsu-ya: Shinobu and Her Jewelry Box"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Nanatsu-ya: Shinobu no Housekibako"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "七つ屋 志のぶの宝石匣"
       }
     ]
   },
