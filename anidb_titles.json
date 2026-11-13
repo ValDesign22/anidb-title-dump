@@ -65068,6 +65068,11 @@
         "title": "An Archdemon`s Dilemma: How to Love Your Elf Bride"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "How to Love Your Elf Bride"
+      },
+      {
         "type": 3,
         "language": "x-jat",
         "title": "Madome"
@@ -73911,6 +73916,11 @@
         "type": 2,
         "language": "en",
         "title": "Assassination Classroom the Movie: Our Time"
+      },
+      {
+        "type": 4,
+        "language": "es",
+        "title": "Assassination Classroom. La película: El tiempo que compartimos"
       },
       {
         "type": 1,
@@ -144711,21 +144721,6 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "無畏魔女"
-      }
-    ]
-  },
-  {
-    "id": 17130,
-    "titles": [
-      {
-        "type": 1,
-        "language": "en",
-        "title": "Brave Witches: Petersburg Grand Strategy"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "第501統合戦闘航空団 ブレイブウィッチーズ ペテルブルグ大戦略"
       }
     ]
   },
@@ -298749,6 +298744,11 @@
       },
       {
         "type": 4,
+        "language": "es",
+        "title": "Puella Magi Madoka Magica La película. La noche de Walpurgis: El ascenso"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Puella Magi Madoka Magica the Movie - Walpurgisnacht: Rising"
       },
@@ -435461,21 +435461,6 @@
         "type": 4,
         "language": "ja",
         "title": "ラブライブ! 蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party"
-      }
-    ]
-  },
-  {
-    "id": 20069,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Love Live! Hasunosora Jogakuin School Idol Club Bloom Garden Party"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party"
       }
     ]
   },
