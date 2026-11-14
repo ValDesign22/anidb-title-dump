@@ -375165,6 +375165,26 @@
     ]
   },
   {
+    "id": 20546,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Isekai Douraku ni Akitara"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Living It Up in Another World Until I Get Bored"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "異世界道楽に飽きたら"
+      }
+    ]
+  },
+  {
     "id": 12562,
     "titles": [
       {
@@ -495921,21 +495941,6 @@
         "type": 4,
         "language": "ja",
         "title": "オレカバトル"
-      }
-    ]
-  },
-  {
-    "id": 16247,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "oreneko"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "オレネコ"
       }
     ]
   },
