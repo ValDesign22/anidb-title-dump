@@ -327760,22 +327760,22 @@
       {
         "type": 2,
         "language": "en",
-        "title": "Gushing over Magical Girls 2"
+        "title": "Gushing over Magical Girls Season 2"
       },
       {
         "type": 2,
         "language": "en",
-        "title": "I Admire Magical Girls, and... 2"
+        "title": "I Admire Magical Girls, and... Season 2"
       },
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Mahou Shoujo ni Akogarete 2"
+        "title": "Mahou Shoujo ni Akogarete Season 2"
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "魔法少女にあこがれて 2"
+        "title": "魔法少女にあこがれて Season2"
       }
     ]
   },
@@ -487579,6 +487579,11 @@
       },
       {
         "type": 2,
+        "language": "ru",
+        "title": "Нукитаси"
+      },
+      {
+        "type": 2,
         "language": "ko",
         "title": "누키타시 THE ANIMATION"
       },
@@ -519556,6 +519561,26 @@
         "type": 3,
         "language": "x-jat",
         "title": "rezero4"
+      }
+    ]
+  },
+  {
+    "id": 20547,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Re:Zero - Starting Life in Another World 5th Season"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu 5th Season"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Re:ゼロから始める異世界生活 5th season"
       }
     ]
   },
@@ -587801,6 +587826,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "吴狄的足球"
+      }
+    ]
+  },
+  {
+    "id": 20548,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wu Dong Qiankun Di Qi Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "武动乾坤 第七季"
       }
     ]
   },
