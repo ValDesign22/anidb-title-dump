@@ -28931,6 +28931,11 @@
         "type": 4,
         "language": "ja",
         "title": "ブチ切れ令嬢は報復を誓いました. ~魔導書の力で祖国を叩き潰します~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "暴怒千金发誓复仇。 ～凭借魔导书之力打垮祖国～"
       }
     ]
   },
@@ -85176,6 +85181,11 @@
         "type": 4,
         "language": "ja",
         "title": "イジらないで, 長瀞さん 2nd Attack"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "不要欺負我，長瀞同學 2nd Attack"
       },
       {
         "type": 4,
@@ -273910,6 +273920,21 @@
     ]
   },
   {
+    "id": 20550,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Final Re:Quest The Movie"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ファイナルリクエスト劇場版"
+      }
+    ]
+  },
+  {
     "id": 1956,
     "titles": [
       {
@@ -359146,6 +359171,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Hyouken no Majutsushi ga Sekai o Suberu"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Hyouken no Majutsushi ga Sekai wo Suberu"
       },
       {
         "type": 4,
@@ -457310,6 +457340,21 @@
     ]
   },
   {
+    "id": 20551,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Meiji hen"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "京都アニメーション 30秒CM"
+      }
+    ]
+  },
+  {
     "id": 12461,
     "titles": [
       {
@@ -471886,6 +471931,11 @@
         "type": 3,
         "language": "x-jat",
         "title": "mushokutensei s3p1"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "无职转生～到了异世界就拿出真本事～ 第三季"
       },
       {
         "type": 4,
@@ -571091,6 +571141,21 @@
         "type": 4,
         "language": "ko",
         "title": "떳다 그녀!!"
+      }
+    ]
+  },
+  {
+    "id": 20549,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "There She Is!! Another Step"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "떳다 그녀!! another step"
       }
     ]
   },
