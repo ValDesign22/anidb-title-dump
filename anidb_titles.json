@@ -1994,6 +1994,11 @@
       },
       {
         "type": 2,
+        "language": "ru",
+        "title": "Может, я встречу тебя в подземелье?"
+      },
+      {
+        "type": 2,
         "language": "uk",
         "title": "Невже шукати дівчину в підземеллі - неправильно?"
       },
@@ -161458,6 +161463,16 @@
         "title": "Cat Tales"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Move! Cat Folktales"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Ugoku! Neko Mukashi Banashi"
+      },
+      {
         "type": 1,
         "language": "x-jat",
         "title": "Ugoku! Neko Mukashibanashi"
@@ -206108,6 +206123,11 @@
         "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV: Deep Chapter - Calamity Arc"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Может, я встречу тебя в подземелье? IV. Часть 2"
+      },
+      {
         "type": 4,
         "language": "th",
         "title": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน ภาคที่ 4 บทชั้นลึก ภาคภัยพิบัติ"
@@ -206198,6 +206218,11 @@
         "title": "Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Может, я встречу тебя в подземелье? Меч Оратории"
+      },
+      {
         "type": 4,
         "language": "ko",
         "title": "소드 오라토리아: 던전에서 만남을 추구하면 안 되는 걸까 외전"
@@ -206266,6 +206291,11 @@
         "type": 4,
         "language": "en",
         "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Может, я встречу тебя в подземелье? II"
       },
       {
         "type": 4,
@@ -206358,6 +206388,11 @@
         "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? III"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Может, я встречу тебя в подземелье? III"
+      },
+      {
         "type": 4,
         "language": "ar",
         "title": "هل من الخطأ الإيقاع بفتياتٍ في ديماس؟ III"
@@ -206428,6 +206463,11 @@
         "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV"
       },
       {
+        "type": 2,
+        "language": "ru",
+        "title": "Может, я встречу тебя в подземелье? IV"
+      },
+      {
         "type": 4,
         "language": "th",
         "title": "มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน ภาคที่ 4"
@@ -206484,6 +206524,11 @@
       },
       {
         "type": 2,
+        "language": "ru",
+        "title": "Может, я встречу тебя в подземелье? Стрела Ориона"
+      },
+      {
+        "type": 2,
         "language": "ko",
         "title": "극장판 던전에서 만남을 추구하면 안 되는 걸까? -오리온의 화살-"
       },
@@ -206531,6 +206576,11 @@
         "type": 2,
         "language": "en",
         "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? Is It Wrong to Try to Soak in a Hot Spring in a Dungeon?"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Может, я встречу тебя в подземелье? OVA"
       },
       {
         "type": 2,
@@ -206611,6 +206661,11 @@
         "type": 4,
         "language": "en",
         "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V"
+      },
+      {
+        "type": 2,
+        "language": "ru",
+        "title": "Может, я встречу тебя в подземелье? V"
       },
       {
         "type": 4,
@@ -224616,6 +224671,26 @@
         "type": 4,
         "language": "ja",
         "title": "北へ. ~Diamond Dust Drops~"
+      }
+    ]
+  },
+  {
+    "id": 20552,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Diamond no Kouzai"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The Days of Diamond"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ダイヤモンドの功罪"
       }
     ]
   },
@@ -350516,6 +350591,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Hitori Tsuma"
+      },
+      {
+        "type": 2,
+        "language": "ko",
+        "title": "외로운 아내"
       },
       {
         "type": 4,
@@ -498583,6 +498663,11 @@
         "title": "Oushun Jogakuin no Danyuu"
       },
       {
+        "type": 2,
+        "language": "ko",
+        "title": "오우슌 사립 여학교의 남배우"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "桜春女学院の男優"
@@ -587193,19 +587278,24 @@
     "id": 19640,
     "titles": [
       {
-        "type": 4,
-        "language": "ja",
-        "title": "WITCH WATCH 2"
-      },
-      {
         "type": 1,
         "language": "x-jat",
-        "title": "Witch Watch 2"
+        "title": "Witch Watch (2027)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "WITCH WATCH (2027)"
       },
       {
         "type": 2,
         "language": "en",
-        "title": "Witch Watch 2"
+        "title": "Witch Watch (2027)"
+      },
+      {
+        "type": 2,
+        "language": "ja",
+        "title": "ウィッチウォッチ 2"
       }
     ]
   },
