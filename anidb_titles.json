@@ -207918,6 +207918,11 @@
         "title": "ダークサモナーとデキている"
       },
       {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "与暗黑召唤师秘密恋爱中"
+      },
+      {
         "type": 2,
         "language": "zh-Hant",
         "title": "與暗黑召喚師秘密戀愛中"
@@ -392865,7 +392870,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Kanan-sama wa Akumade Choroi 2"
+        "title": "Kanan-sama wa Akumade Choroi 2 Easy"
       },
       {
         "type": 2,
@@ -392875,7 +392880,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "カナン様はあくまでチョロい 2"
+        "title": "カナン様はあくまでチョロい 2 EASY"
       }
     ]
   },
