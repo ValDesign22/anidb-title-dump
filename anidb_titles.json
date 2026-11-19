@@ -167750,6 +167750,21 @@
     ]
   },
   {
+    "id": 19664,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Chaoji Fei Xia: Wenhua Zhonghua"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "超级飞侠文化中华"
+      }
+    ]
+  },
+  {
     "id": 11080,
     "titles": [
       {
@@ -558445,21 +558460,6 @@
     ]
   },
   {
-    "id": 19664,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Super Wings: China Culture"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "超级飞侠文化中华"
-      }
-    ]
-  },
-  {
     "id": 3547,
     "titles": [
       {
@@ -594775,7 +594775,7 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Yuu-san chi! from Yuu-hachi"
+        "title": "Yuu-san Chi! from Yuu-hachi"
       },
       {
         "type": 2,
@@ -594790,7 +594790,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "ゆうさんち！from 遊ハち"
+        "title": "ゆうさんち! from 遊ハち"
       }
     ]
   },
