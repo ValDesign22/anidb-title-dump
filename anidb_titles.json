@@ -279285,7 +279285,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "紫禁・御猫房〜紫禁城猫警備室〜"
+        "title": "紫禁・御猫房 ~紫禁城猫警備室~"
       },
       {
         "type": 4,
@@ -362525,6 +362525,36 @@
     ]
   },
   {
+    "id": 20553,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "I`m the Stepmother, but My Daughter Is Too Cute"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mamahaha Dakedo Musume ga Kawai Sugiru"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Not-Sew-Wicked Stepmom"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "계모인데 딸이 너무 귀여워"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "継母だけど娘が可愛すぎる"
+      }
+    ]
+  },
+  {
     "id": 15201,
     "titles": [
       {
@@ -393867,6 +393897,11 @@
   {
     "id": 18940,
     "titles": [
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru"
+      },
       {
         "type": 2,
         "language": "x-jat",
