@@ -108995,6 +108995,26 @@
     ]
   },
   {
+    "id": 20556,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Bang Dream! Yumemita (New Animation)"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Bang Dream! Yumemita (Shinsaku Animation)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "BanG Dream! ゆめ∞みた (新作アニメーション)"
+      }
+    ]
+  },
+  {
     "id": 12628,
     "titles": [
       {
@@ -218299,8 +218319,18 @@
       },
       {
         "type": 2,
+        "language": "x-jat",
+        "title": "Demonzu Kuresto"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "Devils` Crest"
+      },
+      {
+        "type": 4,
+        "language": "pl",
+        "title": "Diabelska pieczęć"
       },
       {
         "type": 4,
@@ -244496,6 +244526,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "决斗大师 KING！"
+      }
+    ]
+  },
+  {
+    "id": 20557,
+    "titles": [
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "Duel Masters LOST ~失楽の訣闘~"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Duel Masters Lost: Shitsuraku no Duel"
       }
     ]
   },
@@ -381180,6 +381225,21 @@
     ]
   },
   {
+    "id": 20554,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Jimoto no Ijimekko-tachi ni Shikaeshi Shiyou to Shitara, Betsu no Tatakai ga Hajimatta."
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "地元のいじめっ子達に仕返ししようとしたら, 別の戦いが始まった."
+      }
+    ]
+  },
+  {
     "id": 20114,
     "titles": [
       {
@@ -415061,6 +415121,21 @@
         "type": 4,
         "language": "ja",
         "title": "かうもり"
+      }
+    ]
+  },
+  {
+    "id": 20555,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru Ichiban Sukebe na Etou-san"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "校内で一番可愛いくて一番おっぱいがデカくて一番オカズにされてる一番スケベな江藤さん"
       }
     ]
   },
