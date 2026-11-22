@@ -119564,6 +119564,11 @@
       },
       {
         "type": 2,
+        "language": "x-unk",
+        "title": "https://www.imdb.com/title/tt35634364/?ref_=fn_t_1"
+      },
+      {
+        "type": 2,
         "language": "x-zht",
         "title": "Lu Lan Beryl and Sapphire"
       },
@@ -285413,6 +285418,11 @@
         "title": "Futari no Yume Mochi"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "When Two Dreams Connect"
+      },
+      {
         "type": 4,
         "language": "ja",
         "title": "ふたりの夢もち"
@@ -442521,6 +442531,11 @@
         "type": 1,
         "language": "x-jat",
         "title": "Magic Maker: Isekai Mahou no Tsukurikata"
+      },
+      {
+        "type": 2,
+        "language": "pl",
+        "title": "Magic Maker: Jak tworzyć magię w innym świecie"
       },
       {
         "type": 4,
