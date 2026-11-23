@@ -55864,6 +55864,11 @@
       },
       {
         "type": 2,
+        "language": "pl",
+        "title": "Jestem złym władcą międzygalaktycznego imperium"
+      },
+      {
+        "type": 2,
         "language": "en",
         "title": "Ore Aku"
       },
@@ -81414,6 +81419,11 @@
       },
       {
         "type": 4,
+        "language": "es",
+        "title": "Princesa Arete"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Princess Arete"
       },
@@ -82181,6 +82191,26 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "绯弹的亚里亚AA"
+      }
+    ]
+  },
+  {
+    "id": 20559,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Aria the Scarlet Ammo Corto"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Hidan no Aria Corto"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "緋弾のアリアCorto"
       }
     ]
   },
@@ -184110,12 +184140,12 @@
       {
         "type": 1,
         "language": "x-jat",
-        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season"
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season: 2 Nensei Hen 1 Gakki \"Zenhan\""
       },
       {
         "type": 4,
         "language": "ja",
-        "title": "ようこそ実力至上主義の教室へ 5th Season"
+        "title": "ようこそ実力至上主義の教室へ 5th Season 2年生編2学期＜前半＞"
       }
     ]
   },
@@ -479768,6 +479798,11 @@
         "title": "Nezha: Mo Tong Nao Hai"
       },
       {
+        "type": 2,
+        "language": "en",
+        "title": "Nezha: The Demon Boy Churns the Sea"
+      },
+      {
         "type": 4,
         "language": "zh",
         "title": "哪吒之魔童闹海"
@@ -540555,6 +540590,31 @@
     ]
   },
   {
+    "id": 20562,
+    "titles": [
+      {
+        "type": 4,
+        "language": "x-zht",
+        "title": "Shang Shan"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shouzen"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "尚善"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "尚善"
+      }
+    ]
+  },
+  {
     "id": 20469,
     "titles": [
       {
@@ -542201,6 +542261,26 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "靠死亡遊戲混飯吃。"
+      }
+    ]
+  },
+  {
+    "id": 20558,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Shibou Yuugi de Meshi o Kuu. (Zokuhen)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Shiboyugi: Playing Death Games to Put Food on the Table (Sequel)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "死亡遊戯で飯を食う. (続編)"
       }
     ]
   },
@@ -551006,6 +551086,26 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "漂流少年"
+      }
+    ]
+  },
+  {
+    "id": 20560,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sono Mono. Nochi ni..."
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "The One. Later On..."
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "その者. のちに..."
       }
     ]
   },
@@ -589651,6 +589751,21 @@
         "type": 1,
         "language": "x-jat",
         "title": "Xpice"
+      }
+    ]
+  },
+  {
+    "id": 20561,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Xuanmei Ji"
+      },
+      {
+        "type": 4,
+        "language": "zh",
+        "title": "选美记"
       }
     ]
   },
