@@ -30345,6 +30345,31 @@
     ]
   },
   {
+    "id": 20563,
+    "titles": [
+      {
+        "type": 4,
+        "language": "en",
+        "title": "A New Way for Sanctification"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Hun Zai Mori, Duzi Chengxian"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Surviving the Apocalypse, Becoming an Immortal Alone"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "混在末日，独自成仙"
+      }
+    ]
+  },
+  {
     "id": 11577,
     "titles": [
       {
@@ -92434,6 +92459,11 @@
       },
       {
         "type": 4,
+        "language": "de",
+        "title": "Magical Girl Spec Ops Asuka"
+      },
+      {
+        "type": 4,
         "language": "en",
         "title": "Magical Girl Spec-Ops Asuka"
       },
@@ -112935,6 +112965,51 @@
     ]
   },
   {
+    "id": 20564,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Battle Through the Heavens Movie: Battle of the Two Emperors"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Battle Through the Heavens: Battle of the Two Emperors"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Battle Through the Heavens: The Battle of Two Emperors"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Dou Po Cangqiong Movie: Shuang Di Zhi Zhan"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Doupo Cangqiong Juchang Ban: Shuang Di Zhi Zhan"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Doupo Cangqiong Movie: Shuang Di Zhi Zhan"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "斗破苍穹 双帝之战"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "斗破苍穹剧场版 双帝之战"
+      }
+    ]
+  },
+  {
     "id": 16566,
     "titles": [
       {
@@ -121981,6 +122056,46 @@
         "type": 4,
         "language": "ja",
         "title": "破天荒遊戯"
+      }
+    ]
+  },
+  {
+    "id": 19569,
+    "titles": [
+      {
+        "type": 2,
+        "language": "pl",
+        "title": "Beztroska obrona włości optymistycznego lorda"
+      },
+      {
+        "type": 2,
+        "language": "pl",
+        "title": "Beztroska obrona włości optymistycznego lorda: Magia produkcji zmienia bezimienną wioskę w potężną twierdzę"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "The World`s Strongest Rearguard: Labyrinth Country`s Novice Seeker"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "世界最強の後衛 ~迷宮国の新人探索者~"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "世界最強後衛 ～迷宮國的新人探索者～"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "世界最强的后卫 ～迷宫国的新人探索者～"
       }
     ]
   },
@@ -195100,7 +195215,7 @@
       {
         "type": 4,
         "language": "ja",
-        "title": "くりぃむレモン レモンエンジェル"
+        "title": "くりいむレモン レモンエンジェル"
       },
       {
         "type": 2,
@@ -453245,6 +453360,51 @@
     ]
   },
   {
+    "id": 20548,
+    "titles": [
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Martial Universe 7"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Martial Universe 7th Season"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Martial Universe S7"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Wu Dong Qian Kun 7th Season"
+      },
+      {
+        "type": 2,
+        "language": "x-zht",
+        "title": "Wu Dong Qiankun 7"
+      },
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Wu Dong Qiankun Di Qi Ji"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "武动乾坤 第7季"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "武动乾坤 第七季"
+      }
+    ]
+  },
+  {
     "id": 15302,
     "titles": [
       {
@@ -519896,6 +520056,11 @@
         "type": 4,
         "language": "ja",
         "title": "Re:ゼロから始める異世界生活 5th season"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "rezero5"
       }
     ]
   },
@@ -536956,36 +537121,6 @@
         "type": 4,
         "language": "ja",
         "title": "世界最高の暗殺者, 異世界貴族に転生する (2027)"
-      }
-    ]
-  },
-  {
-    "id": 19569,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "The World`s Strongest Rearguard: Labyrinth Country`s Novice Seeker"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "世界最強の後衛 ~迷宮国の新人探索者~"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "世界最強後衛 ～迷宮國的新人探索者～"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "世界最强的后卫 ～迷宫国的新人探索者～"
       }
     ]
   },
@@ -588211,21 +588346,6 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "吴狄的足球"
-      }
-    ]
-  },
-  {
-    "id": 20548,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-zht",
-        "title": "Wu Dong Qiankun Di Qi Ji"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "武动乾坤 第七季"
       }
     ]
   },
