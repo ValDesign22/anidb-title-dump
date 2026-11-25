@@ -187204,6 +187204,11 @@
       },
       {
         "type": 2,
+        "language": "x-jat",
+        "title": "Sentouin, Hakenshimasu!"
+      },
+      {
+        "type": 2,
         "language": "uk",
         "title": "Бійці будуть відправлені!"
       },
@@ -306640,6 +306645,21 @@
     ]
   },
   {
+    "id": 20565,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-kot",
+        "title": "Geumgangsan Palseonnyeo"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "금강산 팔선녀"
+      }
+    ]
+  },
+  {
     "id": 4909,
     "titles": [
       {
@@ -416355,7 +416375,7 @@
       {
         "type": 2,
         "language": "pl",
-        "title": "Kroniki Duszy"
+        "title": "Kroniki duszy"
       },
       {
         "type": 3,
@@ -416416,6 +416436,101 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "精靈幻想記"
+      }
+    ]
+  },
+  {
+    "id": 16962,
+    "titles": [
+      {
+        "type": 2,
+        "language": "pl",
+        "title": "Kroniki duszy 2"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "seigen s2"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Seirei Gensouki 2"
+      },
+      {
+        "type": 2,
+        "language": "x-jat",
+        "title": "Seirei Gensouki S2"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Seirei Gensouki: Spirit Chronicles 2"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Seirei Gensouki: Spirit Chronicles 2"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Seirei Gensouki: Spirit Chronicles Season 2"
+      },
+      {
+        "type": 4,
+        "language": "ar",
+        "title": "سجلات الروح 2"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "정령환상기 2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "精灵幻想记 2"
+      },
+      {
+        "type": 2,
+        "language": "zh-Hans",
+        "title": "精灵幻想记 第二季"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "精霊幻想記2"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "精靈幻想記 2"
+      }
+    ]
+  },
+  {
+    "id": 20432,
+    "titles": [
+      {
+        "type": 2,
+        "language": "pl",
+        "title": "Kroniki duszy 3"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Seirei Gensouki 3"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Seirei Gensouki: Spirit Chronicles 3"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "精霊幻想記3"
       }
     ]
   },
@@ -535300,71 +535415,6 @@
     ]
   },
   {
-    "id": 16962,
-    "titles": [
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "seigen s2"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Seirei Gensouki 2"
-      },
-      {
-        "type": 2,
-        "language": "x-jat",
-        "title": "Seirei Gensouki S2"
-      },
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Seirei Gensouki: Spirit Chronicles 2"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "Seirei Gensouki: Spirit Chronicles 2"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Seirei Gensouki: Spirit Chronicles Season 2"
-      },
-      {
-        "type": 4,
-        "language": "ar",
-        "title": "سجلات الروح 2"
-      },
-      {
-        "type": 4,
-        "language": "ko",
-        "title": "정령환상기 2"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "精灵幻想记 2"
-      },
-      {
-        "type": 2,
-        "language": "zh-Hans",
-        "title": "精灵幻想记 第二季"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "精霊幻想記2"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "精靈幻想記 2"
-      }
-    ]
-  },
-  {
     "id": 19010,
     "titles": [
       {
@@ -535701,26 +535751,6 @@
         "type": 4,
         "language": "zh-Hant",
         "title": "聲優廣播的幕前幕後"
-      }
-    ]
-  },
-  {
-    "id": 20432,
-    "titles": [
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Seirei Gensouki 3"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "Seirei Gensouki: Spirit Chronicles 3"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "精霊幻想記3"
       }
     ]
   },
