@@ -65850,6 +65850,66 @@
     ]
   },
   {
+    "id": 19308,
+    "titles": [
+      {
+        "type": 4,
+        "language": "it",
+        "title": "Anche il consiglio studentesco cade in fallo!"
+      },
+      {
+        "type": 4,
+        "language": "en",
+        "title": "Even the Student Council Has Its Holes"
+      },
+      {
+        "type": 4,
+        "language": "de",
+        "title": "Even the Student Council Has Its Holes"
+      },
+      {
+        "type": 3,
+        "language": "x-jat",
+        "title": "Nama-Anaru"
+      },
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Seitokai ni mo Ana wa Aru!"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "There Is Also a Hole in the Student Organization!"
+      },
+      {
+        "type": 4,
+        "language": "ko",
+        "title": "학생회에도 구멍은 있다!"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "学生会也有洞！"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hant",
+        "title": "學生會也有洞！"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "生徒会にも穴はある!"
+      },
+      {
+        "type": 3,
+        "language": "ja",
+        "title": "生穴る"
+      }
+    ]
+  },
+  {
     "id": 14430,
     "titles": [
       {
@@ -263965,56 +264025,6 @@
     ]
   },
   {
-    "id": 19308,
-    "titles": [
-      {
-        "type": 4,
-        "language": "en",
-        "title": "Even the Student Council Has Its Holes"
-      },
-      {
-        "type": 4,
-        "language": "de",
-        "title": "Even the Student Council Has Its Holes"
-      },
-      {
-        "type": 3,
-        "language": "x-jat",
-        "title": "Nama-Anaru"
-      },
-      {
-        "type": 1,
-        "language": "x-jat",
-        "title": "Seitokai ni mo Ana wa Aru!"
-      },
-      {
-        "type": 2,
-        "language": "en",
-        "title": "There Is Also a Hole in the Student Organization!"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hans",
-        "title": "学生会也有洞！"
-      },
-      {
-        "type": 4,
-        "language": "zh-Hant",
-        "title": "學生會也有洞！"
-      },
-      {
-        "type": 4,
-        "language": "ja",
-        "title": "生徒会にも穴はある!"
-      },
-      {
-        "type": 3,
-        "language": "ja",
-        "title": "生穴る"
-      }
-    ]
-  },
-  {
     "id": 19650,
     "titles": [
       {
@@ -284286,6 +284296,26 @@
         "type": 4,
         "language": "ja",
         "title": "紛争でしたら八田まで"
+      }
+    ]
+  },
+  {
+    "id": 20568,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Funtasic Precure!"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Funtasic Pretty Cure!"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "ファンたじっくプリキュア!"
       }
     ]
   },
@@ -323611,6 +323641,21 @@
         "type": 4,
         "language": "zh",
         "title": "桂宝之爆笑闯宇宙"
+      }
+    ]
+  },
+  {
+    "id": 20572,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Gui Jia Zhongkui"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "鬼甲钟馗"
       }
     ]
   },
@@ -375655,6 +375700,26 @@
     ]
   },
   {
+    "id": 20573,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Isekai Kuimetsu No Same"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Killer Shark in Another World"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "異世界喰滅のサメ"
+      }
+    ]
+  },
+  {
     "id": 18970,
     "titles": [
       {
@@ -381246,6 +381311,21 @@
         "type": 4,
         "language": "zh-Hans",
         "title": "界门之下"
+      }
+    ]
+  },
+  {
+    "id": 20571,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Jie Mingdeng"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "借命灯"
       }
     ]
   },
@@ -446981,6 +447061,26 @@
         "type": 4,
         "language": "ja",
         "title": "魔法使いの夜"
+      }
+    ]
+  },
+  {
+    "id": 20574,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-jat",
+        "title": "Mahou Tsukai no Yoru (Zokuhen)"
+      },
+      {
+        "type": 2,
+        "language": "en",
+        "title": "Witch on the Holy Night (Sequel)"
+      },
+      {
+        "type": 4,
+        "language": "ja",
+        "title": "魔法使いの夜 (続編)"
       }
     ]
   },
@@ -516195,6 +516295,21 @@
     ]
   },
   {
+    "id": 20569,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Qiongding Zhi Shang"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "穹顶之上"
+      }
+    ]
+  },
+  {
     "id": 19653,
     "titles": [
       {
@@ -572136,6 +572251,21 @@
         "type": 1,
         "language": "x-jat",
         "title": "Thunderbolt Fantasy: Seiyuu Genka"
+      }
+    ]
+  },
+  {
+    "id": 20570,
+    "titles": [
+      {
+        "type": 1,
+        "language": "x-zht",
+        "title": "Tian Qi Zhi Men"
+      },
+      {
+        "type": 4,
+        "language": "zh-Hans",
+        "title": "天启之门"
       }
     ]
   },
